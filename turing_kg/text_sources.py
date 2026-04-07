@@ -8,7 +8,7 @@ from pathlib import Path
 
 from .wikipedia_text import WikiChunk, fetch_turing_excerpts
 
-
+#解析文本开头的“元数据块”
 def parse_front_matter(raw: str) -> tuple[dict[str, str], str]:
     text = raw.lstrip()
     if not text.startswith("---"):
@@ -30,7 +30,7 @@ _ARTICLE_BOUNDARY = re.compile(
     r"(?m)^(https://\S+|三联生活周刊.*?$|Alan Turing\(|纽约时报中文网$|BBC news中文$)",
 )
 
-
+#从文本片段中推断 citation_key、URL 和标题
 def _infer_cite_url_title(chunk: str) -> tuple[str, str, str]:
     lines = [ln.strip() for ln in chunk.strip().splitlines() if ln.strip()]
     if not lines:
@@ -64,7 +64,7 @@ def _infer_cite_url_title(chunk: str) -> tuple[str, str, str]:
         return "bbc_cn_turing_banknote_2019", "https://www.bbc.com/zhongwen/simp", L0
     return "user_excerpt", "", L0[:120]
 
-
+#将单个文本片段切分为多个块，每个块包含一个 citation_key、URL 和标题
 def split_book_excerpt_monolith(raw: str) -> list[tuple[str, str, str, str]]:
     text = raw.strip()
     if not text:
@@ -95,7 +95,7 @@ def split_book_excerpt_monolith(raw: str) -> list[tuple[str, str, str, str]]:
         chunks.append((chunk, cite_key, url, title))
     return chunks
 
-
+#从 PDF 文件中提取文本块
 def chunks_from_pdf(project_root: Path) -> list[tuple[WikiChunk, str, str, str]]:
     cfg = project_root / "sources" / "pdf_sources.json"
     if not cfg.is_file():
@@ -134,7 +134,7 @@ def chunks_from_pdf(project_root: Path) -> list[tuple[WikiChunk, str, str, str]]
         )
     return out
 
-
+#从文章目录中提取文本块
 def chunks_from_article_dir(project_root: Path) -> list[tuple[WikiChunk, str, str, str]]:
     d = project_root / "raw" / "excerpts" / "articles"
     if not d.is_dir():
@@ -165,7 +165,7 @@ def chunks_from_article_dir(project_root: Path) -> list[tuple[WikiChunk, str, st
         )
     return out
 
-
+#收集所有文本块
 def collect_text_sources(project_root: Path) -> list[tuple[WikiChunk, str, str, str]]:
     """返回 (WikiChunk, provenance标签, citation_key, source_url)。"""
     out: list[tuple[WikiChunk, str, str, str]] = []

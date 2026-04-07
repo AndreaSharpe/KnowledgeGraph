@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""唯一入口：构建图灵知识图谱并导出到 data/。"""
+#构建图灵知识图谱并导出到 data。
 
 from __future__ import annotations
 

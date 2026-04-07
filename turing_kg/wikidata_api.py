@@ -10,7 +10,7 @@ from .config import USER_AGENT
 
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
 
-
+#获取Wikidata实体
 def wbgetentities(
     ids: list[str],
     *,
@@ -52,7 +52,7 @@ def wbgetentities(
         time.sleep(0.3)
     return merged
 
-
+#获取实体标签
 def pick_label(ent: dict[str, Any]) -> str:
     labels = ent.get("labels") or {}
     for lang in ("zh", "en"):
@@ -64,7 +64,7 @@ def pick_label(ent: dict[str, Any]) -> str:
             return str(cell["value"])
     return str(ent.get("id", ""))
 
-
+#格式化数据值为字符串
 def format_datavalue(dv: dict[str, Any]) -> str | None:
     t = dv.get("type")
     val = dv.get("value")
@@ -82,7 +82,7 @@ def format_datavalue(dv: dict[str, Any]) -> str | None:
             return f"{lat},{lon}"
     return None
 
-
+#加载p->q的边
 def iter_claim_item_edges(claims: dict[str, Any]) -> list[tuple[str, str]]:
     out: list[tuple[str, str]] = []
     for prop_id, statements in claims.items():
@@ -102,7 +102,7 @@ def iter_claim_item_edges(claims: dict[str, Any]) -> list[tuple[str, str]]:
                 out.append((prop_id, tid))
     return out
 
-
+#加载p->literal的边
 def iter_claim_literal_snippets(
     claims: dict[str, Any],
     *,
@@ -128,7 +128,7 @@ def iter_claim_literal_snippets(
                 out.append((prop_id, text))
     return out
 
-
+#加载根实体的邻域
 def load_root_neighborhood(root_qid: str) -> dict[str, Any]:
     base = wbgetentities([root_qid], props="labels|claims")
     root_ent = base.get(root_qid) or {}

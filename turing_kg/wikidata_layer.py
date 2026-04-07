@@ -10,7 +10,7 @@ from .wikidata_api import (
     pick_label,
 )
 
-
+#导入Wikidata数据包
 def ingest_wikidata_bundle(g: GraphBuild, bundle: dict) -> None:
     root_qid = bundle["root_qid"]
     entities = bundle["entities"]
@@ -41,7 +41,7 @@ def ingest_wikidata_bundle(g: GraphBuild, bundle: dict) -> None:
         g.ensure_node(target_q, tlabel or target_q)
         g.add_edge(root_qid, target_q, prop_id, plabel or prop_id, "OUT")
 
-
+#加载结构化图
 def load_structured_graph(root_qid: str = ROOT_ENTITY_QID) -> GraphBuild:
     g = GraphBuild()
     bundle = load_root_neighborhood(root_qid)

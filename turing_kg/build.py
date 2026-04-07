@@ -1,6 +1,4 @@
 """
-知识图谱构建（教科书式流水线）
-
 1. 结构化知识：Wikidata API（中心实体陈述）
 2. 文本采集：维基摘要、book_excerpt / articles、PDF 节选
 3. 信息抽取：spaCy NER → 实体链接（Wikidata 搜索 + 重排序）→ 写入图
