@@ -1,0 +1,14 @@
+{
+  "comment": "只抽取你有权用于课程分析的页码。修改后运行：python run.py",
+  "sources": [
+    {
+      "enabled": true,
+      "pdf_relative_path": "raw/艾伦·图灵传：如谜的解谜者.pdf",
+      "cite_key": "hodges2012",
+      "page_start": 1,
+      "page_end": 30,
+      "label": "霍奇斯《艾伦·图灵传：如谜的解谜者》PDF节选"
+    }
+  ]
+}
+ 

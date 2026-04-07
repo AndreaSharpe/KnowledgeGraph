@@ -1,0 +1,64 @@
+[
+  {
+    "key": "hodges2012",
+    "type": "book",
+    "title": "Alan Turing: The Enigma",
+    "title_zh": "艾伦·图灵传——如谜的解谜者",
+    "authors": ["Andrew Hodges"],
+    "year": 2012,
+    "publisher": "Princeton University Press",
+    "isbn": "978-0691155647",
+    "note": "常用传记；中文版书名见 title_zh。扫描版 PDF 需 OCR 或手工摘录后进 pipeline。报告引用按学校格式著录。"
+  },
+  {
+    "key": "copeland2004",
+    "type": "book",
+    "title": "The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma",
+    "authors": ["B. Jack Copeland"],
+    "year": 2004,
+    "publisher": "Oxford University Press",
+    "isbn": "978-0198250807",
+    "note": "文集与导读；适合引用原始论文与历史背景。"
+  },
+  {
+    "key": "zhihu_zhuanlan_turing_bio",
+    "type": "web_article",
+    "title": "艾伦·图灵：计算机科学与人工智能之父",
+    "url": "https://zhuanlan.zhihu.com/p/1904656475655213515",
+    "author_or_column": "Code 流苏",
+    "note": "你粘贴的知乎专栏；运行 pipeline 时用于 citation_key；请在报告中按网页引用日期补充。"
+  },
+  {
+    "key": "sanlian_lifeweek_turing_ai_father",
+    "type": "audio_or_article_series",
+    "title": "三联生活周刊 · 图灵 | 为何被称为「人工智能之父」？",
+    "author_or_column": "刘伟 / 三联中读",
+    "note": "粘贴节选对应的出处说明在正文首行；若学校要求写 URL，请补三联中读或周刊当期链接。"
+  },
+  {
+    "key": "wikipedia_zh_snippet_alan_turing",
+    "type": "encyclopedia_excerpt",
+    "title": "Alan Turing (中文摘录，来源于英文维基条目)",
+    "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "license_note": "CC BY-SA；摘录仅供课程分析与对齐，勿当作全书替代原始文献。"
+  },
+  {
+    "key": "nytcn_turing_morphogenesis_2018",
+    "type": "news_web",
+    "title": "「计算科学之父」图灵如何用数学破译自然界",
+    "authors": ["Joanna Klein"],
+    "publication": "纽约时报中文网",
+    "date": "2018-05-10",
+    "url": "https://cn.nytimes.com/",
+    "note": "请在 cn.nytimes.com 检索原文以填写完整文章 URL 与引用日期。"
+  },
+  {
+    "key": "bbc_cn_turing_banknote_2019",
+    "type": "news_web",
+    "title": "「人工智能之父」艾伦·图灵：英国50英镑上的新面孔",
+    "publication": "BBC News 中文",
+    "date": "2019-07-16",
+    "url": "https://www.bbc.com/zhongwen/simp",
+    "note": "请补具体报道的稳定链接与访问日期。"
+  }
+]

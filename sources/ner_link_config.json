@@ -1,0 +1,5 @@
+{
+  "root_anchors_zh": ["艾伦·图灵", "阿兰·图灵", "图灵", "艾伦·马蒂森·图灵", "艾伦·麦席森·图灵"],
+  "root_anchors_en": ["Alan Turing", "Alan Mathison Turing", "A. M. Turing", "Turing"],
+  "min_link_score": 0.14
+}
