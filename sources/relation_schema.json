@@ -1,0 +1,249 @@
+{
+  "version": "v1",
+  "phases": {
+    "A": "high_precision_core",
+    "B": "expanded_with_stronger_filters",
+    "C": "open_ie_candidates_not_ingested"
+  },
+  "relations": [
+    {
+      "prop_id": "P19",
+      "label": "place_of_birth",
+      "description": "出生地（人物 -> 地点）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["LOC", "GPE", "FAC"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["出生于", "生于"]
+    },
+    {
+      "prop_id": "P20",
+      "label": "place_of_death",
+      "description": "逝世地（人物 -> 地点）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["LOC", "GPE", "FAC"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["逝世于", "去世于", "死于"]
+    },
+    {
+      "prop_id": "P69",
+      "label": "educated_at",
+      "description": "毕业/就读院校（人物 -> 学校/机构）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["ORG", "FAC"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["毕业于", "就读于", "入学于", "在…学习"]
+    },
+    {
+      "prop_id": "P108",
+      "label": "employer",
+      "description": "雇主/工作单位（人物 -> 组织）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["ORG"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["任职于", "就职于", "在…工作", "加入"]
+    },
+    {
+      "prop_id": "P1416",
+      "label": "affiliation",
+      "description": "隶属机构/从属（人物 -> 组织）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["ORG"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["隶属于", "隶属", "所属"]
+    },
+    {
+      "prop_id": "P166",
+      "label": "award_received",
+      "description": "所获奖项（人物 -> 奖项）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["ORG", "WORK_OF_ART"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["获得", "获", "获奖", "被授予"]
+    },
+    {
+      "prop_id": "P27",
+      "label": "country_of_citizenship",
+      "description": "国籍（人物 -> 国家）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["GPE", "LOC"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["国籍", "公民", "属于…国"]
+    },
+    {
+      "prop_id": "P106",
+      "label": "occupation",
+      "description": "职业（人物 -> 职业/角色概念）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": [],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["是…", "担任", "职业是"]
+    },
+    {
+      "prop_id": "P551",
+      "label": "residence",
+      "description": "居住地（人物 -> 地点）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["LOC", "GPE", "FAC"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["居住于", "生活在", "定居于"]
+    },
+    {
+      "prop_id": "P800",
+      "label": "notable_work",
+      "description": "代表作（人物 -> 作品/论文/系统）",
+      "phase": "A",
+      "subject_types": ["Person"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["WORK_OF_ART", "ORG"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["代表作", "著作", "作品包括"]
+    },
+    {
+      "prop_id": "P279",
+      "label": "subclass_of",
+      "description": "上位概念/子类（概念 -> 概念）",
+      "phase": "A",
+      "subject_types": ["Concept"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": [],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["属于", "是一种", "可视为"]
+    },
+    {
+      "prop_id": "P361",
+      "label": "part_of",
+      "description": "所属整体/组成部分（概念/奖项 -> 更大整体/体系）",
+      "phase": "A",
+      "subject_types": ["Concept", "Award"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["ORG"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["属于", "隶属于", "是…的一部分"]
+    },
+    {
+      "prop_id": "P31",
+      "label": "instance_of",
+      "description": "实例类型（概念/奖项 -> 类型）",
+      "phase": "A",
+      "subject_types": ["Concept", "Award"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": [],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["是", "属于", "类型是"]
+    },
+    {
+      "prop_id": "P127",
+      "label": "owned_by",
+      "description": "拥有者（奖项 -> 组织）",
+      "phase": "A",
+      "subject_types": ["Award"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["ORG"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["由…拥有", "归…所有"]
+    },
+    {
+      "prop_id": "P137",
+      "label": "operator",
+      "description": "运营方/管理方（奖项 -> 组织）",
+      "phase": "A",
+      "subject_types": ["Award"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["ORG"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["由…运营", "由…管理", "由…主办"]
+    },
+    {
+      "prop_id": "P17",
+      "label": "country",
+      "description": "所属国家（奖项 -> 国家）",
+      "phase": "A",
+      "subject_types": ["Award"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["GPE", "LOC"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["国家", "位于…国"]
+    },
+    {
+      "prop_id": "P276",
+      "label": "location",
+      "description": "地点（奖项 -> 地点）",
+      "phase": "A",
+      "subject_types": ["Award"],
+      "direction": "OUT",
+      "object_constraints": {
+        "ner_allowed": ["LOC", "GPE", "FAC"],
+        "wikidata_instance_of_allow": [],
+        "wikidata_instance_of_deny": []
+      },
+      "aliases_zh": ["地点", "位于"]
+    }
+  ]
+}
+

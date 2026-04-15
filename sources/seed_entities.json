@@ -1,0 +1,32 @@
+{
+  "seeds": [
+    {
+      "seed_id": "turing_person",
+      "qid": "Q7251",
+      "type": "Person",
+      "anchors_zh": ["艾伦·图灵", "阿兰·图灵", "图灵"],
+      "anchors_en": ["Alan Turing", "Alan Mathison Turing", "A. M. Turing", "Turing"],
+      "triggers_zh": ["密码", "破译", "二战", "英国", "数学家", "计算机科学家"],
+      "triggers_en": ["codebreaker", "cryptanalysis", "mathematician", "computer scientist"]
+    },
+    {
+      "seed_id": "turing_machine",
+      "qid": "Q163310",
+      "type": "Concept",
+      "anchors_zh": ["图灵机"],
+      "anchors_en": ["Turing machine"],
+      "triggers_zh": ["可计算", "停机", "自动机", "算法", "形式语言", "计算模型"],
+      "triggers_en": ["computability", "halting", "automaton", "computation model"]
+    },
+    {
+      "seed_id": "turing_award",
+      "qid": "Q185667",
+      "type": "Award",
+      "anchors_zh": ["图灵奖"],
+      "anchors_en": ["Turing Award"],
+      "triggers_zh": ["得主", "获奖", "颁奖", "ACM", "奖项", "年度"],
+      "triggers_en": ["recipient", "award", "ACM"]
+    }
+  ]
+}
+

@@ -1,0 +1,8 @@
+{
+  "default_ner_backend": "spacy",
+  "crf_model_path": "models/crf_ner.pkl",
+  "per_source_overrides": {
+    "file:E:/WHU/KnowledgeGraph/raw/艾伦·图灵传：如谜的解谜者.pdf#pages=1-50": "crf"
+  }
+}
+

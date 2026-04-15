@@ -1,0 +1,4 @@
+{
+  "mode": "full",
+  "_comment": "full=完整跑文本+NER+链接；export_only=只读 data/nodes.csv、relationships.csv、triples_extracted.csv 再导出（含 MIL 合并）；from_curated=用已落盘的 sentences/routing/resolved 重放入图，不调用 NER/实体链接 API"
+}

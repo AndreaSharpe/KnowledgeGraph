@@ -1,0 +1,11 @@
+{
+  "collective": {
+    "enabled": true,
+    "window_sentences": 2,
+    "top_k_candidates": 6,
+    "lambda_coherence": 0.35,
+    "coherence_props": ["P31", "P279", "P361", "P17", "P276", "P1416", "P166"],
+    "max_entities_to_fetch": 120
+  }
+}
+

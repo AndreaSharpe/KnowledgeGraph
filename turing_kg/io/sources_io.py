@@ -6,7 +6,7 @@ import csv
 import json
 from pathlib import Path
 
-#加载别名表
+
 def load_entity_map(path: Path) -> dict[str, dict]:
     by_alias: dict[str, dict] = {}
     if not path.is_file():
@@ -23,7 +23,7 @@ def load_entity_map(path: Path) -> dict[str, dict]:
                 by_alias[alias.lower()] = rowd
     return by_alias
 
-#加载参考文献
+
 def load_bibliography(path: Path) -> dict[str, dict]:
     if not path.is_file():
         return {}

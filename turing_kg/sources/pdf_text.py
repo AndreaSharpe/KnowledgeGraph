@@ -15,7 +15,10 @@ def extract_pdf_pages(path: Path, page_start: int, page_end: int) -> str:
     b = int(page_end)
 
     def via_pypdf() -> str:
-        from pypdf import PdfReader
+        try:
+            from pypdf import PdfReader
+        except ImportError:
+            return ""
 
         reader = PdfReader(str(path))
         n = len(reader.pages)

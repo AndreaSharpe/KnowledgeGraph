@@ -2,7 +2,11 @@ __pycache__/
 *.pyc
 .env
 data/
+models/
+.cache/
+.pytest_cache/
 .venv/
 venv/
 raw/excerpts/*.txt
 !raw/excerpts/README.txt
+!raw/excerpts/articles/*.txt

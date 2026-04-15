@@ -4,7 +4,7 @@ from dataclasses import dataclass
 
 import requests
 
-from .config import USER_AGENT
+from ..config import USER_AGENT
 
 
 @dataclass(frozen=True)
@@ -51,3 +51,32 @@ def fetch_turing_excerpts() -> list[WikiChunk]:
         _fetch_extract("zh", "艾伦·图灵"),
         _fetch_extract("en", "Alan Turing"),
     ]
+
+
+def fetch_seed_excerpts(seeds: list[dict]) -> list[WikiChunk]:
+    """
+    通用多 seed 维基摘要抓取（复用 _fetch_extract）。
+
+    约定：
+    - 每个 seed 可提供 anchors_zh / anchors_en；本函数取第一个 anchor 作为维基条目标题尝试抓取。
+    - 若抓取失败则跳过（避免因为某个 seed 标题不匹配导致全局失败）。
+    """
+    out: list[WikiChunk] = []
+    for s in seeds or []:
+        az = list(s.get("anchors_zh", []) or [])
+        ae = list(s.get("anchors_en", []) or [])
+        if az:
+            title = str(az[0]).strip()
+            if title:
+                try:
+                    out.append(_fetch_extract("zh", title))
+                except Exception:
+                    pass
+        if ae:
+            title = str(ae[0]).strip()
+            if title:
+                try:
+                    out.append(_fetch_extract("en", title))
+                except Exception:
+                    pass
+    return out

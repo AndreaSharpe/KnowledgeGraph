@@ -4,12 +4,21 @@ from __future__ import annotations
 
 import os
 import re
+import sys
 from pathlib import Path
 
 from neo4j import GraphDatabase
 
-from .build import build_knowledge_graph, export_all
-from .graph_model import GraphBuild
+try:
+    # 作为包运行（推荐）：python -m turing_kg.neo4j_loader
+    from .build import build_knowledge_graph, export_all
+    from .graph_model import GraphBuild
+except ImportError:  # pragma: no cover
+    # 直接运行文件：python .\turing_kg\neo4j_loader.py
+    # 将仓库根目录加入 sys.path 以支持绝对导入
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+    from turing_kg.build import build_knowledge_graph, export_all  # type: ignore
+    from turing_kg.graph_model import GraphBuild  # type: ignore
 
 
 _REL_SAFE = re.compile(r"^(WIKI_P\d+|EXT_[A-Z0-9_]+)$")

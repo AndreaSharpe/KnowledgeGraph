@@ -1,0 +1,12 @@
+{
+  "top_k": 2,
+  "min_score": 0.25,
+  "window_sentences": 1,
+  "score_weights": {
+    "anchor_hit": 1.0,
+    "trigger_hit": 0.35,
+    "nearby_anchor_bonus": 0.15
+  },
+  "max_reasons_items": 8
+}
+

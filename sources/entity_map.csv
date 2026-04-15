@@ -14,9 +14,11 @@ King's College,Q2541958,Organization
 University of Cambridge,Q35794,Organization
 曼彻斯特大学,Q114103861,Organization
 University of Manchester,Q114103861,Organization
-图灵机,Q163310,Concept
 图灵测试,Q161404,Concept
 Turing test,Q161404,Concept
+图灵机,Q163310,Concept
 Turing machine,Q163310,Concept
 恩尼格玛密码机,Q165297,Concept
 Enigma machine,Q165297,Concept
+图灵奖, Q185667, Award
+Turing Award, Q185667, Award

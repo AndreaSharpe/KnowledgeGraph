@@ -6,8 +6,8 @@ import csv
 import json
 from pathlib import Path
 
-from .config import ROOT_ENTITY_QID
-from .graph_model import GraphBuild
+from ..config import ROOT_ENTITY_QID
+from ..graph_model import GraphBuild
 
 
 def write_graph_csv_json(
@@ -80,27 +80,56 @@ def write_graph_csv_json(
     )
 
 
+def read_triples_csv(path: Path) -> list[dict[str, str]]:
+    """读取与 write_triples_csv 兼容的三元组 CSV（无文件则返回 []）。"""
+    if not path.is_file():
+        return []
+    with path.open(encoding="utf-8", newline="") as f:
+        r = csv.DictReader(f)
+        return [dict(row) for row in r]
+
+
 def write_triples_csv(path: Path, rows: list[dict[str, str]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     if not rows:
         path.write_text(
-            "subject_qid,predicate,object_mention,object_qid,ner_label,link_score,citation_key,source_url,snippet\n",
+            "subject_qid,seed_id,seed_qid,sentence_idx,relevance_score,reasons,evidence_sentence,predicate,predicate_prop_id,object_mention,object_qid,object_is_literal,ner_label,link_score,citation_key,source_url,snippet,extraction_method\n",
             encoding="utf-8",
         )
         return
-    fieldnames = [
+    # 导出采用“固定优先字段 + 兼容扩展字段”的策略：
+    # - 新字段用于多 seed 归因与审计
+    # - 旧调用方若没提供这些字段也能正常写出（默认空值）
+    base = [
         "subject_qid",
+        "seed_id",
+        "seed_qid",
+        "sentence_idx",
+        "relevance_score",
+        "reasons",
+        "evidence_sentence",
         "predicate",
+        "predicate_prop_id",
         "object_mention",
         "object_qid",
+        "object_is_literal",
         "ner_label",
         "link_score",
         "citation_key",
         "source_url",
         "snippet",
+        "extraction_method",
     ]
+    extras: list[str] = []
+    seen = set(base)
+    for r in rows:
+        for k in r.keys():
+            if k not in seen:
+                extras.append(k)
+                seen.add(k)
+    fieldnames = base + extras
     with path.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
         w.writeheader()
         for row in rows:
-            w.writerow(row)
+            w.writerow({k: row.get(k, "") for k in fieldnames})
