@@ -20,50 +20,97 @@ def write_graph_csv_json(
     nodes_path = out_dir / "nodes.csv"
     rels_path = out_dir / "relationships.csv"
 
+    # --- nodes.csv: 固定字段 + 动态扩展字段 ---
+    base_node_fields = ["id:ID", "name", "extra", ":LABEL"]
+    node_extras: list[str] = []
+    seen_nf = set(["id", "name", "extra", "labels"])
+    for n in g.nodes.values():
+        for k in n.keys():
+            if k in seen_nf:
+                continue
+            if k not in node_extras:
+                node_extras.append(k)
+    node_fieldnames = base_node_fields + node_extras
+
     with nodes_path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["id:ID", "name", "extra", ":LABEL"])
+        w = csv.DictWriter(f, fieldnames=node_fieldnames)
         w.writeheader()
         for n in g.nodes.values():
+            labels = list(n.get("labels") or [])
+            if "Entity" not in labels:
+                labels = ["Entity"] + labels
+            label_cell = ";".join([x for x in labels if x]) or "Entity"
+            row = {
+                "id:ID": n["id"],
+                "name": n.get("name") or n["id"],
+                "extra": n.get("extra", ""),
+                ":LABEL": label_cell,
+            }
+            for k in node_extras:
+                v = n.get(k, "")
+                row[k] = v if not isinstance(v, (dict, list)) else json.dumps(v, ensure_ascii=False)[:2000]
             w.writerow(
-                {
-                    "id:ID": n["id"],
-                    "name": n["name"],
-                    "extra": n.get("extra", ""),
-                    ":LABEL": "Entity",
-                }
+                row
             )
 
+    # --- relationships.csv: 固定字段 + 动态扩展字段 ---
+    base_edge_fields = [
+        ":START_ID",
+        ":END_ID",
+        ":TYPE",
+        "prop_id",
+        "prop_label",
+        "direction",
+        "provenance",
+        "layer",
+        "citation_key",
+        "snippet",
+        "source_url",
+    ]
+    edge_extras: list[str] = []
+    seen_ek = {
+        "start_id",
+        "end_id",
+        "rel_type",
+        "prop_id",
+        "prop_label",
+        "direction",
+        "provenance",
+        "layer",
+        "citation_key",
+        "snippet",
+        "source_url",
+    }
+    for e in g.edges:
+        for k in e.keys():
+            if k in seen_ek:
+                continue
+            if k not in edge_extras:
+                edge_extras.append(k)
+    rel_fieldnames = base_edge_fields + edge_extras
+
     with rels_path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(
-            f,
-            fieldnames=[
-                ":START_ID",
-                ":END_ID",
-                ":TYPE",
-                "prop_id",
-                "prop_label",
-                "direction",
-                "provenance",
-                "citation_key",
-                "snippet",
-                "source_url",
-            ],
-        )
+        w = csv.DictWriter(f, fieldnames=rel_fieldnames)
         w.writeheader()
         for e in g.edges:
+            row = {
+                ":START_ID": e["start_id"],
+                ":END_ID": e["end_id"],
+                ":TYPE": e["rel_type"],
+                "prop_id": e["prop_id"],
+                "prop_label": e["prop_label"],
+                "direction": e["direction"],
+                "provenance": e.get("provenance", "wikidata"),
+                "layer": e.get("layer", "facts" if e.get("provenance") == "wikidata" else "evidence"),
+                "citation_key": e.get("citation_key", ""),
+                "snippet": (e.get("snippet") or "").replace("\n", " ")[:500],
+                "source_url": e.get("source_url", ""),
+            }
+            for k in edge_extras:
+                v = e.get(k, "")
+                row[k] = v if not isinstance(v, (dict, list)) else json.dumps(v, ensure_ascii=False)[:2000]
             w.writerow(
-                {
-                    ":START_ID": e["start_id"],
-                    ":END_ID": e["end_id"],
-                    ":TYPE": e["rel_type"],
-                    "prop_id": e["prop_id"],
-                    "prop_label": e["prop_label"],
-                    "direction": e["direction"],
-                    "provenance": e.get("provenance", "wikidata"),
-                    "citation_key": e.get("citation_key", ""),
-                    "snippet": (e.get("snippet") or "").replace("\n", " ")[:500],
-                    "source_url": e.get("source_url", ""),
-                }
+                row
             )
 
     summary = {

@@ -9,9 +9,9 @@ from typing import Any
 import torch
 
 from ..attribution.seed_config import load_seed_entities
-from .config_loaders import load_relation_thresholds, threshold_for_prop
+from .config_loaders import load_relation_thresholds
 from .ds_labels import read_jsonl
-from .pcnn_mil import PCNNMILAttention
+from .pcnn_mil import PCNNSelectiveAttention
 from .pcnn_train import PAD_ID, bag_to_model_batch
 
 
@@ -22,16 +22,14 @@ def load_checkpoint(project_root: Path, seed_type: str, ckpt_path: Path | None =
     return torch.load(ckpt_path, map_location="cpu")
 
 
-def build_model_from_ckpt(ckpt: dict[str, Any], device: torch.device) -> PCNNMILAttention:
+def build_model_from_ckpt(ckpt: dict[str, Any], device: torch.device) -> PCNNSelectiveAttention:
     char2id: dict[str, int] = ckpt["char2id"]
     vocab_size = int(ckpt["vocab_size"])
     num_classes = int(ckpt["num_classes"])
     att_dim = int(ckpt.get("att_dim", 128))
-    if ckpt.get("aggregation") != "mil_attention":
-        raise RuntimeError(
-            "checkpoint 为旧版 MIL-max，请重新运行 scripts/train_relation_pcnn.py 训练 MIL-Attention 模型。"
-        )
-    model = PCNNMILAttention(vocab_size, num_classes, pad_id=PAD_ID, att_dim=att_dim).to(device)
+    if ckpt.get("setting") != "ds_multiclass_selective_attention":
+        raise RuntimeError("checkpoint 不是经典 DS 多分类 selective attention，请重新训练。")
+    model = PCNNSelectiveAttention(vocab_size, num_classes, pad_id=PAD_ID, att_dim=att_dim).to(device)
     model.load_state_dict(ckpt["model_state"])
     model.eval()
     return model
@@ -47,7 +45,6 @@ def infer_bags(
     dev = torch.device(device or ("cuda" if torch.cuda.is_available() else "cpu"))
     ckpt = load_checkpoint(project_root, seed_type, ckpt_path)
     char2id: dict[str, int] = ckpt["char2id"]
-    labels_space: list[str] = list(ckpt["labels_space"])
     max_len = int(ckpt["max_len"])
 
     seeds = load_seed_entities(project_root)
@@ -60,6 +57,13 @@ def infer_bags(
     filtered = [b for b in all_bags if str(b.get("seed_type")) == seed_type]
 
     model = build_model_from_ckpt(ckpt, dev)
+    label_space_raw = ckpt.get("label_space")
+    if not isinstance(label_space_raw, list) or not label_space_raw:
+        raise RuntimeError(
+            "checkpoint 缺少 label_space，说明它不是当前经典 DS 多分类模型的产物。"
+            "请先运行 scripts/build_re_ds_dataset.py 与 scripts/train_relation_pcnn.py 重新训练。"
+        )
+    label_space: list[str] = [str(x) for x in label_space_raw]
     thr_cfg = load_relation_thresholds(project_root)
 
     out_rows: list[dict[str, Any]] = []
@@ -77,38 +81,30 @@ def infer_bags(
                 continue
             xb, p1, p2 = batch[0].to(dev), batch[1].to(dev), batch[2].to(dev)
             logits_b, attn = model.forward_bag(xb, p1, p2)
-            probs = torch.sigmoid(logits_b).cpu()
-            attn_cpu = attn.detach().cpu()
+            probs = torch.softmax(logits_b, dim=0).cpu()
+            attn_cpu = attn.detach().cpu()  # (C, n_inst)
+
+            pred_idx = int(probs.argmax().item())
+            pred_label = str(label_space[pred_idx]) if 0 <= pred_idx < len(label_space) else "NA"
+            pred_prob = float(probs[pred_idx].item()) if 0 <= pred_idx < probs.numel() else 0.0
 
             instances_meta = list(bag.get("instances") or [])
-            best_i = int(attn_cpu.argmax().item())
+            best_i = int(attn_cpu[pred_idx].argmax().item()) if attn_cpu.numel() else 0
             ev_sentence = ""
             ev_idx = -1
             if 0 <= best_i < len(instances_meta):
                 ev_sentence = str(instances_meta[best_i].get("sentence") or "")
                 ev_idx = int(instances_meta[best_i].get("sentence_idx", -1))
-            attn_at_top = float(attn_cpu[best_i].item()) if attn_cpu.numel() else 0.0
+            attn_at_top = (
+                float(attn_cpu[pred_idx, best_i].item()) if attn_cpu.numel() and pred_idx < attn_cpu.shape[0] else 0.0
+            )
 
+            # 兼容导出：仍输出“候选列表”，但 label 可能是 NA 或 Pxxx
             preds: list[dict[str, Any]] = []
-            for ci, prop_id in enumerate(labels_space):
+            for ci, lb in enumerate(label_space):
                 score = float(probs[ci].item())
-                tau = threshold_for_prop(thr_cfg, prop_id)
-                passed = score >= tau
-
-                preds.append(
-                    {
-                        "prop_id": prop_id,
-                        "score": score,
-                        "passed_threshold": passed,
-                        "threshold": tau,
-                        "evidence": {
-                            "top_sentence_idx": ev_idx,
-                            "top_sentence": ev_sentence[:500],
-                            "top_sentence_score": attn_at_top,
-                            "attention_instance_idx": best_i,
-                        },
-                    }
-                )
+                # 多分类下阈值策略后续统一在 mil_ingest 里处理；这里先把阈值原样携带
+                preds.append({"label": str(lb), "score": score})
 
             out_rows.append(
                 {
@@ -120,8 +116,18 @@ def infer_bags(
                     "source_id": str(bag.get("source_id") or ""),
                     "source_url": str(bag.get("source_url") or ""),
                     "citation_key": str(bag.get("citation_key") or ""),
-                    "model": f"pcnn_milatt_{seed_type}",
-                    "predictions": preds,
+                    "model": f"pcnn_ds_mc_selectatt_{seed_type}",
+                    "predicted_label": pred_label,
+                    "predicted_prob": pred_prob,
+                    "evidence": {
+                        "top_sentence_idx": ev_idx,
+                        "top_sentence": ev_sentence[:500],
+                        "top_sentence_score": attn_at_top,
+                        "attention_instance_idx": best_i,
+                        "predicted_label": pred_label,
+                    },
+                    "class_probs": preds,
+                    "thresholds": thr_cfg,
                 }
             )
 

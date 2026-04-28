@@ -1,0 +1,15 @@
+---
+title: 艾伦图灵与图灵机和图灵奖
+cite: 维基百科常识改写
+url: https://zh.wikipedia.org/zh-hans/%E5%9B%BE%E7%81%B5%E5%A5%96
+---
+Alan Turing 出生于英国伦敦。
+Alan Turing 的国籍是英国。
+Alan Turing 的毕业院校包含剑桥大学。
+Alan Turing 的毕业院校包含普林斯顿大学。
+Alan Turing 的雇主包含布莱切利公园。
+Alan Turing 的雇主包含曼彻斯特大学。
+Alan Turing 的代表作是 On Computable Numbers。
+图灵机是 Alan Turing 提出的计算模型。
+图灵奖由 ACM 颁发。
+ACM 是国际计算机协会。

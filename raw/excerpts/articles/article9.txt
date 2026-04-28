@@ -1,0 +1,15 @@
+---
+title: 艾伦图灵与普林斯顿大学
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Alan_Turing
+---
+Alan Turing 在普林斯顿大学学习。
+普林斯顿大学位于美国。
+Alan Turing 的毕业院校包含普林斯顿大学。
+Alan Turing 的毕业院校包含剑桥大学。
+剑桥大学位于英国。
+Alan Turing 出生于英国伦敦。
+Alan Turing 的国籍是英国。
+Alan Turing 提出图灵机思想。
+图灵机属于计算理论的核心对象。
+图灵测试常用于讨论机器智能。

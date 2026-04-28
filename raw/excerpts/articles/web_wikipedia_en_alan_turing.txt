@@ -1,0 +1,2057 @@
+---
+cite: wikipedia_en_alan_turing
+url: https://en.wikipedia.org/wiki/Alan_Turing
+title: Alan Turing (Wikipedia EN)
+---
+Alan Turing - Wikipedia 
+ ( unc ion(){ ar className="clien -js ec or- ea ure-language-in-header-enabled ec or- ea ure-language-in-main-menu-disabled ec or- ea ure-language-in-main-page-header-disabled ec or- ea ure-page- ools-pinned-disabled ec or- ea ure- oc-pinned-clien pre -1 ec or- ea ure-main-menu-pinned-disabled ec or- ea ure-limi ed-wid h-clien pre -1 ec or- ea ure-limi ed-wid h-con en -enabled ec or- ea ure-cus om- on -size-clien pre -1 ec or- ea ure-appearance-pinned-clien pre -1 skin- heme-clien pre -day ec or-s icky-header-enabled ec or- oc-a ailable skin- heme-clien pre - humb-s andard"; ar cookie=documen .cookie.ma ch(/(?:^|; )enwikimwclien pre erences=([^;]+)/);i (cookie){cookie[1].spli ('%2C'). orEach( unc ion(pre ){className=className.replace(new RegExp('(^| )'+pre .replace(/-clien pre - w+$|[^ w-]+/g,'')+'-clien pre - w+( |$)'),'$1'+pre +'$2');});}documen .documen Elemen .className=className;}());RLCONF={"wgBreakFrames": alse,"wgSepara orTrans ormTable":["",""],"wgDigi Trans ormTable":["",""],"wgDe aul Da eForma ":"dmy","wgMon hNames":["","January","February","March","April","May","June","July","Augus ","Sep ember","Oc ober","No ember","December"],"wgReques Id":"78947 46- b6c-4b 1-a21 -a79c7 12aac6","wgCanonicalNamespace":"","wgCanonicalSpecialPageName": alse,"wgNamespaceNumber":0,"wgPageName":"Alan_Turing","wgTi le":"Alan Turing","wgCurRe isionId":1351251344,"wgRe isionId":1351251344,"wgAr icleId":1208,"wgIsAr icle": rue,"wgIsRedirec ": alse,"wgAc ion":" iew","wgUserName":null,"wgUserGroups":["*"],"wgCa egories":["CS1: long olume alue","Webarchi e empla e wayback links","Ar icles wi h shor descrip ion","Shor descrip ion ma ches Wikida a","Good ar icles","Wikipedia inde ini ely semi-pro ec ed pages","Use Bri ish English rom June 2020","All Wikipedia ar icles wri en in Bri ish English","Use dmy da es rom June 2024","Biography wi h signa ure","Ar icles wi h hCards","Wikipedia ar icles incorpora ing a ci a ion rom he ODNB","Pages using ci e ODNB wi h id parame er","CS1 German-language sources (de)","Alan Turing","1912 bir hs","1954 dea hs","1954 suicides","20 h-cen ury a heis s","20 h-cen ury English LGBTQ people","20 h-cen ury English ma hema icians","20 h-cen ury English philosophers","Academics o he Uni ersi y o Manches er Ins i u e o Science and Technology","Academics o he Uni ersi y o Manches er","Alumni o King's College, Cambridge","Bayesian s a is icians","Ble chley Park people","Bri ish an i- ascis s","Bri ish ar i icial in elligence researchers","Bri ish cryp ographers","Bri ish people o World War II","Cas ra ed people","Compu abili y heoris s","Compu er chess people","Compu er designers","Early his ory o ideo games","English a heis s","English compu er scien is s","English gay spor smen","English in en ors","English LGBTQ scien is s","English logicians","English men long-dis ance runners","Bri ish men long-dis ance runners","English people o Irish descen ","English people o Sco ish descen ","Enigma machine","Fellows o King's College, Cambridge","Foreign O ice personnel o World War II","Former Pro es an s","Gay academics","Gay scien is s","GCHQ people","His ory o compu ing in he Uni ed Kingdom","LGBTQ ma hema icians","LGBTQ philosophers","LGBTQ rack and ield a hle es","LGBTQ people who died by suicide","O icers o he Order o he Bri ish Empire","People con ic ed or homosexuali y in he Uni ed Kingdom","People educa ed a Sherborne School","People rom Maida Vale","People rom Wilmslow","People who ha e recei ed pos humous pardons","Prince on Uni ersi y alumni","Recipien s o Bri ish royal pardons","Scien is s o he Na ional Physical Labora ory (Uni ed Kingdom)","Suicides by cyanide poisoning","Suicides in England","Theore ical biologis s","Bri ish heore ical compu er scien is s","People rom S Leonards-on-Sea","Bri ish ellows o he Royal Socie y","20 h-cen ury Bri ish s a is icians"],"wgPageViewLanguage":"en","wgPageCon en Language":"en","wgPageCon en Model":"wiki ex ","wgRele an PageName":"Alan_Turing","wgRele an Ar icleId":1208,"wgTempUserName":null,"wgIsProbablyEdi able": alse,"wgRele an PageIsProbablyEdi able": alse,"wgRes ric ionEdi ":["au ocon irmed"],"wgRes ric ionMo e":[],"wgNo iceProjec ":"wikipedia","wgFlaggedRe sParams":{" ags":{"s a us":{"le els":1}}},"wgCon irmEdi Cap chaNeededForGenericEdi ":"hcap cha","wgCon irmEdi HCap chaVisualEdi orOnLoadIn egra ionEnabled": alse,"wgCon irmEdi HCap chaSi eKey":"5d0c670e-a5 4-4258-ad16-1 42792c9c62","wgMediaViewerOnClick": rue,"wgMediaViewerEnabledByDe aul ": rue,"wgPopupsFlags":0,"wgVisualEdi or":{"pageLanguageCode":"en","pageLanguageDir":"l r","pageVarian Fallbacks":"en"},"wgMFDisplayWikibaseDescrip ions":{"search": rue,"wa chlis ": rue," agline": alse,"nearby": rue},"wgWMESchemaEdi A emp S epO ersample": alse,"wgWMEPageLeng h":200000,"wgEdi Submi Bu onLabelPublish": rue,"wgVisualEdi orPageIsDisambigua ion": alse,"wgULSPosi ion":"in erlanguage","wgULSisCompac LinksEnabled": alse,"wgVec or2022LanguageInHeader": rue,"wgULSisLanguageSelec orEmp y": alse,"wgWikibaseI emId":"Q7251","wgCheckUserClien Hin sHeadersJsApi":["brands","archi ec ure","bi ness"," ullVersionLis ","mobile","model","pla orm","pla ormVersion"],"GEHomepageSugges edEdi sEnableTopics": rue,"wgGESugges edEdi sTaskTypes":{" askTypes":["copyedi ","link-recommenda ion"],"una ailableTaskTypes":[]},"wgGETopicsMa chModeEnabled": alse,"wgGELe elingUpEnabledForUser": alse,"wgTes Ki chenUserExperimen s":{"o errides":[],"enrolled":[],"assigned":[],"subjec _ids":[]}};
+RLSTATE={"ex .globalCssJs.user.s yles":"ready","si e.s yles":"ready","user.s yles":"ready","ex .globalCssJs.user":"ready","user":"ready","user.op ions":"loading","ex .wikimediamessages.s yles":"ready","ex .ci e.s yles":"ready","skins. ec or.search.codex.s yles":"ready","skins. ec or.s yles":"ready","skins. ec or.icons":"ready","jquery.makeCollapsible.s yles":"ready","ex . isualEdi or.desk opAr icleTarge .noscrip ":"ready","ex .uls.in erlanguage":"ready","wikibase.clien .ini ":"ready","ex .wikimediaBadges":"ready"};RLPAGEMODULES=["ex .parsermigra ion.sur ey","ex .ci e.ux-enhancemen s","mediawiki.page.media","ex .scribun o.logs","si e","mediawiki.page.ready","jquery.makeCollapsible","mediawiki. oc","skins. ec or.js","ex .cen ralNo ice.geoIP","ex .cen ralNo ice.s ar Up","ex .gadge .Re erenceTool ips","ex .gadge .swi cher","ex .urlShor ener. oolbar","ex .cen ralau h.cen ralau ologin","mm .boo s rap","ex .popups","ex . isualEdi or.desk opAr icleTarge .ini ","ex .echo.cen ralau h","ex .e en Logging","ex .wikimediaE en s","ex .na iga ionTiming","ex .uls.in er ace","ex .cx.e en logging.campaigns","ex .cx.uls.quick.ac ions","wikibase.clien . ec or-2022","wikibase.da abox. romWikida a","ex .checkUser.clien Hin s","ex .quicksur eys.ini ","ex .grow hExperimen s.Sugges edEdi Session","ex . es Ki chen"]; 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.loader.impl( unc ion(){re urn["user.op ions@12s5i", unc ion($,jQuery,require,module){mw.user. okens.se ({"pa rolToken":"+ ","wa chToken":"+ ","csr Token":"+ "});
+}];});}); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jump o con en 
+ 
+	 
+		 
+			 
+				
+ 
+	 
+	 
+
+ Main menu 
+	 
+	 
+
+
+				 
+		
+ 
+	 
+	 Main menu 
+	 mo e o sidebar 
+	 hide 
+ 
+
+	
+ 
+	 
+		Na iga ion
+	 
+	 
+		
+		 
+			
+			 Main page Con en s Curren e en s Random ar icle Abou Wikipedia Con ac us 
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		Con ribu e
+	 
+	 
+		
+		 
+			
+			 Help Learn o edi Communi y por al Recen changes Upload ile Special pages 
+		 
+		
+	 
+ 
+
+ 
+
+				 
+
+	 
+ 
+
+		 
+			
+ 
+	 
+	 
+		 
+		 
+	 
+ 
+
+		 
+		 
+			
+ 
+	 
+
+ Search 
+	 
+	 
+		 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+				 
+				 Search 
+			 
+		 
+	 
+ 
+
+			 
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	 
+		
+ 
+	 
+	 
+
+ Appearance 
+	 
+	 
+
+
+			 
+				
+			 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			 
+
+ Dona e 
+ 
+ Crea e accoun 
+ 
+ Log in 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+	 
+
+ Personal ools 
+	 
+	 
+
+
+		
+ 
+	 
+		
+		 
+			 
+
+ Dona e 
+ 
+ 
+
+ Crea e accoun 
+ 
+ 
+
+ Log in 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+		 
+		 
+			 
+		 
+			 
+				 
+				
+				 
+		 
+		 
+	 
+	 
+				 
+					 
+					 
+	 
+	 Con en s 
+	 mo e o sidebar 
+	 hide 
+ 
+
+
+	 
+		 
+			 
+				 (Top) 
+			 
+		 
+		 
+		 
+			 
+				 1 
+				 Early li e and educa ion 
+			 
+		 
+		
+			 
+				 
+				 Toggle Early li e and educa ion subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 1.1 
+					 Family 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.2 
+					 School 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.3 
+					 Chris opher Morcom 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.4 
+					 Uni ersi y and work on compu abili y 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 2 
+				 Career and research 
+			 
+		 
+		
+			 
+				 
+				 Toggle Career and research subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 2.1 
+					 Cryp analysis 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 2.2 
+					 Bombe 
+				 
+			 
+			
+			 
+				 
+			 
+				 
+					 2.2.1 
+					 Ac ion This Day 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+		 
+		 
+			 
+				 
+					 2.3 
+					 Hu 8 and he na al Enigma 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 2.4 
+					 Turingery 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 2.5 
+					 Delilah 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 2.6 
+					 Early compu ers and he Turing es 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 2.7 
+					 Pa ern orma ion and ma hema ical biology 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 3 
+				 Personal li e 
+			 
+		 
+		
+			 
+				 
+				 Toggle Personal li e subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 3.1 
+					 Treasure 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 3.2 
+					 Engagemen 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 3.3 
+					 Chess 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 3.4 
+					 Homosexuali y and indecency con ic ion 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 4 
+				 Dea h 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 5 
+				 Go ernmen apology and pardon 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 6 
+				 Fur her reading 
+			 
+		 
+		
+			 
+				 
+				 Toggle Fur her reading subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 6.1 
+					 Ar icles 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 6.2 
+					 Books 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 7 
+				 See also 
+			 
+		 
+		
+			 
+				 
+				 Toggle See also subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 7.1 
+					 Works ci ed 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 8 
+				 No es 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 9 
+				 Re erences 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 10 
+				 Ex ernal links 
+			 
+		 
+		
+		 
+		 
+	 
+ 
+ 
+
+					 
+		 
+			 
+		 
+		 
+			 
+				 
+					 
+						
+ 
+	 
+	 
+
+ Toggle he able o con en s 
+	 
+	 
+
+
+							 
+			 
+		
+	 
+ 
+
+					 
+					 Alan Turing 
+							
+ 
+	 
+	 
+
+ 161 languages 
+	 
+	 
+
+		 
+			
+			 
+				
+				 Адыгабзэ A rikaans Alemannisch Aragonés العربية مصرى অসমীয়া As urianu Azərbaycanca تۆرکجه Башҡортса Basa Bali Žemai ėška Bikol Cen ral Беларуская (тарашкевіца) Беларуская Български भोजपुरी বাংলা Brezhoneg Bosanski Ba ak Mandailing Буряад Ca alà Нохчийн کوردی Corsu Qırım a arca Češ ina Чӑвашла Cymraeg Dansk Deu sch Zazaki Ελληνικά Esperan o Español Ees i Euskara فارسی Suomi Føroysk Français Nord riisk Furlan Frysk Gaeilge 贛語 Kriyòl gwiyannen Gàidhlig Galego A añe&#039;ẽ ગુજરાતી Hausa עברית हिन्दी Fiji Hindi Hr a ski Kreyòl ayisyen Magyar Հայերեն Արեւմտահայերէն In erlingua Jaku Iban Bahasa Indonesia Ilokano Ido Íslenska I aliano 日本語 Pa ois La .lojban. Jawa ქართული Qaraqalpaqsha Kabɩyɛ Қазақша ភាសាខ្មែរ ಕನ್ನಡ Yerwa Kanuri 한국어 Kurdî Kernowek Кыргызча La ina Lë zebuergesch Limburgs Ligure Lombard Lie u ių La iešu Madhurâ मैथिली Malagasy Македонски മലയാളം Монгол मराठी Bahasa Melayu Mal i Mirandés မြန်မာဘာသာ مازِرونی Pla düü sch नेपाल भाषा Nederlands Norsk nynorsk Norsk bokmål Occi an Li inkarjala ଓଡ଼ିଆ Ирон ਪੰਜਾਬੀ Kapampangan Polski Piemon èis پنجابی پښتو Por uguês Română Русский Русиньскый संस्कृतम् Саха тыла ᱥᱟᱱᱛᱟᱲᱤ Sardu Sicilianu Sco s سنڌي Srpskohr a ski / српскохрватски සිංහල Simple English Slo enčina Slo enščina Shqip Српски / srpski S enska Kiswahili தமிழ் తెలుగు Тоҷикӣ ไทย Tagalog Toki pona Türkçe Татарча / a arça Українська اردو Oʻzbekcha / ўзбекча Vepsän kel’ Tiếng Việ Volapük Winaray 吴语 მარგალური ייִדיש Yorùbá 文言 閩南語 / Bân-lâm-gí 粵語 中文 
+			 
+			 Edi links 
+		 
+
+	 
+ 
+ 
+				 
+					 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 Ar icle Talk 
+		 
+		
+	 
+ 
+
+								
+ 
+	 
+	 English 
+	 
+	 
+
+
+					
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+				
+	 
+ 
+
+							 
+						 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 Read View source View his ory 
+		 
+		
+	 
+ 
+
+							 
+				
+							 
+								
+ 
+	 
+	 Tools 
+	 
+	 
+
+
+									 
+						
+ 
+	 
+	 Tools 
+	 mo e o sidebar 
+	 hide 
+ 
+
+	
+ 
+	 
+		Ac ions
+	 
+	 
+		
+		 
+			
+			 Read View source View his ory 
+		 
+		
+	 
+ 
+
+ 
+	 
+		General
+	 
+	 
+		
+		 
+			
+			 Wha links here Rela ed changes Upload ile Permanen link Page in orma ion Ci e his page Ge shor ened URL 
+		 
+		
+	 
+ 
+
+ 
+	 
+		Prin /expor 
+	 
+	 
+		
+		 
+			
+			 Download as PDF Prin able ersion 
+		 
+		
+	 
+ 
+
+ 
+	 
+		In o her projec s
+	 
+	 
+		
+		 
+			
+			 Abs rac Wikipedia Wikimedia Commons Wikinews Wikiquo e Wikisource Wikida a i em 
+		 
+		
+	 
+ 
+
+ 
+
+									 
+				
+	 
+ 
+
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+						 
+							 
+				
+							 
+		 
+						 
+							 
+				 
+	 
+	 Appearance 
+	 mo e o sidebar 
+	 hide 
+ 
+
+
+ 
+
+							 
+		 
+					 
+				 
+				 
+					 
+							 
+		 
+		 
+		 
+
+						 From Wikipedia, he ree encyclopedia 
+					 
+					 
+					
+					
+					 
+ English compu er scien is (1912–1954) 
+ .mw-parser-ou pu .ha no e{ on -s yle:i alic}.mw-parser-ou pu di .ha no e{padding-le :1.6em;margin-bo om:0.5em}.mw-parser-ou pu .ha no e i{ on -s yle:normal}.mw-parser-ou pu .ha no e+link+.ha no e{margin- op:-0.5em}@media prin {body.ns-0 .mw-parser-ou pu .ha no e{display:none!impor an }} "Turing" redirec s here. For o her uses, see Turing (disambigua ion) . 
+ 
+
+
+
+
+ 
+ .mw-parser-ou pu .in obox-subbox{padding:0;border:none;margin:-3px;wid h:au o;min-wid h:100%; on -size:100%;clear:none; loa :none;background-color: ransparen ;color:inheri }.mw-parser-ou pu .in obox-3cols-child{margin:-3px}.mw-parser-ou pu .in obox .na bar{ on -size:100%}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}}@media(min-wid h:640px){body.skin--responsi e .mw-parser-ou pu .in obox- able{display: able!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able>cap ion{display: able-cap ion!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able> body{display: able-row-group}body.skin--responsi e .mw-parser-ou pu .in obox- able h,body.skin--responsi e .mw-parser-ou pu .in obox- able d{padding-le :inheri ;padding-righ :inheri }} Alan Turing OBE &#32; FRS Turing in 1951 Born Alan Ma hison Turing ( 1912-06-23 ) 23 June 1912 Maida Vale , London, England Died 7 June 1954 (1954-06-07) (aged&#160;41) Wilmslow , Cheshire, England Cause&#160;o dea h Suicide by cyanide poisoning &#91; no e 1 &#93; Educa ion .mw-parser-ou pu .plainlis ol,.mw-parser-ou pu .plainlis ul{line-heigh :inheri ;lis -s yle:none;margin:0;padding:0}.mw-parser-ou pu .plainlis ol li,.mw-parser-ou pu .plainlis ul li{margin-bo om:0} 
+ Uni ersi y o Cambridge ( MA ) 
+ Prince on Uni ersi y ( PhD ) 
+ Known&#160; or .mw-parser-ou pu .hlis dl,.mw-parser-ou pu .hlis ol,.mw-parser-ou pu .hlis ul{margin:0;padding:0}.mw-parser-ou pu .hlis dd,.mw-parser-ou pu .hlis d ,.mw-parser-ou pu .hlis li{margin:0;display:inline}.mw-parser-ou pu .hlis .inline,.mw-parser-ou pu .hlis .inline dl,.mw-parser-ou pu .hlis .inline ol,.mw-parser-ou pu .hlis .inline ul,.mw-parser-ou pu .hlis dl dl,.mw-parser-ou pu .hlis dl ol,.mw-parser-ou pu .hlis dl ul,.mw-parser-ou pu .hlis ol dl,.mw-parser-ou pu .hlis ol ol,.mw-parser-ou pu .hlis ol ul,.mw-parser-ou pu .hlis ul dl,.mw-parser-ou pu .hlis ul ol,.mw-parser-ou pu .hlis ul ul{display:inline}.mw-parser-ou pu .hlis .mw-emp y-li{display:none}.mw-parser-ou pu .hlis d ::a er{con en :": "}.mw-parser-ou pu .hlis dd::a er,.mw-parser-ou pu .hlis li::a er{con en :" a0 · "; on -weigh :bold}.mw-parser-ou pu .hlis dd:las -child::a er,.mw-parser-ou pu .hlis d :las -child::a er,.mw-parser-ou pu .hlis li:las -child::a er{con en :none}.mw-parser-ou pu .hlis dd dd: irs -child::be ore,.mw-parser-ou pu .hlis dd d : irs -child::be ore,.mw-parser-ou pu .hlis dd li: irs -child::be ore,.mw-parser-ou pu .hlis d dd: irs -child::be ore,.mw-parser-ou pu .hlis d d : irs -child::be ore,.mw-parser-ou pu .hlis d li: irs -child::be ore,.mw-parser-ou pu .hlis li dd: irs -child::be ore,.mw-parser-ou pu .hlis li d : irs -child::be ore,.mw-parser-ou pu .hlis li li: irs -child::be ore{con en :" ("; on -weigh :normal}.mw-parser-ou pu .hlis dd dd:las -child::a er,.mw-parser-ou pu .hlis dd d :las -child::a er,.mw-parser-ou pu .hlis dd li:las -child::a er,.mw-parser-ou pu .hlis d dd:las -child::a er,.mw-parser-ou pu .hlis d d :las -child::a er,.mw-parser-ou pu .hlis d li:las -child::a er,.mw-parser-ou pu .hlis li dd:las -child::a er,.mw-parser-ou pu .hlis li d :las -child::a er,.mw-parser-ou pu .hlis li li:las -child::a er{con en :")"; on -weigh :normal}.mw-parser-ou pu .hlis ol{coun er-rese :lis i em}.mw-parser-ou pu .hlis ol>li{coun er-incremen :lis i em}.mw-parser-ou pu .hlis ol>li::be ore{con en :" "coun er(lis i em)" a0 "}.mw-parser-ou pu .hlis dd ol>li: irs -child::be ore,.mw-parser-ou pu .hlis d ol>li: irs -child::be ore,.mw-parser-ou pu .hlis li ol>li: irs -child::be ore{con en :" ("coun er(lis i em)" a0 "} 
+ Cryp analysis o he Enigma 
+ Turing's proo 
+ Turing machine 
+ Turing es 
+ unorganised machine 
+ Turing pa ern 
+ Turing reduc ion 
+ " The Chemical Basis o Morphogenesis " 
+ Turing paradox 
+ Awards Smi h's Prize (1936) Scien i ic career Fields 
+ Logic 
+ ma hema ics 
+ cryp analysis 
+ compu er science 
+ ma hema ical and heore ical biology &#91; 1 &#93; 
+ Ins i u ions 
+ Uni ersi y o Manches er 
+ Go ernmen Code and Cypher School 
+ Na ional Physical Labora ory 
+ Thesis Sys ems o Logic Based on Ordinals &#160; (1938) Doc oral ad isor Alonzo Church &#91; 2 &#93; Doc oral s uden s 
+ Robin Gandy &#91; 2 &#93; &#91; 3 &#93; 
+ Bea rice Worsley &#91; 4 &#93; 
+ 
+ Signa ure 
+ Alan Ma hison Turing ( / ˈ j ʊər ɪ ŋ / ; 23 June 1912&#160;– 7 June 1954) was an English ma hema ician , compu er scien is , logician , cryp analys , philosopher and heore ical biologis . &#91; 6 &#93; He was highly in luen ial in he de elopmen o heore ical compu er science , pro iding a ormalisa ion o he concep s o algori hm and compu a ion wi h he Turing machine , which can be considered a model o a general-purpose compu er . &#91; 7 &#93; &#91; 8 &#93; &#91; 9 &#93; Turing is widely considered o be he a her o heore ical compu er science. &#91; 10 &#93; 
+ Born in London, Turing was raised in sou hern England . He gradua ed rom King's College, Cambridge , and in 1938, earned a doc ora e degree rom Prince on Uni ersi y . During World War II , Turing worked or he Go ernmen Code and Cypher School a Ble chley Park , Bri ain's codebreaking cen re ha produced Ul ra in elligence. He led Hu 8 , he sec ion responsible or German na al cryp analysis. Turing de ised echniques or speeding he breaking o German ciphers , including impro emen s o he pre-war Polish bomba me hod, an elec romechanical machine ha could ind se ings or he Enigma machine . He played a crucial role in cracking in ercep ed messages ha enabled he Allies o de ea he Axis powers in he Ba le o he A lan ic and o her engagemen s. &#91; 11 &#93; &#91; 12 &#93; 
+ A er he war, Turing worked a he Na ional Physical Labora ory , where he designed he Au oma ic Compu ing Engine , one o he irs designs or a s ored-program compu er. In 1948, Turing joined Max Newman 's Compu ing Machine Labora ory a he Uni ersi y o Manches er , where he con ribu ed o he de elopmen o early Manches er compu ers &#91; 13 &#93; and became in eres ed in ma hema ical biology . Turing wro e on he chemical basis o morphogenesis &#91; 14 &#93; &#91; 1 &#93; and predic ed oscilla ing chemical reac ions such as he Belouso –Zhabo insky reac ion , irs obser ed in he 1960s. Despi e hese accomplishmen s, he was ne er ully recognised during his li e ime because much o his work was co ered by he O icial Secre s Ac . &#91; 15 &#93; 
+ In 1952, Turing was prosecu ed or homosexual ac s . He accep ed hormone rea men , a procedure commonly re erred o as chemical cas ra ion , as an al erna i e o prison. Turing died on 7 June 1954, aged 41, rom cyanide poisoning . An inques de ermined his dea h as suicide, bu he e idence is also consis en wi h acciden al poisoning. &#91; 5 &#93; Following a campaign in 2009, Bri ish prime minis er Gordon Brown made an o icial public apology or " he appalling way [Turing] was rea ed". Queen Elizabe h II gran ed a pardon in 2013. The erm " Alan Turing law " is used in ormally o re er o a 2017 law in he UK ha re roac i ely pardoned men cau ioned or con ic ed under his orical legisla ion ha ou lawed homosexual ac s. &#91; 16 &#93; 
+ Turing le an ex ensi e legacy in ma hema ics and compu ing which has become widely recognised wi h s a ues and many hings named a er him , including an annual award or compu ing inno a ion. His por rai appears on he Bank o England £50 no e , irs released on 23 June 2021 o coincide wi h his bir hday. The audience o e in a 2019 BBC series named Turing he grea es scien is o he 20 h cen ury.
+ The cogni i e scien is Douglas Ho s ad er wri es:
+ 
+ 
+ A heis , homosexual, eccen ric, mara hon-running ma hema ician, A. M. Turing was in large par responsible no only or he concep o compu ers, incisi e heorems abou heir powers, and a clear ision o he possibili y o compu er minds, bu also or he cracking o German ciphers during he Second World War. I is air o say we owe much o Alan Turing or he ac ha we are no under Nazi rule oday." &#91; 17 &#93; 
+ 
+ 
+ .mw-parser-ou pu . oclimi -2 . ocle el-1 ul,.mw-parser-ou pu . oclimi -3 . ocle el-2 ul,.mw-parser-ou pu . oclimi -4 . ocle el-3 ul,.mw-parser-ou pu . oclimi -5 . ocle el-4 ul,.mw-parser-ou pu . oclimi -6 . ocle el-5 ul,.mw-parser-ou pu . oclimi -7 . ocle el-6 ul{display:none} 
+ Early li e and educa ion 
+ Family 
+ English Heri age blue plaque in Maida Vale , London marking Turing's bir hplace in 1912 
+ Turing was born in Maida Vale , London, while his a her, Julius Ma hison Turing, was on lea e rom his posi ion wi h he Indian Ci il Ser ice (ICS) o he Bri ish Raj go ernmen a Cha rapur , hen in he Madras Presidency and presen ly in Odisha s a e, in India . &#91; 18 &#93; &#91; 19 &#93; Turing's a her was he son o a clergyman, he Re .&#160;John Rober Turing, rom a Sco ish amily o merchan s ha had been based in he Ne herlands and included a barone . Turing's mo her, Julius's wi e, was E hel Sara Turing ( née &#160;S oney ), daugh er o Edward Waller S oney , chie engineer o he Madras Railways . The S oneys were a Pro es an Anglo-Irish gen ry amily rom bo h Coun y Tipperary and Coun y Long ord , while E hel hersel had spen much o her childhood in Coun y Clare . &#91; 20 &#93; Julius and E hel married on 1 Oc ober 1907 a he Church o Ireland S . Bar holomew's Church on Clyde Road in Ballsbridge , Dublin . &#91; 21 &#93; 
+ Julius's work wi h he ICS brough he amily o Bri ish India, where his grand a her had been a general in he Bengal Army . Howe er, bo h Julius and E hel wan ed heir children o be brough up in Bri ain, so hey mo ed o Maida Vale , &#91; 22 &#93; London, where Alan Turing was born on 23 June 1912, as recorded by a blue plaque on he ou side o he house o his bir h, &#91; 23 &#93; &#91; 24 &#93; la er he Colonnade Ho el . &#91; 18 &#93; &#91; 25 &#93; Turing had an elder bro her, John Ferrier Turing, a her o Dermo Turing , 12 h Barone o he Turing barone s . &#91; 26 &#93; In 1922, he disco ered Na ural Wonders E ery Child Should Know by Edwin Tenney Brews er . He credi ed i wi h opening his eyes o science. &#91; 27 &#93; 
+ Turing's a her's ci il ser ice commission was s ill ac i e during Turing's childhood years, and his paren s ra elled be ween Has ings in he Uni ed Kingdom &#91; 28 &#93; and India, lea ing heir wo sons o s ay wi h a re ired Army couple. A Has ings, Turing s ayed a Bas on Lodge , Upper Maze Hill, S Leonards-on-Sea , now marked wi h a blue plaque. &#91; 29 &#93; The plaque was un eiled on 23 June 2012, he cen enary o Turing's bir h. &#91; 30 &#93; 
+ Very early in li e, Turing's paren s purchased a house in Guild ord in 1927, and Turing li ed here during school holidays. The loca ion is also marked wi h a blue plaque. &#91; 31 &#93; 
+ 
+ School 
+ Turing a age 16, c. &#8201;1928 &#160;– c. &#8201;1929 
+ Turing's paren s enrolled him a S Michael's, a primary school a 20 Charles Road, S Leonards-on-Sea , rom he age o six o nine. The headmis ress recognised his alen , no ing ha she "...had cle er boys and hardworking boys, bu Alan is a genius". &#91; 32 &#93; 
+ Be ween January 1922 and 1926, Turing was educa ed a Hazelhurs Prepara ory School, an independen school in he illage o Fran in Sussex (now Eas Sussex ). &#91; 33 &#93; In 1926, a he age o 13, he wen on o Sherborne School , &#91; 34 &#93; an independen boarding school in he marke own o Sherborne in Dorse , where he boarded a Wes co House. The irs day o erm coincided wi h he 1926 General S rike , in Bri ain, bu Turing was so de ermined o a end ha he rode his bicycle unaccompanied 60 miles (97&#160;km) rom Sou hamp on o Sherborne, s opping o ernigh a an inn. &#91; 35 &#93; 
+ Turing's na ural inclina ion owards ma hema ics and science did no earn him respec rom some o he eachers a Sherborne, whose de ini ion o educa ion placed more emphasis on he classics . His headmas er wro e o his paren s: "I hope he will no all be ween wo s ools. I he is o s ay a public school, he mus aim a becoming educa ed . I he is o be solely a Scien i ic Specialis , he is was ing his ime a a public school". &#91; 27 &#93; Despi e his, Turing con inued o show remarkable abili y in he s udies he lo ed, sol ing ad anced problems in 1927 wi hou ha ing s udied e en elemen ary calculus . In 1928, aged 16, Turing encoun ered Alber Eins ein 's work; no only did he grasp i , bu i is possible ha he managed o deduce Eins ein's ques ioning o New on's laws o mo ion rom a ex in which his was ne er made explici . &#91; 36 &#93; 
+ 
+ Chris opher Morcom 
+ Main ar icle: Chris opher Morcom 
+ A Sherborne, Turing ormed a signi ican riendship wi h ellow pupil Chris opher Collan Morcom (13 July 1911 – 13 February 1930), &#91; 37 &#93; who has been described as Turing's irs lo e. &#91; 38 &#93; &#91; 39 &#93; &#91; 40 &#93; Their rela ionship pro ided inspira ion in Turing's u ure endea ours, bu i was cu shor by Morcom's dea h, in February 1930, rom complica ions o bo ine uberculosis , con rac ed a er drinking in ec ed cow's milk some years pre iously. &#91; 41 &#93; &#91; 42 &#93; &#91; 43 &#93; 
+ The e en caused Turing grea sorrow. He coped wi h his grie by working ha much harder on he opics o science and ma hema ics ha he had shared wi h Morcom. In a le er o Morcom's mo her, Frances Isobel Morcom (née Swan), Turing wro e:
+ 
+ .mw-parser-ou pu . empla equo e{o er low:hidden;margin:1em 0;padding:0 32px}.mw-parser-ou pu . empla equo eci e{line-heigh :1.5em; ex -align:le ;margin- op:0}@media(min-wid h:500px){.mw-parser-ou pu . empla equo eci e{padding-le :1.6em}} I am sure I could no ha e ound anywhere ano her companion so brillian and ye so charming and unconcei ed. I regarded my in eres in my work, and in such hings as as ronomy ( o which he in roduced me) as some hing o be shared wi h him and I hink he el a li le he same abou me&#160;... I know I mus pu as much energy i no as much in eres in o my work as i he were ali e, because ha is wha he would like me o do. &#91; 44 &#93; 
+ Turing's rela ionship wi h Morcom's mo her con inued long a er Morcom's dea h, wi h her sending gi s o Turing, and him sending le ers, ypically on Morcom's bir hday. &#91; 45 &#93; A day be ore he hird anni ersary o Morcom's dea h (13 February 1933), he wro e o Mrs. Morcom:
+ 
+ I expec you will be hinking o Chris when his reaches you. I shall oo, and his le er is jus o ell you ha I shall be hinking o Chris and o you omorrow. I am sure ha he is as happy now as he was when he was here. Your a ec iona e Alan. &#91; 46 &#93; 
+ Some ha e specula ed ha Morcom's dea h was he cause o Turing's a heism and ma erialism . &#91; 47 &#93; Apparen ly, a his poin in his li e he s ill belie ed in such concep s as a spiri , independen o he body and sur i ing dea h. In a la er le er, also wri en o Morcom's mo her, Turing wro e:
+ 
+ Personally, I belie e ha spiri is really e ernally connec ed wi h ma er bu cer ainly no by he same kind o body&#160;... as regards he ac ual connec ion be ween spiri and body I consider ha he body can hold on o a 'spiri ', whils he body is ali e and awake he wo are irmly connec ed. When he body is asleep I canno guess wha happens bu when he body dies, he 'mechanism' o he body, holding he spiri is gone and he spiri inds a new body sooner or la er, perhaps immedia ely. &#91; 48 &#93; &#91; 49 &#93; 
+ Uni ersi y and work on compu abili y 
+ Turing in he 1930s 
+ A er gradua ing rom Sherborne, Turing applied or se eral Cambridge colleges scholarships, including Trini y and King's , e en ually earning an £80 per annum scholarship (equi alen o abou £4,300 as o 2023) o s udy a he la er. &#91; 50 &#93; &#91; 51 &#93; There, Turing s udied he undergradua e course in Schedule B &#91; 52 &#93; rom February 1931 o No ember 1934 a King's College, Cambridge , where he was awarded irs -class honours in ma hema ics. His disser a ion, On he Gaussian error unc ion , wri en during his senior year and deli ered in No ember 1934 pro ed a ersion o he cen ral limi heorem . I was inally accep ed on 16 March 1935. By spring o ha same year, Turing s ar ed his mas er's course ( Par III )—which he comple ed in 1937—and, a he same ime, he published his irs paper, a one-page ar icle called Equi alence o le and righ almos periodici y (sen on 23 April), ea ured in he en h olume o he Journal o he London Ma hema ical Socie y . &#91; 53 &#93; La er ha year, Turing was elec ed a Fellow o King's College on he s reng h o his disser a ion &#91; 54 &#93; where he ser ed as a lec urer . &#91; 55 &#93; Howe er, unknown o Turing, he ersion o he heorem he pro ed in his paper had already been pro en by Jarl Waldemar Lindeberg in 1922. Despi e his, he commi ee ound Turing's me hods original and so regarded he work wor hy o considera ion or he ellowship. Abram Besico i ch 's repor or he commi ee wen so ar as o say ha i Turing's work had been published be ore Lindeberg's, i would ha e been "an impor an e en in he ma hema ical li era ure o ha year". &#91; 56 &#93; &#91; 57 &#93; &#91; 58 &#93; 
+ Be ween he springs o 1935 and 1936, a he same ime as Alonzo Church , Turing worked on he decidabili y o problems, s ar ing rom Gödel's incomple eness heorems . In mid-April 1936, Turing sen Max Newman he irs dra ypescrip o his in es iga ions. Tha same mon h, Church published his An Unsol able Problem o Elemen ary Number Theory , wi h similar conclusions o Turing's hen-ye unpublished work. Finally, on 28 May o ha year, he inished and deli ered his 36-page paper or publica ion called " On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem ". &#91; 59 &#93; &#91; 60 &#93; I was published in he Proceedings o he London Ma hema ical Socie y journal in wo par s, he irs on 30 No ember and he second on 23 December. &#91; 61 &#93; In his paper, Turing re ormula ed Kur Gödel 's 1931 resul s on he limi s o proo and compu a ion, replacing Gödel's uni ersal ari hme ic-based ormal language wi h he ormal and simple hypo he ical de ices ha became known as Turing machines . The En scheidungsproblem (decision problem) was originally posed by German ma hema ician Da id Hilber in 1928. Turing pro ed ha his "uni ersal compu ing machine" would be capable o per orming any concei able ma hema ical compu a ion i i were represen able as an algori hm . He wen on o pro e ha here was no solu ion o he decision problem by irs showing ha he hal ing problem or Turing machines is undecidable : i is no possible o decide algori hmically whe her a Turing machine will e er hal . This paper has been called "easily he mos in luen ial ma h paper in his ory". &#91; 62 &#93; 
+ 
+ King's College, Cambridge , where Turing was an undergradua e in 1931 and became a Fellow in 1935. The compu er room is named a er him. 
+ Al hough Turing's proo was published shor ly a er Church's equi alen proo using his lambda calculus , &#91; 63 &#93; Turing's approach is considerably more accessible and in ui i e han Church's. &#91; 64 &#93; I also included a no ion o a 'Uni ersal Machine' (now known as a uni ersal Turing machine ), wi h he idea ha such a machine could per orm he asks o any o her compu a ion machine (as indeed could Church's lambda calculus). According o he Church–Turing hesis , Turing machines and he lambda calculus are capable o compu ing any hing ha is compu able. John on Neumann acknowledged ha he cen ral concep o he modern compu er was due o Turing's paper. &#91; 65 &#93; To his day, Turing machines are a cen ral objec o s udy in heory o compu a ion . &#91; 66 &#93; 
+ From Sep ember 1936 o July 1938, Turing spen mos o his ime s udying under Church a Prince on Uni ersi y , &#91; 4 &#93; in he second year as a Jane Eliza Proc er Visi ing Fellow . In addi ion o his purely ma hema ical work, he s udied cryp ology and also buil hree o our s ages o an elec ro-mechanical binary mul iplier . &#91; 67 &#93; In June 1938, he ob ained his PhD rom he Depar men o Ma hema ics a Prince on; &#91; 68 &#93; his disser a ion, Sys ems o Logic Based on Ordinals , &#91; 69 &#93; &#91; 70 &#93; in roduced he concep o ordinal logic and he no ion o rela i e compu ing , in which Turing machines are augmen ed wi h so-called oracles , allowing he s udy o problems ha canno be sol ed by Turing machines. Von Neumann wan ed o hire him as his pos doc oral assis an , bu he wen back o he Uni ed Kingdom. &#91; 71 &#93; 
+ 
+ Career and research 
+ When Turing re urned o Cambridge, he a ended lec ures gi en in 1939 by Ludwig Wi gens ein abou he ounda ions o ma hema ics . &#91; 72 &#93; The lec ures ha e been recons ruc ed erba im, including in erjec ions rom Turing and o her s uden s, rom s uden s' no es. &#91; 73 &#93; Turing and Wi gens ein argued and disagreed, wi h Turing de ending ormalism and Wi gens ein propounding his iew ha ma hema ics does no disco er any absolu e ru hs, bu ra her in en s hem. &#91; 74 &#93; 
+ 
+ Cryp analysis 
+ During he Second World War, Turing was a leading par icipan in he breaking o German ciphers a Ble chley Park . The his orian and war ime codebreaker Asa Briggs has said, "You needed excep ional alen , you needed genius a Ble chley and Turing's was ha genius." &#91; 75 &#93; 
+ From Sep ember 1938, Turing worked par - ime wi h he Go ernmen Code and Cypher School (GC&amp;CS), he Bri ish codebreaking organisa ion. He concen ra ed on cryp analysis o he Enigma cipher machine used by Nazi Germany , oge her wi h Dilly Knox , a senior GC&amp;CS codebreaker. &#91; 76 &#93; Soon a er he July 1939 mee ing near Warsaw a which he Polish Cipher Bureau ga e he Bri ish and French de ails o he wiring o Enigma machine's ro ors and heir me hod o decryp ing Enigma machine 's messages, Turing and Knox de eloped a broader solu ion. &#91; 77 &#93; The Polish me hod relied on an insecure indica or procedure ha he Germans were likely o change, which hey in ac did in May 1940. Turing's approach was more general, using crib-based decryp ion or which he produced he unc ional speci ica ion o he bombe (an impro emen on he Polish Bomba ). &#91; 78 &#93; 
+ 
+ Two co ages in he s able yard a Ble chley Park . Turing worked here in 1939 and 1940, be ore mo ing o Hu 8 . 
+ On 4 Sep ember 1939, he day a er he UK declared war on Germany, Turing repor ed o Ble chley Park, he war ime s a ion o GC&amp;CS. &#91; 79 &#93; Like all o hers who came o Ble chley, he was required o sign he O icial Secre s Ac , in which he agreed no o disclose any hing abou his work a Ble chley, wi h se ere legal penal ies or iola ing he Ac . &#91; 80 &#93; 
+ Speci ying he bombe was he irs o i e major cryp analy ical ad ances ha Turing made during he war. The o hers were: deducing he indica or procedure used by he German na y; de eloping a s a is ical procedure dubbed Banburismus or making much more e icien use o he bombes; de eloping a procedure dubbed Turingery or working ou he cam se ings o he wheels o he Lorenz SZ 40/42 ( Tunny ) cipher machine and, owards he end o he war, he de elopmen o a por able secure oice scrambler a Hanslope Park ha was codenamed Delilah. &#91; 81 &#93; &#91; 82 &#93; 
+ By using s a is ical echniques o op imise he rial o di eren possibili ies in he code breaking process, Turing made an inno a i e con ribu ion o he subjec . He wro e wo papers discussing ma hema ical approaches, i led The Applica ions o Probabili y o Cryp ography &#91; 83 &#93; and Paper on S a is ics o Repe i ions , &#91; 84 &#93; which were o such alue o GC&amp;CS and i s successor GCHQ ha hey were no released o he UK Na ional Archi es un il April 2012, shor ly be ore he cen enary o his bir h. A GCHQ ma hema ician, "who iden i ied himsel only as Richard," said a he ime ha he ac ha he con en s had been res ric ed under he O icial Secre s Ac or some 70 years demons ra ed heir impor ance, and heir rele ance o pos -war cryp analysis: &#91; 85 &#93; 
+ 
+ [He] said he ac ha he con en s had been res ric ed "shows wha a remendous impor ance i has in he ounda ions o our subjec ". ... The papers de ailed using "ma hema ical analysis o ry and de ermine which are he more likely se ings so ha hey can be ried as quickly as possible". ... Richard said ha GCHQ had now "squeezed he juice" ou o he wo papers and was "happy or hem o be released in o he public domain". 
+ Turing had a repu a ion or eccen rici y a Ble chley Park. He was known o his colleagues as "Pro " and his rea ise on Enigma was known as he "Pro 's Book". &#91; 86 &#93; &#91; 87 &#93; According o his orian Ronald Lewin , Jack Good , a cryp analys who worked wi h Turing, said o his colleague:
+ 
+ In he irs week o June each year he would ge a bad a ack o hay e er, and he would cycle o he o ice wearing a ser ice gas mask o keep he pollen o . His bicycle had a aul : he chain would come o a regular in er als. Ins ead o ha ing i mended he would coun he number o imes he pedals wen round and would ge o he bicycle in ime o adjus he chain by hand. Ano her o his eccen rici ies is ha he chained his mug o he radia or pipes o pre en i being s olen. &#91; 88 &#93; 
+ Pe er Hil on recoun ed his experience working wi h Turing in Hu 8 in his "Reminiscences o Ble chley Park" rom A Cen ury o Ma hema ics in America: &#91; 89 &#93; 
+ 
+ I is a rare experience o mee an au hen ic genius. Those o us pri ileged o inhabi he world o scholarship are amiliar wi h he in ellec ual s imula ion urnished by alen ed colleagues. We can admire he ideas hey share wi h us and are usually able o unders and heir source; we may e en o en belie e ha we oursel es could ha e crea ed such concep s and origina ed such hough s. Howe er, he experience o sharing he in ellec ual li e o a genius is en irely di eren ; one realizes ha one is in he presence o an in elligence, a sensibili y o such pro undi y and originali y ha one is illed wi h wonder and exci emen .
+Alan Turing was such a genius, and hose, like mysel , who had he as onishing and unexpec ed oppor uni y, crea ed by he s range exigencies o he Second World War, o be able o coun Turing as colleague and riend will ne er orge ha experience, nor can we e er lose i s immense bene i o us. 
+ While working a Ble chley, Turing, who was a alen ed long-dis ance runner , occasionally ran he 40 miles (64&#160;km) o London when he was needed or mee ings, &#91; 90 &#93; and he was capable o world-class mara hon s andards. &#91; 91 &#93; &#91; 92 &#93; Turing ried ou or he 1948 Bri ish Olympic eam , bu he was hampered by an injury. His ryou ime or he mara hon was only 11 minu es slower han Bri ish sil er medallis Thomas Richards ' Olympic race ime o 2 hours 35 minu es. He was Wal on A hle ic Club's bes runner, a ac disco ered when he passed he group while running alone. &#91; 93 &#93; &#91; 94 &#93; &#91; 95 &#93; When asked why he ran so hard in raining he replied:
+ 
+ I ha e such a s ress ul job ha he only way I can ge i ou o my mind is by running hard; i 's he only way I can ge some release. &#91; 96 &#93; 
+ Due o he challenges answering ques ions concerning wha an ou come would ha e been i a his orical e en did or did no occur ( he realm o coun er ac ual his ory ), i is hard o es ima e he precise e ec Ul ra in elligence had on he war. &#91; 97 &#93; Howe er, o icial war his orian Harry Hinsley es ima ed ha his work shor ened he war in Europe by more han wo years. He added he ca ea ha his did no accoun or he use o he a omic bomb and o her e en uali ies. &#91; 98 &#93; 
+ A he end o he war, a memo was sen o all hose who had worked a Ble chley Park, reminding hem ha he code o silence dic a ed by he O icial Secre s Ac did no end wi h he war bu would con inue inde ini ely. &#91; 80 &#93; Thus, e en hough Turing was appoin ed an O icer o he Order o he Bri ish Empire (OBE) in 1946 by King George VI or his war ime ser ices, his work remained secre or many years. &#91; 99 &#93; &#91; 100 &#93; 
+ 
+ Bombe 
+ Wi hin weeks o arri ing a Ble chley Park, &#91; 79 &#93; Turing had speci ied an elec romechanical machine called he bombe , which could break Enigma more e ec i ely han he Polish bomba kryp ologiczna , rom which i s name was deri ed. The bombe, wi h an enhancemen sugges ed by ma hema ician Gordon Welchman , became one o he primary ools, and he major au oma ed one, used o a ack Enigma-enciphered messages. &#91; 101 &#93; 
+ 
+ A working replica o a bombe now a The Na ional Museum o Compu ing on Ble chley Park The bombe searched or possible correc se ings used or an Enigma message (i.e., ro or order, ro or se ings and plugboard se ings) using a sui able crib : a ragmen o probable plain ex . For each possible se ing o he ro ors (which had on he order o 10 19 s a es, or 10 22 s a es or he our-ro or U-boa arian ), &#91; 102 &#93; he bombe per ormed a chain o logical deduc ions based on he crib, implemen ed elec romechanically . &#91; 103 &#93; 
+ The bombe de ec ed when a con radic ion had occurred and ruled ou ha se ing, mo ing on o he nex . Mos o he possible se ings would cause con radic ions and be discarded, lea ing only a ew o be in es iga ed in de ail. A con radic ion would occur when an enciphered le er would be urned back in o he same plain ex le er, which was impossible wi h he Enigma. The irs bombe was ins alled on 18 March 1940. &#91; 104 &#93; 
+ 
+ Ac ion This Day 
+ Main ar icle: Ac ion This Day (memo) 
+ By la e 1941, Turing and his ellow cryp analys s Welchman, Hugh Alexander and S uar Milner-Barry were rus ra ed. Building on he work o he Poles , hey had se up a good working sys em or decryp ing Enigma signals, bu heir limi ed s a and bombes mean hey could no ransla e all he signals. In he summer, hey had considerable success, and shipping losses had allen o under 100,000 ons a mon h; howe er, hey badly needed more resources o keep abreas o German adjus men s. They had ried o ge more people and und more bombes hrough he proper channels, bu had ailed. &#91; 105 &#93; 
+ On 28 Oc ober hey wro e direc ly o Wins on Churchill explaining heir di icul ies, wi h Turing as he irs named. They emphasised how small heir need was compared wi h he as expendi ure o men and money by he orces and compared wi h he le el o assis ance hey could o er o he orces. &#91; 105 &#93; As Andrew Hodges , biographer o Turing, la er wro e, "This le er had an elec ric e ec ." &#91; 106 &#93; Churchill wro e a memo o General Ismay , which read: "ACTION THIS DAY. Make sure hey ha e all hey wan on ex reme priori y and repor o me ha his has been done." On 18 No ember, he chie o he secre ser ice repor ed ha e ery possible measure was being aken. &#91; 106 &#93; The cryp ographers a Ble chley Park did no know o he Prime Minis er's response, bu as Milner-Barry recalled, "All ha we did no ice was ha almos rom ha day he rough ways began miraculously o be made smoo h." &#91; 107 &#93; More han wo hundred bombes were in opera ion by he end o he war. &#91; 108 &#93; 
+ 
+ Hu 8 and he na al Enigma 
+ S a ue o Turing holding an Enigma machine by S ephen Ke le a Ble chley Park, commissioned by Sidney Frank , buil rom hal a million pieces o Welsh sla e &#91; 109 &#93; 
+ Turing decided o ackle he par icularly di icul problem o cracking he German na al use o Enigma "because no one else was doing any hing abou i and I could ha e i o mysel ". &#91; 110 &#93; In December 1939, Turing sol ed he essen ial par o he na al indica or sys em, which was more complex han he indica or sys ems used by he o her ser ices. &#91; 110 &#93; &#91; 111 &#93; 
+ Tha same nigh , he also concei ed o he idea o Banburismus , a sequen ial s a is ical echnique (wha Abraham Wald la er called sequen ial analysis ) o assis in breaking he na al Enigma, " hough I was no sure ha i would work in prac ice, and was no , in ac , sure un il some days had ac ually broken". &#91; 110 &#93; For his, he in en ed a measure o weigh o e idence ha he called he ban . Banburismus could rule ou cer ain sequences o he Enigma ro ors, subs an ially reducing he ime needed o es se ings on he bombes. &#91; 112 &#93; La er his sequen ial process o accumula ing su icien weigh o e idence using decibans (one en h o a ban) was used in cryp analysis o he Lorenz cipher . &#91; 113 &#93; 
+ Turing ra elled o he Uni ed S a es in No ember 1942 and worked wi h US Na y cryp analys s on he na al Enigma and bombe cons ruc ion in Washing on. &#91; 114 &#93; &#91; 115 &#93; He also isi ed heir Compu ing Machine Labora ory in Day on, Ohio . &#91; 116 &#93; 
+ Turing's reac ion o he American bombe design was ar rom en husias ic:
+ 
+ The American Bombe programme was o produce 336 Bombes, one or each wheel order. I used o smile inwardly a he concep ion o Bombe hu rou ine implied by his programme, bu hough ha no par icular purpose would be ser ed by poin ing ou ha we would no really use hem in ha way.
+Their es (o commu a ors) can hardly be considered conclusi e as hey were no es ing or he bounce wi h elec ronic s op inding de ices. Nobody seems o be old abou rods or o iziers or banburismus unless hey are really going o do some hing abou i . &#91; 117 &#93; 
+ During his rip, he also assis ed a Bell Labs wi h he de elopmen o secure speech de ices. &#91; 118 &#93; He re urned o Ble chley Park in March 1943. During his absence, Hugh Alexander had o icially assumed he posi ion o head o Hu 8, al hough Alexander had been de ac o head or some ime (Turing ha ing li le in eres in he day- o-day running o he sec ion). Turing became a general consul an or cryp analysis a Ble chley Park. &#91; 119 &#93; 
+ Alexander wro e o Turing's con ribu ion:
+ 
+ There should be no ques ion in anyone's mind ha Turing's work was he bigges ac or in Hu 8's success. In he early days, he was he only cryp ographer who hough he problem wor h ackling and no only was he primarily responsible or he main heore ical work wi hin he Hu , bu he also shared wi h Welchman and Keen he chie credi or he in en ion o he bombe. I is always di icul o say ha anyone is 'absolu ely indispensable', bu i anyone was indispensable o Hu 8, i was Turing. The pioneer's work always ends o be orgo en when experience and rou ine la er make e ery hing seem easy and many o us in Hu 8 el ha he magni ude o Turing's con ribu ion was ne er ully realised by he ou side world. &#91; 120 &#93; 
+ Turingery 
+ In July 1942, Turing de ised a echnique ermed Turingery (or jokingly Turingismus &#91; 121 &#93; ) or use agains he Lorenz cipher messages produced by he Germans' new Geheimschreiber (secre wri er) machine. This was a eleprin er ro or cipher a achmen codenamed Tunny a Ble chley Park. Turingery was a me hod o wheel-breaking , i.e., a procedure or working ou he cam se ings o Tunny's wheels. &#91; 122 &#93; He also in roduced he Tunny eam o Tommy Flowers who, under he guidance o Max Newman , wen on o build he Colossus compu er , he world's irs programmable digi al elec ronic compu er, which replaced a simpler prior machine ( he Hea h Robinson ), and whose superior speed allowed he s a is ical decryp ion echniques o be applied use ully o he messages. &#91; 123 &#93; Some ha e mis akenly said ha Turing was a key igure in he design o he Colossus compu er. Turingery and he s a is ical approach o Banburismus undoub edly ed in o he hinking abou cryp analysis o he Lorenz cipher , &#91; 124 &#93; &#91; 125 &#93; bu he was no direc ly in ol ed in he Colossus de elopmen . &#91; 126 &#93; 
+ 
+ Delilah 
+ Following his work a Bell Labs in he US, &#91; 127 &#93; Turing pursued he idea o elec ronic enciphering o speech in he elephone sys em. In he la er par o he war, he mo ed o work or he Secre Ser ice's Radio Securi y Ser ice (la er HMGCC ) a Hanslope Park . &#91; 128 &#93; &#91; 129 &#93; A he park, he ur her de eloped his knowledge o elec ronics wi h he assis ance o REME o icer Donald Bayley. Toge her hey under ook he design and cons ruc ion o a por able secure oice communica ions machine codenamed Delilah . &#91; 130 &#93; The machine was in ended or di eren applica ions, bu i lacked he capabili y or use wi h long-dis ance radio ransmissions. In any case, Delilah was comple ed oo la e o be used during he war. Though he sys em worked ully, wi h Turing demons ra ing i o o icials by encryp ing and decryp ing a recording o a Wins on Churchill speech, Delilah was no adop ed or use. &#91; 131 &#93; Turing also consul ed wi h Bell Labs on he de elopmen o SIGSALY , a secure oice sys em ha was used in he la er years o he war.
+ 
+ Early compu ers and he Turing es 
+ Plaque, 78 High S ree , Hamp on 
+ Be ween 1945 and 1947, Turing li ed in Hamp on , London, &#91; 132 &#93; while he worked on he design o he ACE (Au oma ic Compu ing Engine) a he Na ional Physical Labora ory (NPL) . He presen ed a paper on 19 February 1946, which was he irs de ailed design o a s ored-program compu er . &#91; 133 &#93; Von Neumann 's incomple e Firs Dra o a Repor on he EDVAC had preda ed Turing's paper, bu i was much less de ailed and, according o John R. Womersley , Superin enden o he NPL Ma hema ics Di ision, i "con ains a number o ideas which are Dr. Turing's own". &#91; 134 &#93; 
+ Al hough ACE was a easible design, he e ec o he O icial Secre s Ac surrounding he war ime work a Ble chley Park made i impossible or Turing o explain he basis o his analysis o how a compu er ins alla ion in ol ing human opera ors would work. &#91; 135 &#93; This led o delays in s ar ing he projec and he became disillusioned. In la e 1947 he re urned o Cambridge or a sabba ical year during which he produced a seminal work on In elligen Machinery ha was no published in his li e ime. &#91; 136 &#93; While he was a Cambridge, he Pilo ACE was being buil in his absence. I execu ed i s irs program on 10 May 1950, and a number o la er compu ers around he world owe much o i , including he English Elec ric DEUCE and he American Bendix G-15 . The ull ersion o Turing's ACE was no buil un il a er his dea h. &#91; 137 &#93; 
+ According o he memoirs o he German compu er pioneer Heinz Billing rom he Max Planck Ins i u e or Physics , published by Genscher, Düsseldor , here was a mee ing be ween Turing and Konrad Zuse . &#91; 138 &#93; I ook place in Gö ingen in 1947. The in erroga ion had he orm o a colloquium. Par icipan s were Womersley, Turing, Por er rom England and a ew German researchers like Zuse, Wal her, and Billing ( or more de ails see Herber Bruderer, Konrad Zuse und die Schweiz ).
+ 
+ A blue plaque commemora ing Alan Turing's work a he Uni ersi y o Manches er where he was a Reader rom 1948 o 1954 
+ In 1948, Turing was appoin ed reader in he Ma hema ics Depar men a he Uni ersi y o Manches er . He li ed a "Copper Folly", 43 Adling on Road, in Wilmslow . &#91; 139 &#93; A year la er, he became depu y direc or o he Compu ing Machine Labora ory, where he worked on so ware or one o he earlies s ored-program compu ers— he Manches er Mark 1 . Turing wro e he irs ersion o he Programmer's Manual or his machine, was elec ed o membership o he Manches er Li erary and Philosophical Socie y , &#91; 140 &#93; &#91; 141 &#93; and was recrui ed by Ferran i as a consul an in he de elopmen o heir commercialised machine, he Ferran i Mark 1. He con inued o be paid consul ancy ees by Ferran i un il his dea h. &#91; 142 &#93; During his ime, he con inued o do more abs rac work in ma hema ics, &#91; 143 &#93; and in " Compu ing Machinery and In elligence ", &#91; 144 &#93; Turing addressed he problem o ar i icial in elligence , and proposed an experimen ha became known as he Turing es , an a emp o de ine a s andard or a machine o be called "in elligen ". The idea was ha a compu er could be said o " hink" i a human in erroga or could no ell i apar , hrough con ersa ion, rom a human being. &#91; 145 &#93; In he paper, Turing sugges ed ha ra her han building a program o simula e he adul mind, i would be be er o produce a simpler one o simula e a child's mind and hen o subjec i o a course o educa ion. A re ersed orm o he Turing es is widely used on he In erne ; he CAPTCHA es is in ended o de ermine whe her he user is a human or a compu er.
+ In 1948, Turing, working wi h his ormer undergradua e colleague, D.G. Champernowne , began wri ing a chess program or a compu er ha did no ye exis . By 1950, he program was comple ed and dubbed he Turochamp . &#91; 146 &#93; In 1952, he ried o implemen i on a Ferran i Mark 1 , bu lacking enough power, he compu er was unable o execu e he program. Ins ead, Turing "ran" he program by lipping hrough he pages o he algori hm and carrying ou i s ins ruc ions on a chessboard, aking abou hal an hour per mo e. The game was recorded. &#91; 147 &#93; According o Garry Kasparo , Turing's program "played a recognizable game o chess". &#91; 148 &#93; The program los o Turing's colleague Alick Glennie , al hough i is said ha i won a game agains Champernowne's wi e, Isabel. &#91; 149 &#93; 
+ His Turing es was a signi ican , charac eris ically pro oca i e, and las ing con ribu ion o he deba e regarding ar i icial in elligence, which con inues a er more han hal a cen ury. &#91; 150 &#93; 
+ 
+ Pa ern orma ion and ma hema ical biology 
+ When Turing was 39 years old in 1951, he urned o ma hema ical biology , inally publishing his mas erpiece " The Chemical Basis o Morphogenesis " in January 1952. He was in eres ed in morphogenesis , he de elopmen o pa erns and shapes in biological organisms. He sugges ed ha a sys em o chemicals reac ing wi h each o her and di using across space, ermed a reac ion–di usion sys em , could accoun or " he main phenomena o morphogenesis". &#91; 151 &#93; He used sys ems o par ial di eren ial equa ions o model ca aly ic chemical reac ions. For example, i a ca alys A is required or a cer ain chemical reac ion o ake place, and i he reac ion produced more o he ca alys A, hen we say ha he reac ion is au oca aly ic , and here is posi i e eedback ha can be modelled by nonlinear di eren ial equa ions. Turing disco ered ha pa erns could be crea ed i he chemical reac ion no only produced ca alys A, bu also produced an inhibi or B ha slowed down he produc ion o A. I A and B hen di used hrough he con ainer a di eren ra es, hen you could ha e some regions where A domina ed and some where B did. To calcula e he ex en o his, Turing would ha e needed a power ul compu er, bu hese were no so reely a ailable in 1951, so he had o use linear approxima ions o sol e he equa ions by hand. These calcula ions ga e he righ quali a i e resul s, and produced, or example, a uni orm mix ure ha oddly enough had regularly spaced ixed red spo s. The Russian biochemis Boris Belouso had per ormed experimen s wi h similar resul s, bu could no ge his papers published because o he con emporary prejudice ha any such hing iola ed he second law o hermodynamics . Belouso was no aware o Turing's paper in he Philosophical Transac ions o he Royal Socie y . &#91; 152 &#93; 
+ Al hough published be ore he s ruc ure and role o DNA was unders ood, Turing's work on morphogenesis remains rele an oday and is considered a seminal piece o work in ma hema ical biology. &#91; 153 &#93; Some o his work aimed o unders and plan phyllo axy , speci ically how plan primordia orm in a ring around he apical meris em during plan grow h and de elopmen , orming Fibonacci series. &#91; 154 &#93; One o he early applica ions o Turing's paper was he work by James Murray explaining spo s and s ripes on he ur o ca s, large and small. &#91; 155 &#93; &#91; 156 &#93; &#91; 157 &#93; Fur her research in he area sugges s ha Turing's work can par ially explain he grow h o " ea hers, hair ollicles, he branching pa ern o lungs, and e en he le -righ asymme ry ha pu s he hear on he le side o he ches ". &#91; 158 &#93; In 2012, She h, e al. ound ha in mice, remo al o Hox genes causes an increase in he number o digi s wi hou an increase in he o erall size o he limb, sugges ing ha Hox genes con rol digi orma ion by uning he wa eleng h o a Turing- ype mechanism. &#91; 159 &#93; La er papers were no a ailable un il Collec ed Works o A.&#160;M.&#160;Turing was published in 1992. &#91; 160 &#93; 
+ A s udy conduc ed in 2023 con irmed Turing's ma hema ical model hypo hesis. Presen ed by he American Physical Socie y , he experimen in ol ed growing chia seeds in e en layers wi hin rays, la er adjus ing he a ailable mois ure. Researchers experimen ally weaked he ac ors which appear in he Turing equa ions, and, as a resul , pa erns resembling hose seen in na ural en ironmen s emerged. This is belie ed o be he irs ime ha experimen s wi h li ing ege a ion ha e eri ied Turing's ma hema ical insigh . &#91; 161 &#93; &#91; 162 &#93; 
+ 
+ Personal li e 
+ Treasure 
+ In he 1940s, Turing became worried abou losing his sa ings in he e en o a German in asion. In order o pro ec i , he bough wo sil er bars weighing 3,200&#160;oz (90&#160;kg) and wor h £250 (in 2022, £8,000 adjus ed or in la ion , £48,000 a spo price) and buried hem in a wood near Ble chley Park. &#91; 163 &#93; Upon re urning o dig hem up, Turing ound ha he was unable o break his own code describing where exac ly he had hidden hem. This, along wi h he ac ha he area had been reno a ed, mean ha he ne er regained he sil er. &#91; 164 &#93; 
+ 
+ Engagemen 
+ In 1941, Turing proposed marriage o Hu 8 colleague Joan Clarke , a ellow ma hema ician and cryp analys , bu heir engagemen was shor -li ed. A er admi ing his homosexuali y o his iancée, who was repor edly "un azed" by he re ela ion, Turing decided ha he could no go hrough wi h he marriage. &#91; 165 &#93; 
+ 
+ Chess 
+ Turing in en ed a hybrid chess spor , earlier han chess boxing , re erred o as round- he-house chess , one player makes a chess mo e, hen ha player runs around he house, and he o her player mus make a chess mo e be ore he irs player re urns. &#91; 166 &#93; &#91; 167 &#93; 
+ 
+ Homosexuali y and indecency con ic ion 
+ The Dancehouse Thea re , ormerly he Regal Cinema, pic ured in 2006, ou side o which Turing me Arnold Murray 
+ In December 1951, Turing me Arnold Murray, a 19-year-old unemployed man. Turing was walking along Manches er's Ox ord Road when he me Murray jus ou side he Regal Cinema and in i ed him o lunch. The wo agreed o mee again and in January 1952 began an in ima e rela ionship. &#91; 168 &#93; On 23 January, Turing's house in Wilmslow was burgled. Murray old Turing ha he and he burglar were acquain ed, and Turing repor ed he crime o he police. During he in es iga ion, he acknowledged a sexual rela ionship wi h Murray. Homosexual ac s were criminal o ences in he Uni ed Kingdom a ha ime, &#91; 169 &#93; and bo h men were charged wi h " gross indecency " under Sec ion 11 o he Criminal Law Amendmen Ac 1885 . &#91; 170 &#93; Ini ial commi al proceedings or he rial were held on 27 February during which Turing's solici or "reser ed his de ence", i.e., did no argue or pro ide e idence agains he allega ions. The proceedings were held a he Sessions House in Knu s ord . &#91; 171 &#93; 
+ Turing was la er con inced by he ad ice o his bro her and his own solici or, and he en ered a plea o guil y. &#91; 172 &#93; The case, Regina . Turing and Murray, was brough o rial on 31 March 1952. &#91; 173 &#93; Turing was con ic ed and gi en a choice be ween imprisonmen and proba ion. His proba ion would be condi ional on his agreemen o undergo hormonal physical changes designed o reduce libido , known as " chemical cas ra ion ". &#91; 174 &#93; He accep ed he op ion o injec ions o wha was hen called s ilboes rol (now known as die hyls ilbes rol or DES), a syn he ic oes rogen ; his eminiza ion o his body was con inued or he course o one year. The rea men rendered Turing impo en and caused breas issue o orm . &#91; 175 &#93; In a le er, Turing wro e ha "no doub I shall emerge rom i all a di eren man, bu qui e who I' e no ound ou ". &#91; 176 &#93; &#91; 177 &#93; Murray was gi en a condi ional discharge. &#91; 178 &#93; 
+ Turing's con ic ion led o he remo al o his securi y clearance and barred him rom con inuing wi h his cryp ographic consul ancy or GCHQ , he Bri ish signals in elligence agency ha had e ol ed rom GC&amp;CS in 1946, hough he kep his academic pos . His rial ook place only mon hs a er he de ec ion o he So ie Union o Guy Burgess and Donald Maclean , in summer 1951, a er which he Foreign O ice s ar ed o consider anyone known o be homosexual as a po en ial securi y risk. &#91; 179 &#93; 
+ Turing was denied en ry in o he Uni ed S a es a er his con ic ion in 1952, bu was ree o isi o her European coun ries. &#91; 180 &#93; In he summer o 1952 he isi ed Norway which was more oleran o homosexuals. Among he arious men he me here was one named Kjell Carlson. Kjell in ended o isi Turing in he UK bu he au hori ies in ercep ed Kjell's pos card de ailing his ra el arrangemen s and were able o in ercep and depor him be ore he wo could mee . &#91; 181 &#93; I was also during his ime ha Turing s ar ed consul ing a psychia ris , Franz Greenbaum, wi h whom he go on well and who subsequen ly became a amily riend. &#91; 181 &#93; &#91; 182 &#93; 
+ 
+ Dea h 
+ A blue plaque on he house a 43 Adling on Road, Wilmslow , where Turing li ed and died &#91; 183 &#93; 
+ On 8 June 1954, a his house a 43 Adling on Road, Wilmslow , Turing's housekeeper ound him dead. &#91; 183 &#93; A pos mor em was held ha e ening, which de ermined ha he had died he pre ious day a age 41 wi h cyanide poisoning ci ed as he cause o dea h. &#91; 184 &#93; &#91; 185 &#93; When his body was disco ered, an apple lay hal -ea en beside his bed, and al hough he apple was no es ed or cyanide, &#91; 186 &#93; i was specula ed ha his was he means by which Turing had consumed a a al dose.
+ Turing's bro her, John, iden i ied he body he ollowing day and ook he ad ice gi en by Franz Greenbaum o accep he erdic o he inques , as here was li le prospec o es ablishing ha he dea h was acciden al. &#91; 187 &#93; The inques was held he ollowing day, which de ermined he cause o dea h o be suicide. &#91; 174 &#93; His nephew, wri er Dermo Turing, does no belie e ha his con ic ion or hormone rea men had any hing o do wi h his suicide. He poin s ou ha he con ic ion ended in 1952 and he rea men he ollowing year. Fur hermore, no physiological e idence was ound ha he rea men had any impac on his uncle's men al heal h, and he had jus made a lis o asks he needed o per orm when he go back o his o ice a er a public holiday. &#91; 188 &#93; &#91; 189 &#93; &#91; 80 &#93; Turing may ha e inhaled cyanide umes rom an elec ropla ing experimen in his spare room, and he o en a e an apple be ore bed, lea ing i hal ea en. &#91; 188 &#93; 
+ Turing's remains were crema ed a Woking Crema orium jus wo days la er on 12 June 1954, wi h jus his mo her, bro her, and Lyn Newman a ending, &#91; 190 &#93; &#91; 191 &#93; and his ashes were sca ered in he gardens o he crema orium, jus as his a her's had been. &#91; 192 &#93; Turing's mo her was on holiday in I aly a he ime o his dea h and re urned home a er he inques . She ne er accep ed he erdic o suicide. &#91; 187 &#93; 
+ Philosopher Jack Copeland has ques ioned arious aspec s o he coroner's his orical erdic . He sugges ed an al erna i e explana ion or he cause o Turing's dea h: he acciden al inhala ion o cyanide umes rom an appara us used o elec ropla e gold on o spoons. The po assium cyanide was used o dissol e he gold . Turing had such an appara us se up in his iny spare room. Copeland no ed ha he au opsy indings were more consis en wi h inhala ion han wi h inges ion o he poison. Turing also habi ually a e an apple be ore going o bed, and i was no unusual or he apple o be discarded hal -ea en. &#91; 5 &#93; Fur hermore, Turing had repor edly borne his legal se backs and hormone rea men (which had been discon inued a year pre iously) "wi h good humour" and had shown no sign o despondency be ore his dea h. He e en se down a lis o asks ha he in ended o comple e upon re urning o his o ice a er he holiday weekend. &#91; 5 &#93; Turing's mo her belie ed ha he inges ion was acciden al, resul ing rom her son's careless s orage o labora ory chemicals. &#91; 193 &#93; Turing biographer Andrew Hodges heorised ha Turing delibera ely made his dea h look acciden al in order o shield his mo her rom he knowledge ha he had killed himsel . &#91; 194 &#93; 
+ Doub s on he suicide hesis ha e been also cas by John W. Dawson Jr. who, in his re iew o Hodges' book, recalls "Turing's ulnerable posi ion in he Cold War poli ical clima e" and poin s ou ha "Turing was ound dead by a maid, who disco ered him 'lying nea ly in his bed'—hardly wha one would expec o "a man igh ing or li e agains he su oca ion induced by cyanide poisoning." Turing had gi en no hin o suicidal inclina ions o his riends and had made no e or o pu his a airs in order. &#91; 195 &#93; 
+ Hodges and a la er biographer, Da id Lea i , ha e bo h specula ed ha Turing was re-enac ing a scene rom he Wal Disney ilm Snow Whi e and he Se en Dwar s (1937), his a ouri e airy ale. Bo h men no ed ha (in Lea i 's words) he ook "an especially keen pleasure in he scene where he Wicked Queen immerses her apple in he poisonous brew". &#91; 196 &#93; &#91; 197 &#93; &#91; 198 &#93; 
+ 
+ Turing's OBE curren ly held in Sherborne School archi es 
+ I has also been sugges ed ha Turing's belie in or une- elling may ha e caused his depressed mood. &#91; 192 &#93; As a you h, Turing had been old by a or une- eller ha he would be a genius. In mid-May 1954, shor ly be ore his dea h, Turing again decided o consul a or une- eller during a day- rip o S Annes-on-Sea wi h he Greenbaum amily. &#91; 192 &#93; According o he Greenbaums' daugh er, Barbara: &#91; 182 &#93; 
+ 
+ Bu i was a lo ely sunny day and Alan was in a cheer ul mood and o we wen &#160;... Then he hough i would be a good idea o go o he Pleasure Beach a Blackpool . We ound a or une- eller's en and Alan said he'd like o go in[,] so we wai ed around or him o come back&#160;... And his sunny, cheer ul isage had shrunk in o a pale, shaking, horror-s ricken ace. Some hing had happened. We don' know wha he or une- eller said bu he ob iously was deeply unhappy. I hink ha was probably he las ime we saw him be ore we heard o his suicide. 
+ Go ernmen apology and pardon 
+ Main ar icle: Alan Turing law 
+ In Augus 2009, Bri ish programmer John Graham-Cumming s ar ed a pe i ion urging he Bri ish go ernmen o apologise or Turing's prosecu ion as a homosexual. &#91; 199 &#93; &#91; 200 &#93; The pe i ion recei ed more han 30,000 signa ures. &#91; 201 &#93; &#91; 202 &#93; The prime minis er, Gordon Brown , acknowledged he pe i ion, releasing a s a emen on 10 Sep ember 2009 apologising and describing he rea men o Turing as "appalling": &#91; 201 &#93; &#91; 203 &#93; 
+ 
+ Thousands o people ha e come oge her o demand jus ice or Alan Turing and recogni ion o he appalling way he was rea ed. While Turing was deal wi h under he law o he ime and we can' pu he clock back, his rea men was o course u erly un air and I am pleased o ha e he chance o say how deeply sorry I and we all are or wha happened o him&#160;... So on behal o he Bri ish go ernmen , and all hose who li e reely hanks o Alan's work I am ery proud o say: we're sorry, you deser ed so much be er. &#91; 201 &#93; &#91; 204 &#93; 
+ In December 2011, William Jones and his member o Parliamen , John Leech , crea ed an e-pe i ion &#91; 205 &#93; reques ing ha he Bri ish go ernmen pardon Turing or his con ic ion o "gross indecency": &#91; 206 &#93; 
+ 
+ We ask he HM Go ernmen o gran a pardon o Alan Turing or he con ic ion o "gross indecency". In 1952, he was con ic ed o "gross indecency" wi h ano her man and was orced o undergo so-called "organo- herapy"—chemical cas ra ion. Two years la er, he killed himsel wi h cyanide, aged jus 41. Alan Turing was dri en o a errible despair and early dea h by he na ion he'd done so much o sa e. This remains a shame on he Bri ish go ernmen and Bri ish his ory. A pardon can go some way o healing his damage. I may ac as an apology o many o he o her gay men, no as well-known as Alan Turing, who were subjec ed o hese laws. &#91; 205 &#93; 
+ The pe i ion ga hered o er 37,000 signa ures, &#91; 205 &#93; &#91; 207 &#93; and was submi ed o Parliamen by he Manches er MP John Leech bu he reques was discouraged by Jus ice Minis er Lord McNally , who said: &#91; 208 &#93; 
+ 
+ A pos humous pardon was no considered appropria e as Alan Turing was properly con ic ed o wha a he ime was a criminal o ence. He would ha e known ha his o ence was agains he law and ha he would be prosecu ed. I is ragic ha Alan Turing was con ic ed o an o ence ha now seems bo h cruel and absurd—par icularly poignan gi en his ou s anding con ribu ion o he war e or . Howe er, he law a he ime required a prosecu ion and, as such, long-s anding policy has been o accep ha such con ic ions ook place and, ra her han rying o al er he his orical con ex and o pu righ wha canno be pu righ , ensure ins ead ha we ne er again re urn o hose imes. &#91; 209 &#93; 
+ John Leech, he MP or Manches er Wi hing on (2005–15), submi ed se eral bills o Parliamen &#91; 210 &#93; and led a high-pro ile campaign o secure he pardon. Leech made he case in he House o Commons ha Turing's con ribu ion o he war made him a na ional hero and ha i was "ul ima ely jus embarrassing" ha he con ic ion s ill s ood. &#91; 211 &#93; Leech con inued o ake he bill hrough Parliamen and campaigned or se eral years, gaining he public suppor o numerous leading scien is s, including he physicis S ephen Hawking . &#91; 212 &#93; &#91; 213 &#93; 
+ On 26 July 2012, a bill was in roduced in he House o Lords o gran a s a u ory pardon o Turing or o ences under sec ion 11 o he Criminal Law Amendmen Ac 1885, o which he was con ic ed on 31 March 1952. &#91; 214 &#93; La e in he year in a le er o The Daily Telegraph , Hawking and 10 o her signa ories including he As ronomer Royal Lord Rees , Presiden o he Royal Socie y Sir Paul Nurse , Lady Trumping on (who worked or Turing during he war) and Lord Sharkey ( he bill's sponsor) called on Prime Minis er Da id Cameron o ac on he pardon reques . &#91; 215 &#93; The go ernmen indica ed i would suppor he bill, &#91; 216 &#93; &#91; 217 &#93; &#91; 218 &#93; and i passed i s hird reading in he House o Lords in Oc ober. &#91; 219 &#93; 
+ A he bill's second reading in he House o Commons on 29 No ember 2013, Conser a i e MP Chris opher Chope objec ed o he bill, delaying i s passage. The bill was due o re urn o he House o Commons on 28 February 2014, &#91; 220 &#93; bu be ore he bill could be deba ed in he House o Commons, &#91; 221 &#93; he go ernmen elec ed o proceed under he royal preroga i e o mercy . On 24 December 2013, Queen Elizabe h II signed a pardon or Turing's con ic ion or "gross indecency", wi h immedia e e ec . &#91; 222 &#93; Announcing he pardon, Lord Chancellor Chris Grayling said Turing deser ed o be "remembered and recognised or his an as ic con ribu ion o he war e or " and no or his la er criminal con ic ion. &#91; 207 &#93; &#91; 223 &#93; The Queen pronounced Turing pardoned in Augus 2014. &#91; 224 &#93; I was only he our h royal pardon gran ed since he conclusion o he Second World War. &#91; 225 &#93; Pardons are normally gran ed only when he person is echnically innocen , and a reques has been made by he amily or o her in eres ed par y; nei her condi ion was me in regard o Turing's con ic ion. &#91; 226 &#93; 
+ In Sep ember 2016, he go ernmen announced i s in en ion o expand his re roac i e exonera ion o o her men con ic ed o similar his orical indecency o ences, in wha was described as an " Alan Turing law ". &#91; 227 &#93; &#91; 228 &#93; The Alan Turing law is now an in ormal erm or he law in he Uni ed Kingdom, con ained in he Policing and Crime Ac 2017 , which ser es as an amnes y law o re roac i ely pardon men who were cau ioned or con ic ed under his orical legisla ion ha ou lawed homosexual ac s. The law applies in England and Wales. &#91; 229 &#93; Due o his repea ed a emp s o bring a en ion o he issue, Leech is now regularly described as he "archi ec " o Turing's pardon and subsequen ly he Alan Turing Law, which wen on o secure pardons or 75,000 o her men and women. &#91; 230 &#93; &#91; 231 &#93; &#91; 232 &#93; A he Bri ish premiere o a ilm based on Turing's li e, The Imi a ion Game , he producers hanked Leech or bringing he opic o public a en ion and securing Turing's pardon. &#91; 233 &#93; 
+ On 19 July 2023, ollowing an apology o LGBT e erans rom he UK Go ernmen , De ence Secre ary Ben Wallace sugges ed Turing should be honoured wi h a permanen s a ue on he our h plin h o Tra algar Square , describing Turing as "probably he grea es war hero, in my book, o he Second World War, [whose] achie emen s shor ened he war, sa ed housands o li es, helped de ea he Nazis. And his s ory is a sad s ory o a socie y and how i rea ed him." &#91; 234 &#93; &#91; 235 &#93; &#91; 236 &#93; 
+ 
+ Fur her reading 
+ Ar icles 
+ .mw-parser-ou pu ci e.ci a ion{ on -s yle:inheri ;word-wrap:break-word}.mw-parser-ou pu .ci a ion q{quo es:" """ """'""'"}.mw-parser-ou pu .ci a ion: arge {background-color:rgba(0,127,255,0.133)}.mw-parser-ou pu .id-lock- ree.id-lock- ree a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-limi ed.id-lock-limi ed a,.mw-parser-ou pu .id-lock-regis ra ion.id-lock-regis ra ion a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-subscrip ion.id-lock-subscrip ion a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.s g")righ 0.1em cen er/12px no-repea }body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock- ree a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-limi ed a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-regis ra ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-subscrip ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .cs1-ws-icon a{background-size:con ain;padding:0 1em 0 0}.mw-parser-ou pu .cs1-code{color:inheri ;background:inheri ;border:none;padding:inheri }.mw-parser-ou pu .cs1-hidden-error{display:none;color: ar(--color-error,#b 3c2c)}.mw-parser-ou pu .cs1- isible-error{color: ar(--color-error,#b 3c2c)}.mw-parser-ou pu .cs1-main {display:none;color:#085;margin-le :0.3em}.mw-parser-ou pu .cs1-kern-le {padding-le :0.2em}.mw-parser-ou pu .cs1-kern-righ {padding-righ :0.2em}.mw-parser-ou pu .ci a ion .mw-sel link{ on -weigh :inheri }@media screen{.mw-parser-ou pu .cs1- orma { on -size:95%}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .cs1-main {color:#18911 }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .cs1-main {color:#18911 }} Copeland, B. Jack (ed.). "The Mind and he Compu ing Machine: Alan Turing and o hers" . The Ru her ord Journal . Archi ed rom he original on 18 March 2012 . Re rie ed 6 April 2009 . 
+ Copeland, B. Jack (ed.). "Alan Turing: Fa her o he Modern Compu er" . The Ru her ord Journal . Archi ed rom he original on 24 January 2022 . Re rie ed 19 No ember 2013 . 
+ Hodges, Andrew (2004). "Turing, Alan Ma hison". Ox ord Dic ionary o Na ional Biography (online&#160;ed.). Ox ord Uni ersi y Press. doi : 10.1093/re :odnb/36578 . &#x20; (Subscrip ion, Wikipedia Library access or UK public library membership required.) 
+ Hodges, Andrew (2007). "Alan Turing" . In Edward N. Zal a (ed.). S an ord Encyclopedia o Philosophy (Win er 2009&#160;ed.). S an ord Uni ersi y . Re rie ed 10 January 2011 . 
+ Gray, Paul (29 March 1999). "Compu er Scien is : Alan Turing" . Time . Archi ed rom he original on 16 Oc ober 2007. 
+ O'Connell, H; Fi zgerald, M (2003). "Did Alan Turing ha e Asperger's syndrome?". Irish Journal o Psychological Medicine . 20 (1). Irish Ins i u e o Psychological Medicine: 28– 31. doi : 10.1017/s0790966700007503 . ISSN &#160; 0790-9667 . PMID &#160; 30440230 . S2CID &#160; 53563123 . 
+ O'Connor, John J.; Rober son, Edmund F. "Alan Ma hison Turing" . MacTu or His ory o Ma hema ics Archi e . Uni ersi y o S Andrews . 
+ Books 
+ Agar, Jon (2001). Turing and he Uni ersal Machine . Dux ord: Icon. ISBN &#160; 978-1-84046-250-0 . 
+ Agar, Jon (2003). The go ernmen machine: a re olu ionary his ory o he compu er . Cambridge, Massachuse s: MIT Press. ISBN &#160; 978-0-262-01202-7 . 
+ Babbage, Charles (2016) [1864]. Campbell-Kelly, Mar in (ed.). The Works o Charles Babbage: Passages rom he Li e o a Philosopher . Ox ord: Rou ledge. ISBN &#160; 978-1-138-76370-8 . 
+ Beniger, James (1986). The con rol re olu ion: echnological and economic origins o he in orma ion socie y . Cambridge, Massachuse s: Har ard Uni ersi y Press. ISBN &#160; 978-0-674-16986-9 . 
+ Bernhard , Chris (2017). Turing's Vision: The Bir h o Compu er Science . MIT Press. ISBN &#160; 978-0-262-53351-5 . 
+ Bodanis, Da id (2005). Elec ric Uni erse: How Elec rici y Swi ched on he Modern World . New York: Three Ri ers Press. ISBN &#160; 978-0-307-33598-2 . OCLC &#160; 61684223 . 
+ Bruderer, Herber (2012). "Die Maschinen on Charles Babbage, Alan Turing und John on Neumann". Konrad Zuse und die Schweiz. Wer ha den Compu er er unden? (in German). München: Oldenbourg Wissenscha s erlag. doi : 10.1524/9783486716658 . ISBN &#160; 978-3-486-71366-4 . 
+ Campbell-Kelly, Mar in ; Aspray, William (1996). Compu er: A His ory o he In orma ion Machine . New York: Basic Books. ISBN &#160; 978-0-465-02989-1 . 
+ Ceruzzi, Paul E. (1998). A His ory o Modern Compu ing . Cambridge, Massachuse s, and London: MIT Press. ISBN &#160; 978-0-262-53169-6 . 
+ Chandler, Al red (1977). The Visible Hand: The Managerial Re olu ion in American Business . Cambridge, Massachuse s: Belknap Press. ISBN &#160; 978-0-674-94052-9 . 
+ Cooper, S. Barry; an Leeuwen, Jan (2013). Alan Turing: His Work and Impac . New York: Else ier. ISBN &#160; 978-0-12-386980-7 . 
+ Copeland, B. Jack , ed. (2005). Alan Turing's Au oma ic Compu ing Engine . Ox ord: Ox ord Uni ersi y Press. ISBN &#160; 978-0-19-856593-2 . OCLC &#160; 224640979 . 
+ Copeland, B. Jack; Bowen, Jona han P. ; Wilson, Robin ; Spre ak, Mark (2017). The Turing Guide . Ox ord Uni ersi y Press . ISBN &#160; 978-0-19-874783-3 . 
+ Dyson, George (2012). Turing's Ca hedral: The Origins o he Digi al Uni erse . Vin age. ISBN &#160; 978-1-4000-7599-7 . 
+ Edwards, Paul N (1996). The closed world: compu ers and he poli ics o discourse in Cold War America . Cambridge, Massachuse s: MIT Press. ISBN &#160; 978-0-262-55028-4 . 
+ Gleick, James (2011). The In orma ion: A His ory, a Theory, a Flood . New York: Pan heon. ISBN &#160; 978-0-375-42372-7 . 
+ Hochhu h, Rol (1988). Alan Turing: en berä else . Symposion. ISBN &#160; 978-91-7868-109-9 . 
+ Le in, Janna (2006). A Madman Dreams o Turing Machines . New York: Knop . ISBN &#160; 978-1-4000-3240-2 . 
+ Lubar, S e en (1993). In ocul ure . Bos on, Massachuse s and New York: Hough on Mi lin. ISBN &#160; 978-0-395-57042-5 . 
+ Pe zold, Charles (2008). The Anno a ed Turing : A Guided Tour hrough Alan Turing's His oric Paper on Compu abili y and he Turing Machine . Indianapolis : Wiley Publishing. ISBN &#160; 978-0-470-22905-7 . 
+ Smi h, Michael (1998). The Secre s o S a ion X: How he Ble chley Park codebreakers helped win he war . Box ree . ISBN &#160; 978-0752221892 . 
+ Smi h, Roger (1997). Fon ana His ory o he Human Sciences . London: Fon ana. 
+ Turing, Sara S oney (1959). Alan M Turing . W He er. Turing's mo her, who sur i ed him by many years, wro e his 157-page biography o her son, glori ying his li e. I was published in 1959, and so could no co er his war work. Scarcely 300 copies were sold (Sara Turing o Lyn Newman, 1967, Library o S John's College, Cambridge ). The six-page oreword by Lyn Ir ine includes reminiscences and is more requen ly quo ed. I was re-published by Cambridge Uni ersi y Press in 2012, o honour he cen enary o his bir h, and included a new oreword by Mar in Da is , as well as a ne er-be ore-published memoir by Turing's older bro her John F. Turing. 
+ Turing, Sara (2012). Alan M. Turing . Cambridge Uni ersi y Press . ISBN &#160; 978-1-107-02058-0 . (originally published in 1959 by W. He er &amp; Sons, L d) 
+ Weizenbaum, Joseph (1976). Compu er Power and Human Reason . London: W.H. Freeman. ISBN &#160; 0-7167-0463-3 . 
+ Whi emore, Hugh ; Hodges, Andrew (1988). Breaking he code . S. French. This 1986 Hugh Whi emore play ells he s ory o Turing's li e and dea h. In he original Wes End and Broadway runs, Derek Jacobi played Turing and he recrea ed he role in a 1997 ele ision ilm based on he play made join ly by he BBC and WGBH, Bos on . The play is published by Amber Lane Press, Ox ord , ASIN: B000B7TM0Q 
+ Williams, Michael R. (1985). A His ory o Compu ing Technology . Englewood Cli s, New Jersey : Pren ice-Hall . ISBN &#160; 0-8186-7739-2 . 
+ Ya es, Da id M. (1997). Turing's Legacy: A his ory o compu ing a he Na ional Physical Labora ory 1945–1995 . London: London Science Museum . ISBN &#160; 978-0-901805-94-2 . OCLC &#160; 123794619 . 
+ See also 
+ Legacy o Alan Turing 
+ Lis o hings named a er Alan Turing 
+ Lis o suicides o LGBTQ people 
+ Lis o pioneers in compu er science 
+ Works ci ed 
+ .mw-parser-ou pu .re begin{margin-bo om:0.5em}.mw-parser-ou pu .re begin-hanging-inden s>ul{margin-le :0}.mw-parser-ou pu .re begin-hanging-inden s>ul>li{margin-le :0;padding-le :3.2em; ex -inden :-3.2em}.mw-parser-ou pu .re begin-hanging-inden s ul,.mw-parser-ou pu .re begin-hanging-inden s ul li{lis -s yle:none}@media(max-wid h:720px){.mw-parser-ou pu .re begin-hanging-inden s>ul>li{padding-le :1.6em; ex -inden :-1.6em}}.mw-parser-ou pu .re begin-columns{margin- op:0.3em}.mw-parser-ou pu .re begin-columns ul{margin- op:0}.mw-parser-ou pu .re begin-columns li{page-break-inside:a oid;break-inside:a oid-column}@media screen{.mw-parser-ou pu .re begin{ on -size:90%}} 
+ Alexander, C. Hugh O'D. "Cryp ographic His ory o Work on he German Na al Enigma" . The Na ional Archi es, Kew, Re erence HW 25/1. Archi ed rom he original on 17 February 2022 . Re rie ed 15 No ember 2010 . 
+ Bea ers, An hony (2013). "Alan Turing: Ma hema ical Mechanis " . In Cooper, S. Barry; an Leeuwen, Jan (eds.). Alan Turing: His Work and Impac . Wal ham: Else ier. pp.&#160; 481– 485. ISBN &#160; 978-0-12-386980-7 . 
+ Church, Alonzo (1936). "An Unsol able Problem o Elemen ary Number Theory" . American Journal o Ma hema ics . 58 (2): 345– 363. doi : 10.2307/2371045 . ISSN &#160; 0002-9327 . JSTOR &#160; 2371045 . 
+ Copeland, B. Jack (2004a). "Colossus: I s Origins and Origina ors". IEEE Annals o he His ory o Compu ing . 26 (4): 38– 45. Bibcode : 2004IAHC...26d..38C . doi : 10.1109/MAHC.2004.26 . S2CID &#160; 20209254 . 
+ Copeland, B. Jack, ed. (2004b). The Essen ial Turing . Ox ord: Ox ord Uni ersi y Press. ISBN &#160; 978-0-19-825079-1 . OCLC &#160; 156728127 . 
+ Copeland, B. Jack (2006). Colossus: The secre s o Ble chley Park's code-breaking compu ers . Ox ord Uni ersi y Press. ISBN &#160; 978-0-19-284055-4 . 
+ Hil on, Pe er (2006). "Li ing wi h Fish: Breaking Tunny in he Newmanry and Tes ery". Colussus . in Copeland 2006 , pp.&#160;189–203 
+ Gannon, Paul (2007) [2006]. Colossus: Ble chley Park's Grea es Secre . London: A lan ic Books. ISBN &#160; 978-1-84354-331-2 . 
+ Hodges, Andrew (1983). Alan Turing: The Enigma . London: Burne Books L d. ISBN &#160; 978-0-09-152130-1 . ; basis o he ilm The Imi a ion Game 
+ Lea i , Da id (2007). The man who knew oo much: Alan Turing and he in en ion o he compu er . Phoenix. ISBN &#160; 978-0-7538-2200-5 . 
+ Lewin, Ronald (1978). Ul ra Goes o War: The Secre S ory . Classic Mili ary His ory (Classic Penguin&#160;ed.). London: Hu chinson &amp; Co (published 2001). ISBN &#160; 978-1-56649-231-7 . 
+ Mahon, A. P. (June 1945). The His ory o Hu Eigh , 1939 - 1945 . Na ional Archi es, Kew : Uni ed Kingdom. Archi ed rom he original on 20 February 2007 . Re rie ed 10 December 2009 &#8211; ia ellsbury.com. Re erence HW 25/2 
+ In 1996, a copy was released o he Na ional Archi es and Records Adminis ra ion . &#91; 237 &#93; Then a copy was released o Na ional Archi es, Kew . &#91; 238 &#93; Mahon's accoun is irs -hand rom Oc ober 1941. Also published as a book chap er ( doi : 10.1093/oso/9780198250791.003.0010 ), and a olume in a series. &#91; 239 &#93; 
+ Oakley, Brian , ed. (2006). The Ble chley Park War Diaries: July 1939&#160;– Augus 1945 (2.6&#160;ed.). Wynne Press. 
+ Sipser, Michael (2006). In roduc ion o he Theory o Compu a ion . PWS Publishing. ISBN &#160; 978-0-534-95097-2 . 
+ Turing, A. M. (1937) [Deli ered o he Socie y No ember 1936]. "On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem" (PDF) . Proceedings o he London Ma hema ical Socie y . 2. Vol.&#160;42, no.&#160;1. pp.&#160; 230– 65. doi : 10.1112/plms/s2-42.1.230 . Archi ed (PDF) rom he original on 6 May 2011 . Re rie ed 15 July 2009 . 
+ 
+ No es 
+ .mw-parser-ou pu .re lis -columns-2{column-wid h:30em}.mw-parser-ou pu .re lis -columns-3{column-wid h:25em}body.skin- ec or-2022 .mw-parser-ou pu .re lis -columns-2{column-wid h:27em}body.skin- ec or-2022 .mw-parser-ou pu .re lis -columns-3{column-wid h:22.5em}.mw-parser-ou pu .re erences[da a-mw-group=upper-alpha]{lis -s yle- ype:upper-alpha}.mw-parser-ou pu .re erences[da a-mw-group=upper-roman]{lis -s yle- ype:upper-roman}.mw-parser-ou pu .re erences[da a-mw-group=lower-alpha]{lis -s yle- ype:lower-alpha}.mw-parser-ou pu .re erences[da a-mw-group=lower-greek]{lis -s yle- ype:lower-greek}.mw-parser-ou pu .re erences[da a-mw-group=lower-roman]{lis -s yle- ype:lower-roman}.mw-parser-ou pu di .re lis -lis s yle-upper-alpha .re erences{lis -s yle- ype:upper-alpha}.mw-parser-ou pu di .re lis -lis s yle-upper-roman .re erences{lis -s yle- ype:upper-roman}.mw-parser-ou pu di .re lis -lis s yle-lower-alpha .re erences{lis -s yle- ype:lower-alpha}.mw-parser-ou pu di .re lis -lis s yle-lower-greek .re erences{lis -s yle- ype:lower-greek}.mw-parser-ou pu di .re lis -lis s yle-lower-roman .re erences{lis -s yle- ype:lower-roman} 
+ 
+ ^ Turing's dea h was o icially de ermined as a suicide by an inques , bu his has been dispu ed. &#91; 5 &#93; 
+ 
+ 
+ Re erences 
+ 
+ ^ a b Alan Turing publica ions indexed by Google Scholar 
+ 
+ ^ a b Alan Turing a he Ma hema ics Genealogy Projec 
+ 
+ ^ Gandy, Robin Oli er (1953). On axioma ic sys ems in ma hema ics and heories in physics (PhD hesis). Uni ersi y o Cambridge. doi : 10.17863/CAM.16125 . EThOS &#160; uk.bl.e hos.590164 . Archi ed rom he original on 9 December 2017 . Re rie ed 9 December 2017 . 
+ 
+ ^ a b Bowen, Jona han P. (2019). "The Impac o Alan Turing: Formal Me hods and Beyond". In Bowen, Jona han P.; Liu, Zhiming ; Zhang, Zili (eds.). Engineering Trus wor hy So ware Sys ems (PDF) . Lec ure No es in Compu er Science . Vol.&#160;11430. Cham: Springer . pp.&#160; 202– 235. doi : 10.1007/978-3-030-17601-3_5 . ISBN &#160; 978-3-030-17600-6 . S2CID &#160; 121295850 . Archi ed (PDF) rom he original on 9 Oc ober 2022. 
+ 
+ ^ a b c d Pease, Roland (23 June 2012). "Alan Turing: Inques 's suicide erdic 'no suppor able' " . BBC News . Archi ed rom he original on 23 June 2012 . Re rie ed 23 June 2012 . We ha e&#160;... been recrea ing he narra i e o Turing's li e, and we ha e recrea ed him as an unhappy young man who commi ed suicide. Bu he e idence is no here. 
+ 
+ ^ "Alan Turing" . The Bri ish Library. Archi ed rom he original on 23 July 2019 . Re rie ed 29 July 2019 . 
+ 
+ ^ Newman, M.H.A. (1955). "Alan Ma hison Turing. 1912–1954" . Biographical Memoirs o Fellows o he Royal Socie y . 1 : 253– 263. doi : 10.1098/rsbm.1955.0019 . ISSN &#160; 0080-4606 . JSTOR &#160; 769256 . S2CID &#160; 711366 . 
+ 
+ ^ Gray, Paul (29 March 1999). "Compu er Scien is : Alan Turing" . Time . Archi ed rom he original on 19 January 2011 . Re rie ed 10 January 2011 . Pro iding a blueprin or he elec ronic digi al compu er. The ac remains ha e eryone who aps a a keyboard, opening a spreadshee or a word-processing program, is working on an incarna ion o a Turing machine. 
+ 
+ ^ Sipser 2006 , p.&#160;137 
+ 
+ ^ Bea ers 2013 , p.&#160;481 
+ 
+ ^ Copeland, Jack (18 June 2012). "Alan Turing: The codebreaker who sa ed 'millions o li es' " . BBC News Technology. Archi ed rom he original on 11 Oc ober 2014 . Re rie ed 26 Oc ober 2014 . 
+ 
+ ^ A number o sources s a e ha Wins on Churchill said ha Turing made he single bigges con ribu ion o Allied ic ory in he war agains Nazi Germany. Whils i may be a de ensible claim, bo h he Churchill Cen re and Turing's biographer Andrew Hodges ha e s a ed hey know o no documen ary e idence o suppor i , nor he da e or con ex in which Churchill supposedly made i , and he Churchill Cen re lis s i among heir Churchill 'My hs', see Schilling, Jona han (8 January 2015). "My hs &g ; Churchill Said Turing Made he Single Bigges Con ribu ion o Allied Vic ory" . In erna ional Churchill Socie y . The Churchill Cen re. Archi ed rom he original on 17 February 2015 . Re rie ed 9 January 2015 . and Hodges, Andrew . "Par 4: The Relay Race" . Upda e o Alan Turing: The Enigma . Archi ed rom he original on 20 January 2015 . Re rie ed 9 January 2015 . A BBC News pro ile piece ha repea ed he Churchill claim has subsequen ly been amended o say here is no e idence or i . See Spencer, Clare (11 Sep ember 2009). "Pro ile: Alan Turing" . BBC News . Archi ed rom he original on 13 December 2017 . Re rie ed 17 February 2015 . Upda e 13 February 2015 O icial war his orian Harry Hinsley es ima ed ha his work shor ened he war in Europe by more han wo years bu added he ca ea ha his did no accoun or he use o he a omic bomb and o her e en uali ies. Hinsley, Harry (1996) [1993]. The In luence o ULTRA in he Second World War . Kei h Locks one's home page. Archi ed rom he original on 15 Oc ober 2022 . Re rie ed 26 Augus 2024 . Transcrip o a lec ure gi en on Tuesday 19 Oc ober 1993 a Cambridge Uni ersi y 
+ 
+ ^ Lea i 2007 , pp.&#160;231–233 
+ 
+ ^ Milinko i ch, Michel C.; Jahanbakhsh, Ebrahim; Zakany, Szabolcs (16 Oc ober 2023). "The Unreasonable E ec i eness o Reac ion Di usion in Ver ebra e Skin Color Pa erning" . Annual Re iew o Cell and De elopmen al Biology . 39 (1): 145– 174. doi : 10.1146/annure -cellbio-120319-024414 . ISSN &#160; 1081-0706 . PMID &#160; 37843926 . 
+ 
+ ^ Olinick, Michael (2021). "Chap er 15". Simply Turing . Uni ed S a es: Simply Charly. 
+ 
+ ^ " 'Alan Turing law': Thousands o gay men o be pardoned" . BBC News . 20 Oc ober 2016. Archi ed rom he original on 20 Oc ober 2016 . Re rie ed 20 Oc ober 2016 . 
+ 
+ ^ Hodges 1983 , p.&#160;xiii. 
+ 
+ ^ a b Hodges 1983 , p.&#160;5. 
+ 
+ ^ "The Alan Turing In erne Scrapbook" . Alan Turing: The Enigma . Archi ed rom he original on 14 June 2012 . Re rie ed 2 January 2012 . 
+ 
+ ^ Maguire, Phil (23 June 2012). "An Irishman's Diary". The Irish Times . p.&#160;5. 
+ 
+ ^ Irish Marriages 1845–1958 / Dublin Sou h, Dublin, Ireland / Group Regis ra ion ID 1990366, SR Dis ric /Reg Area, Dublin Sou h 
+ 
+ ^ "London Blue Plaques" . English Heri age . Archi ed rom he original on 3 Sep ember 2009 . Re rie ed 10 February 2007 . 
+ 
+ ^ "The Scien i ic Touris In London: #17 Alan Turing's Bir h Place" . Na ure London Blog . Archi ed rom he original on 21 Sep ember 2013. , 
+ 
+ ^ Plaque #381 on Open Plaques 
+ 
+ ^ "The Alan Turing In erne Scrapbook" . Archi ed rom he original on 20 July 2011 . Re rie ed 26 Sep ember 2006 . 
+ 
+ ^ "Sir John Dermo Turing" . Ble chley Park . Archi ed rom he original on 18 Oc ober 2017. 
+ 
+ ^ a b Hodges 1983 , p.&#160;16. 
+ 
+ ^ Hodges 1983 , p.&#160;6. 
+ 
+ ^ "Plaque un eiled a Turing's home in S Leonards" . Has ings &amp; S . Leonards Obser er . 29 June 2012. Archi ed rom he original on 12 Sep ember 2017 . Re rie ed 3 July 2017 . 
+ 
+ ^ "S Leonards plaque marks Alan Turing's early years" . BBC News . 25 June 2012. Archi ed rom he original on 3 December 2017 . Re rie ed 3 July 2017 . 
+ 
+ ^ "Guild ord Dragon NEWS" . The Guild ord Dragon . 29 No ember 2012. Archi ed rom he original on 19 Oc ober 2013 . Re rie ed 31 Oc ober 2013 . 
+ 
+ ^ Caw horne, Nigel (2014). Alan Turing&#160;: he enigma man . London: Arc urus Publishing. p.&#160;18. ISBN &#160; 978-1-78404-535-7 . OCLC &#160; 890938716 . 
+ 
+ ^ Alan Ma hison (April 2016). "Alan Turing Archi e – Sherborne School (ARCHON CODE: GB1949)" (PDF) . Sherborne School, Dorse . Archi ed (PDF) rom he original on 26 December 2016 . Re rie ed 5 February 2017 . 
+ 
+ ^ "Alan Turing OBE, PhD, FRS (1912–1954)" . The Old Shirburnian Socie y . 1 Sep ember 2016. Archi ed rom he original on 4 No ember 2020 . Re rie ed 10 Oc ober 2020 . 
+ 
+ ^ Ho s ad er, Douglas R. (1985). Me amagical Themas: Ques ing or he Essence o Mind and Pa ern . Basic Books. p.&#160; 484 . ISBN &#160; 978-0-465-04566-2 . OCLC &#160; 230812136 . 
+ 
+ ^ Hodges 1983 , p.&#160;34. 
+ 
+ ^ " The Shirburnian " (PDF) . Archi ed (PDF) rom he original on 9 Oc ober 2022. 
+ 
+ ^ The Alyson Almanac: A Treasury o In orma ion or he Gay and Lesbian Communi y . Alyson Publica ions. 1989. p.&#160;192. ISBN &#160; 978-0-932870-19-3 . Archi ed rom he original on 7 No ember 2023 . Re rie ed 26 Augus 2024 . A er his irs lo e, Chris opher Morcom, died o uberculosis ... 
+ 
+ ^ Hodges, Andrew (1992). Alan Turing: The Enigma . Vin age. p.&#160;35. ISBN &#160; 978-0-09-911641-7 . Archi ed rom he original on 8 Sep ember 2023 . Re rie ed 26 Augus 2024 . This was irs lo e, which Alan would himsel come o regard as he irs o many or o hers o his own sex. 
+ 
+ ^ Tekhnema: Journal o Philosophy and Technology . American Uni ersi y o Paris. 1995. p.&#160;57. ... Turing's irs pla onic lo e, Chris opher Morcom ... 
+ 
+ ^ Caryl, Chris ian (19 December 2014). "Poor Imi a ion o Alan Turing" . New York Re iew o Books . Archi ed rom he original on 7 January 2015 . Re rie ed 9 January 2015 . 
+ 
+ ^ Hassall, Rachel (2012–2013). "The Sherborne Formula: The Making o Alan Turing" (PDF) . Vi a ! . Archi ed rom he original (PDF) on 15 April 2014. 
+ 
+ ^ Teuscher, Chris o , ed. (2004). Alan Turing: Li e and Legacy o a Grea Thinker . Springer-Verlag . ISBN &#160; 978-3-540-20020-8 . OCLC &#160; 53434737 . 
+ 
+ ^ Hodges 1983 , p.&#160;61. 
+ 
+ ^ Hodges 1983 , p.&#160;87. 
+ 
+ ^ Hodges 1983 , p.&#160;90. 
+ 
+ ^ Gray, Paul. "Alan Turing" . Time Magazine's Mos Impor an People o he Cen ury . p.&#160;2. Archi ed rom he original on 11 Augus 2010. 
+ 
+ ^ Hodges 1983 , p.&#160;82-83. 
+ 
+ ^ "Alan Turing and he 'Na ure o Spiri ' " . oldshirburnian.org.uk . 15 Augus 2020. Archi ed rom he original on 20 December 2017 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ Hodges 1983 , p.&#160;74–75. 
+ 
+ ^ "In la ion calcula or" . Archi ed rom he original on 5 Oc ober 2018 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ (Schedule B was a hree-year scheme consis ing o Par s I and II, o he Ma hema ical Tripos , wi h ex ra courses a he end o he hird year, as Par III only emerged as a separa e degree in 1934 
+ 
+ ^ "AMT-B-10 &#124; he Turing Digi al Archi e" . 
+ 
+ ^ Aldrich, John (December 2009). "England and Con inen al Probabili y in he In er-War Years" (PDF) . Elec ronic Journ@l or His ory o Probabili y and S a is ics . 5 (2): 7– 11. 
+ 
+ ^ Turing, Alan (1939). "Le er From Alan Turing o his mo her, Sara Turing, 1939-01-23" . cam.ac.uk . "My lec ures are going o ra her well. There are 14 people coming o hem a presen . No doub he a endance will drop o as he erm ad ances." 
+ 
+ ^ Turing, Dermo (2015). Pro : Alan Turing Decoded . The His ory Press . p.&#160;69. ISBN &#160; 9781841656434 . 
+ 
+ ^ Hodges 1983 , p.&#160;113. 
+ 
+ ^ Zabell, S. L. (1995). "Alan Turing and he Cen ral Limi Theorem". The American Ma hema ical Mon hly . 102 (6): 483– 494. doi : 10.1080/00029890.1995.12004608 . 
+ 
+ ^ Turing, A. M. (1938). "On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem: A correc ion". Proceedings o he London Ma hema ical Socie y . 2. 43 (1) (published 1937): 544– 46. doi : 10.1112/plms/s2-43.6.544 . 
+ 
+ ^ Turing 1937 
+ 
+ ^ B. Jack Copeland; Carl J. Posy; Oron Shagrir (2013). Compu abili y: Turing, Gödel, Church, and Beyond . MIT Press. p.&#160;211. ISBN &#160; 978-0-262-01899-9 . 
+ 
+ ^ A i Wigderson (2019). Ma hema ics and Compu a ion . Prince on Uni ersi y Press. p.&#160;15. ISBN &#160; 978-0-691-18913-0 . 
+ 
+ ^ Church 1936 
+ 
+ ^ Grime, James (February 2012). "Wha Did Turing Do or Us?" . NRICH . Uni ersi y o Cambridge . Archi ed rom he original on 4 March 2016 . Re rie ed 28 February 2016 . 
+ 
+ ^ " on Neumann&#160;... irmly emphasised o me, and o o hers I am sure, ha he undamen al concep ion is owing o Turing—inso ar as no an icipa ed by Babbage, Lo elace and o hers." Le er by S anley Frankel o Brian Randell , 1972, quo ed in Jack Copeland (2004) The Essen ial Turing , p.&#160;22. 
+ 
+ ^ De Mol, Liesbe h (2021). "Turing Machines" . In Zal a, Edward N. (ed.). The S an ord Encyclopedia o Philosophy (Win er 2021&#160;ed.). Me aphysics Research Lab, S an ord Uni ersi y. Archi ed rom he original on 16 Oc ober 2022 . Re rie ed 12 July 2023 . 
+ 
+ ^ Hodges 1983 , p.&#160;138. 
+ 
+ ^ Turing, A.M. (1939). "Sys ems o Logic Based on Ordinals". Proceedings o he London Ma hema ical Socie y . s2-45 (1): 161– 228. doi : 10.1112/plms/s2-45.1.161 . hdl : 21.11116/0000-0001-91CE-3 . 
+ 
+ ^ Turing, Alan (1938). Sys ems o Logic Based on Ordinals . Proceedings o he London Ma hema ical Socie y (PhD hesis). Vol.&#160;s2-45. Prince on Uni ersi y. doi : 10.1112/plms/s2-45.1.161 . hdl : 21.11116/0000-0001-91CE-3 . ProQues &#160; 301792588 . 
+ 
+ ^ Turing, A.M. (1938). "Sys ems o Logic Based on Ordinals" (PDF) . Archi ed rom he original (PDF) on 23 Oc ober 2012 . Re rie ed 4 February 2012 . 
+ 
+ ^ John Von Neumann: The Scien i ic Genius Who Pioneered he Modern Compu er, Game Theory, Nuclear De errence, and Much More , Norman MacRae, 1999, American Ma hema ical Socie y, Chap er 8 
+ 
+ ^ Hodges 1983 , p.&#160;152. 
+ 
+ ^ Diamond, Cora , ed. (1976). Wi gens ein's Lec ures on he Founda ions o Ma hema ics . Uni ersi y o Chicago Press. 
+ 
+ ^ Hodges 1983 , p.&#160;153-154. 
+ 
+ ^ Briggs, Asa (21 No ember 2011). Bri ain's Grea es Codebreaker (TV broadcas ). UK Channel 4 . 
+ 
+ ^ Copeland, Jack (2001). "Colossus and he Dawning o he Compu er Age". In Smi h, Michael; Erskine, Ralph (eds.). Ac ion This Day . Ban am. p.&#160;352. ISBN &#160; 978-0-593-04910-5 . 
+ 
+ ^ Copeland 2004a , p.&#160;217 
+ 
+ ^ Clark, Lia (18 June 2012). "Turing's achie emen s: codebreaking, AI and he bir h o compu er science (Wired UK)" . Wired . Archi ed rom he original on 2 No ember 2013 . Re rie ed 31 Oc ober 2013 . 
+ 
+ ^ a b Copeland, 2006 p.&#160;378. 
+ 
+ ^ a b c Collins, Jeremy (24 June 2020). "Alan Turing and he Hidden Heroes o Ble chley Park: A Con ersa ion wi h Sir John Dermo Turing" . New Orleans: The Na ional WWII Museum. Archi ed rom he original on 2 December 2021 . Re rie ed 24 Augus 2021 . 
+ 
+ ^ "How Alan Turing Cracked The Enigma Code" . Imperial War Museums . Archi ed rom he original on 24 January 2022 . Re rie ed 12 July 2023 . 
+ 
+ ^ Turing, Alan M.; Bayley, D. (2012). "Repor on Speech Secrecy Sys em DELILAH, a Technical Descrip ion Compiled by A. M. Turing and Lieu enan D. Bayley REME, 1945–1946" . Cryp ologia . 36 (4): 295– 340. doi : 10.1080/01611194.2012.713803 . ISSN &#160; 0161-1194 . S2CID &#160; 205488183 . Archi ed rom he original on 12 July 2023 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ Turing, Alan (c. 1941). "The Applica ions o Probabili y o Cryp ography" . The Na ional Archi es (Uni ed Kingdom): HW 25/37. Archi ed rom he original on 7 April 2015 . Re rie ed 25 March 2015 . 
+ 
+ ^ Turing, Alan (c. 1941). "Paper on S a is ics o Repe i ions" . The Na ional Archi es (Uni ed Kingdom): HW 25/38. Archi ed rom he original on 8 April 2015 . Re rie ed 25 March 2015 . 
+ 
+ ^ Vallance, Chris (19 April 2012). "Alan Turing papers on code breaking released by GCHQ" . BBC News . Archi ed rom he original on 4 Oc ober 2012 . Re rie ed 20 April 2012 . 
+ 
+ ^ Hodges 1983 , p.&#160;208. 
+ 
+ ^ Turing, Alan M. (1940). The Pro 's Book: Turing's Trea ise on he Enigma . In la e 1940 Alan Turing wro e a repor describing he me hods he and his colleagues a Ble chley Park had used o break in o he German Enigma cipher sys ems. A Ble chley i was known as ' he Pro 's Book.' A copy o his handbook was a las released rom secrecy by he American Na ional Securi y Agency in April 1996, under he i le Turing's Trea ise on he Enigma . Subsequen ly, a much be er original copy was released by he (Bri ish) Na ional Archi es, box HW 25/3. This also re ealed a i le which had been los in he American copy: Ma hema ical heory o ENIGMA machine . (Though, oddly, he repor does no ac ually ha e any ma hema ical heory.) 
+ 
+ ^ Lewin 1978 , p.&#160;57 
+ 
+ ^ Hil on, Pe er. "A Cen ury o Ma hema ics in America, Par 1, Reminiscences o Ble chley Park" (PDF) . Archi ed (PDF) rom he original on 29 Augus 2019. 
+ 
+ ^ Brown, An hony Ca e (1975). Bodyguard o Lies: The Ex raordinary True S ory Behind D-Day . The Lyons Press. p.&#160;19. ISBN &#160; 978-1-59921-383-5 . 
+ 
+ ^ Graham-Cumming, John (10 March 2010). "An Olympic honour or Alan Turing" . The Guardian . London. Archi ed rom he original on 1 December 2016 . Re rie ed 10 December 2016 . 
+ 
+ ^ Bu cher, Pa (14 Sep ember 2009). "In Praise o Grea Men" . Globe Runner. Archi ed rom he original on 18 Augus 2013 . Re rie ed 23 June 2012 . 
+ 
+ ^ Hodges, Andrew . "Alan Turing: a shor biography" . Alan Turing: The Enigma. Archi ed rom he original on 14 Sep ember 2013 . Re rie ed 12 June 2014 . 
+ 
+ ^ Graham-Cumming, John (10 March 2010). "Alan Turing: a shor biography" . The Guardian . Archi ed rom he original on 8 No ember 2014 . Re rie ed 12 June 2014 . 
+ 
+ ^ Bu cher, Pa (December 1999). "Turing as a runner" . The MacTu or His ory o Ma hema ics archi e. Archi ed rom he original on 13 No ember 2014 . Re rie ed 12 June 2014 . 
+ 
+ ^ Ko ke, Jason (17 April 2018). "Turing was an excellen runner" . ko ke.org . Archi ed rom he original on 9 June 2021 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ See or example Richelson, Je ery T. (1997). A Cen ury o Spies: In elligence in he Twen ie h Cen ury . New York: Ox ord Uni ersi y Press. p.&#160;296. and Har cup, Guy (2000). The E ec o Science on he Second World War . Basings oke, Hampshire: Macmillan Press. pp.&#160; 96– 99. 
+ 
+ ^ Hinsley, Harry (1996) [1993]. The In luence o ULTRA in he Second World War . Archi ed rom he original on 15 Oc ober 2022 . Re rie ed 26 Augus 2024 . Transcrip o a lec ure gi en on Tuesday 19 Oc ober 1993 a Cambridge Uni ersi y 
+ 
+ ^ "Alan Turing: Colleagues share heir memories" . BBC News . 23 June 2012. Archi ed rom he original on 7 July 2018 . Re rie ed 21 June 2018 . 
+ 
+ ^ "This mon h in his ory: Alan Turing and he Enigma code" . hegaze e.co.uk . Archi ed rom he original on 26 June 2019 . Re rie ed 6 February 2019 . 
+ 
+ ^ Welchman, Gordon (1997) [1982]. The Hu Six s ory: Breaking he Enigma codes . Cleobury Mor imer, England: M&amp;M Baldwin. p.&#160;81. ISBN &#160; 978-0-947712-34-1 . 
+ 
+ ^ Jack Good in "The Men Who Cracked Enigma", 2003: wi h his ca ea : "i my memory is correc ". 
+ 
+ ^ "The Turing-Welchman Bombe" . The Na ional Museum o Compu ing . Archi ed rom he original on 24 January 2022 . Re rie ed 18 March 2021 . 
+ 
+ ^ Oakley 2006 , p.&#160;40/03B 
+ 
+ ^ a b Hodges 1983 , p.&#160;218. 
+ 
+ ^ a b Hodges 1983 , p.&#160;221. 
+ 
+ ^ Copeland, The Essen ial Turing , pp. 336–337 Archi ed 18 February 2015 a he Wayback Machine . 
+ 
+ ^ Copeland, Jack ; Proud oo , Diane (May 2004). "Alan Turing, Codebreaker and Compu er Pioneer" . alan uring.ne . Archi ed rom he original on 9 July 2007 . Re rie ed 27 July 2007 . 
+ 
+ ^ "Ble chley Park Un eils S a ue Commemora ing Alan Turing" . Archi ed rom he original on 30 June 2007 . Re rie ed 30 June 2007 . 
+ 
+ ^ a b c Mahon 1945 , p.&#160;14. 
+ 
+ ^ Lea i 2007 , pp.&#160;184–186 
+ 
+ ^ Gladwin, Lee (Fall 1997). "Alan Turing, Enigma, and he Breaking o German Machine Ciphers in World War II" (PDF) . Prologue Magazine . Fall 1997: 202– 217. Archi ed (PDF) rom he original on 26 June 2019 . Re rie ed 13 April 2019 &#8211; ia Na ional Archi es. 
+ 
+ ^ Good, Jack ; Michie, Donald ; Timms, Geo rey (1945). General Repor on Tunny: Wi h Emphasis on S a is ical Me hods . Par 3 Organisa ion: 38 Wheel-breaking rom Key, Page 293. UK Public Record O ice HW 25/4 and HW 25/5. Archi ed rom he original on 21 April 2019 . Re rie ed 13 April 2019 . 
+ 
+ ^ Hodges 1983 , p.&#160;204-245. 
+ 
+ ^ "Alan Turing's Repor rom Washing on, 1942" . www. uring.org.uk . Archi ed rom he original on 12 July 2023 . Re rie ed 12 July 2023 . 
+ 
+ ^ "Alan Turing's Day on Repor , 1942" . www. uring.org.uk . Re rie ed 12 July 2023 . 
+ 
+ ^ Turing, Alan M. (2001). "Visi o Na ional Cash Regis er Corpora ion o Day on, Ohio". Cryp ologia . 25 (1): 1– 10. doi : 10.1080/0161-110191889734 . S2CID &#160; 14207094 . 
+ 
+ ^ Hodges 1983 , p.&#160;245-253. 
+ 
+ ^ "Marshall Legacy Series: Codebreaking – E en s" . marshall ounda ion.org . Archi ed rom he original on 7 April 2019 . Re rie ed 7 April 2019 . 
+ 
+ ^ Alexander &amp; circa 1945 , p.&#160;42 
+ 
+ ^ Copeland 2006 , p.&#160;380 
+ 
+ ^ Copeland 2006 , p.&#160;381 
+ 
+ ^ Copeland 2006 , p.&#160;72 
+ 
+ ^ Gannon 2007 , p.&#160;230 
+ 
+ ^ Hil on 2006 , pp.&#160;197–199 
+ 
+ ^ Copeland 2006 , pp.&#160;382, 383 
+ 
+ ^ Hodges 1983 , p.&#160;245-250. 
+ 
+ ^ Harper, John (Spring 2023). "Delilah Voice Secrecy Sys em" . Resurrec ion: The Journal o he Compu er Conser a ion Socie y (101). The Compu er Conser a ion Socie y: 8– 9 . Re rie ed 28 June 2023 . 
+ 
+ ^ Harper, John (Summer 2023). "Delilah Voice Secrecy Sys em &#91;par 2&#93;: The Design, De elopmen and Commissioning o Delilah in 1943 – 1945" . Resurrec ion: The Journal o he Compu er Conser a ion Socie y (102). The Compu er Conser a ion Socie y: 16– 19. Archi ed rom he original on 3 July 2023 . Re rie ed 28 June 2023 . 
+ 
+ ^ Hodges 1983 , p.&#160;273. 
+ 
+ ^ Hodges 1983 , p.&#160;346. 
+ 
+ ^ Plaque #1619 on Open Plaques 
+ 
+ ^ Copeland 2006 , p.&#160;108 
+ 
+ ^ Randell, Brian (1980). "A His ory o Compu ing in he Twen ie h Cen ury: Colossus" (PDF) . Archi ed (PDF) rom he original on 27 January 2012 . Re rie ed 27 January 2012 . ci ing Womersley, J.R. (13 February 1946). " 'ACE' Machine Projec ". Execu i e Commi ee, Na ional Physical Labora ory, Tedding on, Middlesex . 
+ 
+ ^ Hodges 1983 , p.&#160;416. 
+ 
+ ^ See Copeland 2004b , pp.&#160;410–432 
+ 
+ ^ "Turing a NPL" . Archi ed rom he original on 5 July 2015 . Re rie ed 3 July 2015 . 
+ 
+ ^ Bruderer, Herber . "Did Alan Turing in erroga e Konrad Zuse in Gö ingen in 1947?" (PDF) . Archi ed (PDF) rom he original on 21 May 2013 . Re rie ed 7 February 2013 . 
+ 
+ ^ Dobson, Charlo e (28 June 2021). "Alan Turing's home could be yours - or £1.1m" . Manches er E ening News . 
+ 
+ ^ Minu e Book o he Manches er Li &amp; Phil, 1954 
+ 
+ ^ Swin on, Jona han (2 Oc ober 2019). "I I walked ha Way I'd ge arres ed: he bir h o he Alan Turing Way" . man uring.ne . Re rie ed 13 Sep ember 2025 . 
+ 
+ ^ Swin on, Jona han (2019). Alan Turing's Manches er . Manches er: In ang Publishing. ISBN &#160; 978-0-9931789-2-4 . Archi ed rom he original on 17 February 2019 . Re rie ed 18 March 2019 . 
+ 
+ ^ Turing, A.M. (1948). "Rounding-O Errors in Ma rix Processes" . The Quar erly Journal o Mechanics and Applied Ma hema ics . 1 (1): 287– 308. doi : 10.1093/qjmam/1.1.287 . hdl : 10338.dmlcz/103139 . 
+ 
+ ^ Alan Turing (1950). "Compu ing Machinery and In elligence" . Mind . LIX (253): 433– 460. doi : 10.1093/MIND/LIX.236.433 . ISSN &#160; 0026-4423 . OCLC &#160; 8091504888 . Wikida a &#160; Q772056 . 
+ 
+ ^ Harnad, S e an (2008). "The Anno a ion Game: On Turing (1950) on Compu ing, Machinery and In elligence" . In Eps ein, Rober ; Pe ers, Grace (eds.). Parsing he Turing Tes : Philosophical and Me hodological Issues in he Ques or he Thinking Compu er . Springer. ISBN &#160; 9781402067082 . Archi ed rom he original on 18 Oc ober 2017. 
+ 
+ ^ Clark, Lia . "Turing's achie emen s: codebreaking, AI and he bir h o compu er science" . Wired . Archi ed rom he original on 2 No ember 2013 . Re rie ed 11 No ember 2013 . 
+ 
+ ^ "Alan Turing s Alick Glennie (1952) "Turing Tes " " . Chessgames.com . Archi ed rom he original on 19 February 2006. 
+ 
+ ^ Kasparo , Garry (15–16 April 2017). "Smar machines will ree us all". The Wall S ree Journal . p.&#160;c3. 
+ 
+ ^ O'Connor, John J.; Rober son, Edmund F. "Da id Gawen Champernowne" . MacTu or His ory o Ma hema ics Archi e . Uni ersi y o S Andrews . 
+ 
+ ^ Pinar Saygin, A.; Cicekli, I.; Akman, V. (2000). "Turing Tes : 50 Years La er". Minds and Machines . 10 (4): 463– 518. doi : 10.1023/A:1011288000451 . hdl : 11693/24987 . S2CID &#160; 990084 . 
+ 
+ ^ Alan Turing (14 Augus 1952). "The chemical basis o morphogenesis" . Philosophical Transac ions o he Royal Socie y B . 237 (641): 37– 72. doi : 10.1098/RSTB.1952.0012 . ISSN &#160; 0962-8436 . Zbl &#160; 1403.92034 . Wikida a &#160; Q769913 . 
+ 
+ ^ Gribbin, John (2004). Deep Simplici y . Random House. p.&#160;126. 
+ 
+ ^ "Turing's Las , Los work" . Archi ed rom he original on 23 Augus 2003 . Re rie ed 28 No ember 2011 . 
+ 
+ ^ Douady, S éphane; Dumais, Jacques; Golé, Chris ophe; Pick, Nancy (2024). Do plan s know ma h? unwinding he s ory o plan spirals, rom Leonardo da Vinci o now . Prince on Uni ersi y Press. Prince on, New Jersey: Prince on Uni ersi y Press. ISBN &#160; 978-0-691-15865-5 . 
+ 
+ ^ Murray, James D. (March 1988). "How he Leopard Ge s I s Spo s". Scien i ic American . 258 (3): 80– 87. Bibcode : 1988SciAm.258c..80M . doi : 10.1038/scien i icamerican0388-80 . JSTOR &#160; 24989019 . 
+ 
+ ^ Murray, James D. (2007). "Chap er 6". Ma hema ical Biology I . Springer Verlag. 
+ 
+ ^ Gribbin, John (2004). Deep Simplici y . Random House. p.&#160;134. 
+ 
+ ^ Vogel, G. (2012). "Turing Pa ern Fingered or Digi Forma ion". Science . 338 (6113): 1406. Bibcode : 2012Sci...338.1406V . doi : 10.1126/science.338.6113.1406 . PMID &#160; 23239707 . 
+ 
+ ^ She h, R.; Marcon, L.; Bas ida, M.F.; Junco, M.; Quin ana, L.; Dahn, R.; Kmi a, M.; Sharpe, J.; Ros, M.A. (2012). "Hox Genes Regula e Digi Pa erning by Con rolling he Wa eleng h o a Turing-Type Mechanism" . Science . 338 (6113): 1476– 1480. Bibcode : 2012Sci...338.1476S . doi : 10.1126/science.1226804 . PMC &#160; 4486416 . PMID &#160; 23239739 . 
+ 
+ ^ Andrew Hodges. "The Alan Turing Bibliography" . uring.org.uk. p.&#160;morphogenesis. Archi ed rom he original on 5 Sep ember 2015 . Re rie ed 27 July 2015 . 
+ 
+ ^ James R. Riordon (26 March 2023). "Chia seedlings eri y Alan Turing's ideas abou pa erns in na ure" . Science News . Archi ed rom he original on 2 July 2024 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ Brendan D'Aquino (7 March 2023). "Abs rac : F46.00003&#160;: S udying Turing pa erns in ege a ion" . American Physical Socie y . Archi ed rom he original on 2 July 2024 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ Myrberg Burs röm, Nanouschka (2015). A ale o buried reasure, some good es ima ions, and golden unicorns: The numisma ic connec ions o Alan Turing . S ockholm: S enska Numisma iska Föreningen. pp.&#160; 226– 230. ISBN &#160; 9789197942720 . Archi ed rom he original on 2 July 2024 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ Hodges 1983 , p.&#160;643. 
+ 
+ ^ Lea i 2007 , pp.&#160;176–178 
+ 
+ ^ agelman (11 July 2010). "A problem wi h Turing's run-around- he-house chess game?" . ScienceBlogs .com . Re rie ed 19 No ember 2025 . 
+ 
+ ^ Łupkowski, Paweł (22 June 2019). "Turinga propozycja es u dla "papierowej maszyny szachowej" z 1948 roku jako pro o yp dla es u Turinga" &#91;Turing’s 1948 ‘Paper Chess Machine’ Tes as a Pro o ype o he Turing Tes &#93;. Ruch Filozo iczny &#160;&#91; pl &#93; [The Philosophical Mo emen ] . 75 (2). Adam Mickiewicz Uni ersi y in Poznań : 117. doi : 10.12775/r .2019.024 . Re rie ed 19 No ember 2025 . PDF 
+ 
+ ^ "Alan Turing" . Spar acus Educa ional . Archi ed rom he original on 25 No ember 2021 . Re rie ed 22 July 2023 . 
+ 
+ ^ Hodges 1983 , p.&#160;458. 
+ 
+ ^ Lea i 2007 , p.&#160;268 
+ 
+ ^ "His oric cour house near Manches er where amous rial ook place unrecognisable a er s unning reno a ion" . Manches er E enings News . 20 February 2023. Archi ed rom he original on 5 April 2023 . Re rie ed 5 April 2023 . 
+ 
+ ^ Hodges 1983 , p.&#160;463. 
+ 
+ ^ Hodges 1983 , p.&#160;471. 
+ 
+ ^ a b Peral a, René (23 June 2022). "Alan Turing's E erlas ing Con ribu ions o Compu ing, AI and Cryp ography" . NIST . Archi ed rom he original on 23 Augus 2024 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ Hodges, Andrew (2012). Alan Turing: The Enigma The Cen enary Edi ion . Prince on Uni ersi y. 
+ 
+ ^ Turing, Alan (1952). "Le ers o No e: Yours in dis ress, Alan" . Archi ed rom he original on 20 January 2013 . Re rie ed 16 December 2012 . 
+ 
+ ^ Hodges 1983 , p.&#160;xx iii. 
+ 
+ ^ Hodges 1983 , p.&#160;473. 
+ 
+ ^ "The Panic ha ollowed he de ec ion o he Cambridge spies" . The Con ersa ion . 23 Oc ober 2015. Archi ed rom he original on 13 Augus 2023 . Re rie ed 12 Augus 2023 . 
+ 
+ ^ Copeland 2006 , p.&#160;143 
+ 
+ ^ a b Olinick, Michael (2021). "Chap er 13". Simply Turing . Uni ed S a es: Simply Charly. 
+ 
+ ^ a b Vincen Dowd (6 June 2014). "Wha was Alan Turing really like?" . BBC. Archi ed rom he original on 17 January 2019 . Re rie ed 16 January 2019 . 
+ 
+ ^ a b Anon (2021). "Turing's House: Copper Folly, 43 Adling on Road, Wilmslow, Cheshire, SK9 2BJ" (PDF) . sa ills.com . Archi ed rom he original (PDF) on 3 July 2021. 
+ 
+ ^ "Pos Mor em Examina ion" . Turing Digi al Archi e . Archi ed rom he original on 15 July 2024 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ "Alan Turing. Biography, Fac s, &amp; Educa ion" . Encyclopædia Bri annica . Archi ed rom he original on 11 Oc ober 2017 . Re rie ed 11 Oc ober 2017 . 
+ 
+ ^ Hodges 1983 , p.&#160;488. 
+ 
+ ^ a b Turing, Dermo (2021). Re lec ions o Alan Turing . The His ory Press. ISBN &#160; 9781803990125 . 
+ 
+ ^ a b S ewar , Ian (12 Sep ember 2017). Signi ican Figures: The Li es and Work o Grea Ma hema icians . New York: Basic Books. p.&#160;254. ISBN &#160; 9780465096121 . OCLC &#160; 1030547312 . 
+ 
+ ^ McDonald, Sally. Family o acclaimed ma hema ician Alan Turing on why he s ory o his complica ed li e and las ing legacy deser es o be old a resh . The Sunday Pos , March 21, 2021. 
+ 
+ ^ Backhouse, Paul (2016). Alan Turing: Guild ord's bes kep secre . Guild ord Town Guides. 
+ 
+ ^ Hodges 1983 , p.&#160;529. 
+ 
+ ^ a b c Hodges 1983 , p.&#160;50. 
+ 
+ ^ "TURING, E hel Sara (1881–1976, mo her o Alan Turing). Series o 11 au ograph le ers o Robin Gandy, Guil ord, 28 July 1954 – 11 June 1971 (mos be ore 1959), al oge her 29 pages, 8 o (2 le ers da ed 17 May and 26 May 1955 incomple e, lacking con inua ion lea es, occasional ligh soiling)" . chris ies.com . Archi ed rom he original on 7 February 2019 . Re rie ed 6 February 2019 . 
+ 
+ ^ Hodges 1983 , pp.&#160;488, 489. 
+ 
+ ^ Dawson Jr., John W. (December 1985). " "Re iew o Andrew Hodges. Alan Turing: he enigma" " . Journal o Symbolic Logic . 50 (4): 1065– 1067. doi : 10.2307/2273992 . JSTOR &#160; 2273992 . 
+ 
+ ^ Hodges 1983 , p.&#160;140. 
+ 
+ ^ Hodges 1983 , p.&#160;149. 
+ 
+ ^ Hodges 1983 , p.&#160;489. 
+ 
+ ^ "Thousands call or Turing apology" . BBC News . 31 Augus 2009. Archi ed rom he original on 31 Augus 2009 . Re rie ed 31 Augus 2009 . 
+ 
+ ^ Pe i ion seeks apology or Enigma code-breaker Turing . CNN. 1 Sep ember 2009. Archi ed rom he original on 5 Oc ober 2009 . Re rie ed 1 Sep ember 2009 . 
+ 
+ ^ a b c Da ies, Caroline (11 Sep ember 2009). "PM's apology o codebreaker Alan Turing: we were inhumane" . The Guardian . UK. Archi ed rom he original on 4 February 2017 . Re rie ed 10 December 2016 . 
+ 
+ ^ The pe i ion was only open o UK ci izens. 
+ 
+ ^ "PM apology a er Turing pe i ion" . BBC News . 11 Sep ember 2009. Archi ed rom he original on 31 May 2012 . Re rie ed 11 Sep ember 2009 . 
+ 
+ ^ "Full ex o he Prime Minis er's apology" . Archi ed rom he original on 9 No ember 2012. 
+ 
+ ^ a b c "Gran a pardon o Alan Turing" . 6 December 2011. Archi ed rom he original on 10 January 2012. 
+ 
+ ^ "Pe i ion o pardon compu er pioneer Alan Turing s ar ed" . BBC News . 6 December 2011. Archi ed rom he original on 19 June 2018 . Re rie ed 21 June 2018 . 
+ 
+ ^ a b Wrigh , Oli er (23 December 2013). "Alan Turing ge s his royal pardon or 'gross indecency'&#160;– 61 years a er he poisoned himsel " . The Independen . London. Archi ed rom he original on 24 December 2013 . Re rie ed 21 Augus 2017 . 
+ 
+ ^ Wainwrigh , Mar in (7 February 2012). "Go ernmen rejec s a pardon or compu er genius Alan Turing" . The Guardian . Archi ed rom he original on 4 February 2017 . Re rie ed 10 December 2016 . 
+ 
+ ^ "hansard" . Parliamen o he Uni ed Kingdom. 2 February 2012. Archi ed rom he original on 6 July 2017 . Re rie ed 29 Augus 2017 . 
+ 
+ ^ S e enson, Alex (24 December 2013). "Be er la e han ne er, Alan Turing is inally pardoned" . poli ics.co.uk. Archi ed rom he original on 16 Augus 2016 . Re rie ed 25 Sep ember 2016 . 
+ 
+ ^ Fi zgerald, Todd (24 Sep ember 2016). "Alan Turing's cour con ic ions go on display or he irs ime" . manches ere eningnews.co.uk. Archi ed rom he original on 25 Sep ember 2016 . Re rie ed 25 Sep ember 2016 . 
+ 
+ ^ Bri on, Paul (24 December 2013). "Alan Turing pardoned by The Queen or his 'unjus and discrimina ory' con ic ion or homosexuali y" . Manches er E ening News . Archi ed rom he original on 24 June 2018 . Re rie ed 24 June 2018 . 
+ 
+ ^ "MP calls or pardon or compu er pioneer Alan Turing" . BBC News . 1 February 2012. Archi ed rom he original on 2 July 2016 . Re rie ed 25 Sep ember 2016 . 
+ 
+ ^ "Bill" . Parliamen o he Uni ed Kingdom. 26 July 2012. Archi ed rom he original on 2 No ember 2013 . Re rie ed 31 Oc ober 2013 . 
+ 
+ ^ Pearse, Damian (13 December 2012). "Alan Turing should be pardoned, argue S ephen Hawking and op scien is s" . The Guardian . Archi ed rom he original on 4 February 2017 . Re rie ed 15 December 2012 . 
+ 
+ ^ Wa , Nicholas (19 July 2013). "Enigma codebreaker Alan Turing o be gi en pos humous pardon" . The Guardian . London. Archi ed rom he original on 4 January 2017 . Re rie ed 10 December 2016 . 
+ 
+ ^ Wor h, Dan (30 Oc ober 2013). "Alan Turing pardon sails hrough House o Lords" . V3. Archi ed rom he original on 24 December 2013 . Re rie ed 24 December 2013 . 
+ 
+ ^ "Alan Turing (S a u ory Pardon) Bill" . Archi ed rom he original on 5 July 2013 . Re rie ed 20 July 2013 . 
+ 
+ ^ Rober s, Sco (2 December 2013). "Lib Dem MP John Leech disappoin ed a delay o Alan Turing pardon bill" . Pink News . Archi ed rom he original on 25 December 2013 . Re rie ed 24 December 2013 . 
+ 
+ ^ Rober s, Sco (2 December 2013). "Lib Dem MP John Leech disappoin ed a delay o Alan Turing pardon bill" . PinkNews . Archi ed rom he original on 12 June 2018 . Re rie ed 20 June 2018 . 
+ 
+ ^ "Alan Turing (S a u ory Pardon) Bill" . Archi ed rom he original on 2 No ember 2013 . Re rie ed 24 December 2013 . 
+ 
+ ^ Swin ord, S e en (23 December 2013). "Alan Turing gran ed Royal pardon by he Queen" . The Daily Telegraph . Archi ed rom he original on 2 May 2018 . Re rie ed 5 April 2018 . 
+ 
+ ^ "Royal pardon or codebreaker Alan Turing" . BBC News . 24 December 2013. Archi ed rom he original on 24 December 2013 . Re rie ed 24 December 2013 . 
+ 
+ ^ "Wi h Queen's Decree, Alan Turing Is Now O icially Pardoned" . Ad oca e.com. 22 Augus 2014. Archi ed rom he original on 1 No ember 2014 . Re rie ed 1 No ember 2014 . 
+ 
+ ^ "Pardoned: Alan Turing, Compu ing pa riarch". Time Magazine . Vol.&#160;183, no.&#160;1. 13 January 2014. p.&#160;14. 
+ 
+ ^ Da ies, Caroline (24 December 2013). "Codebreaker Turing is gi en pos humous royal pardon". The Guardian . London. pp.&#160;1, 6. 
+ 
+ ^ "Go ernmen 'commi ed' o Alan Turing gay pardon law" . BBC News . 22 Sep ember 2016. Archi ed rom he original on 22 Sep ember 2016 . Re rie ed 22 Sep ember 2016 . 
+ 
+ ^ Cowburn, Ashley (21 Sep ember 2016). "Theresa May commi ed o in roducing he 'Alan Turing Law' " . The Independen . Archi ed rom he original on 22 Sep ember 2016 . Re rie ed 22 Sep ember 2016 . 
+ 
+ ^ "Policing and Crime Ac 2017" . Go ernmen o he Uni ed Kingdom. Archi ed rom he original on 5 March 2019 . Re rie ed 6 February 2019 . 
+ 
+ ^ "Manches er compu er pioneer Alan Turing announced as ace o new £50 no e" . 15 July 2019. Archi ed rom he original on 19 July 2019 . Re rie ed 19 July 2019 . 
+ 
+ ^ "John Leech secures his oric deal wi h Go ernmen on 'Alan Turing Law' " . ou newsglobal.com . 20 Oc ober 2016. Archi ed rom he original on 29 January 2022 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ Ellio , Larry; Halliday, Josh, eds. (15 July 2019). "Alan Turing o ea ure on new £50 bankno e" . The Guardian . Archi ed rom he original on 29 January 2022 . Re rie ed 26 Augus 2024 . 
+ 
+ ^ "My proudes day as a Liberal Democra " . Liberal Democra Voice . Archi ed rom he original on 24 June 2018 . Re rie ed 24 June 2018 . 
+ 
+ ^ "Ve erans Upda e" . Hansard – UK Parliamen . Archi ed rom he original on 24 July 2023 . Re rie ed 24 July 2023 . 
+ 
+ ^ Sheridan, Danielle (19 July 2023). "Alan Turing s a ue should be pu on Tra algar Square's our h plin h, says Ben Wallace" . The Telegraph . Archi ed rom he original on 24 July 2023 . Re rie ed 24 July 2023 . 
+ 
+ ^ Khomami, Nadia; Ar s, Nadia Khomami (24 July 2023). "LGBTQ+ mili ary chari y backs proposal or Alan Turing s a ue on our h plin h" . The Guardian . Re rie ed 24 July 2023 . 
+ 
+ ^ Mahon-kings, A.P. (June 1945). "The his ory o Hu Eigh : 1939-1945" . The Turing Digi al Archi e . King's College, Cambridge . Archi ed rom he original on 29 June 2022 . Re rie ed 19 No ember 2025 . AMT-B-27b: Xerox, Paper, 117 sh. in en elope. From records held a he US Na ional Archi es and Records Adminis ra ion. 
+ 
+ ^ Mahon-Kew, A P (1 January 1939). "The His ory o Hu 8" . Ca alogue descrip ion, The Disco ery Ser ice . The Na ional Archi es (Uni ed Kingdom) . Re rie ed 19 No ember 2025 . 
+ 
+ ^ Mahon-Mili ary-Press, A. P. (2009). Na al Enigma: The His ory o Hu Eigh , 1939-1945 . Ble chley archi e. Mili ary Press. ISBN &#160; 978-0-85420-442-7 . 
+ 
+ 
+ Ex ernal links 
+ .mw-parser-ou pu .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa; on -size:88%;line-heigh :1.25em;background-color: ar(--background-color-in erac i e-sub le,# 8 9 a);color:inheri ;display: low-roo }.mw-parser-ou pu .in obox .side-box{ on -size:100%}.mw-parser-ou pu .side-box-abo ebelow,.mw-parser-ou pu .side-box- ex {padding:0.25em 0.9em}.mw-parser-ou pu .side-box-image{padding:2px 0 2px 0.9em; ex -align:cen er}.mw-parser-ou pu .side-box-imagerigh {padding:2px 0.9em 2px 0; ex -align:cen er}@media(min-wid h:500px){.mw-parser-ou pu .side-box- lex{display: lex;align-i ems:cen er}.mw-parser-ou pu .side-box- ex { lex:1;min-wid h:0}}@media(min-wid h:640px){.mw-parser-ou pu .side-box{wid h:238px}.mw-parser-ou pu .side-box-righ {clear:righ ; loa :righ ;margin-le :1em}.mw-parser-ou pu .side-box-le {margin-righ :1em}} .mw-parser-ou pu .sis er-box .side-box-abo ebelow{padding:0.75em 0; ex -align:cen er}.mw-parser-ou pu .sis er-box .side-box-abo ebelow>b{display:block}.mw-parser-ou pu .sis er-box .side-box- ex >ul{border- op:1px solid #aaa;padding:0.75em 0;wid h:220px;margin:0 au o}.mw-parser-ou pu .sis er-box .side-box- ex >ul>li{min-heigh :31px}.mw-parser-ou pu .sis er-logo{display:inline-block;wid h:31px;line-heigh :31px; er ical-align:middle; ex -align:cen er}.mw-parser-ou pu .sis er-link{display:inline-block;margin-le :7px;wid h:182px; er ical-align:middle}@media prin {body.ns-0 .mw-parser-ou pu .sis ersi ebox{display:none!impor an }}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .sis ersi ebox img[src*="Wik ionary-logo- 2.s g"]{background-color:whi e}}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .sis ersi ebox img[src*="Wik ionary-logo- 2.s g"]{background-color:whi e}} 
+ 
+ Alan Turing a Wikipedia's sis er projec s 
+ 
+ Media rom Commons Quo a ions rom Wikiquo e Tex s rom Wikisource 
+ 
+ Alan Turing archi e on New Scien is 
+ Alan Turing plaques Archi ed 24 April 2024 a he Wayback Machine on openplaques.org 
+ Papers 
+ 
+ Alan Turing Papers – Uni ersi y o Manches er Library 
+ Science in he Making Archi ed 4 April 2023 a he Wayback Machine Alan Turing's papers in he Royal Socie y &#39; s archi es 
+ The Turing Digi al Archi e &#160;– con ains scans o some unpublished documen s and ma erial - King's College, Cambridge 
+ In er iews 
+ 
+ Oral his ory in er iew wi h Nicholas C. Me ropolis , Charles Babbage Ins i u e , Uni ersi y o Minneso a. Me ropolis was he irs direc or o compu ing ser ices a Los Alamos Na ional Labora ory ; opics include he rela ionship be ween Turing and John on Neumann 
+ Ar icles 
+ 
+ How Alan Turing Cracked The Enigma Code Imperial War Museums 
+ Jones, G. James (11 December 2001). "Alan Turing&#160;– Towards a Digi al Mind: Par 1" . Sys em Toolbox . The Binary Freedom Projec . Archi ed rom he original on 3 Augus 2007. 
+ Websi es 
+ 
+ AlanTuring.ne &#160;– Turing Archi e or he His ory o Compu ing by Jack Copeland 
+ Alan Turing si e main ained by Andrew Hodges including a shor biography 
+ E en s 
+ 
+ CiE 2012: Turing Cen enary Con erence 
+ Alan Turing Year Archi ed 17 February 2019 a he Wayback Machine 
+ Sherborne School 
+ 
+ Sherborne School Archi es – holds papers rela ing o Turing's ime a Sherborne School 
+ Alan Turing and he 'Na ure o Spiri ' (Old Shirburnian Socie y) 
+ Alan Turing OBE, PhD, FRS (1912-1954) (Old Shirburnian Socie y) 
+ .mw-parser-ou pu .na box{box-sizing:border-box;border:1px solid #a2a9b1;wid h:100%;clear:bo h; on -size:88%; ex -align:cen er;padding:1px;margin:1em au o 0}.mw-parser-ou pu .na box .na box{margin- op:0}.mw-parser-ou pu .na box+.na box,.mw-parser-ou pu .na box+.na box-s yles+.na box{margin- op:-1px}.mw-parser-ou pu .na box-inner,.mw-parser-ou pu .na box-subgroup{wid h:100%}.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box- i le,.mw-parser-ou pu .na box-abo ebelow{padding:0.25em 1em;line-heigh :1.5em; ex -align:cen er}.mw-parser-ou pu .na box-group{whi e-space:nowrap; ex -align:righ }.mw-parser-ou pu .na box,.mw-parser-ou pu .na box-subgroup{background-color:# d d d;color:inheri }.mw-parser-ou pu .na box-lis {line-heigh :1.5em;border-color:# d d d}.mw-parser-ou pu .na box-lis -wi h-group{ ex -align:le ;border-le -wid h:2px;border-le -s yle:solid}.mw-parser-ou pu r+ r>.na box-abo ebelow,.mw-parser-ou pu r+ r>.na box-group,.mw-parser-ou pu r+ r>.na box-image,.mw-parser-ou pu r+ r>.na box-lis {border- op:2px solid # d d d}.mw-parser-ou pu .na box- i le{background-color:#cc ;color:inheri }.mw-parser-ou pu .na box-abo ebelow,.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box-subgroup .na box- i le{background-color:#dd ;color:inheri }.mw-parser-ou pu .na box-subgroup .na box-group,.mw-parser-ou pu .na box-subgroup .na box-abo ebelow{background-color:#e6e6 ;color:inheri }.mw-parser-ou pu .na box-e en{background-color:# 7 7 7;color:inheri }.mw-parser-ou pu .na box-odd{background-color: ransparen ;color:inheri }.mw-parser-ou pu .na box .hlis d dl,.mw-parser-ou pu .na box .hlis d ol,.mw-parser-ou pu .na box .hlis d ul,.mw-parser-ou pu .na box d.hlis dl,.mw-parser-ou pu .na box d.hlis ol,.mw-parser-ou pu .na box d.hlis ul{padding:0.125em 0}.mw-parser-ou pu .na box .na bar{display:block; on -size:100%}.mw-parser-ou pu .na box- i le .na bar{ loa :le ; ex -align:le ;margin-righ :0.5em}body.skin--responsi e .mw-parser-ou pu .na box-image img{max-wid h:none!impor an }@media prin {body.ns-0 .mw-parser-ou pu .na box{display:none!impor an }} .mw-parser-ou pu .na bar{display:inline; on -size:88%; on -weigh :normal}.mw-parser-ou pu .na bar-collapse{ loa :le ; ex -align:le }.mw-parser-ou pu .na bar-box ex {word-spacing:0}.mw-parser-ou pu .na bar ul{display:inline-block;whi e-space:nowrap;line-heigh :inheri }.mw-parser-ou pu .na bar-bracke s::be ore{margin-righ :-0.125em;con en :"[ "}.mw-parser-ou pu .na bar-bracke s::a er{margin-le :-0.125em;con en :" ]"}.mw-parser-ou pu .na bar li{word-spacing:-0.125em}.mw-parser-ou pu .na bar a>span,.mw-parser-ou pu .na bar a>abbr{ ex -decora ion:inheri }.mw-parser-ou pu .na bar-mini abbr{ on - arian :small-caps;border-bo om:none; ex -decora ion:none;cursor:inheri }.mw-parser-ou pu .na bar-c - ull{ on -size:114%;margin:0 7em}.mw-parser-ou pu .na bar-c -mini{ on -size:114%;margin:0 4em}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }@media(pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }}@media prin {.mw-parser-ou pu .na bar{display:none!impor an }} e Alan Turing 
+ Turing comple eness 
+ Turing degree 
+ Turing machine 
+ Turing pa ern 
+ Turing's proo 
+ Turing reduc ion 
+ Turing es 
+ Publica ions 
+ " On Compu able Numbers " (1936) 
+ " Sys ems o Logic Based on Ordinals " (1939) 
+ " In elligen Machinery " (1948) 
+ Turochamp (1948) 
+ " Compu ing Machinery and In elligence " (1950) 
+ " The Chemical Basis o Morphogenesis " (1952) 
+ Rela ed 
+ Legacy o Alan Turing 
+ namesakes 
+ 
+ e Fellows o he Royal Socie y elec ed in 1951 Fellows 
+ Carlyle Smi h Beals 
+ John Boyd 
+ Da id Ca cheside 
+ Ar hur Herber &#160;Cook 
+ Sydney John&#160;Folley 
+ Herber Fröhlich 
+ Geo rey&#160;Gee 
+ Hans Heilbronn 
+ Gerhard Herzberg 
+ Joseph Hu chinson 
+ Raymond&#160;Ing 
+ Da id Lack 
+ Thaddeus Mann 
+ Kur Mendelssohn 
+ Alber &#160;Neuberger 
+ Leonard Bessemer&#160;P eil 
+ James Ar hur Presco 
+ Maurice Pryce 
+ William John&#160;Pugh 
+ John Ashwor h&#160;Ra cli e 
+ Thomas Alan S ephenson 
+ William Homan Thorpe 
+ Pe rus Johann du Toi 
+ Alan Turing 
+ Al red Ubbelohde 
+ S a u e 12 
+ Prince Philip, Duke o Edinburgh 
+ Foreign 
+ Herber McLean E ans 
+ Karl Lashley 
+ Carl S ørmer 
+ Ralph Wal er Grays one Wycko 
+ 
+ e Timelines o compu ing Compu ing 
+ Be ore 1950 
+ 1950–1979 
+ 1980s 
+ 1990s 
+ 2000s 
+ 2010s 
+ 2020s 
+ Scien i ic 
+ Women in compu ing 
+ Compu er science 
+ Algori hms 
+ Ar i icial in elligence 
+ Binary pre ixes 
+ Cryp ography 
+ Machine learning 
+ Quan um compu ing and communica ion 
+ So ware 
+ Free and open-source so ware 
+ Hyper ex echnology 
+ Opera ing sys ems 
+ DOS amily 
+ Windows 
+ Linux 
+ Programming languages 
+ Vir ualiza ion de elopmen 
+ Malware 
+ In erne 
+ In erne con lic s 
+ Web browsers 
+ Web search engines 
+ No able people 
+ Ka hleen An onelli 
+ John Vincen A anaso 
+ Charles Babbage 
+ John Backus 
+ Jean Bar ik 
+ George Boole 
+ Vin Cer 
+ John Cocke 
+ S ephen Cook 
+ Edsger W. Dijks ra 
+ J. Presper Ecker 
+ Douglas Engelbar 
+ Adele Golds ine 
+ Lois Haib 
+ Be y Holber on 
+ Margare Hamil on 
+ Tony Hoare 
+ Grace Hopper 
+ Da id A. Hu man 
+ Bob Kahn 
+ Alan Kay 
+ Brian Kernighan 
+ Andrew Koenig 
+ Semyon Korsako 
+ Donald Knu h 
+ Joseph Kruskal 
+ Nancy Le eson 
+ Ada Lo elace 
+ Douglas McIlroy 
+ Marlyn Mel zer 
+ John on Neumann 
+ Klára Dán on Neumann 
+ Dennis Ri chie 
+ Guido an Rossum 
+ Claude Shannon 
+ Frances Spence 
+ Bjarne S rous rup 
+ Ru h Tei elbaum 
+ Ken Thompson 
+ Linus Tor alds 
+ Alan Turing 
+ Paul Vixie 
+ Larry Wall 
+ S ephen Wol ram 
+ Niklaus Wir h 
+ S e e Wozniak 
+ Konrad Zuse 
+ 
+ e Early his ory o ideo games (1947–1971) Analog and ligh bulb games 
+ Nima ron (1940) 
+ Ca hode-ray ube amusemen de ice (1947) 
+ Ber ie he Brain (1950) 
+ Nimrod (1951) 
+ Tennis or Two (1958) 
+ Early chess programs 
+ Turochamp (1948) 
+ Chess (1951) 
+ Los Alamos Chess (1956) 
+ Ko ok-McCar hy (1962) 
+ Mac Hack (1965) 
+ Kaissa (1967) 
+ Bli z (1968) 
+ Chess (1970) 
+ Early main rame games 
+ Checkers (1952) 
+ OXO (1952) 
+ Spacewar! (1962) 
+ Marienbad (1962) 
+ The Sumerian Game (1964) 
+ Hamurabi (1968) 
+ Space Tra el (1969) 
+ Lunar Lander (1969) 
+ S ar Trek (1971) 
+ Firs arcade games 
+ Compu er Space (1971) 
+ Galaxy Game (1971) 
+ People 
+ Mabel Addis 
+ Da id Ahl 
+ Ralph Baer 
+ John Makepeace Benne 
+ Nolan Bushnell 
+ Da id Champernowne 
+ Ted Dabney 
+ Don Daglow 
+ Sandy Douglas 
+ S anley Gill 
+ Thomas T. Goldsmi h Jr. 
+ William Higinbo ham 
+ Jose Ka es 
+ Die rich Prinz 
+ S e e Russell 
+ Chris opher S rachey 
+ Ken Thompson 
+ Alan Turing 
+ 
+ e Exis en ial risk rom ar i icial in elligence Concep s 
+ AGI 
+ AI alignmen 
+ AI boom 
+ AI capabili y con rol 
+ AI sa e y 
+ AI akeo er 
+ Decep i e alignmen 
+ E ec i e accelera ionism 
+ E hics o ar i icial in elligence 
+ Exis en ial risk rom ar i icial in elligence 
+ Friendly ar i icial in elligence 
+ Ins rumen al con ergence 
+ In elligence explosion 
+ Long ermism 
+ Machine e hics 
+ Su ering risks 
+ Superin elligence 
+ Technological singulari y 
+ Vulnerable world hypo hesis 
+ Organiza ions 
+ AI Fu ures Projec 
+ Alignmen Research Cen er 
+ Cen er or AI Sa e y 
+ Cen er or Applied Ra ionali y 
+ Cen er or Human-Compa ible Ar i icial In elligence 
+ Cen re or he S udy o Exis en ial Risk 
+ Fu ure o Humani y Ins i u e 
+ Fu ure o Li e Ins i u e 
+ Google DeepMind 
+ Ins i u e or E hics and Emerging Technologies 
+ Le erhulme Cen re or he Fu ure o In elligence 
+ Machine In elligence Research Ins i u e 
+ METR 
+ OpenAI 
+ PauseAI 
+ Sa e Superin elligence 
+ S op AI 
+ People 
+ Sco Alexander 
+ Sam Al man 
+ Dario Amodei 
+ Yoshua Bengio 
+ Nick Bos rom 
+ Paul Chris iano 
+ Eric Drexler 
+ Owain E ans 
+ Sam Harris 
+ S ephen Hawking 
+ Dan Hendrycks 
+ Geo rey Hin on 
+ Bill Joy 
+ Daniel Koko ajlo 
+ Shane Legg 
+ Jan Leike 
+ Elon Musk 
+ S e e Omohundro 
+ Toby Ord 
+ Huw Price 
+ Mar in Rees 
+ S uar J. Russell 
+ Na e Soares 
+ Ilya Su ske er 
+ Jaan Tallinn 
+ Max Tegmark 
+ Alan Turing 
+ Frank Wilczek 
+ Roman Yampolskiy 
+ Eliezer Yudkowsky 
+ Books 
+ Do You Trus This Compu er? 
+ Human Compa ible 
+ I Anyone Builds I , E eryone Dies 
+ Our Final In en ion 
+ Superin elligence: Pa hs, Dangers, S ra egies 
+ The Precipice: Exis en ial Risk and he Fu ure o Humani y 
+ O her 
+ Ar i icial In elligence Ac 
+ Open le er on ar i icial in elligence 
+ Regula ion o ar i icial in elligence 
+ US 
+ S a emen on AI Risk 
+ Ca egory 
+ .mw-parser-ou pu . ool ip-do ed{border-bo om:1px do ed;cursor:help} Au hori y con rol da abases In erna ional ISNI VIAF GND FAST WorldCa Na ional Uni ed S a es France BnF da a Japan I aly Czech Republic Spain Ne herlands Norway La ia Greece Korea Sweden Poland Israel Ca alonia Belgium Academics CiNii Ma hema ics Genealogy Projec Associa ion or Compu ing Machinery Scopus zbMATH Google Scholar DBLP Ma hSciNe People LibraryThing Deu sche Biographie DDB O her IdRe Open Library SNAC Yale LUX 
+ .mw-parser-ou pu .por al-bar{ on -size:88%; on -weigh :bold;display: lex;jus i y-con en :cen er;align-i ems:baseline}.mw-parser-ou pu .por al-bar-bordered{padding:0 2em;background-color:# d d d;border:1px solid #a2a9b1;clear:bo h;margin:1em au o 0}.mw-parser-ou pu .por al-bar-rela ed{ on -size:100%;jus i y-con en : lex-s ar }.mw-parser-ou pu .por al-bar-unbordered{padding:0 1.7em;margin-le :0}.mw-parser-ou pu .por al-bar-header{margin:0 1em 0 0.5em; lex:0 0 au o;min-heigh :24px}.mw-parser-ou pu .por al-bar-con en {display: lex; lex- low:row wrap; lex:0 1 au o;padding:0.15em 0;column-gap:1em;align-i ems:baseline;margin:0;lis -s yle:none}.mw-parser-ou pu .por al-bar-con en -rela ed{margin:0;lis -s yle:none}.mw-parser-ou pu .por al-bar-i em{display:inline-block;margin:0.15em 0.2em;min-heigh :24px;line-heigh :24px}@media screen and (max-wid h:768px){.mw-parser-ou pu .por al-bar{ on -size:88%; on -weigh :bold;display: lex; lex- low:column wrap;align-i ems:baseline}.mw-parser-ou pu .por al-bar-header{ ex -align:cen er; lex:0;padding-le :0.5em;margin:0 au o}.mw-parser-ou pu .por al-bar-rela ed{ on -size:100%;align-i ems: lex-s ar }.mw-parser-ou pu .por al-bar-con en {display: lex; lex- low:row wrap;align-i ems:cen er; lex:0;column-gap:1em;border- op:1px solid #a2a9b1;margin:0 au o;lis -s yle:none}.mw-parser-ou pu .por al-bar-con en -rela ed{border- op:none;margin:0;lis -s yle:none}}.mw-parser-ou pu .na box+link+.por al-bar,.mw-parser-ou pu .na box+s yle+.por al-bar,.mw-parser-ou pu .na box+link+.por al-bar-bordered,.mw-parser-ou pu .na box+s yle+.por al-bar-bordered,.mw-parser-ou pu .sis er-bar+link+.por al-bar,.mw-parser-ou pu .sis er-bar+s yle+.por al-bar,.mw-parser-ou pu .por al-bar+.na box-s yles+.na box,.mw-parser-ou pu .por al-bar+.na box-s yles+.sis er-bar{margin- op:-1px} Por als : Biography England LGBTQ Grea er Manches er Ma hema ics Compu er programming 
+ 
+ 
+
+ 
+
+ 
+ 
+ Re rie ed rom " h ps://en.wikipedia.org/w/index.php? i le=Alan_Turing&amp;oldid=1351251344 " 
+					 Ca egories : Alan Turing 1912 bir hs 1954 dea hs 1954 suicides 20 h-cen ury a heis s 20 h-cen ury English LGBTQ people 20 h-cen ury English ma hema icians 20 h-cen ury English philosophers Academics o he Uni ersi y o Manches er Ins i u e o Science and Technology Academics o he Uni ersi y o Manches er Alumni o King&#039;s College, Cambridge Bayesian s a is icians Ble chley Park people Bri ish an i- ascis s Bri ish ar i icial in elligence researchers Bri ish cryp ographers Bri ish people o World War II Cas ra ed people Compu abili y heoris s Compu er chess people Compu er designers Early his ory o ideo games English a heis s English compu er scien is s English gay spor smen English in en ors English LGBTQ scien is s English logicians English men long-dis ance runners Bri ish men long-dis ance runners English people o Irish descen English people o Sco ish descen Enigma machine Fellows o King&#039;s College, Cambridge Foreign O ice personnel o World War II Former Pro es an s Gay academics Gay scien is s GCHQ people His ory o compu ing in he Uni ed Kingdom LGBTQ ma hema icians LGBTQ philosophers LGBTQ rack and ield a hle es LGBTQ people who died by suicide O icers o he Order o he Bri ish Empire People con ic ed or homosexuali y in he Uni ed Kingdom People educa ed a Sherborne School People rom Maida Vale People rom Wilmslow People who ha e recei ed pos humous pardons Prince on Uni ersi y alumni Recipien s o Bri ish royal pardons Scien is s o he Na ional Physical Labora ory (Uni ed Kingdom) Suicides by cyanide poisoning Suicides in England Theore ical biologis s Bri ish heore ical compu er scien is s People rom S Leonards-on-Sea Bri ish ellows o he Royal Socie y 20 h-cen ury Bri ish s a is icians Hidden ca egories: CS1: long olume alue Webarchi e empla e wayback links Ar icles wi h shor descrip ion Shor descrip ion ma ches Wikida a Good ar icles Wikipedia inde ini ely semi-pro ec ed pages Use Bri ish English rom June 2020 All Wikipedia ar icles wri en in Bri ish English Use dmy da es rom June 2024 Biography wi h signa ure Ar icles wi h hCards Wikipedia ar icles incorpora ing a ci a ion rom he ODNB Pages using ci e ODNB wi h id parame er CS1 German-language sources (de) 
+				 
+			 
+			
+		 
+		 
+			
+ 
+	 
+	 This page was las edi ed on 26 April 2026, a 21:43 &#160;(UTC) . 
+	 Tex is a ailable under he Crea i e Commons A ribu ion-ShareAlike 4.0 License ;
+addi ional erms may apply. By using his si e, you agree o he Terms o Use and Pri acy Policy . Wikipedia® is a regis ered rademark o he Wikimedia Founda ion, Inc. , a non-pro i organiza ion. 
+ 
+
+	 
+	 Pri acy policy 
+	 Abou Wikipedia 
+	 Disclaimers 
+	 Con ac Wikipedia 
+	 Legal &amp; sa e y con ac s 
+	 Code o Conduc 
+	 De elopers 
+	 S a is ics 
+	 Cookie s a emen 
+	 Mobile iew 
+ 
+
+	 
+	 
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+
+ Search 
+			 
+		 
+			
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+								 
+							 
+							 
+						 
+						 Search 
+					 
+				 
+			 
+		 
+		 
+				 
+						
+					 
+						 
+						 
+
+ Toggle he able o con en s 
+						 
+						 
+					
+						 
+						 
+					
+						 
+					 
+			 
+				 Alan Turing 
+			 
+		 
+		 
+			 
+				 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+		 
+			 
+				 
+
+ 161 languages 
+			 
+			 
+
+ Add opic 
+			 
+		 
+			 
+				 
+				 
+			 
+		 
+	 
+ 
+ 
+	 
+		
+	 
+ 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.con ig.se ({"wgHos name":"mw-web.cod w.main-b 65cc95d-p6q7k","wgBackendResponseTime":133,"wgPageParseRepor ":{"limi repor ":{"cpu ime":"2.138","wall ime":"2.389","pp isi ednodes":{" alue":17321,"limi ":1000000},"re isionsize":{" alue":154628,"limi ":2097152},"pos expandincludesize":{" alue":535039,"limi ":2097152}," empla eargumen size":{" alue":22840,"limi ":2097152},"expansiondep h":{" alue":16,"limi ":100},"expensi e unc ioncoun ":{" alue":18,"limi ":500},"uns rip-dep h":{" alue":1,"limi ":20},"uns rip-size":{" alue":845948,"limi ":5000000},"en i yaccesscoun ":{" alue":6,"limi ":500}," imingpro ile":["100.00% 2059.617 1 - o al"," 45.27% 932.424 2 Templa e:Re lis "," 14.06% 289.606 71 Templa e:Ci e_book"," 12.28% 252.944 68 Templa e:Ci e_web"," 10.15% 208.963 1 Templa e:In obox_scien is "," 8.58% 176.641 26 Templa e:Ci e_journal"," 8.15% 167.960 41 Templa e:Ci e_news"," 8.11% 167.050 45 Templa e:S n"," 5.65% 116.281 2 Templa e:Ci e_Q"," 2.75% 56.637 1 Templa e:Shor _descrip ion"]},"scribun o":{"limi repor - imeusage":{" alue":"1.435","limi ":"10.000"},"limi repor -memusage":{" alue":18619567,"limi ":52428800},"limi repor -logs":"anchor_id_lis = able#1 { n [ "CITEREF "] = 1, n [ "CITEREFAgar2001 "] = 1, n [ "CITEREFAgar2003 "] = 1, n [ "CITEREFAlan_Ma hison2016 "] = 1, n [ "CITEREFAldrich2009 "] = 1, n [ "CITEREFAlexandercirca_1945 "] = 1, n [ "CITEREFAndrew_Hodges "] = 1, n [ "CITEREFAnon2021 "] = 1, n [ "CITEREFA i_Wigderson2019 "] = 1, n [ "CITEREFB._Jack_CopelandCarl_J._PosyOron_Shagrir2013 "] = 1, n [ "CITEREFBabbage2016 "] = 1, n [ "CITEREFBackhouse2016 "] = 1, n [ "CITEREFBea ers2013 "] = 1, n [ "CITEREFBeniger1986 "] = 1, n [ "CITEREFBernhard 2017 "] = 1, n [ "CITEREFBodanis2005 "] = 1, n [ "CITEREFBowen2019 "] = 1, n [ "CITEREFBrendan_D u0026#039;Aquino2023 "] = 1, n [ "CITEREFBriggs2011 "] = 1, n [ "CITEREFBri on2013 "] = 1, n [ "CITEREFBrown1975 "] = 1, n [ "CITEREFBruderer,_Herber "] = 1, n [ "CITEREFBruderer2012 "] = 1, n [ "CITEREFBu cher1999 "] = 1, n [ "CITEREFBu cher2009 "] = 1, n [ "CITEREFCampbell-KellyAspray1996 "] = 1, n [ "CITEREFCaryl,_Chris ian2014 "] = 1, n [ "CITEREFCaw horne2014 "] = 1, n [ "CITEREFCeruzzi1998 "] = 1, n [ "CITEREFChandler1977 "] = 1, n [ "CITEREFChurch1936 "] = 1, n [ "CITEREFClark "] = 1, n [ "CITEREFClark2012 "] = 1, n [ "CITEREFCollins2020 "] = 1, n [ "CITEREFCooper an_Leeuwen2013 "] = 1, n [ "CITEREFCopeland "] = 2, n [ "CITEREFCopeland2001 "] = 1, n [ "CITEREFCopeland2004a "] = 1, n [ "CITEREFCopeland2004b "] = 1, n [ "CITEREFCopeland2005 "] = 1, n [ "CITEREFCopeland2006 "] = 1, n [ "CITEREFCopeland2012 "] = 1, n [ "CITEREFCopelandBowenWilsonSpre ak2017 "] = 1, n [ "CITEREFCopelandProud oo 2004 "] = 1, n [ "CITEREFCowburn2016 "] = 1, n [ "CITEREFDa ies2009 "] = 1, n [ "CITEREFDa ies2013 "] = 1, n [ "CITEREFDawson_Jr.1985 "] = 1, n [ "CITEREFDe_Mol2021 "] = 1, n [ "CITEREFDiamond1976 "] = 1, n [ "CITEREFDobson2021 "] = 1, n [ "CITEREFDouadyDumaisGoléPick2024 "] = 1, n [ "CITEREFDyson2012 "] = 1, n [ "CITEREFEdwards1996 "] = 1, n [ "CITEREFEllio Halliday2019 "] = 1, n [ "CITEREFFi zgerald2016 "] = 1, n [ "CITEREFGandy1953 "] = 1, n [ "CITEREFGannon2007 "] = 1, n [ "CITEREFGladwin1997 "] = 1, n [ "CITEREFGleick2011 "] = 1, n [ "CITEREFGoodMichieTimms1945 "] = 1, n [ "CITEREFGraham-Cumming,_John2010 "] = 1, n [ "CITEREFGraham-Cumming2010 "] = 1, n [ "CITEREFGray "] = 1, n [ "CITEREFGray1999 "] = 2, n [ "CITEREFGribbin2004 "] = 2, n [ "CITEREFGrime2012 "] = 1, n [ "CITEREFHarnad2008 "] = 1, n [ "CITEREFHarper2023 "] = 2, n [ "CITEREFHar cup2000 "] = 1, n [ "CITEREFHassall2012–2013 "] = 1, n [ "CITEREFHil on "] = 1, n [ "CITEREFHil on2006 "] = 1, n [ "CITEREFHinsley1996 "] = 2, n [ "CITEREFHochhu h1988 "] = 1, n [ "CITEREFHodges "] = 2, n [ "CITEREFHodges,_Andrew2012 "] = 1, n [ "CITEREFHodges1983 "] = 1, n [ "CITEREFHodges1992 "] = 1, n [ "CITEREFHodges2004 "] = 1, n [ "CITEREFHodges2007 "] = 1, n [ "CITEREFHo s ad er1985 "] = 1, n [ "CITEREFJames_R._Riordon2023 "] = 1, n [ "CITEREFJones2001 "] = 1, n [ "CITEREFKasparo 2017 "] = 1, n [ "CITEREFKhomamiAr s2023 "] = 1, n [ "CITEREFKo ke2018 "] = 1, n [ "CITEREFLea i 2007 "] = 1, n [ "CITEREFLe in2006 "] = 1, n [ "CITEREFLewin1978 "] = 1, n [ "CITEREFLubar1993 "] = 1, n [ "CITEREFMaguire2012 "] = 1, n [ "CITEREFMahon1945 "] = 1, n [ "CITEREFMilinko i chJahanbakhshZakany2023 "] = 1, n [ "CITEREFMurray1988 "] = 1, n [ "CITEREFMurray2007 "] = 1, n [ "CITEREFMyrberg_Burs röm2015 "] = 1, n [ "CITEREFNewman1955 "] = 1, n [ "CITEREFO u0026#039;ConnellFi zgerald2003 "] = 1, n [ "CITEREFOakley2006 "] = 1, n [ "CITEREFOlinick2021 "] = 2, n [ "CITEREFPearse2012 "] = 1, n [ "CITEREFPease2012 "] = 1, n [ "CITEREFPeral a2022 "] = 1, n [ "CITEREFPe zold2008 "] = 1, n [ "CITEREFPinar_SayginCicekliAkman2000 "] = 1, n [ "CITEREFRandell1980 "] = 1, n [ "CITEREFRichelson1997 "] = 1, n [ "CITEREFRober s,_Sco 2013 "] = 1, n [ "CITEREFRober s2013 "] = 1, n [ "CITEREFSchilling2015 "] = 1, n [ "CITEREFSheridan2023 "] = 1, n [ "CITEREFShe hMarconBas idaJunco2012 "] = 1, n [ "CITEREFSipser2006 "] = 1, n [ "CITEREFSmi h1997 "] = 1, n [ "CITEREFSmi h1998 "] = 1, n [ "CITEREFSpencer2009 "] = 1, n [ "CITEREFS e enson2013 "] = 1, n [ "CITEREFS ewar 2017 "] = 1, n [ "CITEREFSwin ord2013 "] = 1, n [ "CITEREFSwin on2019 "] = 2, n [ "CITEREFTeuscher2004 "] = 1, n [ "CITEREFTuring1937 "] = 1, n [ "CITEREFTuring1938 "] = 3, n [ "CITEREFTuring1939 "] = 2, n [ "CITEREFTuring1940 "] = 1, n [ "CITEREFTuring1948 "] = 1, n [ "CITEREFTuring1952 "] = 1, n [ "CITEREFTuring1959 "] = 1, n [ "CITEREFTuring2001 "] = 1, n [ "CITEREFTuring2012 "] = 1, n [ "CITEREFTuring2015 "] = 1, n [ "CITEREFTuring2021 "] = 1, n [ "CITEREFTuringBayley2012 "] = 1, n [ "CITEREFTuringc._1941 "] = 2, n [ "CITEREFVallance2012 "] = 1, n [ "CITEREFVincen _Dowd2014 "] = 1, n [ "CITEREFVogel2012 "] = 1, n [ "CITEREFWainwrigh 2012 "] = 1, n [ "CITEREFWa ,_Nicholas2013 "] = 1, n [ "CITEREFWeizenbaum1976 "] = 1, n [ "CITEREFWelchman1997 "] = 1, n [ "CITEREFWhi emoreHodges1988 "] = 1, n [ "CITEREFWilliams1985 "] = 1, n [ "CITEREFWomersley1946 "] = 1, n [ "CITEREFWor h2013 "] = 1, n [ "CITEREFWrigh ,_Oli er2013 "] = 1, n [ "CITEREFYa es1997 "] = 1, n [ "CITEREFZabell1995 "] = 1, n [ "CITEREFagelman2010 "] = 1, n [ "CITEREFŁupkowski2019 "] = 1, n} n empla e_lis = able#1 { n [ "' "] = 1, n [ "Alan Turing "] = 1, n [ "Au hori y con rol "] = 1, n [ "Bir h da e "] = 1, n [ "Blockquo e "] = 13, n [ "CS1 con ig "] = 1, n [ "Circa "] = 1, n [ "Ci a ion "] = 4, n [ "Ci e AV media "] = 1, n [ "Ci e ODNB "] = 1, n [ "Ci e Q "] = 2, n [ "Ci e book "] = 71, n [ "Ci e encyclopaedia "] = 1, n [ "Ci e encyclopedia "] = 1, n [ "Ci e journal "] = 26, n [ "Ci e magazine "] = 3, n [ "Ci e news "] = 41, n [ "Ci e hesis "] = 2, n [ "Ci e web "] = 68, n [ "Con er "] = 2, n [ "C "] = 1, n [ "DEFAULTSORT:Turing, Alan "] = 1, n [ "Dea h da e and age "] = 1, n [ "Doi "] = 1, n [ "EThOS "] = 1, n [ "Early his ory o ideo games "] = 1, n [ "E n "] = 1, n [ "Exis en ial risk rom ar i icial in elligence "] = 1, n [ "FRS 1951 "] = 1, n [ "Fla lis "] = 2, n [ "Free access "] = 1, n [ "Good ar icle "] = 1, n [ "Google scholar id "] = 1, n [ "Har id "] = 1, n [ "Har nb "] = 22, n [ "IPAc-en "] = 1, n [ "Ill "] = 1, n [ "Inden ed plainlis "] = 1, n [ "In obox scien is "] = 1, n [ "MacTu or Biography "] = 1, n [ "Mac u or "] = 1, n [ "Main "] = 3, n [ "Ma hGenealogy "] = 1, n [ "Nee "] = 1, n [ "No elis "] = 1, n [ "Nowrap "] = 2, n [ "Open access "] = 1, n [ "Openplaque "] = 2, n [ "Plainlis "] = 2, n [ "Por al bar "] = 1, n [ "Pos -nominals "] = 1, n [ "Pp-semi-inde "] = 1, n [ "ProQues "] = 1, n [ "Redirec "] = 1, n [ "Re begin "] = 1, n [ "Re end "] = 1, n [ "Re lis "] = 1, n [ "S n "] = 45, n [ "Shor descrip ion "] = 1, n [ "Sis er projec links "] = 1, n [ "TOC limi "] = 1, n [ "Timelines o compu ing "] = 1, n [ "Use Bri ish English "] = 1, n [ "Use dmy da es "] = 1, n [ "Webarchi e "] = 4, n} nar icle_whi elis = able#1 { n} nci ere _pa erns = able#1 { n} n1 1 Alan Turing n1 1 Alan Turing n"},"cacherepor ":{"origin":"mw-web.cod w.main-b 65cc95d- hw8j"," imes amp":"20260427032734"," l":75600," ransien con en ": rue,"expiry-source":"Module:Por al_bar (os.da e(%k))"}}});}); 
+ {"@con ex ":"h ps: / /schema.org","@ ype":"Ar icle","name":"Alan Turing","url":"h ps: / /en.wikipedia.org /wiki /Alan_Turing","sameAs":"h p: / /www.wikida a.org /en i y /Q7251","mainEn i y":"h p: / /www.wikida a.org /en i y /Q7251","au hor":{"@ ype":"Organiza ion","name":"Con ribu ors o Wikimedia projec s"},"publisher":{"@ ype":"Organiza ion","name":"Wikimedia Founda ion, Inc.","logo":{"@ ype":"ImageObjec ","url":"h ps: / /www.wikimedia.org /s a ic /images /wm -hor-googpub.png"}},"da ePublished":"2001-11-12T19:39:34Z","da eModi ied":"2026-04-26T21:43:15Z","image":"h ps: / /upload.wikimedia.org /wikipedia /commons /c /ce /Alan_ uring_header.jpg","headline":"English compu er scien is (1912 u20131954)"}

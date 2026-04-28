@@ -1,0 +1,2010 @@
+---
+cite: wikipedia_en_turing_award
+url: https://en.wikipedia.org/wiki/Turing_Award
+title: Turing Award (Wikipedia EN)
+---
+Turing Award - Wikipedia 
+ ( unc ion(){ ar className="clien -js ec or- ea ure-language-in-header-enabled ec or- ea ure-language-in-main-menu-disabled ec or- ea ure-language-in-main-page-header-disabled ec or- ea ure-page- ools-pinned-disabled ec or- ea ure- oc-pinned-clien pre -1 ec or- ea ure-main-menu-pinned-disabled ec or- ea ure-limi ed-wid h-clien pre -1 ec or- ea ure-limi ed-wid h-con en -enabled ec or- ea ure-cus om- on -size-clien pre -1 ec or- ea ure-appearance-pinned-clien pre -1 skin- heme-clien pre -day ec or-s icky-header-enabled ec or- oc-a ailable skin- heme-clien pre - humb-s andard"; ar cookie=documen .cookie.ma ch(/(?:^|; )enwikimwclien pre erences=([^;]+)/);i (cookie){cookie[1].spli ('%2C'). orEach( unc ion(pre ){className=className.replace(new RegExp('(^| )'+pre .replace(/-clien pre - w+$|[^ w-]+/g,'')+'-clien pre - w+( |$)'),'$1'+pre +'$2');});}documen .documen Elemen .className=className;}());RLCONF={"wgBreakFrames": alse,"wgSepara orTrans ormTable":["",""],"wgDigi Trans ormTable":["",""],"wgDe aul Da eForma ":"dmy","wgMon hNames":["","January","February","March","April","May","June","July","Augus ","Sep ember","Oc ober","No ember","December"],"wgReques Id":" a08159c-6c1c-4 ee-8 6c-7b4b736d61db","wgCanonicalNamespace":"","wgCanonicalSpecialPageName": alse,"wgNamespaceNumber":0,"wgPageName":"Turing_Award","wgTi le":"Turing Award","wgCurRe isionId":1351320014,"wgRe isionId":1351320014,"wgAr icleId":31093,"wgIsAr icle": rue,"wgIsRedirec ": alse,"wgAc ion":" iew","wgUserName":null,"wgUserGroups":["*"],"wgCa egories":["CS1 main : depreca ed archi al ser ice","Ar icles wi h shor descrip ion","Shor descrip ion is di eren rom Wikida a","Fea ured lis s","Use mdy da es rom No ember 2022","Ar icles con aining po en ially da ed s a emen s rom 2026","All ar icles con aining po en ially da ed s a emen s","Ar icles wi h hCards","Ar icles con aining French-language ex ","Commons ca egory link rom Wikida a","Alan Turing","Awards o he Associa ion or Compu ing Machinery","Awards es ablished in 1966","Compu er science awards","Sys ems sciences awards","In erna ional science and echnology awards"],"wgPageViewLanguage":"en","wgPageCon en Language":"en","wgPageCon en Model":"wiki ex ","wgRele an PageName":"Turing_Award","wgRele an Ar icleId":31093,"wgTempUserName":null,"wgIsProbablyEdi able": rue,"wgRele an PageIsProbablyEdi able": rue,"wgRes ric ionEdi ":[],"wgRes ric ionMo e":[],"wgNo iceProjec ":"wikipedia","wgFlaggedRe sParams":{" ags":{"s a us":{"le els":1}}},"wgCon irmEdi Cap chaNeededForGenericEdi ":"hcap cha","wgCon irmEdi HCap chaVisualEdi orOnLoadIn egra ionEnabled": alse,"wgCon irmEdi HCap chaSi eKey":"5d0c670e-a5 4-4258-ad16-1 42792c9c62","wgMediaViewerOnClick": rue,"wgMediaViewerEnabledByDe aul ": rue,"wgPopupsFlags":0,"wgVisualEdi or":{"pageLanguageCode":"en","pageLanguageDir":"l r","pageVarian Fallbacks":"en"},"wgMFDisplayWikibaseDescrip ions":{"search": rue,"wa chlis ": rue," agline": alse,"nearby": rue},"wgWMESchemaEdi A emp S epO ersample": alse,"wgWMEPageLeng h":80000,"wgEdi Submi Bu onLabelPublish": rue,"wgVisualEdi orPageIsDisambigua ion": alse,"wgULSPosi ion":"in erlanguage","wgULSisCompac LinksEnabled": alse,"wgVec or2022LanguageInHeader": rue,"wgULSisLanguageSelec orEmp y": alse,"wgWikibaseI emId":"Q185667","wgCheckUserClien Hin sHeadersJsApi":["brands","archi ec ure","bi ness"," ullVersionLis ","mobile","model","pla orm","pla ormVersion"],"GEHomepageSugges edEdi sEnableTopics": rue,"wgGESugges edEdi sTaskTypes":{" askTypes":["copyedi ","link-recommenda ion"],"una ailableTaskTypes":[]},"wgGETopicsMa chModeEnabled": alse,"wgGELe elingUpEnabledForUser": alse,"wgTes Ki chenUserExperimen s":{"o errides":[],"enrolled":[],"assigned":[],"subjec _ids":[]}};
+RLSTATE={"ex .globalCssJs.user.s yles":"ready","si e.s yles":"ready","user.s yles":"ready","ex .globalCssJs.user":"ready","user":"ready","user.op ions":"loading","ex .wikimediamessages.s yles":"ready","ex .ci e.s yles":"ready","skins. ec or.search.codex.s yles":"ready","skins. ec or.s yles":"ready","skins. ec or.icons":"ready","jquery. ablesor er.s yles":"ready","jquery.makeCollapsible.s yles":"ready","ex . isualEdi or.desk opAr icleTarge .noscrip ":"ready","ex .uls.in erlanguage":"ready","wikibase.clien .ini ":"ready","ex .wikimediaBadges":"ready"};RLPAGEMODULES=["ex .parsermigra ion.sur ey","ex .ci e.ux-enhancemen s","mediawiki.page.media","si e","mediawiki.page.ready","jquery. ablesor er","jquery.makeCollapsible","mediawiki. oc","skins. ec or.js","ex .cen ralNo ice.geoIP","ex .cen ralNo ice.s ar Up","ex .gadge .Re erenceTool ips","ex .gadge .swi cher","ex .urlShor ener. oolbar","ex .cen ralau h.cen ralau ologin","mm .boo s rap","ex .popups","ex . isualEdi or.desk opAr icleTarge .ini ","ex .echo.cen ralau h","ex .e en Logging","ex .wikimediaE en s","ex .na iga ionTiming","ex .uls.in er ace","ex .cx.e en logging.campaigns","ex .cx.uls.quick.ac ions","wikibase.clien . ec or-2022","wikibase.da abox. romWikida a","ex .checkUser.clien Hin s","ex .quicksur eys.ini ","ex .grow hExperimen s.Sugges edEdi Session","ex . es Ki chen"]; 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.loader.impl( unc ion(){re urn["user.op ions@12s5i", unc ion($,jQuery,require,module){mw.user. okens.se ({"pa rolToken":"+ ","wa chToken":"+ ","csr Token":"+ "});
+}];});}); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jump o con en 
+ 
+	 
+		 
+			 
+				
+ 
+	 
+	 
+
+ Main menu 
+	 
+	 
+
+
+				 
+		
+ 
+	 
+	 Main menu 
+	 mo e o sidebar 
+	 hide 
+ 
+
+	
+ 
+	 
+		Na iga ion
+	 
+	 
+		
+		 
+			
+			 Main page Con en s Curren e en s Random ar icle Abou Wikipedia Con ac us 
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		Con ribu e
+	 
+	 
+		
+		 
+			
+			 Help Learn o edi Communi y por al Recen changes Upload ile Special pages 
+		 
+		
+	 
+ 
+
+ 
+
+				 
+
+	 
+ 
+
+		 
+			
+ 
+	 
+	 
+		 
+		 
+	 
+ 
+
+		 
+		 
+			
+ 
+	 
+
+ Search 
+	 
+	 
+		 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+				 
+				 Search 
+			 
+		 
+	 
+ 
+
+			 
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	 
+		
+ 
+	 
+	 
+
+ Appearance 
+	 
+	 
+
+
+			 
+				
+			 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			 
+
+ Dona e 
+ 
+ Crea e accoun 
+ 
+ Log in 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+	 
+
+ Personal ools 
+	 
+	 
+
+
+		
+ 
+	 
+		
+		 
+			 
+
+ Dona e 
+ 
+ 
+
+ Crea e accoun 
+ 
+ 
+
+ Log in 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+		 
+		 
+			 
+		 
+			 
+				 
+				
+				 
+		 
+		 
+	 
+	 
+				 
+					 
+					 
+	 
+	 Con en s 
+	 mo e o sidebar 
+	 hide 
+ 
+
+
+	 
+		 
+			 
+				 (Top) 
+			 
+		 
+		 
+		 
+			 
+				 1 
+				 Recipien s 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 2 
+				 See also 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 3 
+				 Re erences 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 4 
+				 Fur her reading 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 5 
+				 Ex ernal links 
+			 
+		 
+		
+		 
+		 
+	 
+ 
+ 
+
+					 
+		 
+			 
+		 
+		 
+			 
+				 
+					 
+						
+ 
+	 
+	 
+
+ Toggle he able o con en s 
+	 
+	 
+
+
+							 
+			 
+		
+	 
+ 
+
+					 
+					 Turing Award 
+							
+ 
+	 
+	 
+
+ 66 languages 
+	 
+	 
+
+		 
+			
+			 
+				
+				 العربية Azərbaycanca Беларуская Български বাংলা Brezhoneg Bosanski Ca alà کوردی Češ ina Dansk Deu sch Ελληνικά Esperan o Español Ees i فارسی Suomi Français Frysk Galego עברית हिन्दी Hr a ski Magyar Հայերեն Bahasa Indonesia I aliano 日本語 ქართული Қазақша 한국어 Кыргызча La ina Lë zebuergesch Lie u ių La iešu Македонски മലയാളം Монгол मराठी Bahasa Melayu Nederlands Norsk bokmål Polski Por uguês Română Русский Srpskohr a ski / српскохрватски Simple English Slo enčina Slo enščina Shqip Српски / srpski S enska தமிழ் తెలుగు ไทย Türkçe Українська Tiếng Việ Wes -Vlams 吴语 მარგალური 閩南語 / Bân-lâm-gí 中文 
+			 
+			 Edi links 
+		 
+
+	 
+ 
+ 
+				 
+					 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 Ar icle Talk 
+		 
+		
+	 
+ 
+
+								
+ 
+	 
+	 English 
+	 
+	 
+
+
+					
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+				
+	 
+ 
+
+							 
+						 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 Read Edi View his ory 
+		 
+		
+	 
+ 
+
+							 
+				
+							 
+								
+ 
+	 
+	 Tools 
+	 
+	 
+
+
+									 
+						
+ 
+	 
+	 Tools 
+	 mo e o sidebar 
+	 hide 
+ 
+
+	
+ 
+	 
+		Ac ions
+	 
+	 
+		
+		 
+			
+			 Read Edi View his ory 
+		 
+		
+	 
+ 
+
+ 
+	 
+		General
+	 
+	 
+		
+		 
+			
+			 Wha links here Rela ed changes Upload ile Permanen link Page in orma ion Ci e his page Ge shor ened URL 
+		 
+		
+	 
+ 
+
+ 
+	 
+		Prin /expor 
+	 
+	 
+		
+		 
+			
+			 Download as PDF Prin able ersion 
+		 
+		
+	 
+ 
+
+ 
+	 
+		In o her projec s
+	 
+	 
+		
+		 
+			
+			 Wikimedia Commons Wikida a i em 
+		 
+		
+	 
+ 
+
+ 
+
+									 
+				
+	 
+ 
+
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+						 
+							 
+				
+							 
+		 
+						 
+							 
+				 
+	 
+	 Appearance 
+	 mo e o sidebar 
+	 hide 
+ 
+
+
+ 
+
+							 
+		 
+					 
+				 
+				 
+					 
+							 
+		 
+		 
+
+						 From Wikipedia, he ree encyclopedia 
+					 
+					 
+					
+					
+					 
+ American annual compu er science prize 
+ 
+
+ 
+ .mw-parser-ou pu .in obox-subbox{padding:0;border:none;margin:-3px;wid h:au o;min-wid h:100%; on -size:100%;clear:none; loa :none;background-color: ransparen ;color:inheri }.mw-parser-ou pu .in obox-3cols-child{margin:-3px}.mw-parser-ou pu .in obox .na bar{ on -size:100%}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}}@media(min-wid h:640px){body.skin--responsi e .mw-parser-ou pu .in obox- able{display: able!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able>cap ion{display: able-cap ion!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able> body{display: able-row-group}body.skin--responsi e .mw-parser-ou pu .in obox- able h,body.skin--responsi e .mw-parser-ou pu .in obox- able d{padding-le :inheri ;padding-righ :inheri }} ACM Turing Award S a ue o Alan Turing Awarded or Ou s anding con ribu ions in compu er science Coun ry Uni ed S a es Presen ed by Associa ion or Compu ing Machinery Reward US$1,000,000 &#91; 1 &#93; Firs award 1966 &#59;&#32;60&#160;years ago &#160;( 1966 ) Websi e am uring .acm .org 
+ The ACM A. M. Turing Award is an annual prize gi en by he Associa ion or Compu ing Machinery (ACM) or con ribu ions o las ing and major echnical impor ance o compu er science . I is generally recognized as he highes dis inc ion in he ield o compu er science and is o en re erred o as he " Nobel Prize o Compu ing ". &#91; 2 &#93; &#91; 3 &#93; &#91; 4 &#93; &#91; 5 &#93; &#91; 6 &#93; As o 2026 &#91;upda e&#93; , 81 people ha e been awarded he prize, wi h he mos recen recipien s being Charles H. Benne and Gilles Brassard , who won in 2025.
+ The award is named a er Alan Turing , also re erred as "Fa her o Compu er Science", who was a Bri ish ma hema ician and reader in ma hema ics a he Uni ersi y o Manches er . Turing is o en credi ed as being he ounder o heore ical compu er science and ar i icial in elligence , &#91; 7 &#93; and a key con ribu or o he Allied cryp analysis o he Enigma cipher during World War II . &#91; 8 &#93; From 2007 o 2013, he award was accompanied by a prize o US$250,000 , wi h inancial suppor pro ided by In el and Google . &#91; 2 &#93; &#91; 9 &#93; Since 2014, he award has been accompanied by a prize o US$1 &#160;million, wi h inancial suppor pro ided by Google. &#91; 1 &#93; &#91; 10 &#93; 
+ The irs recipien , in 1966, was Alan Perlis . The younges recipien was Donald Knu h , who won in 1974 a he age o 36, &#91; 11 &#93; while he oldes recipien was Al red Aho , who won in 2020 a he age o 79. &#91; 12 &#93; Three women ha e been awarded he prize: Frances Allen (in 2006), &#91; 13 &#93; Barbara Lisko (in 2008), &#91; 14 &#93; and Sha i Goldwasser (in 2012). &#91; 15 &#93; 
+ 
+ The Turing Award o 1983, gi en o Dennis Ri chie and Ken Thompson , on display a Nokia Bell Labs . 
+ 
+ Recipien s [ edi ] 
+ 
+ Recipien s o he ACM Turing award
+ 
+ 
+ Year
+ 
+ Recipien (s)
+ 
+ Pho o
+ 
+ Ci a ion
+ 
+ A ilia ion a ime o award
+ 
+ 
+ 1966
+ 
+ Alan Perlis 
+ 
+ 
+ 
+ " or his in luence in he area o ad anced compu er programming echniques and compiler cons ruc ion" &#91; 16 &#93; &#91; 17 &#93; 
+ 
+ Carnegie Mellon Uni ersi y 
+ 
+ 
+ 1967
+ 
+ Maurice Wilkes 
+ 
+ 
+ 
+ or con ribu ions including being " he builder and designer o he EDSAC , he second compu er wi h an in ernally s ored program " and in roducing program libraries ( oge her wi h Da id Wheeler and S anley Gill ) &#91; 18 &#93; &#91; 19 &#93; 
+ 
+ Uni ersi y o Cambridge 
+ 
+ 
+ 1968
+ 
+ Richard Hamming 
+ 
+ 
+ 
+ " or his work on numerical me hods , au oma ic coding sys ems, and error-de ec ing and error-correc ing codes " &#91; 20 &#93; &#91; 21 &#93; 
+ 
+ Bell Labs 
+ 
+ 
+ 1969
+ 
+ Mar in Minsky 
+ 
+ 
+ 
+ " or his cen ral role in crea ing, shaping, promo ing, and ad ancing he ield o ar i icial in elligence " &#91; 22 &#93; &#91; 23 &#93; 
+ 
+ Massachuse s Ins i u e o Technology 
+ 
+ 
+ 1970
+ 
+ James H. Wilkinson 
+ 
+ 
+ 
+ " or his research in numerical analysis o acili a e he use o he high-speed digi al compu er, ha ing recei ed special recogni ion or his work in compu a ions in linear algebra and 'backward' error analysis" &#91; 24 &#93; &#91; 25 &#93; 
+ 
+ Na ional Physical Labora ory 
+ 
+ 
+ 1971
+ 
+ John McCar hy 
+ 
+ 
+ 
+ Award ci a ion re ers o McCar hy's lec ure "The Presen S a e o Research on Ar i icial In elligence" &#91; 26 &#93; &#91; 27 &#93; 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ 1972
+ 
+ Edsger W. Dijks ra 
+ 
+ 
+ 
+ " or undamen al con ribu ions o programming as a high, in ellec ual challenge; or eloquen insis ence and prac ical demons ra ion ha programs should be composed correc ly, no jus debugged in o correc ness; or illumina ing percep ion o problems a he ounda ions o program design" &#91; 28 &#93; &#91; 29 &#93; 
+ 
+ Eindho en Uni ersi y o Technology 
+ 
+ 
+ 1973
+ 
+ Charles Bachman 
+ 
+ 
+ 
+ " or his ou s anding con ribu ions o da abase echnology" &#91; 30 &#93; &#91; 31 &#93; 
+ 
+ General Elec ric Research Labora ory (now under Groupe Bull , an A os company)
+ 
+ 
+ 1974
+ 
+ Donald Knu h 
+ 
+ 
+ 
+ " or his major con ribu ions o he analysis o algori hms and he design o programming languages, and in par icular or his con ribu ions o ' The Ar o Compu er Programming ' hrough his well-known books in a con inuous series by his i le" &#91; 32 &#93; &#91; 33 &#93; 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ 1975
+ 
+ Allen Newell 
+ 
+ 
+ 
+ in collabora ion wi h J. C. Shaw and o hers, or "basic con ribu ions o ar i icial in elligence, he psychology o human cogni ion , and lis processing ." &#91; 34 &#93; &#91; 35 &#93; &#91; 36 &#93; 
+ 
+ RAND Corpora ion 
+ 
+ 
+ Herber A. Simon 
+ 
+ 
+ 
+ 
+ 
+ Carnegie Mellon Uni ersi y 
+ 
+ 
+ 1976
+ 
+ Michael O. Rabin 
+ 
+ 
+ 
+ " or heir join paper ' Fini e au oma a and heir decision problem', &#91; 37 &#93; which in roduced he idea o nonde erminis ic machines " &#91; 38 &#93; &#91; 39 &#93; &#91; 40 &#93; &#91; 41 &#93; 
+ 
+ Prince on Uni ersi y 
+ 
+ 
+ Dana Sco 
+ 
+ 
+ 
+ Uni ersi y o Chicago 
+ 
+ 
+ 1977
+ 
+ John Backus 
+ 
+ 
+ 
+ " or pro ound, in luen ial, and las ing con ribu ions o he design o prac ical high-le el programming sys ems, no ably hrough his work on FORTRAN , and or seminal publica ion o ormal procedures or he speci ica ion o programming languages " &#91; 42 &#93; &#91; 43 &#93; 
+ 
+ IBM Research 
+ 
+ 
+ 1978
+ 
+ Rober W. Floyd 
+ 
+ 
+ 
+ " or ha ing a clear in luence on me hodologies or he crea ion o e icien and reliable so ware, and or helping o ound he ollowing impor an sub ields o compu er science : he heory o parsing , he seman ics o programming languages, au oma ic program eri ica ion , au oma ic program syn hesis , and analysis o algori hms " &#91; 44 &#93; &#91; 45 &#93; 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ 1979
+ 
+ Kenne h E. I erson 
+ 
+ 
+ 
+ " or his pioneering e or in programming languages and ma hema ical no a ion resul ing in wha he compu ing ield now knows as APL , or his con ribu ions o he implemen a ion o in erac i e sys ems, o educa ional uses o APL, and o programming language heory and prac ice" &#91; 46 &#93; &#91; 47 &#93; 
+ 
+ IBM Research 
+ 
+ 
+ 1980
+ 
+ Tony Hoare 
+ 
+ 
+ 
+ " or his undamen al con ribu ions o he de ini ion and design o programming languages" &#91; 48 &#93; &#91; 49 &#93; 
+ 
+ Uni ersi y o Ox ord 
+ 
+ 
+ 1981
+ 
+ Edgar F. Codd 
+ 
+ 
+ 
+ " or his undamen al and con inuing con ribu ions o he heory and prac ice o da abase managemen sys ems" &#91; 50 &#93; &#91; 51 &#93; 
+ 
+ IBM Research 
+ 
+ 
+ 1982
+ 
+ S ephen Cook 
+ 
+ 
+ 
+ or "his ad ancemen o our unders anding o he complexi y o compu a ion in a signi ican and pro ound way"; he ci a ion in par icular men ions his paper "The Complexi y o Theorem Pro ing Procedures," which is credi ed wi h ounding he heory o NP-comple eness &#91; 52 &#93; &#91; 53 &#93; 
+ 
+ Uni ersi y o Toron o 
+ 
+ 
+ 1983
+ 
+ Dennis Ri chie 
+ 
+ 
+ 
+ " or heir de elopmen o generic opera ing sys ems heory and speci ically or he implemen a ion o he UNIX opera ing sys em" &#91; 54 &#93; &#91; 55 &#93; 
+ 
+ Bell Labs 
+ 
+ 
+ Ken Thompson 
+ 
+ 
+ 
+ 
+ 1984
+ 
+ Niklaus Wir h 
+ 
+ 
+ 
+ " or de eloping a sequence o inno a i e compu er languages, EULER , ALGOL-W , MODULA and PASCAL " &#91; 56 &#93; 
+ 
+ Uni ersi y o Zurich 
+ 
+ 
+ 1985
+ 
+ Richard M. Karp 
+ 
+ 
+ 
+ " or his con inuing con ribu ions o he heory o algori hms including he de elopmen o e icien algori hms or ne work low and o her combina orial op imiza ion problems, he iden i ica ion o polynomial- ime compu abili y wi h he in ui i e no ion o algori hmic e iciency, and, mos no ably, con ribu ions o he heory o NP-comple eness " &#91; 57 &#93; 
+ 
+ Uni ersi y o Cali ornia, Berkeley 
+ 
+ 
+ 1986
+ 
+ John Hopcro 
+ 
+ 
+ 
+ " or undamen al achie emen s in he design and analysis o algori hms and da a s ruc ures" &#91; 58 &#93; &#91; 59 &#93; 
+ 
+ Cornell Uni ersi y 
+ 
+ 
+ Rober Tarjan 
+ 
+ 
+ 
+ Bell Labs , Prince on Uni ersi y 
+ 
+ 
+ 1987
+ 
+ John Cocke 
+ 
+ 
+ 
+ " or signi ican con ribu ions in he design and heory o compilers , he archi ec ure o large sys ems and he de elopmen o reduced ins ruc ion se compu ers (RISC); or disco ering and sys ema izing many undamen al rans orma ions now used in op imizing compilers including reduc ion o opera or s reng h , elimina ion o common subexpressions , regis er alloca ion , cons an propaga ion , and dead code elimina ion " &#91; 60 &#93; 
+ 
+ IBM Research 
+ 
+ 
+ 1988
+ 
+ I an Su herland 
+ 
+ 
+ 
+ " or his pioneering and isionary con ribu ions o compu er graphics , s ar ing wi h Ske chpad , and con inuing a er" &#91; 61 &#93; 
+ 
+ Sun Microsys ems 
+ 
+ 
+ 1989
+ 
+ William Kahan 
+ 
+ 
+ 
+ " or his undamen al con ribu ions o numerical analysis " and as "one o he oremos exper s on loa ing-poin compu a ions " &#91; 62 &#93; 
+ 
+ Uni ersi y o Cali ornia, Berkeley 
+ 
+ 
+ 1990
+ 
+ Fernando J. Corba ó 
+ 
+ 
+ 
+ " or his pioneering work organizing he concep s and leading he de elopmen o he general-purpose, large-scale, ime-sharing and resource-sharing compu er sys ems, CTSS and Mul ics " &#91; 63 &#93; 
+ 
+ Massachuse s Ins i u e o Technology 
+ 
+ 
+ 1991
+ 
+ Robin Milner 
+ 
+ 
+ 
+ The award ci a ion men ions hree primary con ribu ions: his mechaniza ion o he Logic o Compu able Func ions ; he programming language ML including i s ype in erence and ype sa e y ; he calculus o communica ing sys ems ; as well as he connec ion be ween opera ional and deno a ional seman ics &#91; 64 &#93; &#91; 65 &#93; 
+ 
+ Uni ersi y o Edinburgh 
+ 
+ 
+ 1992
+ 
+ Bu ler Lampson 
+ 
+ 
+ 
+ " or con ribu ions o he de elopmen o dis ribu ed, personal compu ing en ironmen s and he echnology or heir implemen a ion: works a ions , ne works , opera ing sys ems , programming sys ems, displays , securi y and documen publishing " &#91; 66 &#93; 
+ 
+ Digi al Equipmen Corpora ion 
+ 
+ 
+ 1993
+ 
+ Juris Har manis 
+ 
+ 
+ 
+ "in recogni ion o heir seminal paper &#91; 67 &#93; which es ablished he ounda ions or he ield o compu a ional complexi y heory " &#91; 68 &#93; &#91; 69 &#93; &#91; 70 &#93; 
+ 
+ General Elec ric Research Labora ory (now under Groupe Bull , an A os company)
+ 
+ 
+ Richard E. S earns 
+ 
+ 
+ 
+ 
+ 1994
+ 
+ Edward Feigenbaum 
+ 
+ 
+ 
+ " or pioneering he design and cons ruc ion o large scale ar i icial in elligence sys ems, demons ra ing he prac ical impor ance and po en ial commercial impac o ar i icial in elligence echnology" &#91; 71 &#93; &#91; 72 &#93; &#91; 73 &#93; 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ Raj Reddy 
+ 
+ 
+ 
+ Carnegie Mellon Uni ersi y 
+ 
+ 
+ 1995
+ 
+ Manuel Blum 
+ 
+ 
+ 
+ "in recogni ion o his con ribu ions o he ounda ions o compu a ional complexi y heory and i s applica ion o cryp ography and program checking " &#91; 74 &#93; 
+ 
+ Uni ersi y o Cali ornia, Berkeley 
+ 
+ 
+ 1996
+ 
+ Amir Pnueli 
+ 
+ 
+ 
+ " or seminal work in roducing emporal logic in o compu ing science and or ou s anding con ribu ions o program and sys em eri ica ion " &#91; 75 &#93; 
+ 
+ Weizmann Ins i u e o Science 
+ 
+ 
+ 1997
+ 
+ Douglas Engelbar 
+ 
+ 
+ 
+ " or an inspiring ision o he u ure o in erac i e compu ing and he in en ion o key echnologies o help realize his ision" &#91; 76 &#93; 
+ 
+ Boo s rap Ins i u e/Alliance, &#91; 77 &#93; 
+ 
+ 
+ 1998
+ 
+ Jim Gray 
+ 
+ 
+ 
+ " or seminal con ribu ions o da abase and ransac ion processing research and echnical leadership in sys em implemen a ion" &#91; 78 &#93; 
+ 
+ Microso Research 
+ 
+ 
+ 1999
+ 
+ Fred Brooks 
+ 
+ 
+ 
+ " or landmark con ribu ions o compu er archi ec ure , opera ing sys ems , and so ware engineering" &#91; 79 &#93; 
+ 
+ IBM Research , Uni ersi y o Nor h Carolina a Chapel Hill 
+ 
+ 
+ 2000
+ 
+ Andrew Yao 
+ 
+ 
+ 
+ "in recogni ion o his undamen al con ribu ions o he heory o compu a ion , including he complexi y-based heory o pseudorandom number genera ion , cryp ography , and communica ion complexi y " &#91; 80 &#93; 
+ 
+ Prince on Uni ersi y 
+ 
+ 
+ 2001
+ 
+ Ole-Johan Dahl 
+ 
+ 
+ 
+ " or ideas undamen al o he emergence o objec -orien ed programming , hrough heir design o he programming languages Simula I and Simula 67 " &#91; 81 &#93; &#91; 82 &#93; 
+ 
+ Norwegian Compu ing Cen er , Uni ersi y o Oslo 
+ 
+ 
+ Kris en Nygaard 
+ 
+ 
+ 
+ 
+ 2002
+ 
+ Leonard Adleman 
+ 
+ 
+ 
+ " or heir ingenious con ribu ion or making public-key cryp ography use ul in prac ice" &#91; 83 &#93; &#91; 84 &#93; &#91; 85 &#93; 
+ 
+ Uni ersi y o Sou hern Cali ornia 
+ 
+ 
+ Ron Ri es 
+ 
+ 
+ 
+ Massachuse s Ins i u e o Technology 
+ 
+ 
+ Adi Shamir 
+ 
+ 
+ 
+ 
+ 2003
+ 
+ Alan Kay 
+ 
+ 
+ 
+ " or pioneering many o he ideas a he roo o con emporary objec -orien ed programming languages, leading he eam ha de eloped Small alk , and or undamen al con ribu ions o personal compu ing" &#91; 86 &#93; 
+ 
+ HP Labs 
+ 
+ 
+ 2004
+ 
+ Vin Cer 
+ 
+ 
+ 
+ " or pioneering work on in erne working , including he design and implemen a ion o he In erne 's basic communica ions pro ocols, TCP/IP , and or inspired leadership in ne working" &#91; 87 &#93; &#91; 88 &#93; 
+ 
+ MCI , CNRI 
+ 
+ 
+ Rober Kahn 
+ 
+ 
+ 
+ CNRI 
+ 
+ 
+ 2005
+ 
+ Pe er Naur 
+ 
+ 
+ 
+ " or undamen al con ribu ions o programming language design and he de ini ion o ALGOL 60 , o compiler design, and o he ar and prac ice o compu er programming" &#91; 89 &#93; 
+ 
+ Uni ersi y o Copenhagen 
+ 
+ 
+ 2006
+ 
+ Frances Allen 
+ 
+ 
+ 
+ " or pioneering con ribu ions o he heory and prac ice o op imizing compiler echniques ha laid he ounda ion or modern op imizing compilers and au oma ic parallel execu ion " &#91; 90 &#93; 
+ 
+ IBM Research 
+ 
+ 
+ 2007
+ 
+ Edmund M. Clarke 
+ 
+ 
+ 
+ " or heir role in de eloping model checking in o a highly e ec i e eri ica ion echnology ha is widely adop ed in he hardware and so ware indus ries" &#91; 91 &#93; &#91; 92 &#93; &#91; 93 &#93; &#91; 94 &#93; 
+ 
+ Carnegie Mellon Uni ersi y 
+ 
+ 
+ E. Allen Emerson 
+ 
+ 
+ 
+ Uni ersi y o Texas a Aus in 
+ 
+ 
+ Joseph Si akis 
+ 
+ 
+ 
+ French Na ional Cen re or Scien i ic Research 
+ 
+ 
+ 2008
+ 
+ Barbara Lisko 
+ 
+ 
+ 
+ " or con ribu ions o prac ical and heore ical ounda ions o programming language and sys em design, especially rela ed o da a abs rac ion , aul olerance , and dis ribu ed compu ing " &#91; 14 &#93; 
+ 
+ Massachuse s Ins i u e o Technology 
+ 
+ 
+ 2009
+ 
+ Charles P. Thacker 
+ 
+ 
+ 
+ " or he pioneering design and realiza ion o he irs modern personal compu er— he Al o a Xerox PARC —and seminal in en ions and con ribu ions o local area ne works (including he E herne ), mul iprocessor works a ions, snooping cache coherence pro ocols, and able personal compu ers " &#91; 95 &#93; 
+ 
+ Microso Research 
+ 
+ 
+ 2010
+ 
+ Leslie Valian 
+ 
+ 
+ 
+ " or rans orma i e con ribu ions o he heory o compu a ion , including he heory o probably approxima ely correc (PAC) learning , he complexi y o enumera ion and o algebraic compu a ion , and he heory o parallel and dis ribu ed compu ing" &#91; 96 &#93; 
+ 
+ Har ard Uni ersi y 
+ 
+ 
+ 2011
+ 
+ Judea Pearl 
+ 
+ 
+ 
+ " or undamen al con ribu ions o ar i icial in elligence hrough he de elopmen o a calculus or probabilis ic and causal reasoning" &#91; 97 &#93; &#91; 98 &#93; 
+ 
+ Uni ersi y o Cali ornia, Los Angeles 
+ 
+ 
+ 2012
+ 
+ Sha i Goldwasser 
+ 
+ 
+ 
+ " or rans orma i e work ha laid he complexi y- heore ic ounda ions or he science o cryp ography, and in he process pioneered new me hods or e icien eri ica ion o ma hema ical proo s in complexi y heory" &#91; 15 &#93; &#91; 99 &#93; &#91; 100 &#93; 
+ 
+ Massachuse s Ins i u e o Technology , Weizmann Ins i u e o Science 
+ 
+ 
+ Sil io Micali 
+ 
+ 
+ 
+ Massachuse s Ins i u e o Technology 
+ 
+ 
+ 2013
+ 
+ Leslie Lampor 
+ 
+ 
+ 
+ " or undamen al con ribu ions o he heory and prac ice o dis ribu ed and concurren sys ems, no ably he in en ion o concep s such as causali y and logical clocks , sa e y and li eness , replica ed s a e machines , and sequen ial consis ency " &#91; 101 &#93; &#91; 102 &#93; &#91; 103 &#93; 
+ 
+ Microso Research 
+ 
+ 
+ 2014
+ 
+ Michael S onebraker 
+ 
+ 
+ 
+ " or undamen al con ribu ions o he concep s and prac ices underlying modern da abase sys ems" &#91; 104 &#93; &#91; 105 &#93; 
+ 
+ Massachuse s Ins i u e o Technology 
+ 
+ 
+ 2015
+ 
+ Whi ield Di ie 
+ 
+ 
+ 
+ " or in en ing and promulga ing bo h asymme ric public-key cryp ography, including i s applica ion o digi al signa ures, and a prac ical cryp ographic key-exchange me hod &#91; 106 &#93; &#91; 107 &#93; &#91; 108 &#93; 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ Mar in Hellman 
+ 
+ 
+ 
+ 
+ 2016
+ 
+ Tim Berners-Lee 
+ 
+ 
+ 
+ " or in en ing he World Wide Web , he irs web browser , and he undamen al pro ocols and algori hms allowing he Web o scale" &#91; 109 &#93; 
+ 
+ Massachuse s Ins i u e o Technology , World Wide Web Consor ium 
+ 
+ 
+ 2017
+ 
+ John L. Hennessy 
+ 
+ 
+ 
+ " or pioneering a sys ema ic, quan i a i e approach o he design and e alua ion o compu er archi ec ures wi h enduring impac on he microprocessor indus ry" &#91; 110 &#93; &#91; 111 &#93; &#91; 112 &#93; 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ Da id Pa erson 
+ 
+ 
+ 
+ Uni ersi y o Cali ornia, Berkeley 
+ 
+ 
+ 2018
+ 
+ Yoshua Bengio 
+ 
+ 
+ 
+ " or concep ual and engineering break hroughs ha ha e made deep neural ne works a cri ical componen o compu ing" &#91; 113 &#93; &#91; 114 &#93; &#91; 115 &#93; &#91; 116 &#93; 
+ 
+ Uni ersi é de Mon réal , Mila 
+ 
+ 
+ Geo rey Hin on 
+ 
+ 
+ 
+ Uni ersi y o Toron o , Google Brain 
+ 
+ 
+ Yann LeCun 
+ 
+ 
+ 
+ New York Uni ersi y , Me a AI 
+ 
+ 
+ 2019
+ 
+ Edwin Ca mull 
+ 
+ 
+ 
+ "For undamen al con ribu ions o 3D compu er graphics , and he impac o compu er-genera ed imagery (CGI) in ilmmaking and o her applica ions" &#91; 117 &#93; &#91; 118 &#93; &#91; 119 &#93; 
+ 
+ Pixar 
+ 
+ 
+ Pa Hanrahan 
+ 
+ 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ 2020
+ 
+ Al red Aho 
+ 
+ 
+ 
+ " or undamen al algori hms and heory underlying programming language implemen a ion and or syn hesizing hese resul s and hose o o hers in heir highly in luen ial books, which educa ed genera ions o compu er scien is s" &#91; 120 &#93; &#91; 121 &#93; &#91; 122 &#93; 
+ 
+ Columbia Uni ersi y 
+ 
+ 
+ Je rey Ullman 
+ 
+ 
+ 
+ S an ord Uni ersi y 
+ 
+ 
+ 2021
+ 
+ Jack Dongarra 
+ 
+ 
+ 
+ " or pioneering con ribu ions o numerical algori hms and libraries ha enabled high per ormance compu a ional so ware o keep pace wi h exponen ial hardware impro emen s or o er our decades" &#91; 123 &#93; &#91; 124 &#93; 
+ 
+ Oak Ridge Na ional Labora ory , Uni ersi y o Manches er , Uni ersi y o Tennessee , Rice Uni ersi y 
+ 
+ 
+ 2022
+ 
+ Rober Me cal e 
+ 
+ 
+ 
+ " or he in en ion, s andardiza ion, and commercializa ion o E herne " &#91; 125 &#93; 
+ 
+ Massachuse s Ins i u e o Technology 
+ 
+ 
+ 2023
+ 
+ A i Wigderson 
+ 
+ 
+ 
+ "For ounda ional con ribu ions o he heory o compu a ion, including reshaping our unders anding o he role o randomness in compu a ion and ma hema ics, and or his decades o in ellec ual leadership in heore ical compu er science" &#91; 126 &#93; &#91; 127 &#93; 
+ 
+ Ins i u e or Ad anced S udy 
+ 
+ 
+ 2024
+ 
+ Andrew Bar o 
+ 
+ 
+ 
+ "For de eloping he concep ual and algori hmic ounda ions o rein orcemen learning " &#91; 3 &#93; &#91; 128 &#93; &#91; 129 &#93; 
+ 
+ Uni ersi y o Massachuse s Amhers 
+ 
+ 
+ Richard S. Su on 
+ 
+ 
+ 
+ Uni ersi y o Alber a , Amii 
+ 
+ 
+ 2025
+ 
+ Charles H. Benne 
+ 
+ 
+ 
+ "For heir essen ial role in igni ing and shaping he quan um re olu ion in compu er science and in in orma ion and communica ions echnology." &#91; 130 &#93; 
+ 
+ IBM Research 
+ 
+ 
+ Gilles Brassard 
+ 
+ 
+ 
+ Uni ersi é de Mon réal 
+ 
+ 
+ See also [ edi ] 
+ .mw-parser-ou pu .di -col{margin- op:0.3em;column-wid h:30em}.mw-parser-ou pu .di -col-small{ on -size:90%}.mw-parser-ou pu .di -col-rules{column-rule:1px solid #aaa}.mw-parser-ou pu .di -col dl,.mw-parser-ou pu .di -col ol,.mw-parser-ou pu .di -col ul{margin- op:0}.mw-parser-ou pu .di -col li,.mw-parser-ou pu .di -col dd{page-break-inside:a oid;break-inside:a oid-column} 
+ Fields Medal 
+ ACM Prize in Compu ing 
+ IEEE John on Neumann Medal 
+ Lis o awards named a er people 
+ Lis o compu er science awards 
+ Lis o compu er-rela ed awards 
+ Lis o pioneers in compu er science 
+ Lis o ACM Awards 
+ Lis o prizes known as he Nobel or he highes honors o a ield 
+ Re erences [ edi ] 
+ .mw-parser-ou pu .re lis -columns-2{column-wid h:30em}.mw-parser-ou pu .re lis -columns-3{column-wid h:25em}body.skin- ec or-2022 .mw-parser-ou pu .re lis -columns-2{column-wid h:27em}body.skin- ec or-2022 .mw-parser-ou pu .re lis -columns-3{column-wid h:22.5em}.mw-parser-ou pu .re erences[da a-mw-group=upper-alpha]{lis -s yle- ype:upper-alpha}.mw-parser-ou pu .re erences[da a-mw-group=upper-roman]{lis -s yle- ype:upper-roman}.mw-parser-ou pu .re erences[da a-mw-group=lower-alpha]{lis -s yle- ype:lower-alpha}.mw-parser-ou pu .re erences[da a-mw-group=lower-greek]{lis -s yle- ype:lower-greek}.mw-parser-ou pu .re erences[da a-mw-group=lower-roman]{lis -s yle- ype:lower-roman}.mw-parser-ou pu di .re lis -lis s yle-upper-alpha .re erences{lis -s yle- ype:upper-alpha}.mw-parser-ou pu di .re lis -lis s yle-upper-roman .re erences{lis -s yle- ype:upper-roman}.mw-parser-ou pu di .re lis -lis s yle-lower-alpha .re erences{lis -s yle- ype:lower-alpha}.mw-parser-ou pu di .re lis -lis s yle-lower-greek .re erences{lis -s yle- ype:lower-greek}.mw-parser-ou pu di .re lis -lis s yle-lower-roman .re erences{lis -s yle- ype:lower-roman} 
+ 
+ 
+ 
+ ^ a b .mw-parser-ou pu ci e.ci a ion{ on -s yle:inheri ;word-wrap:break-word}.mw-parser-ou pu .ci a ion q{quo es:" """ """'""'"}.mw-parser-ou pu .ci a ion: arge {background-color:rgba(0,127,255,0.133)}.mw-parser-ou pu .id-lock- ree.id-lock- ree a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-limi ed.id-lock-limi ed a,.mw-parser-ou pu .id-lock-regis ra ion.id-lock-regis ra ion a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-subscrip ion.id-lock-subscrip ion a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.s g")righ 0.1em cen er/12px no-repea }body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock- ree a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-limi ed a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-regis ra ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-subscrip ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .cs1-ws-icon a{background-size:con ain;padding:0 1em 0 0}.mw-parser-ou pu .cs1-code{color:inheri ;background:inheri ;border:none;padding:inheri }.mw-parser-ou pu .cs1-hidden-error{display:none;color: ar(--color-error,#b 3c2c)}.mw-parser-ou pu .cs1- isible-error{color: ar(--color-error,#b 3c2c)}.mw-parser-ou pu .cs1-main {display:none;color:#085;margin-le :0.3em}.mw-parser-ou pu .cs1-kern-le {padding-le :0.2em}.mw-parser-ou pu .cs1-kern-righ {padding-righ :0.2em}.mw-parser-ou pu .ci a ion .mw-sel link{ on -weigh :inheri }@media screen{.mw-parser-ou pu .cs1- orma { on -size:95%}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .cs1-main {color:#18911 }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .cs1-main {color:#18911 }} CACM S a (2014). "ACM's Turing Award prize raised o $1 million" . Communica ions o he ACM . 57 (12): 20. doi : 10.1145/2685372 . 
+ 
+ ^ a b "A. M. Turing Award" . Associa ion or Compu ing Machinery . Archi ed rom he original on December 12, 2009 . Re rie ed No ember 5, 2007 . 
+ 
+ ^ a b "ACM A.M. Turing Award Honors Two Researchers Who Led he De elopmen o Corners one AI Technology" (Press release). The Associa ion or Compu ing Machinery. March 5, 2025. Archi ed rom he original on March 5, 2025. 
+ 
+ ^ Dasgup a, Sanjoy; Papadimi riou, Chris os ; Vazirani, Umesh (2008). Algori hms . McGraw-Hill . p.&#160; 317 . ISBN &#160; 978-0-07-352340-8 . 
+ 
+ ^ "dblp: ACM Turing Award Lec ures" . in orma ik.uni- rier.de . Archi ed rom he original on January 2, 2015 . Re rie ed February 11, 2023 . 
+ 
+ ^ Brown, Bob (June 6, 2011). "Why here's no Nobel Prize in Compu ing" . Ne work World . Archi ed rom he original on December 4, 2023 . Re rie ed June 3, 2015 . 
+ 
+ ^ Homer, S e en and Alan L. (2001). Compu abili y and Complexi y Theory . Springer. p.&#160;35. ISBN &#160; 978-0-387-95055-6 . Archi ed rom he original on April 3, 2023 . Re rie ed No ember 5, 2007 . 
+ 
+ ^ Copeland, Jack (June 18, 2012). "Alan Turing: The codebreaker who sa ed 'millions o li es' " . BBC News Technology. Archi ed rom he original on Oc ober 11, 2014 . Re rie ed Oc ober 26, 2014 . 
+ 
+ ^ Geringer, S e en (July 27, 2007). "ACM'S Turing Award Prize Raised To $250,000" . ACM press release. Archi ed rom he original on December 30, 2008 . Re rie ed Oc ober 16, 2008 . 
+ 
+ ^ "ACM's Turing Award Prize Raised o $1 Million" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 23, 2015 . Re rie ed No ember 13, 2014 . 
+ 
+ ^ Zhongkai Shangguan; Zihe Zheng; Jiebo Luo (2021). "Wha Kind o Person Wins he Turing Award?". p.&#160;1. arXi : 2104.05636 [ cs.GL ]. The younges winner was Donald Knu h, who con inced he jury wi h "Compu er Programming as an Ar " and won [ he] Turing Award in 1974 a he age o 36. 
+ 
+ ^ William L. Hosch. "Turing Award" . Encyclopedia Bri annica . Archi ed rom he original on February 5, 2024 . Re rie ed March 12, 2024 . 
+ 
+ ^ "Firs Woman o Recei e ACM Turing Award" (Press release). The Associa ion or Compu ing Machinery. February 21, 2007. Archi ed rom he original on July 2, 2007 . Re rie ed No ember 5, 2007 . 
+ 
+ ^ a b Tom an Vleck. "Barbara Lisko - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 9, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ a b Charles Racko . "Sha i Goldwasser - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on February 17, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Perlis, A. J. (1967). "The Syn hesis o Algori hmic Sys ems" . Journal o he ACM . 14 : 1– 9. doi : 10.1145/321371.321372 . S2CID &#160; 12937998 . 
+ 
+ ^ Da id No re. "Alan J Perlis - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on April 26, 2012 . Re rie ed March 4, 2024 . 
+ 
+ ^ Wilkes, M. V. (1968). "Compu ers hen and Now" . Journal o he ACM . 15 : 1– 7. doi : 10.1145/321439.321440 . S2CID &#160; 9846847 . 
+ 
+ ^ Mar in Campbell-Kelly. "Maurice V. Wilkes - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 7, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Hamming, R. W. (1969). "One Man's View o Compu er Science" . Journal o he ACM . 16 : 3– 12. doi : 10.1145/321495.321497 . S2CID &#160; 6868310 . 
+ 
+ ^ Edmund F. Rober son. "Richard W. Hamming - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 30, 2020 . Re rie ed March 4, 2024 . 
+ 
+ ^ Minsky, M. (1970). "Form and Con en in Compu er Science (1970 ACM uring lec ure)" . Journal o he ACM . 17 (2): 197– 215. doi : 10.1145/321574.321575 . S2CID &#160; 15661281 . 
+ 
+ ^ Pa rick Henry Wins on. "Mar in Minsky - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 28, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ Wilkinson, J. H. (1971). "Some Commen s rom a Numerical Analys " . Journal o he ACM . 18 (2): 137– 147. doi : 10.1145/321637.321638 . S2CID &#160; 37748083 . 
+ 
+ ^ Beres ord Neill Parle . "James Hardy ("Jim") Wilkinson - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 5, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ McCar hy, J. (1987). "Generali y in ar i icial in elligence" . Communica ions o he ACM . 30 (12): 1030– 1035. doi : 10.1145/33447.33448 . S2CID &#160; 1045033 . Archi ed rom he original on Sep ember 21, 2017 . Re rie ed No ember 1, 2017 . 
+ 
+ ^ Les er Earnes . "John Mccar hy - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Sep ember 3, 2016 . Re rie ed March 4, 2024 . 
+ 
+ ^ Dijks ra, E. W. (1972). "The humble programmer" . Communica ions o he ACM . 15 (10): 859– 866. doi : 10.1145/355604.361591 . 
+ 
+ ^ Hamil on Richards. "Edsger Wybe Dijks ra - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on February 26, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Bachman, C. W. (1973). "The programmer as na iga or" . Communica ions o he ACM . 16 (11): 653– 658. doi : 10.1145/355611.362534 . 
+ 
+ ^ Thomas Haigh. "Charles William Bachman - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 2, 2020 . Re rie ed March 4, 2024 . 
+ 
+ ^ Knu h, D. E. (1974). "Compu er programming as an ar " . Communica ions o he ACM . 17 (12): 667– 673. doi : 10.1145/361604.361612 . 
+ 
+ ^ Da id Walden. "Donald ("Don") Er in Knu h - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 17, 2019 . Re rie ed March 4, 2024 . 
+ 
+ ^ Newell, A.; Simon, H. A. (1976). "Compu er science as empirical inquiry: Symbols and search" . Communica ions o he ACM . 19 (3): 113. doi : 10.1145/360018.360022 . 
+ 
+ ^ Hun er Heyck. "Allen Newell - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 16, 2020 . Re rie ed March 4, 2024 . 
+ 
+ ^ Hun er Heyck. "Herber ("Herb") Alexander Simon - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on April 18, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Rabin, M. O.; Sco , D. (1959). "Fini e au oma a and heir decision problems" . IBM Journal o Research and De elopmen . 3 (2): 114. doi : 10.1147/rd.32.0114 . S2CID &#160; 3160330 . 
+ 
+ ^ Rabin, M. O. (1977). "Complexi y o compu a ions" . Communica ions o he ACM . 20 (9): 625– 633. doi : 10.1145/359810.359816 . 
+ 
+ ^ Sco , D. S. (1977). "Logic and programming languages" . Communica ions o he ACM . 20 (9): 634– 641. doi : 10.1145/359810.359826 . 
+ 
+ ^ "Michael O. Rabin - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 28, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Dana S eward Sco - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on February 26, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Backus, J. (1978). "Can programming be libera ed rom he on Neumann s yle?: A unc ional s yle and i s algebra o programs" . Communica ions o he ACM . 21 (8): 613– 641. doi : 10.1145/359576.359579 . 
+ 
+ ^ Grady Booch. "John Backus - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 5, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Floyd, R. W. (1979). "The paradigms o programming" . Communica ions o he ACM . 22 (8): 455– 460. doi : 10.1145/359138.359140 . 
+ 
+ ^ "Rober W. Floyd - A.M. Turing Award Laurea e" . am uring.acm.org . Re rie ed Oc ober 18, 2025 . 
+ 
+ ^ I erson, K. E. (1980). "No a ion as a ool o hough " . Communica ions o he ACM . 23 (8): 444– 465. doi : 10.1145/358896.358899 . 
+ 
+ ^ Kei h Smillie. "Kenne h E. ("Ken") I erson - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on April 3, 2019 . Re rie ed March 4, 2024 . 
+ 
+ ^ Hoare, C. A. R. (1981). "The emperor's old clo hes" . Communica ions o he ACM . 24 (2): 75– 83. doi : 10.1145/358549.358561 . 
+ 
+ ^ Cli Jones. "C. An ony ("Tony") R. Hoare - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Re rie ed March 4, 2024 . {{ ci e web }} : CS1 main : depreca ed archi al ser ice ( link ) 
+ 
+ ^ Codd, E. F. (1982). "Rela ional da abase: A prac ical ounda ion or produc i i y" . Communica ions o he ACM . 25 (2): 109– 117. doi : 10.1145/358396.358400 . 
+ 
+ ^ C. J. Da e. "Edgar F. ("Ted") Codd - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on December 23, 2017 . Re rie ed March 4, 2024 . 
+ 
+ ^ Cook, S. A. (1983). "An o er iew o compu a ional complexi y" . Communica ions o he ACM . 26 (6): 400– 408. doi : 10.1145/358141.358144 . 
+ 
+ ^ Bruce Kapron. "S ephen Ar hur Cook - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 21, 2019 . Re rie ed March 4, 2024 . 
+ 
+ ^ Tom Van Vleck. "A.M. Turing Award Laurea e – Kenne h Lane Thompson" . Associa ion or Compu ing Machinery . Archi ed rom he original on Augus 9, 2019 . Re rie ed No ember 4, 2018 . 
+ 
+ ^ Tom Van Vleck. "A.M. Turing Award Laurea e – Dennis M. Ri chie" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 20, 2021 . Re rie ed No ember 4, 2018 . 
+ 
+ ^ Thomas Haigh. "Niklaus E. Wir h - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on June 29, 2017 . Re rie ed March 4, 2024 . 
+ 
+ ^ B. Simons; D. Gus ield. "Richard ("Dick") Manning Karp - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on July 4, 2017 . Re rie ed March 4, 2024 . 
+ 
+ ^ "John E. Hopcro - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 27, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ V. King. "Rober (Bob) Endre Tarjan - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 30, 2017 . Re rie ed March 4, 2024 . 
+ 
+ ^ Michael G. Burke; Vi ek Sarkar. "John Cocke - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 29, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Rober Bur on. "I an Su herland - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 29, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Thomas Haigh. "William ("Vel el") Mor on Kahan - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 29, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ T. Van Vleck. "Fernando J ("Corby") Corba o - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 29, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Milner, R. (1993). "Elemen s o in erac ion: Turing award lec ure" . Communica ions o he ACM . 36 : 78– 89. doi : 10.1145/151233.151240 . 
+ 
+ ^ Michael Fourman. "Ar hur John Robin Gorell ("Robin") Milner - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 17, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Roy Le in. "Bu ler W Lampson - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 29, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Har manis, J.; S earns, R. E. (1965). "On he compu a ional complexi y o algori hms" (PDF) . Transac ions o he American Ma hema ical Socie y . 117 : 285– 306. doi : 10.2307/1994208 . JSTOR &#160; 1994208 . 
+ 
+ ^ S earns, R. E. (1994). "Turing Award lec ure: I 's ime o reconsider ime" . Communica ions o he ACM . 37 (11): 95– 99. doi : 10.1145/188280.188379 . 
+ 
+ ^ Allan Borodin. "Juris Har manis - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 21, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Richard ("Dick") Edwin S earns - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 21, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Reddy, R. (1996). "To dream he possible dream" . Communica ions o he ACM . 39 (5): 105– 112. doi : 10.1145/229459.233436 . 
+ 
+ ^ Nils J. Nilsson. "Edward A ("Ed") Feigenbaum - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 22, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Nils J. Nilsson. "Dabbala Rajagopal ("Raj") Reddy - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on December 10, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ Chris os H. Papadimi riou. "A.M. Turing Award Laurea e – Manuel Blum" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 23, 2021 . Re rie ed No ember 4, 2018 . 
+ 
+ ^ Lenore Zuck. "A.M. Turing Award Laurea e – Amir Pnueli" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 20, 2021 . Re rie ed No ember 4, 2018 . 
+ 
+ ^ Thierry Bardini. "A.M. Turing Award Laurea e – Douglas Engelbar " . Associa ion or Compu ing Machinery . Archi ed rom he original on July 4, 2017 . Re rie ed No ember 4, 2018 . 
+ 
+ ^ "The Doug Engelbar Ins i u e" . The Doug Engelbar Ins i u e. Archi ed rom he original on July 14, 2012 . Re rie ed June 17, 2012 . 
+ 
+ ^ Paul McJones. "James ("Jim") Nicholas Gray - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 29, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Grady Booch. "Frederick ("Fred") Brooks - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 29, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Bruce Kapron. "Andrew Chi-Chih Yao - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on July 3, 2017 . Re rie ed March 4, 2024 . 
+ 
+ ^ Andrew P. Black. "Ole-Johan Dahl - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 12, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Ole Lehrman Madsen. "Kris en Nygaard - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 28, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Ronald (Ron) Linn Ri es - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 11, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Adi Shamir - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on December 10, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ Joseph Bebel; Shang-Hua Teng. "Leonard (Len) Max Adleman - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 3, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ Susan B. Barnes. "Alan Kay - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 11, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Jane Abba e. "Vin on ("Vin ") Gray Cer - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 11, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Jane Abba e. "Rober (Bob) Ellio Kahn - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on July 13, 2019 . Re rie ed March 4, 2024 . 
+ 
+ ^ Edgar G. Dayligh . "Pe er Naur - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on June 12, 2018 . Re rie ed March 4, 2024 . 
+ 
+ ^ Guy S eele. "Frances ("Fran") Elizabe h Allen - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on April 7, 2022 . Re rie ed March 4, 2024 . 
+ 
+ ^ "2007 Turing Award Winners Announced" . Archi ed rom he original on No ember 2, 2009 . Re rie ed December 9, 2008 . 
+ 
+ ^ Ted Kirkpa rick. "Edmund Melson Clarke - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 4, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Thomas Wahl. "E. Allen Emerson - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on February 26, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Cris ian S. Calude. "Joseph Si akis - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 28, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Charles P. (Chuck) Thacker - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Oc ober 10, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Leslie Gabriel Valian - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 17, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Pearl, Judea (2007). ACM Turing Award Lec ures (mp4) . doi : 10.1145/1283920 . ISBN &#160; 978-1-4503-1049-9 . Archi ed rom he original on Oc ober 21, 2020 . Re rie ed No ember 16, 2020 . 
+ 
+ ^ S uar J. Russell. "Judea Pearl - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Augus 26, 2017 . Re rie ed March 15, 2012 . 
+ 
+ ^ "Turing award 2012" . Associa ion or Compu ing Machinery . Archi ed rom he original on March 18, 2013. 
+ 
+ ^ A i Wigderson. "Sil io Micali - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on December 11, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Turing award 2013" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 16, 2016 . Re rie ed March 18, 2014 . 
+ 
+ ^ Lampor , L. (1978). "Time, clocks, and he ordering o e en s in a dis ribu ed sys em" (PDF) . Communica ions o he ACM . 21 (7): 558– 565. Ci eSeerX &#160; 10.1.1.155.4742 . doi : 10.1145/359545.359563 . S2CID &#160; 215822405 . Archi ed (PDF) rom he original on Oc ober 31, 2008 . Re rie ed Augus 28, 2015 . 
+ 
+ ^ Dahlia Malkhi; Mar in Abadi; Hagi A iya; Idi Keidar; Nancy Lynch; Nir Sha i ; George Varghese; Len Shus ek. "Leslie Lampor - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on June 1, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Turing award 2014" . Associa ion or Compu ing Machinery . Archi ed rom he original on July 3, 2017 . Re rie ed March 25, 2015 . 
+ 
+ ^ Thomas Haigh. "Michael S onebreaker - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 25, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Di ie, W.; Hellman, M. (1976). "New direc ions in cryp ography" (PDF) . IEEE Transac ions on In orma ion Theory . 22 (6): 644– 654. Bibcode : 1976ITIT...22..644D . Ci eSeerX &#160; 10.1.1.37.9720 . doi : 10.1109/TIT.1976.1055638 . Archi ed (PDF) rom he original on December 3, 2017 . Re rie ed March 4, 2016 . 
+ 
+ ^ "Cryp ography Pioneers Recei e 2015 ACM A.M. Turing Award" . Associa ion or Compu ing Machinery . Archi ed rom he original on July 4, 2017 . Re rie ed March 1, 2016 . 
+ 
+ ^ Je rey R. Yos . "Mar in Hellman - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on Sep ember 22, 2022 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Turing award 2016" . Associa ion or Compu ing Machinery . Archi ed rom he original on April 6, 2017 . Re rie ed April 4, 2017 . 
+ 
+ ^ "Pioneers o Modern Compu er Archi ec ure Recei e ACM A.M. Turing Award" . Associa ion or Compu ing Machinery . Archi ed rom he original on March 25, 2018 . Re rie ed March 21, 2018 . 
+ 
+ ^ Charles H. House. "John L Hennessy - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on March 22, 2018 . Re rie ed March 4, 2024 . 
+ 
+ ^ Charles H. House. "Charles Pa erson - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 7, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Fa hers o he Deep Learning Re olu ion Recei e ACM A.M. Turing Award" . Associa ion or Compu ing Machinery . Archi ed rom he original on Augus 23, 2021 . Re rie ed March 27, 2019 . 
+ 
+ ^ Thomas Haigh. "Yoshua Bengio - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 27, 2020 . Re rie ed March 4, 2024 . 
+ 
+ ^ Thomas Haigh. "Geo rey E. Hin on - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on December 6, 2021 . Re rie ed March 4, 2024 . 
+ 
+ ^ Thomas Haigh. "Yann LeCun - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on March 27, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ "2019 ACM A.M. Turing Award Laurea es" . Associa ion or Compu ing Machinery . Archi ed rom he original on March 18, 2020 . Re rie ed February 11, 2023 . 
+ 
+ ^ "Edwin E. Ca mull - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on No ember 23, 2023 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Pa rick M. Hanrahan - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 4, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Columbia's Al red Aho and S an ord's Je rey Ullman recei e 2020 ACM A.M. Turing Award" . Associa ion or Compu ing Machinery . Archi ed rom he original on March 31, 2021 . Re rie ed February 11, 2023 . 
+ 
+ ^ Thomas Haigh. "Al red Vaino Aho - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 13, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ Thomas Haigh. "Je rey Da id Ullman - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 22, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Open Graph Ti le: Uni ersi y o Tennessee's Jack Dongarra recei es 2021 ACM A.M. Turing Award" . Associa ion or Compu ing Machinery . Archi ed rom he original on May 5, 2022 . Re rie ed March 30, 2022 . 
+ 
+ ^ Thomas Haigh. "Dr. Jack Dongarra - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 22, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ "Rober Melanc on Me cal e - A.M. Turing Award Laurea e" . Associa ion or Compu ing Machinery . Archi ed rom he original on January 13, 2024 . Re rie ed March 4, 2024 . 
+ 
+ ^ "A i Wigderson o he Ins i u e or Ad anced S udy is he recipien o he 2023 ACM A.M. Turing Award" . awards.acm.org . Archi ed rom he original on April 10, 2024 . Re rie ed April 10, 2024 . 
+ 
+ ^ "A i Wigderson - A.M. Turing Award Laurea e" . am uring.acm.org . Re rie ed Oc ober 18, 2025 . 
+ 
+ ^ "Andrew Bar o - A.M. Turing Award Laurea e" . am uring.acm.org . Re rie ed Oc ober 18, 2025 . 
+ 
+ ^ "Dr. Richard Su on - A.M. Turing Award Laurea e" . am uring.acm.org . Re rie ed Oc ober 18, 2025 . 
+ 
+ ^ "Charles H. Benne and Gilles Brassard are he recipien s o he 2025 ACM A.M. Turing Award or heir essen ial role in es ablishing he ounda ions o quan um in orma ion science and rans orming secure communica ion and compu ing" . Associa ion or Compu ing Machinery . ACM, Inc. March 18, 2026 . Re rie ed March 18, 2026 . 
+ 
+ 
+ Fur her reading [ edi ] 
+ Akmu , Camille (June 12, 2018). "Social condi ions o ou s anding con ribu ions o compu er science&#160;: a prosopography o Turing Award laurea es (1966-2016)" . hal.science . Re rie ed December 12, 2024 . 
+ Ex ernal links [ edi ] 
+ .mw-parser-ou pu .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa; on -size:88%;line-heigh :1.25em;background-color: ar(--background-color-in erac i e-sub le,# 8 9 a);color:inheri ;display: low-roo }.mw-parser-ou pu .in obox .side-box{ on -size:100%}.mw-parser-ou pu .side-box-abo ebelow,.mw-parser-ou pu .side-box- ex {padding:0.25em 0.9em}.mw-parser-ou pu .side-box-image{padding:2px 0 2px 0.9em; ex -align:cen er}.mw-parser-ou pu .side-box-imagerigh {padding:2px 0.9em 2px 0; ex -align:cen er}@media(min-wid h:500px){.mw-parser-ou pu .side-box- lex{display: lex;align-i ems:cen er}.mw-parser-ou pu .side-box- ex { lex:1;min-wid h:0}}@media(min-wid h:640px){.mw-parser-ou pu .side-box{wid h:238px}.mw-parser-ou pu .side-box-righ {clear:righ ; loa :righ ;margin-le :1em}.mw-parser-ou pu .side-box-le {margin-righ :1em}} @media prin {body.ns-0 .mw-parser-ou pu .sis ersi ebox{display:none!impor an }}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .sis ersi ebox img[src*="Wik ionary-logo-en- 2.s g"]{ il er:in er (1)brigh ness(55%)con ras (250%)hue-ro a e(180deg)}}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .sis ersi ebox img[src*="Wik ionary-logo-en- 2.s g"]{ il er:in er (1)brigh ness(55%)con ras (250%)hue-ro a e(180deg)}} .mw-parser-ou pu .plainlis ol,.mw-parser-ou pu .plainlis ul{line-heigh :inheri ;lis -s yle:none;margin:0;padding:0}.mw-parser-ou pu .plainlis ol li,.mw-parser-ou pu .plainlis ul li{margin-bo om:0} 
+ 
+ 
+ Wikimedia Commons has media rela ed o Turing Award . 
+ 
+ ACM Chronological lis ing o Turing Laurea es 
+ ACM A.M. Turing Award Cen enary Celebra ion 
+ ACM A.M. Turing Award Laurea e In er iews 
+ Celebra ion o 50 Years o he ACM A.M. Turing Award 
+ .mw-parser-ou pu .hlis dl,.mw-parser-ou pu .hlis ol,.mw-parser-ou pu .hlis ul{margin:0;padding:0}.mw-parser-ou pu .hlis dd,.mw-parser-ou pu .hlis d ,.mw-parser-ou pu .hlis li{margin:0;display:inline}.mw-parser-ou pu .hlis .inline,.mw-parser-ou pu .hlis .inline dl,.mw-parser-ou pu .hlis .inline ol,.mw-parser-ou pu .hlis .inline ul,.mw-parser-ou pu .hlis dl dl,.mw-parser-ou pu .hlis dl ol,.mw-parser-ou pu .hlis dl ul,.mw-parser-ou pu .hlis ol dl,.mw-parser-ou pu .hlis ol ol,.mw-parser-ou pu .hlis ol ul,.mw-parser-ou pu .hlis ul dl,.mw-parser-ou pu .hlis ul ol,.mw-parser-ou pu .hlis ul ul{display:inline}.mw-parser-ou pu .hlis .mw-emp y-li{display:none}.mw-parser-ou pu .hlis d ::a er{con en :": "}.mw-parser-ou pu .hlis dd::a er,.mw-parser-ou pu .hlis li::a er{con en :" a0 · "; on -weigh :bold}.mw-parser-ou pu .hlis dd:las -child::a er,.mw-parser-ou pu .hlis d :las -child::a er,.mw-parser-ou pu .hlis li:las -child::a er{con en :none}.mw-parser-ou pu .hlis dd dd: irs -child::be ore,.mw-parser-ou pu .hlis dd d : irs -child::be ore,.mw-parser-ou pu .hlis dd li: irs -child::be ore,.mw-parser-ou pu .hlis d dd: irs -child::be ore,.mw-parser-ou pu .hlis d d : irs -child::be ore,.mw-parser-ou pu .hlis d li: irs -child::be ore,.mw-parser-ou pu .hlis li dd: irs -child::be ore,.mw-parser-ou pu .hlis li d : irs -child::be ore,.mw-parser-ou pu .hlis li li: irs -child::be ore{con en :" ("; on -weigh :normal}.mw-parser-ou pu .hlis dd dd:las -child::a er,.mw-parser-ou pu .hlis dd d :las -child::a er,.mw-parser-ou pu .hlis dd li:las -child::a er,.mw-parser-ou pu .hlis d dd:las -child::a er,.mw-parser-ou pu .hlis d d :las -child::a er,.mw-parser-ou pu .hlis d li:las -child::a er,.mw-parser-ou pu .hlis li dd:las -child::a er,.mw-parser-ou pu .hlis li d :las -child::a er,.mw-parser-ou pu .hlis li li:las -child::a er{con en :")"; on -weigh :normal}.mw-parser-ou pu .hlis ol{coun er-rese :lis i em}.mw-parser-ou pu .hlis ol>li{coun er-incremen :lis i em}.mw-parser-ou pu .hlis ol>li::be ore{con en :" "coun er(lis i em)" a0 "}.mw-parser-ou pu .hlis dd ol>li: irs -child::be ore,.mw-parser-ou pu .hlis d ol>li: irs -child::be ore,.mw-parser-ou pu .hlis li ol>li: irs -child::be ore{con en :" ("coun er(lis i em)" a0 "} .mw-parser-ou pu .na box{box-sizing:border-box;border:1px solid #a2a9b1;wid h:100%;clear:bo h; on -size:88%; ex -align:cen er;padding:1px;margin:1em au o 0}.mw-parser-ou pu .na box .na box{margin- op:0}.mw-parser-ou pu .na box+.na box,.mw-parser-ou pu .na box+.na box-s yles+.na box{margin- op:-1px}.mw-parser-ou pu .na box-inner,.mw-parser-ou pu .na box-subgroup{wid h:100%}.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box- i le,.mw-parser-ou pu .na box-abo ebelow{padding:0.25em 1em;line-heigh :1.5em; ex -align:cen er}.mw-parser-ou pu .na box-group{whi e-space:nowrap; ex -align:righ }.mw-parser-ou pu .na box,.mw-parser-ou pu .na box-subgroup{background-color:# d d d;color:inheri }.mw-parser-ou pu .na box-lis {line-heigh :1.5em;border-color:# d d d}.mw-parser-ou pu .na box-lis -wi h-group{ ex -align:le ;border-le -wid h:2px;border-le -s yle:solid}.mw-parser-ou pu r+ r>.na box-abo ebelow,.mw-parser-ou pu r+ r>.na box-group,.mw-parser-ou pu r+ r>.na box-image,.mw-parser-ou pu r+ r>.na box-lis {border- op:2px solid # d d d}.mw-parser-ou pu .na box- i le{background-color:#cc ;color:inheri }.mw-parser-ou pu .na box-abo ebelow,.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box-subgroup .na box- i le{background-color:#dd ;color:inheri }.mw-parser-ou pu .na box-subgroup .na box-group,.mw-parser-ou pu .na box-subgroup .na box-abo ebelow{background-color:#e6e6 ;color:inheri }.mw-parser-ou pu .na box-e en{background-color:# 7 7 7;color:inheri }.mw-parser-ou pu .na box-odd{background-color: ransparen ;color:inheri }.mw-parser-ou pu .na box .hlis d dl,.mw-parser-ou pu .na box .hlis d ol,.mw-parser-ou pu .na box .hlis d ul,.mw-parser-ou pu .na box d.hlis dl,.mw-parser-ou pu .na box d.hlis ol,.mw-parser-ou pu .na box d.hlis ul{padding:0.125em 0}.mw-parser-ou pu .na box .na bar{display:block; on -size:100%}.mw-parser-ou pu .na box- i le .na bar{ loa :le ; ex -align:le ;margin-righ :0.5em}body.skin--responsi e .mw-parser-ou pu .na box-image img{max-wid h:none!impor an }@media prin {body.ns-0 .mw-parser-ou pu .na box{display:none!impor an }} .mw-parser-ou pu .na bar{display:inline; on -size:88%; on -weigh :normal}.mw-parser-ou pu .na bar-collapse{ loa :le ; ex -align:le }.mw-parser-ou pu .na bar-box ex {word-spacing:0}.mw-parser-ou pu .na bar ul{display:inline-block;whi e-space:nowrap;line-heigh :inheri }.mw-parser-ou pu .na bar-bracke s::be ore{margin-righ :-0.125em;con en :"[ "}.mw-parser-ou pu .na bar-bracke s::a er{margin-le :-0.125em;con en :" ]"}.mw-parser-ou pu .na bar li{word-spacing:-0.125em}.mw-parser-ou pu .na bar a>span,.mw-parser-ou pu .na bar a>abbr{ ex -decora ion:inheri }.mw-parser-ou pu .na bar-mini abbr{ on - arian :small-caps;border-bo om:none; ex -decora ion:none;cursor:inheri }.mw-parser-ou pu .na bar-c - ull{ on -size:114%;margin:0 7em}.mw-parser-ou pu .na bar-c -mini{ on -size:114%;margin:0 4em}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }@media(pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }}@media prin {.mw-parser-ou pu .na bar{display:none!impor an }} e A. M. Turing Award laurea es 
+ Alan Perlis (1966) 
+ Maurice Wilkes (1967) 
+ Richard Hamming (1968) 
+ Mar in Minsky (1969) 
+ James H. Wilkinson (1970) 
+ John McCar hy (1971) 
+ Edsger W. Dijks ra (1972) 
+ Charles Bachman (1973) 
+ Donald Knu h (1974) 
+ Allen Newell / Herber A. Simon (1975) 
+ Michael O. Rabin / Dana Sco (1976) 
+ John Backus (1977) 
+ Rober W. Floyd (1978) 
+ Kenne h E. I erson (1979) 
+ Tony Hoare (1980) 
+ Edgar F. Codd (1981) 
+ S ephen Cook (1982) 
+ Dennis Ri chie / Ken Thompson (1983) 
+ Niklaus Wir h (1984) 
+ Richard Karp (1985) 
+ John Hopcro / Rober Tarjan (1986) 
+ John Cocke (1987) 
+ I an Su herland (1988) 
+ William Kahan (1989) 
+ Fernando J. Corba ó (1990) 
+ Robin Milner (1991) 
+ Bu ler Lampson (1992) 
+ Juris Har manis / Richard E. S earns (1993) 
+ Edward Feigenbaum / Raj Reddy (1994) 
+ Manuel Blum (1995) 
+ Amir Pnueli (1996) 
+ Douglas Engelbar (1997) 
+ Jim Gray (1998) 
+ Fred Brooks (1999) 
+ Andrew Yao (2000) 
+ Ole-Johan Dahl / Kris en Nygaard (2001) 
+ Leonard Adleman / Ron Ri es / Adi Shamir (2002) 
+ Alan Kay (2003) 
+ Vin Cer / Bob Kahn (2004) 
+ Pe er Naur (2005) 
+ Frances Allen (2006) 
+ Edmund M. Clarke / E. Allen Emerson / Joseph Si akis (2007) 
+ Barbara Lisko (2008) 
+ Charles P. Thacker (2009) 
+ Leslie Valian (2010) 
+ Judea Pearl (2011) 
+ Sha i Goldwasser / Sil io Micali (2012) 
+ Leslie Lampor (2013) 
+ Michael S onebraker (2014) 
+ Whi ield Di ie / Mar in Hellman (2015) 
+ Tim Berners-Lee (2016) 
+ John L. Hennessy / Da id Pa erson (2017) 
+ Yoshua Bengio / Geo rey Hin on / Yann LeCun (2018) 
+ Ed Ca mull / Pa Hanrahan (2019) 
+ Al red Aho / Je rey Ullman (2020) 
+ Jack Dongarra (2021) 
+ Rober Me cal e (2022) 
+ A i Wigderson (2023) 
+ Andrew Bar o / Richard S. Su on (2024) 
+ Charles H. Benne / Gilles Brassard (2025) 
+ 
+ e Associa ion or Compu ing Machinery Special In eres Groups 
+ SIGACCESS 
+ SIGACT 
+ SIGAda 
+ SIGAI 
+ SIGAPP 
+ SIGARCH 
+ SIGBED 
+ SIGBio 
+ SIGCAS 
+ SIGCHI 
+ SIGCOMM 
+ SIGCSE 
+ SIGDA 
+ SIGDOC 
+ SIGecom 
+ SIGEVO 
+ SIGGRAPH 
+ SIGHPC 
+ SIGIR 
+ SIGITE 
+ SIGKDD 
+ SIGLOG 
+ SIGMETRICS 
+ SIGMICRO 
+ SIGMIS 
+ SIGMM 
+ SIGMOBILE 
+ SIGMOD 
+ SIGOPS 
+ SIGPLAN 
+ SIGSAC 
+ SIGSAM 
+ SIGSIM 
+ SIGSOFT 
+ SIGSPATIAL 
+ SIGUCCS 
+ SIGWEB 
+ Awards ACM 
+ Turing Award 
+ ACM Fellowship 
+ ACM-AAAI Allen Newell Award 
+ A hena Lec urer Award 
+ Ecker –Mauchly Award 
+ Eugene L. Lawler Award 
+ ACM Doc oral Disser a ion Award 
+ Gordon Bell Prize 
+ Grace Murray Hopper Award 
+ Ken Kennedy Award 
+ Paris Kanellakis Theory and Prac ice Award 
+ ACM Prize in Compu ing 
+ ACM So ware Sys em Award 
+ SIAM/ACM Prize in Compu a ional Science and Engineering 
+ SIGs 
+ CHI Academy 
+ Gödel Prize 
+ Knu h Prize 
+ S e en A. Coons Award 
+ Alonzo Church Award 
+ Publica ions 
+ Journal o he ACM 
+ Communica ions o he ACM 
+ RISKS Diges 
+ ACM Digi al Library 
+ ACM Compu ing Sur eys 
+ Compu ers in En er ainmen 
+ ACM In erac ions 
+ ACM Queue 
+ ACM XRDS 
+ Con erences 
+ ACM-MM 
+ AIES 
+ ASPLOS 
+ CHI 
+ DAC 
+ FAccT 
+ FCRC 
+ FOGA 
+ GECCO 
+ GHC 
+ HOPL 
+ Ho Chips 
+ Hyper ex 
+ ICFP 
+ ISCA 
+ ISMM 
+ ISPD 
+ ISSAC 
+ JCDL 
+ MICRO 
+ MobiCom 
+ PLDI 
+ PODC 
+ PODS 
+ POPL 
+ RecSys 
+ SC 
+ SIGCOMM 
+ SIGCSE 
+ SIGGRAPH 
+ SoCG 
+ SODA 
+ SOSP 
+ SPAA 
+ SPLASH 
+ STOC 
+ TAPIA 
+ UMAP 
+ UIST 
+ VRIC 
+ Educa ional programs 
+ ACM-W 
+ ACM In erna ional Collegia e Programming Con es 
+ ACM S uden Research Compe i ion 
+ Upsilon Pi Epsilon 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ Re rie ed rom " h ps://en.wikipedia.org/w/index.php? i le=Turing_Award&amp;oldid=1351320014 " 
+					 Ca egories : Alan Turing Awards o he Associa ion or Compu ing Machinery Awards es ablished in 1966 Compu er science awards Sys ems sciences awards In erna ional science and echnology awards Hidden ca egories: CS1 main : depreca ed archi al ser ice Ar icles wi h shor descrip ion Shor descrip ion is di eren rom Wikida a Fea ured lis s Use mdy da es rom No ember 2022 Ar icles con aining po en ially da ed s a emen s rom 2026 All ar icles con aining po en ially da ed s a emen s Ar icles wi h hCards Ar icles con aining French-language ex Commons ca egory link rom Wikida a 
+				 
+			 
+			
+		 
+		 
+			
+ 
+	 
+	 This page was las edi ed on 27 April 2026, a 07:04 &#160;(UTC) . 
+	 Tex is a ailable under he Crea i e Commons A ribu ion-ShareAlike 4.0 License ;
+addi ional erms may apply. By using his si e, you agree o he Terms o Use and Pri acy Policy . Wikipedia® is a regis ered rademark o he Wikimedia Founda ion, Inc. , a non-pro i organiza ion. 
+ 
+
+	 
+	 Pri acy policy 
+	 Abou Wikipedia 
+	 Disclaimers 
+	 Con ac Wikipedia 
+	 Legal &amp; sa e y con ac s 
+	 Code o Conduc 
+	 De elopers 
+	 S a is ics 
+	 Cookie s a emen 
+	 Mobile iew 
+ 
+
+	 
+	 
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+
+ Search 
+			 
+		 
+			
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+								 
+							 
+							 
+						 
+						 Search 
+					 
+				 
+			 
+		 
+		 
+				 
+						
+					 
+						 
+						 
+
+ Toggle he able o con en s 
+						 
+						 
+					
+						 
+						 
+					
+						 
+					 
+			 
+				 Turing Award 
+			 
+		 
+		 
+			 
+				 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+		 
+			 
+				 
+
+ 66 languages 
+			 
+			 
+
+ Add opic 
+			 
+		 
+			 
+				 
+				 
+			 
+		 
+	 
+ 
+ 
+	 
+		
+	 
+ 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.con ig.se ({"wgHos name":"mw-web.cod w.main-b 65cc95d-p4 ","wgBackendResponseTime":100,"wgPageParseRepor ":{"limi repor ":{"cpu ime":"2.118","wall ime":"2.495","pp isi ednodes":{" alue":7643,"limi ":1000000},"re isionsize":{" alue":81110,"limi ":2097152},"pos expandincludesize":{" alue":318882,"limi ":2097152}," empla eargumen size":{" alue":4192,"limi ":2097152},"expansiondep h":{" alue":16,"limi ":100},"expensi e unc ioncoun ":{" alue":3,"limi ":500},"uns rip-dep h":{" alue":1,"limi ":20},"uns rip-size":{" alue":493253,"limi ":5000000},"en i yaccesscoun ":{" alue":1,"limi ":500}," imingpro ile":["100.00% 1965.842 1 - o al"," 57.43% 1128.888 2 Templa e:Re lis "," 33.28% 654.289 98 Templa e:Ci e_web"," 15.56% 305.867 26 Templa e:Ci e_journal"," 7.43% 146.132 1 Templa e:Lang"," 7.43% 146.056 1 Templa e:In obox_award"," 6.51% 128.023 1 Templa e:In obox"," 5.99% 117.834 3 Templa e:Na box"," 5.70% 112.094 1 Templa e:Turing_award"," 4.75% 93.437 1 Templa e:Shor _descrip ion"]},"scribun o":{"limi repor - imeusage":{" alue":"1.362","limi ":"10.000"},"limi repor -memusage":{" alue":20490795,"limi ":52428800}},"cacherepor ":{"origin":"mw-api-in .eqiad.main-6bbd47 49 -q8kdw"," imes amp":"20260427070410"," l":61200," ransien con en ": rue,"expiry-source":"Templa e:As_o (# ime)"}}});}); 
+ {"@con ex ":"h ps: / /schema.org","@ ype":"Ar icle","name":"Turing Award","url":"h ps: / /en.wikipedia.org /wiki /Turing_Award","sameAs":"h p: / /www.wikida a.org /en i y /Q185667","mainEn i y":"h p: / /www.wikida a.org /en i y /Q185667","au hor":{"@ ype":"Organiza ion","name":"Con ribu ors o Wikimedia projec s"},"publisher":{"@ ype":"Organiza ion","name":"Wikimedia Founda ion, Inc.","logo":{"@ ype":"ImageObjec ","url":"h ps: / /www.wikimedia.org /s a ic /images /wm -hor-googpub.png"}},"da ePublished":"2001-11-07T21:25:51Z","da eModi ied":"2026-04-27T07:04:04Z","image":"h ps: / /upload.wikimedia.org /wikipedia /commons /7 /76 /Turing_s a ue_Surrey.jpg","headline":"compu er science award"}

@@ -36,6 +36,8 @@ from .extraction.relation_patterns import (
     extract_pattern_relations_from_sentences,
     ingest_pattern_relations,
 )
+from .extraction.event_patterns import extract_events_from_sentences, ingest_events
+from .curation.ner_type_aggregate import update_node_ner_votes
 from .graph_model import GraphBuild
 from .io.export_io import write_graph_csv_json, write_triples_csv
 from .relation.mil_ingest import apply_mil_to_export_if_present
@@ -47,7 +49,7 @@ from .io.stage_io import (
     write_resolved_jsonl,
     write_routing_jsonl,
 )
-from .io.sources_io import load_bibliography, load_entity_map
+from .io.sources_io import load_bibliography, load_entity_kind_by_qid, load_entity_map
 from .linking.collective_linking import (
     Candidate,
     CollectiveConfig,
@@ -57,6 +59,7 @@ from .linking.collective_linking import (
 )
 from .linking.entity_linking import link_mention_to_qid, link_mention_with_candidates
 from .structured.wikidata_layer import load_structured_graph_for_seeds
+from .structured.wikidata_api import wbgetentities, pick_label
 
 
 def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tuple[GraphBuild, list[dict[str, str]]]:
@@ -75,7 +78,9 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
     if mode == "from_curated":
         return build_knowledge_graph_from_curated_stages(project_root)
 
-    emap = load_entity_map(project_root / "sources" / "entity_map.csv")
+    emap_path = project_root / "sources" / "entity_map.csv"
+    emap = load_entity_map(emap_path)
+    kind_by_qid = load_entity_kind_by_qid(emap_path)
     ncfg = load_ner_link_config(project_root)
     min_ls = float(ncfg.get("min_link_score", 0.14))
 
@@ -87,6 +92,13 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
     # --- 步骤 1：Wikidata 结构化层（多 seed 合并）---
     seed_qids = [sd.qid for sd in seeds if sd.qid and sd.qid.startswith("Q")]
     g = load_structured_graph_for_seeds(seed_qids)
+    # 给 seed 节点加上类型标签（Neo4j :LABEL）
+    for sd in seeds:
+        if not sd.qid or not sd.qid.startswith("Q"):
+            continue
+        st = (sd.type or "").strip()
+        if st:
+            g.ensure_node(sd.qid, labels=(st,))
 
     # --- 步骤 2–3：文本 + NER + 实体链接 + 模式/依存关系 ---
     from .extraction.ner_link import _split_sentences, _zh_ratio
@@ -293,6 +305,40 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
 
             spans = [sp for sp in spans if sp.object_qid != root_qid]
 
+            # --- 节点弱类型（NER）聚合：从 spans 写入 ner_label_votes/top ---
+            try:
+                for sp in spans:
+                    if sp.object_qid and str(sp.object_qid).startswith("Q") and sp.ner_label:
+                        update_node_ner_votes(g, str(sp.object_qid), str(sp.ner_label))
+            except Exception:
+                pass
+
+            # --- 事件抽取（Trigger→Arguments；仅在 routed seed_items 上运行）---
+            try:
+                linked_by_sentence: dict[int, list[tuple[str, str, str]]] = {}
+                for sp in spans:
+                    si = int(sp.sentence_idx)
+                    linked_by_sentence.setdefault(si, []).append(
+                        (str(sp.object_qid or ""), str(sp.mention or ""), str(sp.ner_label or ""))
+                    )
+                events = extract_events_from_sentences(
+                    seed_items,
+                    seed_id=sd.seed_id,
+                    seed_qid=root_qid,
+                    source_id=source_id,
+                    source_url=url,
+                    source_label=label,
+                    citation_key=cite_key,
+                    entity_map=emap,
+                    linked_by_sentence=linked_by_sentence,
+                    min_link_score=min_ls,
+                )
+                if events:
+                    ingest_events(g, events)
+            except Exception:
+                # 事件抽取失败不应阻断主流程
+                pass
+
             # --- Phase 1 中间层：mentions / candidates / resolved 落盘（基于当前实现，不改抽取门控逻辑）---
             try:
                 mentions_rows = []
@@ -498,7 +544,9 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
             except Exception:
                 pass
 
-            ingest_linked_spans(g, spans, citation_key=cite_key, source_url=url, root_qid=root_qid)
+            # 经典 KG 最终图：不将 NER/EL 共现证据边写入 GraphBuild（避免图变成毛线团）。
+            # spans/mentions/candidates/resolved 仍用于后续 DS/RE 与审计。
+            # ingest_linked_spans(g, spans, citation_key=cite_key, source_url=url, root_qid=root_qid)
 
             for sp in spans:
                 # 100% 确定性绑定：直接使用 sentence_idx 从派生归因表取 score/reasons
@@ -542,7 +590,8 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
             except ImportError:
                 prels = []
             prels = [pr for pr in prels if pr.object_qid != root_qid]
-            ingest_pattern_relations(g, prels, citation_key=cite_key, source_url=url, root_qid=root_qid)
+            # 同上：pattern 规则边属于证据层诊断，不写入最终 GraphBuild。
+            # ingest_pattern_relations(g, prels, citation_key=cite_key, source_url=url, root_qid=root_qid)
             for pr in prels:
                 ev = pr.snippet.split("] ", 1)[-1].strip() if pr.snippet else ""
                 si = pr.sentence_idx
@@ -573,6 +622,25 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
                 )
 
     triple_rows = merge_triple_rows(triple_rows)
+
+    # 经典 KG：用离线 entity_map 的 kind 给节点补 :LABEL（不要求覆盖所有实体，但要可逐步扩充）
+    for qid, kind in kind_by_qid.items():
+        if qid in g.nodes and kind:
+            g.ensure_node(qid, labels=(kind,))
+
+    # 经典 KG：确保节点 name 是实体值而非 QID（中文优先，无则英文）
+    try:
+        qids = [nid for nid, n in g.nodes.items() if isinstance(nid, str) and nid.startswith("Q") and (str(n.get("name") or "") == nid or not str(n.get("name") or "").strip())]
+        if qids:
+            ents = wbgetentities(sorted(set(qids)), props="labels", languages="zh-hans|zh|en")
+            for qid in qids:
+                ent = ents.get(qid) if isinstance(ents, dict) else None
+                if isinstance(ent, dict):
+                    lab = pick_label(ent)
+                    if lab and lab != qid:
+                        g.ensure_node(qid, name=lab)
+    except Exception:
+        pass
     return g, triple_rows
 
 

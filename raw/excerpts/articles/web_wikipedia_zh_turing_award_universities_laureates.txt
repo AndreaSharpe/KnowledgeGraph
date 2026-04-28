@@ -1,0 +1,2508 @@
+---
+cite: wikipedia_zh_turing_award_universities
+url: https://zh.wikipedia.org/zh-cn/%E5%90%84%E5%A4%A7%E5%AD%A6%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E5%88%97%E8%A1%A8
+title: 各大学图灵奖得主列表（维基百科）
+---
+各大学图灵奖得主列表 - 维基百科，自由的百科全书 
+ ( unc ion(){ ar className="clien -js ec or- ea ure-language-in-header-enabled ec or- ea ure-language-in-main-menu-disabled ec or- ea ure-language-in-main-page-header-disabled ec or- ea ure-page- ools-pinned-disabled ec or- ea ure- oc-pinned-clien pre -1 ec or- ea ure-main-menu-pinned-disabled ec or- ea ure-limi ed-wid h-clien pre -1 ec or- ea ure-limi ed-wid h-con en -enabled ec or- ea ure-cus om- on -size-clien pre -1 ec or- ea ure-appearance-pinned-clien pre -1 skin- heme-clien pre -day ec or-s icky-header-enabled ec or- oc-a ailable skin- heme-clien pre - humb-s andard"; ar cookie=documen .cookie.ma ch(/(?:^|; )zhwikimwclien pre erences=([^;]+)/);i (cookie){cookie[1].spli ('%2C'). orEach( unc ion(pre ){className=className.replace(new RegExp('(^| )'+pre .replace(/-clien pre - w+$|[^ w-]+/g,'')+'-clien pre - w+( |$)'),'$1'+pre +'$2');});}documen .documen Elemen .className=className;}());RLCONF={"wgBreakFrames": alse,"wgSepara orTrans ormTable":["",""],"wgDigi Trans ormTable":["",""],"wgDe aul Da eForma ":"zh","wgMon hNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgReques Id":"7e9a1000-6ceb-4 4e-a693- 42da6e29a58","wgCanonicalNamespace":"","wgCanonicalSpecialPageName": alse,"wgNamespaceNumber":0,"wgPageName":"各大学图灵奖得主列表","wgTi le":"各大学图灵奖得主列表","wgCurRe isionId":82224457,"wgRe isionId":82224457,"wgAr icleId":6322480,"wgIsAr icle": rue,"wgIsRedirec ": alse,"wgAc ion":" iew","wgUserName":null,"wgUserGroups":["*"],"wgCa egories":["CS1英语来源 (en)","图灵奖"],"wgPageViewLanguage":"zh-cn","wgPageCon en Language":"zh-cn","wgPageCon en Model":"wiki ex ","wgRele an PageName":"各大学图灵奖得主列表","wgRele an Ar icleId":6322480,"wgTempUserName":null,"wgUserVarian ":"zh-cn","wgIsProbablyEdi able": rue,"wgRele an PageIsProbablyEdi able": rue,"wgRes ric ionEdi ":[],"wgRes ric ionMo e":[],"wgNo iceProjec ":"wikipedia","wgCi eRe erencePre iewsAc i e": rue,"wgCon irmEdi Cap chaNeededForGenericEdi ":"hcap cha","wgCon irmEdi HCap chaVisualEdi orOnLoadIn egra ionEnabled": alse,"wgCon irmEdi HCap chaSi eKey":"5d0c670e-a5 4-4258-ad16-1 42792c9c62","wgMediaViewerOnClick": rue,"wgMediaViewerEnabledByDe aul ": rue,"wgPopupsFlags":0,"wgVisualEdi or":{"pageLanguageCode":"zh","pageLanguageDir":"l r","pageVarian Fallbacks":["zh-hans","zh-sg","zh-my"]},"wgMFDisplayWikibaseDescrip ions":{"search": rue,"wa chlis ": rue," agline": rue,"nearby": rue},"wgWMESchemaEdi A emp S epO ersample": alse,"wgWMEPageLeng h":10000,"wgEdi Submi Bu onLabelPublish": rue,"wgVisualEdi orPageIsDisambigua ion": alse,"wgULSPosi ion":"in erlanguage","wgULSisCompac LinksEnabled": alse,"wgVec or2022LanguageInHeader": rue,"wgULSisLanguageSelec orEmp y": alse,"wgWikibaseI emId":"Q6600724","wgCheckUserClien Hin sHeadersJsApi":["brands","archi ec ure","bi ness"," ullVersionLis ","mobile","model","pla orm","pla ormVersion"],"GEHomepageSugges edEdi sEnableTopics": rue,"wgGESugges edEdi sTaskTypes":{" askTypes":["copyedi ","link-recommenda ion"],"una ailableTaskTypes":[]},"wgGETopicsMa chModeEnabled": alse,"wgGELe elingUpEnabledForUser": alse,"wgTes Ki chenUserExperimen s":{"o errides":[],"enrolled":["grow hexperimen s-edi a emp -anonwarning"],"assigned":{"grow hexperimen s-edi a emp -anonwarning":"con rol"},"subjec _ids":{"grow hexperimen s-edi a emp -anonwarning":"awai ing"}}};
+RLSTATE={"ex .gadge .ilhpp-ini ial-pages yles":"ready","ex .gadge .large- on ":"ready","ex .gadge . ex -spacing":"ready","ex .globalCssJs.user.s yles":"ready","si e.s yles":"ready","user.s yles":"ready","ex .globalCssJs.user":"ready","user":"ready","user.op ions":"loading","ex .ci e.s yles":"ready","ex .wikimediamessages.s yles":"ready","skins. ec or.search.codex.s yles":"ready","skins. ec or.s yles":"ready","skins. ec or.icons":"ready","jquery. ablesor er.s yles":"ready","ex . isualEdi or.desk opAr icleTarge .noscrip ":"ready","ex .uls.in erlanguage":"ready","wikibase.clien .ini ":"ready"};RLPAGEMODULES=["ex .ci e.ux-enhancemen s","ex .parsermigra ion.sur ey","si e","mediawiki.page.ready","jquery. ablesor er","mediawiki. oc","skins. ec or.js","ex .cen ralNo ice.geoIP","ex .cen ralNo ice.s ar Up","ex .gadge .Di link","ex .gadge .Na Frame","ex .gadge .WikiMiniA las","ex .gadge .ilhpp","ex .gadge .no eTA","ex .gadge .warn-archi e- oday","ex .gadge .edi 0","ex .gadge .Ad ancedSi eNo ices","ex .gadge .SpecialWiki ex ","ex .gadge .Varian Ally","ex .gadge .hideCon ersionTab","ex .gadge .pseudonamespace-UI","ex .gadge .scrollUpBu on","ex .gadge .swi cher","ex .gadge .unihan-helper","ex .gadge .collapsibleTables","ex .urlShor ener. oolbar","ex .cen ralau h.cen ralau ologin","mm .boo s rap","ex .popups","ex . isualEdi or.desk opAr icleTarge .ini ","ex .echo.cen ralau h","ex .e en Logging","ex .wikimediaE en s","ex .na iga ionTiming","ex .uls.in er ace","ex .cx.e en logging.campaigns","ex .cx.uls.quick.ac ions","wikibase.clien . ec or-2022","wikibase.da abox. romWikida a","ex .checkUser.clien Hin s","ex .quicksur eys.ini ","ex .grow hExperimen s.Sugges edEdi Session","ex . es Ki chen"]; 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.loader.impl( unc ion(){re urn["user.op ions@12s5i", unc ion($,jQuery,require,module){mw.user. okens.se ({"pa rolToken":"+ ","wa chToken":"+ ","csr Token":"+ "});mw.user.op ions.se ({"language":"zh-cn"," arian ":"zh-cn"});
+}];});}); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 跳转到内容 
+ 
+	 
+		 
+			 
+				
+ 
+	 
+	 
+
+ 主菜单 
+	 
+	 
+
+
+				 
+		
+ 
+	 
+	 主菜单 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		导航
+	 
+	 
+		
+		 
+			
+			 首页 分类索引 特色内容 新闻动态 随机条目 联络我们 关于维基百科 
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		贡献
+	 
+	 
+		
+		 
+			
+			 帮助 维基社群 编辑入门 互助客栈 IRC即时聊天 最近更改 特殊页面 
+		 
+		
+	 
+ 
+
+ 
+
+				 
+
+	 
+ 
+
+		 
+			
+ 
+	 
+	 
+		 
+		 
+	 
+ 
+
+		 
+		 
+			
+ 
+	 
+
+ 搜索 
+	 
+	 
+		 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+				 
+				 搜索 
+			 
+		 
+	 
+ 
+
+			 
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	 
+		
+ 
+	 
+	 
+
+ 外观 
+	 
+	 
+
+
+			 
+				
+			 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 创建账号 
+ 
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+	 
+
+ 个人工具 
+	 
+	 
+
+
+		
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 
+
+ 创建账号 
+ 
+ 
+
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+		 
+		 
+			 
+		 
+			 
+				 
+				
+				 
+		 
+		 
+	 
+	 
+				 
+					 
+					 
+	 
+	 目录 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+	 
+		 
+			 
+				 序言 
+			 
+		 
+		 
+		 
+			 
+				 1 
+				 图灵奖人数排名总汇 
+			 
+		 
+		
+			 
+				 
+				 开关图灵奖人数排名总汇子章节 
+			 
+		
+		 
+			 
+			 
+				 
+					 1.1 
+					 世界前15名大学（1966年至今） 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.2 
+					 世界前10名大学（2000年至今） 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 2 
+				 斯坦福大学（第一） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 3 
+				 麻省理工学院（第二） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 4 
+				 伯克利加州大学（第三） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 5 
+				 普林斯顿大学（第四） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 6 
+				 哈佛大学（第五） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 7 
+				 卡内基·梅隆大学（第六） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 8 
+				 纽约大学（第七） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 9 
+				 剑桥大学（第八） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 10 
+				 加州理工学院（第九，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 11 
+				 密歇根大学（第九，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 12 
+				 牛津大学（第九，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 13 
+				 多伦多大学（第九，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 14 
+				 哥伦比亚大学（第十三，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 15 
+				 洛杉矶加州大学（第十三，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 16 
+				 康奈尔大学（第十五，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 17 
+				 芝加哥大学（第十五，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 18 
+				 希伯来大学（第十五，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 19 
+				 杜克大学（第十八，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 20 
+				 爱丁堡大学（第十八，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 21 
+				 奥斯陆大学（第十八，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 22 
+				 犹他大学（第十八，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 23 
+				 魏茨曼科学研究学院（第十八，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 24 
+				 耶鲁大学（第十八，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 25 
+				 以色列理工学院（第十八，并列） 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 26 
+				 其它大学（25—37名） 
+			 
+		 
+		
+			 
+				 
+				 开关其它大学（25—37名）子章节 
+			 
+		
+		 
+			 
+			 
+				 
+					 26.1 
+					 25名（2人） 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 26.2 
+					 37名（1人） 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 27 
+				 参见 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 28 
+				 参考资料 
+			 
+		 
+		
+		 
+		 
+	 
+ 
+ 
+
+					 
+		 
+			 
+		 
+		 
+			 
+				 
+					 
+						
+ 
+	 
+	 
+
+ 开关目录 
+	 
+	 
+
+
+							 
+			 
+		
+	 
+ 
+
+					 
+					 各大学图灵奖得主列表 
+							
+ 
+	 
+	 
+
+ 添加语言 
+	 
+	 
+
+		 
+			
+			 
+				
+				
+			 
+			 添加链接 
+		 
+
+	 
+ 
+ 
+				 
+					 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 条目 讨论 
+		 
+		
+	 
+ 
+
+								
+ 
+	 
+	 大陆简体 
+	 
+	 
+
+
+					
+ 
+	 
+		
+		 
+			
+			 不转换 简体 繁體 大陆简体 香港繁體 澳門繁體 大马简体 新加坡简体 臺灣正體 
+		 
+		
+	 
+ 
+
+				
+	 
+ 
+
+							 
+						 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+							 
+				
+							 
+								
+ 
+	 
+	 工具 
+	 
+	 
+
+
+									 
+						
+ 
+	 
+	 工具 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		操作
+	 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+ 
+	 
+		常规
+	 
+	 
+		
+		 
+			
+			 链入页面 相关更改 上传文件 固定链接 页面信息 引用此页 获取短链接 
+		 
+		
+	 
+ 
+
+ 
+	 
+		打印/导出
+	 
+	 
+		
+		 
+			
+			 下载为PDF 可打印版 
+		 
+		
+	 
+ 
+
+ 
+	 
+		在其他项目中
+	 
+	 
+		
+		 
+			
+			 维基数据项目 
+		 
+		
+	 
+ 
+
+ 
+
+									 
+				
+	 
+ 
+
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+						 
+							 
+				
+							 
+		 
+						 
+							 
+				 
+	 
+	 外观 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+ 
+
+							 
+		 
+					 
+				 
+				 
+					 
+							 
+		 
+		 
+
+						 维基百科，自由的百科全书 
+					 
+					 
+					
+					
+					 
+ 各大学图灵奖得主列表 详列了各个与 图灵奖 （Turing Award）得主有学术关联的 大学 。自1966年起至2021年，图灵奖共颁给过74位个人。 &#91; 1 &#93; 本列表对每个图灵奖得主均一视同仁，无论每年 计算机协会 （ACM）同时授予多少人图灵奖。 &#91; 1 &#93; 院校的次序按联系人数的多寡排列显示——由多至少。
+ 本列表只考虑每所高校正式的学术联系人（o icial academic a ilia es），但个人获奖者如果与附属于高校的研究机构（比如，国家实验室、研究所）有正式学术关联，获奖者将被视为与该高校有关联。正式的学术联系人包括：1）校友、2）长期教职员、3）短期教职员。非正式的或非学术性质的联系人不予考虑，比如教学顾问（consul an s）等。一所高校的校友包括：已获得该校本科、硕士或博士学位的人员，曾经进入该校学位项目（degree program）学习但中途辍学者，以及学位项目在读人员（因此, 荣誉学位、交换生、暑期学校学生、旁听生均不予考虑）。长期教职员包括：教授、副教授、助理教授，等。短期教职员包括：博士后研究员、访问学者/教授（访问人员）、讲师，等。
+ 特别的是，除非访问人员在被访高校从事了短期的正式教学或研究活动（雇佣性质），其它非正式的、私人性质的、奖励性质的访问一般不作考虑。严谨起见，如果有些奖励性质（非雇佣性质）的访问职位同时要求访问人员进行教学或研究活动，或者访问人员在其简历或官方网站上将此次访问定义为有“学术关联（a ilia ion）”，则本列表将考虑此种联系人。最后，暑期访问人员、附属学校访问人员、进修学院/继续教育学院（ex ension school）访问人员等一般不算入内。
+ 此列表与“ 各大学诺贝尔奖得主列表 ”以及“ 各大学菲尔兹奖得主列表 ”共同记录了在基础学术领域获得最高荣誉个人的（大学）学术生涯。
+ 
+ 下表只详列有关项目的数字，详细的人物列表请见词条的英文版本； 
+ 同一位得奖者可能会归入两所或以上院校的计算中； 
+ 相同的得奖者亦有机会出现在同一院校的不同范畴里，惟此最终亦只会作一位计算。因此，下表中的总人数未必为所有范畴人数相加之和。 
+ 
+ 图灵奖人数排名总汇 [ 编辑 ] 
+ 世界前15名大学（1966年至今） [ 编辑 ] 
+ 
+ 
+ 排名
+ 
+ 大学
+ 
+ 图灵奖总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 重复*
+ 
+ 
+ 1
+ 
+ 斯坦福大学 
+ 
+ 
+ 
+ 29
+ 
+ 9
+ 
+ 17
+ 
+ 12
+ 
+ -9
+ 
+
+ 
+ 2
+ 
+ 麻省理工学院 
+ 
+ 
+ 
+ 26
+ 
+ 6
+ 
+ 16
+ 
+ 11
+ 
+ -7
+ 
+ 
+ 3
+ 
+ 伯克利加州大学 
+ 
+ 
+ 
+ 26
+ 
+ 11
+ 
+ 12
+ 
+ 12
+ 
+ -9
+ 
+ 
+ 4
+ 
+ 普林斯顿大学 
+ 
+ 
+ 
+ 17
+ 
+ 11
+ 
+ 5
+ 
+ 2
+ 
+ -1
+ 
+ 
+ 5
+ 
+ 哈佛大学 
+ 
+ 
+ 
+ 14
+ 
+ 9
+ 
+ 5
+ 
+ 4
+ 
+ -4
+ 
+ 
+ 6
+ 
+ 卡内基·梅隆大学 
+ 
+ 
+ 
+ 13
+ 
+ 5
+ 
+ 9
+ 
+ 1
+ 
+ -2
+ 
+ 
+ 7
+ 
+ 纽约大学 
+ 
+ 
+ 
+ 8
+ 
+ 3
+ 
+ 2
+ 
+ 3
+ 
+ 0
+ 
+ 
+ 8
+ 
+ 剑桥大学 
+ 
+ 
+ 
+ 7
+ 
+ 5
+ 
+ 2
+ 
+ 3
+ 
+ -3
+ 
+ 
+ 9
+ 
+ 加州理工学院 
+ 
+ 
+ 
+ 6
+ 
+ 6
+ 
+ 2
+ 
+ 0
+ 
+ -2
+ 
+ 
+ 密歇根大学 
+ 
+ 
+ 
+ 6
+ 
+ 4
+ 
+ 0
+ 
+ 2
+ 
+ 0
+ 
+ 
+ 牛津大学 
+ 
+ 
+ 
+ 6
+ 
+ 3
+ 
+ 3
+ 
+ 2
+ 
+ -2
+ 
+ 
+ 多伦多大学 
+ 
+ 
+ 
+ 6
+ 
+ 2
+ 
+ 3
+ 
+ 2
+ 
+ -1
+ 
+ 
+ 13
+ 
+ 哥伦比亚大学 
+ 
+ 
+ 
+ 5
+ 
+ 2
+ 
+ 1
+ 
+ 2
+ 
+ 0
+ 
+ 
+ 洛杉矶加州大学 
+ 
+ 
+ 
+ 5
+ 
+ 3
+ 
+ 1
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 15
+ 
+ 康奈尔大学 
+ 
+ 
+ 
+ 4
+ 
+ 1
+ 
+ 3
+ 
+ 0
+ 
+ 0
+ 
+ 
+ 芝加哥大学 
+ 
+ 
+ 
+ 4
+ 
+ 3
+ 
+ 0
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 希伯来大学 
+ 
+ 
+ 
+ 4
+ 
+ 1
+ 
+ 2
+ 
+ 2
+ 
+ -1
+ 
+ *： 校友、长期教职员、短期教职员的重复计算人数。 
+ 
+ 世界前10名大学（2000年至今） [ 编辑 ] 
+ 
+ 
+ 排名
+ 
+ 大学
+ 
+ 图灵奖总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 重复*
+ 
+ 
+ 1
+ 
+ 麻省理工学院 
+ 
+ 
+ 
+ 15
+ 
+ 2
+ 
+ 11
+ 
+ 4
+ 
+ -2
+ 
+
+ 
+ 2
+ 
+ 斯坦福大学 
+ 
+ 
+ 
+ 12
+ 
+ 5
+ 
+ 7
+ 
+ 4
+ 
+ -4
+ 
+ 
+ 3
+ 
+ 伯克利加州大学 
+ 
+ 
+ 
+ 10
+ 
+ 5
+ 
+ 4
+ 
+ 3
+ 
+ -2
+ 
+ 
+ 4
+ 
+ 普林斯顿大学 
+ 
+ 
+ 
+ 8
+ 
+ 5
+ 
+ 2
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 5
+ 
+ 卡内基·梅隆大学 
+ 
+ 
+ 
+ 4
+ 
+ 1
+ 
+ 2
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 哈佛大学 
+ 
+ 
+ 
+ 4
+ 
+ 2
+ 
+ 2
+ 
+ 0
+ 
+ 0
+ 
+ 
+ 纽约大学 
+ 
+ 
+ 
+ 4
+ 
+ 2
+ 
+ 1
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 洛杉矶加州大学 
+ 
+ 
+ 
+ 4
+ 
+ 2
+ 
+ 1
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 剑桥大学 
+ 
+ 
+ 
+ 4
+ 
+ 2
+ 
+ 0
+ 
+ 2
+ 
+ 0
+ 
+ 
+ 多伦多大学 
+ 
+ 
+ 
+ 4
+ 
+ 1
+ 
+ 1
+ 
+ 2
+ 
+ 0
+ 
+ *： 校友、长期教职员、短期教职员的重复计算人数。 
+ 
+ 斯坦福大学（第一） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 斯坦福大学 
+ 
+ 
+ 29
+ 
+ 
+ 9 
+ 
+ 
+ 17 
+ 
+ 
+ 12 
+ 
+ 麻省理工学院（第二） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 麻省理工学院 
+ 
+ 
+ 26
+ 
+ 
+ 6 
+ 
+ 
+ 16 
+ 
+ 
+ 11 
+ 
+ 伯克利加州大学（第三） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 伯克利加州大学 
+ 
+ 
+ 26
+ 
+ 
+ 11 
+ 
+ 
+ 12 
+ 
+ 
+ 12 
+ 
+ 普林斯顿大学（第四） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 普林斯顿大学 
+ 
+ 
+ 17
+ 
+ 
+ 11 
+ 
+ 
+ 5 
+ 
+ 
+ 2 
+ 
+ 哈佛大学（第五） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 哈佛大学 
+ 
+ 
+ 14
+ 
+ 
+ 9 
+ 
+ 
+ 5 
+ 
+ 
+ 4 
+ 
+ 卡内基·梅隆大学（第六） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 卡内基·梅隆大学 
+ 
+ 
+ 13
+ 
+ 
+ 5 
+ 
+ 
+ 9 
+ 
+ 
+ 1 
+ 
+ 纽约大学（第七） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 纽约大学 
+ 
+ 
+ 8
+ 
+ 
+ 3 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 剑桥大学（第八） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 剑桥大学 
+ 
+ 
+ 7
+ 
+ 
+ 5 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 加州理工学院（第九，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 加州理工学院 
+ 
+ 
+ 6
+ 
+ 
+ 6 
+ 
+ 
+ 2 
+ 
+ 
+ 0 
+ 
+ 密歇根大学（第九，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 密歇根大学 
+ 
+ 
+ 6
+ 
+ 
+ 6 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 牛津大学（第九，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 牛津大学 
+ 
+ 
+ 6
+ 
+ 
+ 3 
+ 
+ 
+ 3 
+ 
+ 
+ 2 
+ 
+ 多伦多大学（第九，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 多伦多大学 
+ 
+ 
+ 6
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ 2 
+ 
+ 哥伦比亚大学（第十三，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 哥伦比亚大学 
+ 
+ 
+ 5
+ 
+ 
+ 2 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 洛杉矶加州大学（第十三，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 洛杉矶加州大学 
+ 
+ 
+ 5
+ 
+ 
+ 3 
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 康奈尔大学（第十五，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 康奈尔大学 
+ 
+ 
+ 4
+ 
+ 
+ 1 
+ 
+ 
+ 3 
+ 
+ 
+ 0 
+ 
+ 芝加哥大学（第十五，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 芝加哥大学 
+ 
+ 
+ 4
+ 
+ 
+ 3 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 希伯来大学（第十五，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 希伯来大学 
+ 
+ 
+ 4
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 2 
+ 
+ 杜克大学（第十八，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 杜克大学 
+ 
+ 
+ 3
+ 
+ 
+ 3 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 爱丁堡大学（第十八，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 爱丁堡大学 
+ 
+ 
+ 3
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 0 
+ 
+ 奥斯陆大学（第十八，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 奥斯陆大学 
+ 
+ 
+ 3
+ 
+ 
+ 2 
+ 
+ 
+ 2 
+ 
+ 
+ 1 
+ 
+ 犹他大学（第十八，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 犹他大学 
+ 
+ 
+ 3
+ 
+ 
+ 2 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 魏茨曼科学研究学院（第十八，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 魏茨曼科学研究学院 
+ 
+ 
+ 3
+ 
+ 
+ 2 
+ 
+ 
+ 2 
+ 
+ 
+ 2 
+ 
+ 耶鲁大学（第十八，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 耶鲁大学 
+ 
+ 
+ 3
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 以色列理工学院（第十八，并列） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 以色列理工学院 
+ 
+ 
+ 3
+ 
+ 
+ 3 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 其它大学（25—37名） [ 编辑 ] 
+ 25名（2人） [ 编辑 ] 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 纽约市立学院 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 特拉维夫大学 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 奥胡斯大学 
+ 
+ 
+ 2
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ 2 
+ 
+ 
+ 纽约州立大学奥本尼分校 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 阿姆斯特丹大学 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 伊利诺伊大学香槟分校 
+ 
+ 
+ 2
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 巴黎大学 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 宾夕法尼亚大学 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 得州大学奥斯汀分校 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 0 
+ 
+ 
+ 弗吉尼亚大学 
+ 
+ 
+ 2
+ 
+ 
+ 2 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ 沃里克大学 
+ 
+ 
+ 2
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 37名（1人） [ 编辑 ] 
+ 37名（1人）中文版名单不全，详见英文版 
+ 
+ 
+ 
+ 总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 
+ 布兰戴斯大学 
+ 
+ 
+ 1
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ 香港中文大学 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ [ 姚期智 ] 
+ 
+ 
+ 0 
+ 
+ 
+ 达特茅斯学院 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 巴黎高等师范学院 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 苏黎世联邦理工学院 
+ 
+ 
+ 1
+ 
+ 
+ 1 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 伊利诺伊理工学院 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 伦敦帝国学院 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 0 
+ 
+ 
+ 伦敦国王学院 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 京都大学 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ 1 
+ 
+ 
+ 国立台湾大学 
+ 
+ 
+ 1
+ 
+ 
+ [ 姚期智 ] 
+ 
+ 
+ 0 
+ 
+ 
+ 0 
+ 
+ 
+ 清华大学 
+ 
+ 
+ 1
+ 
+ 
+ 0 
+ 
+ 
+ [ 姚期智 ] 
+ 
+ 
+ 0 
+ 
+ 参见 [ 编辑 ] 
+ 图灵奖 
+ 诺贝尔奖 
+ 菲尔兹奖 
+ 各大学诺贝尔奖得主列表 
+ 各大学菲尔兹奖得主列表 
+ 参考资料 [ 编辑 ] 
+ 
+ ^ 1.0 1.1 .mw-parser-ou pu ci e.ci a ion{ on -s yle:inheri ;word-wrap:break-word}.mw-parser-ou pu .ci a ion q{quo es:" """ """'""'"}.mw-parser-ou pu .ci a ion: arge {background-color:rgba(0,127,255,0.133)}.mw-parser-ou pu .id-lock- ree.id-lock- ree a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-limi ed.id-lock-limi ed a,.mw-parser-ou pu .id-lock-regis ra ion.id-lock-regis ra ion a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-subscrip ion.id-lock-subscrip ion a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.s g")righ 0.1em cen er/12px no-repea }body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock- ree a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-limi ed a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-regis ra ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-subscrip ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .cs1-ws-icon a{background-size:con ain;padding:0 1em 0 0}.mw-parser-ou pu .cs1-code{color:inheri ;background:inheri ;border:none;padding:inheri }.mw-parser-ou pu .cs1-hidden-error{display:none;color: ar(--color-error,#d33)}.mw-parser-ou pu .cs1- isible-error{color: ar(--color-error,#d33)}.mw-parser-ou pu .cs1-main {display:none;color:#085;margin-le :0.3em}.mw-parser-ou pu .cs1-kern-le {padding-le :0.2em}.mw-parser-ou pu .cs1-kern-righ {padding-righ :0.2em}.mw-parser-ou pu .ci a ion .mw-sel link{ on -weigh :inheri }@media screen{.mw-parser-ou pu .cs1- orma { on -size:95%}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .cs1-main {color:#18911 }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .cs1-main {color:#18911 }} A.M. Turing Award Winners by Year . am uring.acm.org. &#91; 2018-10-10 &#93; . （原始内容 存档 于2018-10-05） （英语） . &#160; 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 检索自“ h ps://zh.wikipedia.org/w/index.php? i le=各大学图灵奖得主列表&amp;oldid=82224457 ” 
+					 分类 ：​ 图灵奖 隐藏分类：​ CS1英语来源 (en) 
+				 
+			 
+			
+		 
+		 
+			
+ 
+	 
+	 本页面最后修订于2024年4月10日 (星期三) 17:54。 
+	 本站的全部文字在 知识共享 署名-相同方式共享 4.0协议 之条款下提供，附加条款亦可能应用。（请参阅 使用条款 ） 
+Wikipedia&#174;和维基百科标志是 维基媒体基金会 的注册商标；维基&#8482;是维基媒体基金会的商标。 
+维基媒体基金会是按美国国内税收法501(c)(3)登记的 非营利慈善机构 。 
+ 
+
+	 
+	 隐私政策 
+	 关于维基百科 
+	 免责声明 
+	 法律与安全联系人 
+	 行为准则 
+	 开发者 
+	 统计 
+	 Cookie声明 
+	 移动版视图 
+ 
+
+	 
+	 
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+
+ 搜索 
+			 
+		 
+			
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+								 
+							 
+							 
+						 
+						 搜索 
+					 
+				 
+			 
+		 
+		 
+				 
+						
+					 
+						 
+						 
+
+ 开关目录 
+						 
+						 
+					
+						 
+						 
+					
+						 
+					 
+			 
+				 各大学图灵奖得主列表 
+			 
+		 
+		 
+			 
+				 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+		 
+			 
+				 
+
+ 添加语言 
+			 
+			 
+
+ 添加话题 
+			 
+		 
+			 
+				 
+				 
+			 
+		 
+	 
+ 
+ 
+	 
+		
+	 
+ 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.con ig.se ({"wgHos name":"mw-web.cod w.main-848cdb4744-7nr7d","wgBackendResponseTime":142,"wgPageParseRepor ":{"limi repor ":{"cpu ime":"0.300","wall ime":"0.349","pp isi ednodes":{" alue":6962,"limi ":1000000},"re isionsize":{" alue":12897,"limi ":2097152},"pos expandincludesize":{" alue":92066,"limi ":2097152}," empla eargumen size":{" alue":4255,"limi ":2097152},"expansiondep h":{" alue":8,"limi ":100},"expensi e unc ioncoun ":{" alue":2,"limi ":500},"uns rip-dep h":{" alue":0,"limi ":20},"uns rip-size":{" alue":2534,"limi ":5000000},"en i yaccesscoun ":{" alue":0,"limi ":500}," imingpro ile":["100.00% 230.487 1 - o al"," 26.75% 61.663 73 Templa e:Flagicon"," 23.67% 54.549 1 Templa e:Ci e_web"," 22.75% 52.434 1 Templa e:No eTA"," 8.78% 20.237 73 Templa e:Flagicon/core"," 7.68% 17.707 34 Templa e:Coun ry_da a_US"," 2.57% 5.932 12 Templa e:Coun ry_da a_USA"," 2.02% 4.656 9 Templa e:Coun ry_da a_UK"," 1.35% 3.119 5 Templa e:Coun ry_da a_以色列"," 1.07% 2.461 2 Templa e:Coun ry_da a_法国"]},"scribun o":{"limi repor - imeusage":{" alue":"0.076","limi ":"10.000"},"limi repor -memusage":{" alue":2103347,"limi ":52428800}},"cacherepor ":{"origin":"mw-web.cod w.main-6c66c 67b - m98"," imes amp":"20260421210138"," l":2592000," ransien con en ": alse,"expiry-source":"Module:Ci a ion/CS1 (os.da e(%Y))"}}});}); 
+ {"@con ex ":"h ps: / /schema.org","@ ype":"Ar icle","name":" u5404 u5927 u5b66 u56 e u7075 u5956 u5 97 u4e3b u5217 u8868","url":"h ps: / /zh.wikipedia.org /wiki /%E5%90%84%E5%A4%A7%E5%AD%A6%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E5%88%97%E8%A1%A8","sameAs":"h p: / /www.wikida a.org /en i y /Q6600724","mainEn i y":"h p: / /www.wikida a.org /en i y /Q6600724","au hor":{"@ ype":"Organiza ion","name":" u7e 4 u57 a u5a92 u4 53 u9879 u76ee u8d21 u732e u8005"},"publisher":{"@ ype":"Organiza ion","name":"Wikimedia Founda ion, Inc.","logo":{"@ ype":"ImageObjec ","url":"h ps: / /www.wikimedia.org /s a ic /images /wm -hor-googpub.png"}},"da ePublished":"2018-10-10T02:27:46Z","da eModi ied":"2024-04-10T17:54:44Z","headline":" u7e 4 u57 a u5a92 u4 53 u5217 u8868 u6761 u76ee"}

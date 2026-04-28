@@ -1,0 +1,79 @@
+{
+  "version": "v1",
+  "notes": "可复现网页语料清单（用于抓取到 raw/excerpts/articles/）。",
+  "sources": [
+    {
+      "enabled": true,
+      "id": "wikipedia_en_alan_turing",
+      "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "title": "Alan Turing (Wikipedia EN)",
+      "cite_key": "wikipedia_en_alan_turing",
+      "lang_hint": "en"
+    },
+    {
+      "enabled": true,
+      "id": "wikipedia_zh_alan_turing",
+      "url": "https://zh.wikipedia.org/wiki/%E8%89%BE%E4%BC%A6%C2%B7%E5%9B%BE%E7%81%B5",
+      "title": "艾伦·图灵（维基百科）",
+      "cite_key": "wikipedia_zh_alan_turing",
+      "lang_hint": "zh"
+    },
+    {
+      "enabled": true,
+      "id": "wikipedia_en_turing_machine",
+      "url": "https://en.wikipedia.org/wiki/Turing_machine",
+      "title": "Turing machine (Wikipedia EN)",
+      "cite_key": "wikipedia_en_turing_machine",
+      "lang_hint": "en"
+    },
+    {
+      "enabled": true,
+      "id": "wikipedia_zh_turing_machine",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%9C%BA",
+      "title": "图灵机（维基百科）",
+      "cite_key": "wikipedia_zh_turing_machine",
+      "lang_hint": "zh"
+    },
+    {
+      "enabled": true,
+      "id": "wikipedia_en_turing_award",
+      "url": "https://en.wikipedia.org/wiki/Turing_Award",
+      "title": "Turing Award (Wikipedia EN)",
+      "cite_key": "wikipedia_en_turing_award",
+      "lang_hint": "en"
+    },
+    {
+      "enabled": true,
+      "id": "wikipedia_zh_turing_award",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E5%A5%96",
+      "title": "图灵奖（维基百科）",
+      "cite_key": "wikipedia_zh_turing_award",
+      "lang_hint": "zh"
+    },
+    {
+      "enabled": true,
+      "id": "wikipedia_zh_turing_award_universities_laureates",
+      "url": "https://zh.wikipedia.org/zh-cn/%E5%90%84%E5%A4%A7%E5%AD%A6%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E5%88%97%E8%A1%A8",
+      "title": "各大学图灵奖得主列表（维基百科）",
+      "cite_key": "wikipedia_zh_turing_award_universities",
+      "lang_hint": "zh"
+    },
+    {
+      "enabled": true,
+      "id": "acm_amturing_by_year",
+      "url": "https://amturing.acm.org/byyear.cfm",
+      "title": "A.M. Turing Award Winners by Year (ACM)",
+      "cite_key": "acm_amturing_by_year",
+      "lang_hint": "en"
+    },
+    {
+      "enabled": true,
+      "id": "acm_amturing_home",
+      "url": "https://amturing.acm.org/",
+      "title": "ACM A.M. Turing Award (amturing.acm.org)",
+      "cite_key": "acm_amturing",
+      "lang_hint": "en"
+    }
+  ]
+}
+

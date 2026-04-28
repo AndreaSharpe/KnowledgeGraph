@@ -1,0 +1,15 @@
+---
+title: 图灵机与图灵奖的同名来源
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Turing_Award
+---
+图灵机以 Alan Turing 的研究命名传统相关。
+图灵奖以 Alan Turing 命名。
+Alan Turing 出生于英国伦敦。
+Alan Turing 的国籍是英国。
+Alan Turing 的毕业院校包含剑桥大学。
+Alan Turing 的毕业院校包含普林斯顿大学。
+图灵机是一种抽象计算模型。
+图灵机属于计算理论。
+计算理论属于理论计算机科学。
+ACM 负责颁发图灵奖。

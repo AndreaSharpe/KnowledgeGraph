@@ -12,6 +12,61 @@ from ..config import USER_AGENT
 
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
 
+# 与「艾伦·图灵 / Alan Turing」易混的概念实体（Wikidata）
+_QID_TURING_MACHINE = "Q163310"
+_QID_TURING_AWARD = "Q185667"
+_QID_TURING_PERSON = "Q7251"
+
+# 在 mention 过短、或被 NER 从复合词中切开时，仅靠搜索容易误指到人物或其它条目；
+# 本函数在 entity_map 与网络搜索**之前**执行，用句子上下文定界。
+_TURING_EN_MACHINE = re.compile(
+    r"\b(?:universal\s+)?turing\s+machines?\b|"
+    r"\buniversal\s+turing\b|"
+    r"\bnon-?deterministic\s+turing\b|"
+    r"\bprobabilistic\s+turing\b",
+    re.IGNORECASE,
+)
+_TURING_EN_AWARD = re.compile(
+    r"\bturing\s+award\b|"
+    r"\b(?:a\.?\s*)?m\.?\s*turing\s+award\b|"
+    r"\bprize\s+\(?turing\)?\s+award\b",
+    re.IGNORECASE,
+)
+# 人名强提示：同句出现全名或传记式书写时，裸露「Turing」倾向链到人物
+_TURING_EN_PERSON = re.compile(
+    r"\balan\s+turing\b|\balan\s+mathison\s+turing\b|\balan\s+m\.?\s*turing\b|"
+    r"\bturing\s*[\(\,]|"
+    r"^\s*turing\s*[\,]",
+    re.IGNORECASE,
+)
+
+
+def _context_override_qid(mention: str, context: str) -> tuple[str, float] | None:
+    """
+    对「Turing/图灵」等高频歧义 mention，按上下文压过 entity_map 中的短别名（如「图灵」-> 人物）
+    与误检索（如裸露 Turing -> 非 Q7251 条目）。
+
+    说明：单句 `context` 下优先匹配更具体的「图灵机 / Turing machine / 图灵奖 / …」短语。
+    """
+    m = (mention or "").strip()
+    if len(m) < 2:
+        return None
+    c = context or ""
+    mlow = m.lower()
+
+    if mlow == "turing":
+        if _TURING_EN_MACHINE.search(c):
+            return _QID_TURING_MACHINE, 1.0
+        if _TURING_EN_AWARD.search(c):
+            return _QID_TURING_AWARD, 1.0
+        if _TURING_EN_PERSON.search(c):
+            return _QID_TURING_PERSON, 1.0
+
+    if m == "图灵" and "图灵机" in c:
+        return _QID_TURING_MACHINE, 1.0
+
+    return None
+
 
 def _sleep_seconds_from_retry_after(resp: requests.Response) -> float | None:
     ra = resp.headers.get("Retry-After")
@@ -220,6 +275,9 @@ def link_mention_to_qid(
     m = mention.strip()
     if len(m) < 2:
         return None, 0.0
+    ctx_hit = _context_override_qid(m, context or "")
+    if ctx_hit:
+        return ctx_hit
     if entity_map_override:
         keys = sorted(entity_map_override.keys(), key=len, reverse=True)
         low = m.lower()
@@ -281,6 +339,32 @@ def link_mention_with_candidates(
     m = mention.strip()
     if len(m) < 2:
         return {"chosen_qid": None, "chosen_score": 0.0, "candidates": [], "override_hit": None}
+
+    ctx_hit = _context_override_qid(m, context or "")
+    if ctx_hit:
+        qid0, sc0 = ctx_hit
+        return {
+            "chosen_qid": qid0,
+            "chosen_score": float(sc0),
+            "candidates": [{"id": qid0, "label": "", "description": ""}],
+            "override_hit": {
+                "matched_key": m,
+                "qid": qid0,
+                "source": "context_disambiguation",
+            },
+            "candidate_scores": [
+                {
+                    "qid": qid0,
+                    "score": float(sc0),
+                    "breakdown": {
+                        "label": "",
+                        "description": "",
+                        "source": "context_disambiguation",
+                    },
+                }
+            ],
+            "local_breakdown": {},
+        }
 
     override_hit: dict[str, Any] | None = None
     if entity_map_override:

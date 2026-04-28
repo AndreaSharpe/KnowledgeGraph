@@ -1,0 +1,1682 @@
+---
+cite: wikipedia_zh_turing_award
+url: https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E5%A5%96
+title: 图灵奖（维基百科）
+---
+图灵奖 - 维基百科，自由的百科全书 
+ ( unc ion(){ ar className="clien -js ec or- ea ure-language-in-header-enabled ec or- ea ure-language-in-main-menu-disabled ec or- ea ure-language-in-main-page-header-disabled ec or- ea ure-page- ools-pinned-disabled ec or- ea ure- oc-pinned-clien pre -1 ec or- ea ure-main-menu-pinned-disabled ec or- ea ure-limi ed-wid h-clien pre -1 ec or- ea ure-limi ed-wid h-con en -enabled ec or- ea ure-cus om- on -size-clien pre -1 ec or- ea ure-appearance-pinned-clien pre -1 skin- heme-clien pre -day ec or-s icky-header-enabled ec or- oc-a ailable skin- heme-clien pre - humb-s andard"; ar cookie=documen .cookie.ma ch(/(?:^|; )zhwikimwclien pre erences=([^;]+)/);i (cookie){cookie[1].spli ('%2C'). orEach( unc ion(pre ){className=className.replace(new RegExp('(^| )'+pre .replace(/-clien pre - w+$|[^ w-]+/g,'')+'-clien pre - w+( |$)'),'$1'+pre +'$2');});}documen .documen Elemen .className=className;}());RLCONF={"wgBreakFrames": alse,"wgSepara orTrans ormTable":["",""],"wgDigi Trans ormTable":["",""],"wgDe aul Da eForma ":"zh","wgMon hNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgReques Id":"5859a8b8-8706-4038-b84 -9 3dd0481214","wgCanonicalNamespace":"","wgCanonicalSpecialPageName": alse,"wgNamespaceNumber":0,"wgPageName":"图灵奖","wgTi le":"图灵奖","wgCurRe isionId":91962883,"wgRe isionId":91962883,"wgAr icleId":2710,"wgIsAr icle": rue,"wgIsRedirec ": alse,"wgAc ion":" iew","wgUserName":null,"wgUserGroups":["*"],"wgCa egories":["CS1英语来源 (en)","CS1英国英语来源 (en-gb)","含有英語的條目","图灵奖获得者","計算機科學獎項","學術榮譽","以人名命名的奖项","1966年建立的奖项"],"wgPageViewLanguage":"zh","wgPageCon en Language":"zh","wgPageCon en Model":"wiki ex ","wgRele an PageName":"图灵奖","wgRele an Ar icleId":2710,"wgTempUserName":null,"wgUserVarian ":"zh","wgIsProbablyEdi able": rue,"wgRele an PageIsProbablyEdi able": rue,"wgRes ric ionEdi ":[],"wgRes ric ionMo e":[],"wgNo iceProjec ":"wikipedia","wgCi eRe erencePre iewsAc i e": rue,"wgCon irmEdi Cap chaNeededForGenericEdi ":"hcap cha","wgCon irmEdi HCap chaVisualEdi orOnLoadIn egra ionEnabled": alse,"wgCon irmEdi HCap chaSi eKey":"5d0c670e-a5 4-4258-ad16-1 42792c9c62","wgMediaViewerOnClick": rue,"wgMediaViewerEnabledByDe aul ": rue,"wgPopupsFlags":0,"wgVisualEdi or":{"pageLanguageCode":"zh","pageLanguageDir":"l r","pageVarian Fallbacks":["zh-hans","zh-han ","zh-cn","zh- w","zh-hk","zh-sg","zh-mo","zh-my"]},"wgMFDisplayWikibaseDescrip ions":{"search": rue,"wa chlis ": rue," agline": rue,"nearby": rue},"wgWMESchemaEdi A emp S epO ersample": alse,"wgWMEPageLeng h":20000,"wgEdi Submi Bu onLabelPublish": rue,"wgVisualEdi orPageIsDisambigua ion": alse,"wgULSPosi ion":"in erlanguage","wgULSisCompac LinksEnabled": alse,"wgVec or2022LanguageInHeader": rue,"wgULSisLanguageSelec orEmp y": alse,"wgWikibaseI emId":"Q185667","wgCheckUserClien Hin sHeadersJsApi":["brands","archi ec ure","bi ness"," ullVersionLis ","mobile","model","pla orm","pla ormVersion"],"GEHomepageSugges edEdi sEnableTopics": rue,"wgGESugges edEdi sTaskTypes":{" askTypes":["copyedi ","link-recommenda ion"],"una ailableTaskTypes":[]},"wgGETopicsMa chModeEnabled": alse,"wgGELe elingUpEnabledForUser": alse,"wgTes Ki chenUserExperimen s":{"o errides":[],"enrolled":[],"assigned":[],"subjec _ids":[]}};
+RLSTATE={"ex .gadge .ilhpp-ini ial-pages yles":"ready","ex .gadge .large- on ":"ready","ex .gadge . ex -spacing":"ready","ex .globalCssJs.user.s yles":"ready","si e.s yles":"ready","user.s yles":"ready","ex .globalCssJs.user":"ready","user":"ready","user.op ions":"loading","ex .ci e.s yles":"ready","ex .wikimediamessages.s yles":"ready","skins. ec or.search.codex.s yles":"ready","skins. ec or.s yles":"ready","skins. ec or.icons":"ready","jquery. ablesor er.s yles":"ready","jquery.makeCollapsible.s yles":"ready","ex . isualEdi or.desk opAr icleTarge .noscrip ":"ready","ex .uls.in erlanguage":"ready","wikibase.clien .ini ":"ready","ex .wikimediaBadges":"ready"};RLPAGEMODULES=["ex .ci e.ux-enhancemen s","ex .parsermigra ion.sur ey","si e","mediawiki.page.ready","jquery. ablesor er","jquery.makeCollapsible","mediawiki. oc","skins. ec or.js","ex .cen ralNo ice.geoIP","ex .cen ralNo ice.s ar Up","ex .gadge .Di link","ex .gadge .Na Frame","ex .gadge .WikiMiniA las","ex .gadge .ilhpp","ex .gadge .no eTA","ex .gadge .warn-archi e- oday","ex .gadge .edi 0","ex .gadge .Ad ancedSi eNo ices","ex .gadge .SpecialWiki ex ","ex .gadge .Varian Ally","ex .gadge .hideCon ersionTab","ex .gadge .pseudonamespace-UI","ex .gadge .scrollUpBu on","ex .gadge .swi cher","ex .gadge .unihan-helper","ex .gadge .collapsibleTables","ex .urlShor ener. oolbar","ex .cen ralau h.cen ralau ologin","mm .boo s rap","ex .popups","ex . isualEdi or.desk opAr icleTarge .ini ","ex .echo.cen ralau h","ex .e en Logging","ex .wikimediaE en s","ex .na iga ionTiming","ex .uls.in er ace","ex .cx.e en logging.campaigns","ex .cx.uls.quick.ac ions","wikibase.clien . ec or-2022","wikibase.da abox. romWikida a","ex .checkUser.clien Hin s","ex .quicksur eys.ini ","ex .grow hExperimen s.Sugges edEdi Session","ex . es Ki chen"]; 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.loader.impl( unc ion(){re urn["user.op ions@12s5i", unc ion($,jQuery,require,module){mw.user. okens.se ({"pa rolToken":"+ ","wa chToken":"+ ","csr Token":"+ "});
+}];});}); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 跳转到内容 
+ 
+	 
+		 
+			 
+				
+ 
+	 
+	 
+
+ 主菜单 
+	 
+	 
+
+
+				 
+		
+ 
+	 
+	 主菜单 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		导航
+	 
+	 
+		
+		 
+			
+			 首页 分类索引 特色内容 新闻动态 随机条目 联络我们 关于维基百科 
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		贡献
+	 
+	 
+		
+		 
+			
+			 帮助 维基社群 编辑入门 互助客栈 IRC即时聊天 最近更改 特殊页面 
+		 
+		
+	 
+ 
+
+ 
+
+				 
+
+	 
+ 
+
+		 
+			
+ 
+	 
+	 
+		 
+		 
+	 
+ 
+
+		 
+		 
+			
+ 
+	 
+
+ 搜索 
+	 
+	 
+		 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+				 
+				 搜索 
+			 
+		 
+	 
+ 
+
+			 
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	 
+		
+ 
+	 
+	 
+
+ 外观 
+	 
+	 
+
+
+			 
+				
+			 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 创建账号 
+ 
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+	 
+
+ 个人工具 
+	 
+	 
+
+
+		
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 
+
+ 创建账号 
+ 
+ 
+
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+		 
+		 
+			 
+		 
+			 
+				 
+				
+				 
+		 
+		 
+	 
+	 
+				 
+					 
+					 
+	 
+	 目录 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+	 
+		 
+			 
+				 序言 
+			 
+		 
+		 
+		 
+			 
+				 1 
+				 图灵奖获得者 
+			 
+		 
+		
+			 
+				 
+				 开关图灵奖获得者子章节 
+			 
+		
+		 
+			 
+			 
+				 
+					 1.1 
+					 世界各大学图灵奖人数 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 2 
+				 参考文献 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 3 
+				 外部链接 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 4 
+				 參見 
+			 
+		 
+		
+		 
+		 
+	 
+ 
+ 
+
+					 
+		 
+			 
+		 
+		 
+			 
+				 
+					 
+						
+ 
+	 
+	 
+
+ 开关目录 
+	 
+	 
+
+
+							 
+			 
+		
+	 
+ 
+
+					 
+					 图灵奖 
+							
+ 
+	 
+	 
+
+ 66种语言 
+	 
+	 
+
+		 
+			
+			 
+				
+				 العربية Azərbaycanca Беларуская Български বাংলা Brezhoneg Bosanski Ca alà کوردی Češ ina Dansk Deu sch Ελληνικά English Esperan o Español Ees i فارسی Suomi Français Frysk Galego עברית हिन्दी Hr a ski Magyar Հայերեն Bahasa Indonesia I aliano 日本語 ქართული Қазақша 한국어 Кыргызча La ina Lë zebuergesch Lie u ių La iešu Македонски മലയാളം Монгол मराठी Bahasa Melayu Nederlands Norsk bokmål Polski Por uguês Română Русский Srpskohr a ski / српскохрватски Simple English Slo enčina Slo enščina Shqip Српски / srpski S enska தமிழ் తెలుగు ไทย Türkçe Українська Tiếng Việ Wes -Vlams 吴语 მარგალური 閩南語 / Bân-lâm-gí 
+			 
+			 编辑链接 
+		 
+
+	 
+ 
+ 
+				 
+					 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 条目 讨论 
+		 
+		
+	 
+ 
+
+								
+ 
+	 
+	 不转换 
+	 
+	 
+
+
+					
+ 
+	 
+		
+		 
+			
+			 不转换 简体 繁體 大陆简体 香港繁體 澳門繁體 大马简体 新加坡简体 臺灣正體 
+		 
+		
+	 
+ 
+
+				
+	 
+ 
+
+							 
+						 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+							 
+				
+							 
+								
+ 
+	 
+	 工具 
+	 
+	 
+
+
+									 
+						
+ 
+	 
+	 工具 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		操作
+	 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+ 
+	 
+		常规
+	 
+	 
+		
+		 
+			
+			 链入页面 相关更改 上传文件 固定链接 页面信息 引用此页 获取短链接 
+		 
+		
+	 
+ 
+
+ 
+	 
+		打印/导出
+	 
+	 
+		
+		 
+			
+			 下载为PDF 打印页面 
+		 
+		
+	 
+ 
+
+ 
+	 
+		在其他项目中
+	 
+	 
+		
+		 
+			
+			 维基共享资源 维基数据项目 
+		 
+		
+	 
+ 
+
+ 
+
+									 
+				
+	 
+ 
+
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+						 
+							 
+				
+							 
+		 
+						 
+							 
+				 
+	 
+	 外观 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+ 
+
+							 
+		 
+					 
+				 
+				 
+					 
+							 
+		 
+		 
+
+						 维基百科，自由的百科全书 
+					 
+					 
+					
+					
+					 
+ .mw-parser-ou pu .in obox-subbox{padding:0;border:none;margin:-3px;wid h:au o;min-wid h:100%; on -size:100%;clear:none; loa :none;background-color: ransparen }.mw-parser-ou pu .in obox-3cols-child{margin:au o}.mw-parser-ou pu .in obox .na bar{ on -size:100%}body.skin-miner a .mw-parser-ou pu .in obox-header,body.skin-miner a .mw-parser-ou pu .in obox-subheader,body.skin-miner a .mw-parser-ou pu .in obox-abo e,body.skin-miner a .mw-parser-ou pu .in obox- i le,body.skin-miner a .mw-parser-ou pu .in obox-image,body.skin-miner a .mw-parser-ou pu .in obox- ull-da a,body.skin-miner a .mw-parser-ou pu .in obox-below{ ex -align:cen er}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox d di :no (.no heme)[s yle]{background: ransparen !impor an ;color: ar(--color-base,#202122)}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox d di :no (.no heme)[s yle]{background: ransparen !impor an ;color: ar(--color-base,#202122)}}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox d di .Na Head:no (.no heme)[s yle]{background: ransparen !impor an }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox d di .Na Head:no (.no heme)[s yle]{background: ransparen !impor an }}@media(min-wid h:640px){body.skin--responsi e .mw-parser-ou pu .in obox- able{display: able!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able>cap ion{display: able-cap ion!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able> body{display: able-row-group}body.skin--responsi e .mw-parser-ou pu .in obox- able r{display: able-row!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able h,body.skin--responsi e .mw-parser-ou pu .in obox- able d{padding-le :inheri ;padding-righ :inheri }} 圖靈獎 （ACM Turing Award） S ephen Ke le （ 英语 ： S ephen Ke le ） 的 艾伦·图灵 的塑像，位于 布萊切利園 授予对象 为 计算机科学 作出重要贡献的个人 国家／地区 美国 主办单位 计算机协会 (ACM) 奖励 US $1,000,000 &#91; 1 &#93; 首次颁发 1966年 最近颁发 2025年 官方网站 am uring .acm .org 
+ 图灵奖 （英語： ACM A.M. Turing Award ），又譯 杜林獎 、 A.M.图灵奖 &#91; 2 &#93; ，是 计算机协会 （ACM）于1966年设立的獎項，专门奖励对 计算机 事业作出重要贡献的个人。其名称取自世界 计算机科学 的先驱、英国科学家、 曼徹斯特大学 教授 艾伦·图灵 （ A.M. Turing ），这个奖设立目的之一是纪念这位現代计算机科學的奠基者。获奖者必须是在计算机领域具有持久而重大的先进性的技术贡献。大多数获奖者是 计算机科学家 。图灵奖是计算机界最负盛名的奖项，有“计算机界 诺贝尔奖 ”之称。
+ 图灵奖对获奖者的要求极高，评奖程序也极严，一般每年只奖励一名计算机科学家，只有极少数年度有两名以上在同一方向上做出贡献的科学家同时获奖。2014年11月13日之前图灵奖由 英特尔 公司以及 Google 公司赞助，奖金为250,000 美元 。2014年11月13日，虽然 英特尔 退出赞助， Google 反而将奖金提高到1,000,000 美元 ，和诺贝尔奖奖金相近。 &#91; 3 &#93; 
+ 每年，美国计算机协会将要求提名人推荐本年度的图灵奖候选人，并附加一份200到500字的文章，说明被提名者为什么应获此奖。任何人都可成为提名人。美国计算机协会将组成评选委员会对被提名者进行严格的评审，并最终确定当年的获奖者。
+ 
+ 
+ 图灵奖获得者 [ 编辑 ] 
+ 
+
+
+ 
+ 年份
+ 
+ 姓名
+ 
+ 贡献领域
+ 
+ 
+ 1966年
+ 
+ 艾伦·佩利 
+ 
+ 高级 程序设计 技巧， 编译器 构造
+ 
+ 
+ 1967年
+ 
+ 莫里斯·威尔克斯 
+ 
+ 存储程序式计算机 EDSAC ， EDSAC 2 ，程序 库 
+ 
+ 
+ 1968年
+ 
+ 理查德·衛斯里·漢明 
+ 
+ 数值方法，自动编码系统，错误检测和纠错码
+ 
+ 
+ 1969年
+ 
+ 马文·闵斯基 
+ 
+ 人工智能 
+ 
+ 
+ 1970年
+ 
+ 詹姆斯·维尔金森 
+ 
+ 数值分析， 线性代数 ，倒退错误分析
+ 
+ 
+ 1971年
+ 
+ 约翰·麦卡锡 
+ 
+ 人工智能
+ 
+ 
+ 1972年
+ 
+ 艾兹赫尔·戴克斯特拉 
+ 
+ 程序设计语言 的科学与艺术
+ 
+ 
+ 1973年
+ 
+ 查理士·巴赫曼 
+ 
+ 数据库技术
+ 
+ 
+ 1974年
+ 
+ 高德纳 
+ 
+ 算法分析、程序设计语言的设计、程序设计
+ 
+ 
+ 1975年
+ 
+ 艾伦·纽厄尔 
+ 
+ 人工智能，人类认知心理学和列表处理（lis processing）
+ 
+ 
+ 赫伯特·西蒙 
+ 
+ 
+ 1976年
+ 
+ 迈克尔·拉宾 
+ 
+ 非确定性自动机
+ 
+ 
+ 达纳·斯科特 
+ 
+ 
+ 1977年
+ 
+ 约翰·巴克斯 
+ 
+ 高级编程系统，程序设计语言规范的形式化定义
+ 
+ 
+ 1978年
+ 
+ 罗伯特·弗洛伊德 
+ 
+ 设计高效可靠软件的方法学
+ 
+ 
+ 1979年
+ 
+ 肯尼斯·艾佛森 
+ 
+ 程序设计语言和数学符号，互动系统的设计，运用APL进行教学，程序设计语言的理论与实践
+ 
+ 
+ 1980年
+ 
+ 東尼·霍爾 
+ 
+ 程序设计语言的定义与设计
+ 
+ 
+ 1981年
+ 
+ 埃德加·科德 
+ 
+ 数据库系统，尤其是 关系型数据库 
+ 
+ 
+ 1982年
+ 
+ 史蒂芬·库克 
+ 
+ 计算复杂度 
+ 
+ 
+ 1983年
+ 
+ 肯·汤普逊 
+ 
+ UNIX 操作系统和 C语言 
+ 
+ 
+ 丹尼斯·里奇 
+ 
+ 
+ 1984年
+ 
+ 尼克劳斯·维尔特 
+ 
+ 程序设计语言设计、程序设计
+ 
+ 
+ 1985年
+ 
+ 理查德·卡普 
+ 
+ 算法理论，尤其是 NP-完全性 理论
+ 
+ 
+ 1986年
+ 
+ 約翰·霍普克洛夫特 
+ 
+ 算法和数据结构的设计与分析
+ 
+ 
+ 罗伯特·塔扬 
+ 
+ 
+ 1987年
+ 
+ 约翰·科克 
+ 
+ 编译理论，大型系统的体系结构，及精简指令集（ RISC ）计算机的开发
+ 
+ 
+ 1988年
+ 
+ 伊凡·苏泽兰 
+ 
+ 计算机图形学 
+ 
+ 
+ 1989年
+ 
+ 威廉·卡韓 
+ 
+ 数值分析 
+ 
+ 
+ 1990年
+ 
+ 费尔南多·考巴托 
+ 
+ CTSS 和 Mul ics 
+ 
+ 
+ 1991年
+ 
+ 罗宾·米尔纳 
+ 
+ LCF ， ML語言 ， CCS 
+ 
+ 
+ 1992年
+ 
+ 巴特勒·蘭普森 
+ 
+ 分布式，个人计算环境
+ 
+ 
+ 1993年
+ 
+ 尤里斯·哈特马尼斯 
+ 
+ 计算复杂度理论
+ 
+ 
+ 理查德·斯特恩斯 
+ 
+ 
+ 1994年
+ 
+ 爱德华·费根鲍姆 
+ 
+ 大规模人工智能系统
+ 
+ 
+ 拉吉·瑞迪 
+ 
+ 
+ 1995年
+ 
+ 曼纽尔·布卢姆 
+ 
+ 计算复杂度理论，及其在 密码学 和程序校验上的应用
+ 
+ 
+ 1996年
+ 
+ 阿米尔·伯努利 
+ 
+ 时序逻辑 ，程序与系统 验证 
+ 
+ 
+ 1997年
+ 
+ 道格拉斯·恩格尔巴特 
+ 
+ 互动计算
+ 
+ 
+ 1998年
+ 
+ 詹姆斯·尼古拉·格雷 
+ 
+ 数据库与事务处理
+ 
+ 
+ 1999年
+ 
+ 弗雷德里克·布鲁克斯 
+ 
+ 计算机体系结构 ， 操作系统 ， 软件工程 
+ 
+ 
+ 2000年
+ 
+ 姚期智 &#91; 4 &#93; 
+ 
+ 计算理论，包括 伪随机数 生成，密码学与通信复杂度
+ 
+ 
+ 2001年
+ 
+ 奥利-约翰·达尔 
+ 
+ 面向对象编程 
+ 
+ 
+ 克利斯登·奈加特 
+ 
+ 
+ 2002年
+ 
+ 罗纳德·李维斯特 
+ 
+ 公钥密码学 （ RSA加密演算法 ）
+ 
+ 
+ 阿迪·萨莫尔 
+ 
+ 
+ 伦纳德·阿德曼 
+ 
+ 
+ 2003年
+ 
+ 艾伦·凯 
+ 
+ 面向对象编程 
+ 
+ 
+ 2004年
+ 
+ 文特·瑟夫 
+ 
+ TCP/IP 协议
+ 
+ 
+ 罗伯特·卡恩 
+ 
+ 
+ 2005年
+ 
+ 彼得·诺尔 
+ 
+ ALGOL 60 语言
+ 
+ 
+ 2006年
+ 
+ 法蘭西斯·艾倫 
+ 
+ 優化編譯器
+ 
+ 
+ 2007年 &#91; 5 &#93; 
+ 
+ 爱德蒙·克拉克 
+ 
+ 开发自动化方法检测计算机硬件和软件中的设计错误
+ 
+ 
+ 艾伦·爱默生 
+ 
+ 
+ 约瑟夫·斯发基斯 
+ 
+ 
+ 2008年
+ 
+ 芭芭拉·利斯科夫 
+ 
+ 编程语言和系统设计的实践与理论
+ 
+ 
+ 2009年
+ 
+ 查尔斯·萨克尔 
+ 
+ 帮助设计、制造第一款现代PC
+ 
+ 
+ 2010年
+ 
+ 莱斯利·瓦伦特 
+ 
+ 对众多 计算理论 所做的变革性的贡献
+ 
+ 
+ 2011年
+ 
+ 朱迪亚·珀尔 
+ 
+ 通过 概率论 和 因果推理 （ 英语 ： Causal reasoning ） 对 人工智能 领域作出的根本性贡献
+ 
+ 
+ 2012年
+ 
+ 莎菲·戈德瓦塞尔 
+ 
+ 在密碼科學領域裡，於複雜理論的基礎之上，做出變革性工作；並領先發展出新的具有數學可證明性的有效驗證機制 &#91; 6 &#93; 
+ 
+ 
+ 希爾維奧·米卡利 
+ 
+ 
+ 2013年
+ 
+ 萊斯利·蘭波特 
+ 
+ 對於分散式及並形系統的理論與實踐具有基礎性貢獻，尤其是諸如因果邏輯時序（ causali y and logical clocks ）、安全性與存活度（ sa e y and li eness ）、複製狀態機（ replica ed s a e machines ）及 循序一致性 （ 英语 ： sequen ial consis ency ） （ sequen ial consis ency ）等理論概念的發明 &#91; 7 &#93; 
+ 
+ 
+ 2014年
+ 
+ 迈克尔·斯通布雷克 
+ 
+ 对现代数据库的概念和实践作出的根本性贡献
+ 
+ 
+ 2015年
+ 
+ 惠特菲爾德·迪菲 
+ 
+ 發明 迪菲-赫爾曼密鑰交換 ，對 公開密鑰加密 技術有重大貢獻 &#91; 8 &#93; 
+ 
+ 
+ 馬丁·赫爾曼 
+ 
+ 
+ 2016年
+ 
+ 蒂姆·伯纳斯-李 
+ 
+ 发明了 万维网 、第一个 浏览器 和使得万维网得以扩展的基础协议及算法 &#91; 9 &#93; 
+ 
+ 
+ 2017年
+ 
+ 約翰·軒尼詩 
+ 
+ 开创了一种系统的、定量的方法来设计和评价计算机体系结构，并对微处理器行业产生了持久的影响。 &#91; 10 &#93; 
+ 
+ 
+ 大衛·帕特森 
+ 
+ 
+ 2018年
+ 
+ 约书亚·本希奥 
+ 
+ 深度学习 &#91; 11 &#93; 
+ 
+ 
+ 杰弗里·辛顿 
+ 
+ 
+ 杨立昆 
+ 
+ 
+ 2019年
+ 
+ 艾德文·卡特姆 
+ 
+ 对于3D计算机图形学的基本贡献，以及这些技术对电影制作和其他应用中的计算机生成图像（CGI）的革命性影响。 &#91; 12 &#93; 
+ 
+ 
+ 帕特里克·汉拉恩 
+ 
+ 
+ 2020年
+ 
+ 阿尔佛雷德·艾侯 
+ 
+ 对程序语言实现的基础性算法和理论的贡献。 &#91; 13 &#93; 
+ 
+ 
+ 杰弗瑞·乌尔曼 
+ 
+ 
+ 2021年
+ 
+ 杰克·唐加拉 
+ 
+ 对数值算法和库的开创性贡献，使高性能计算软件在40多年来跟上了指数级硬件改进的步伐。 &#91; 14 &#93; 
+ 
+ 
+ 2022年
+ 
+ 羅伯特·梅特卡夫 
+ 
+ 發明，標準化以及商業化 以太網 。 &#91; 15 &#93; 
+ 
+ 
+ 2023年
+ 
+ 阿維·威格森 
+ 
+ 計算理論 ，尤其於 隨機性 以及 理論計算機科學 多年的前沿知識貢獻。 &#91; 16 &#93; 
+ 
+ 
+ 2024年
+ 
+ 安德魯·巴托 
+ 
+ 發展 強化學習 的概念和演算法基礎
+ 
+ 
+ 理查德·薩頓 
+ 
+ 
+ 2025年
+ 
+ 查尔斯·亨利·本内特 
+ 
+ 開創 電腦科學與資訊和通訊技術領域 的量子革命。 &#91; 17 &#93; 
+ 
+ 
+ 吉勒·布拉薩爾 （ 英语 ： Gilles Brassard ） 
+ 
+ 世界各大学图灵奖人数 [ 编辑 ] 
+下表展示1966年至2021年世界各高校图灵奖人数分布（只展示前15名）。 .mw-parser-ou pu .ha no e{ on -size:small}.mw-parser-ou pu di .ha no e{padding-le :2em;margin-bo om:0.8em;margin- op:0.8em}.mw-parser-ou pu .ha no e-no ice-img::a er{con en :" 202 202 202 202 "}.mw-parser-ou pu .ha no e-no ice-img-small::a er{con en :" 202 202 "}.mw-parser-ou pu .ha no e+link+.ha no e{margin- op:-0.5em}body.skin-miner a .mw-parser-ou pu .ha no e-no ice-img,body.skin-miner a .mw-parser-ou pu .ha no e-no ice-img-small{display:none}@media prin {body.ns-0 .mw-parser-ou pu .ha no e{display:none!impor an }} 参见： 各大学图灵奖得主列表 
+ 
+ 
+ 排名
+ 
+ 大学
+ 
+ 图灵奖总人数
+ 
+ 校友
+ 
+ 长期教职员
+ 
+ 短期教职员
+ 
+ 重复*
+ 
+ 
+ 1
+ 
+ 斯坦福大学 
+ 
+ 
+ 
+ 29
+ 
+ 9
+ 
+ 17
+ 
+ 12
+ 
+ -9
+ 
+
+ 
+ 2
+ 
+ 麻省理工学院 
+ 
+ 
+ 
+ 26
+ 
+ 6
+ 
+ 16
+ 
+ 11
+ 
+ -7
+ 
+ 
+ 3
+ 
+ 伯克利加州大学 
+ 
+ 
+ 
+ 26
+ 
+ 11
+ 
+ 12
+ 
+ 12
+ 
+ -9
+ 
+ 
+ 4
+ 
+ 普林斯顿大学 
+ 
+ 
+ 
+ 17
+ 
+ 11
+ 
+ 5
+ 
+ 2
+ 
+ -1
+ 
+ 
+ 5
+ 
+ 哈佛大学 
+ 
+ 
+ 
+ 14
+ 
+ 9
+ 
+ 5
+ 
+ 4
+ 
+ -4
+ 
+ 
+ 6
+ 
+ 卡耐基梅隆大学 
+ 
+ 
+ 
+ 13
+ 
+ 5
+ 
+ 9
+ 
+ 1
+ 
+ -2
+ 
+ 
+ 7
+ 
+ 纽约大学 
+ 
+ 
+ 
+ 8
+ 
+ 3
+ 
+ 2
+ 
+ 3
+ 
+ 0
+ 
+ 
+ 8
+ 
+ 剑桥大学 
+ 
+ 
+ 
+ 7
+ 
+ 5
+ 
+ 2
+ 
+ 3
+ 
+ -3
+ 
+ 
+ 9
+ 
+ 加州理工学院 
+ 
+ 
+ 
+ 6
+ 
+ 6
+ 
+ 2
+ 
+ 0
+ 
+ -2
+ 
+ 
+ 密歇根大学 
+ 
+ 
+ 
+ 6
+ 
+ 4
+ 
+ 0
+ 
+ 2
+ 
+ 0
+ 
+ 
+ 牛津大学 
+ 
+ 
+ 
+ 6
+ 
+ 3
+ 
+ 3
+ 
+ 2
+ 
+ -2
+ 
+ 
+ 多伦多大学 
+ 
+ 
+ 
+ 6
+ 
+ 2
+ 
+ 3
+ 
+ 2
+ 
+ -1
+ 
+ 
+ 13
+ 
+ 哥伦比亚大学 
+ 
+ 
+ 
+ 5
+ 
+ 2
+ 
+ 1
+ 
+ 2
+ 
+ 0
+ 
+ 
+ 洛杉矶加州大学 
+ 
+ 
+ 
+ 5
+ 
+ 3
+ 
+ 1
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 15
+ 
+ 康奈尔大学 
+ 
+ 
+ 
+ 4
+ 
+ 1
+ 
+ 3
+ 
+ 0
+ 
+ 0
+ 
+ 
+ 芝加哥大学 
+ 
+ 
+ 
+ 4
+ 
+ 3
+ 
+ 0
+ 
+ 1
+ 
+ 0
+ 
+ 
+ 希伯来大学 
+ 
+ 
+ 
+ 4
+ 
+ 1
+ 
+ 2
+ 
+ 2
+ 
+ -1
+ 
+ *： 校友、长期教职员、短期教职员的重复计算人数。 
+ 
+ 参考文献 [ 编辑 ] 
+ 
+ 
+ ^ .mw-parser-ou pu ci e.ci a ion{ on -s yle:inheri ;word-wrap:break-word}.mw-parser-ou pu .ci a ion q{quo es:" """ """'""'"}.mw-parser-ou pu .ci a ion: arge {background-color:rgba(0,127,255,0.133)}.mw-parser-ou pu .id-lock- ree.id-lock- ree a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-limi ed.id-lock-limi ed a,.mw-parser-ou pu .id-lock-regis ra ion.id-lock-regis ra ion a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-subscrip ion.id-lock-subscrip ion a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.s g")righ 0.1em cen er/12px no-repea }body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock- ree a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-limi ed a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-regis ra ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-subscrip ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .cs1-ws-icon a{background-size:con ain;padding:0 1em 0 0}.mw-parser-ou pu .cs1-code{color:inheri ;background:inheri ;border:none;padding:inheri }.mw-parser-ou pu .cs1-hidden-error{display:none;color: ar(--color-error,#d33)}.mw-parser-ou pu .cs1- isible-error{color: ar(--color-error,#d33)}.mw-parser-ou pu .cs1-main {display:none;color:#085;margin-le :0.3em}.mw-parser-ou pu .cs1-kern-le {padding-le :0.2em}.mw-parser-ou pu .cs1-kern-righ {padding-righ :0.2em}.mw-parser-ou pu .ci a ion .mw-sel link{ on -weigh :inheri }@media screen{.mw-parser-ou pu .cs1- orma { on -size:95%}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .cs1-main {color:#18911 }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .cs1-main {color:#18911 }} S a , Cacm. ACM's Turing Award prize raised o $1 million. Communica ions o he ACM. 2014, 57 (12): 20. doi:10.1145/2685372 . &#160; 
+ 
+ ^ 「杜林獎」應是「圖靈獎」 （ 页面存档备份 ，存于 互联网档案馆 ），2002-04-03，石琪，HK apple 
+ 
+ ^ S e e Lohr. Google o Quadruple Compu er Science Prize Winnings o $1 Million . Bi s. No ember 13, 2014 &#91; 2015-01-09 &#93; . （原始内容 存档 于2014-11-29） （英语） . &#160; 
+ 
+ ^ 王郁倫. 圖靈獎得主 姚期智：學問就在發問中 老美勇於回答 亞洲生羞於舉手 . 台灣蘋果日報 . 2006-10-28 &#91; 2016-04-13 &#93; . （原始内容 存档 于2016-04-23）. &#160; 
+ 
+ ^ 2007 Turing Award Winners Announced . ddj. 2008-02-04 &#91; 2008-02-05 &#93; . （原始内容 存档 于2009-11-02）. &#160; 
+ 
+ ^ Goldwasser, Micali Recei e ACM Turing Award or Ad ances in Cryp ography . &#91; 2013-04-30 &#93; . （ 原始内容 存档于2013-03-21）. &#160; 
+ 
+ ^ Leslie Lampor . ACM. &#91; 2014-03-25 &#93; . （原始内容 存档 于2016-01-16） （英语） . &#160; 
+ 
+ ^ Cryp ography Pioneers Recei e ACM A.M. Turing Award . ACM. &#91; 2 March 2016&#93; . （原始内容 存档 于2016-03-04）. &#160; 
+ 
+ ^ Sir Tim Berners-Lee - A.M. Turing Award Winner . am uring.acm.org. &#91; 2017-04-04 &#93; . （原始内容 存档 于2017-04-06） （英语） . &#160; 
+ 
+ ^ Pioneers o Modern Compu er Archi ec ure Recei e ACM A.M. Turing Award . ACM. &#91; 2018-03-21 &#93; . （ 原始内容 存档于2018-03-25）. &#160; 
+ 
+ ^ Baraniuk, Chris. Bri ish-born AI exper wins Turing Award . 2019-03-27 &#91; 2019-03-27 &#93; . （原始内容 存档 于2019-03-27） （英国英语） . &#160; 
+ 
+ ^ 2019 ACM A.M. Turing Award Laurea es . awards.acm.org. &#91; 2020-03-19 &#93; . （原始内容 存档 于2020-03-18）. &#160; 
+ 
+ ^ 2020 ACM A.M. Turing Award Laurea es . awards.acm.org. 2021-03-31 &#91; 2021-03-31 &#93; . （原始内容 存档 于2021-03-31） （英语） . &#160; 
+ 
+ ^ Open Graph Ti le: Uni ersi y o Tennessee's Jack Dongarra recei es 2021 ACM A.M. Turing Award . awards.acm.org. &#91; 2022-03-30 &#93; . （ 原始内容 存档于2022-05-05） （英语） . &#160; 
+ 
+ ^ Rober Melanc on Me cal e . 計算機協會 . &#91; 2023-03-22 &#93; . （原始内容 存档 于2023-07-05）. &#160; 
+ 
+ ^ A i Wigderson . 計算機協會 . &#91; 2024-04-10 &#93; . （原始内容 存档 于2024-04-10）. &#160; 
+ 
+ ^ Charles H. Benne and Gilles Brassard are he recipien s o he 2025 ACM A.M. Turing Award or heir essen ial role in es ablishing he ounda ions o quan um in orma ion science and rans orming secure communica ion and compu ing . Associa ion or Compu ing Machinery. ACM, Inc. March 18, 2026 &#91; 2026-03-18 &#93; （英语） . &#160; 
+ 
+ 
+ 外部链接 [ 编辑 ] 
+ ACM图灵奖官方网站 （ 页面存档备份 ，存于 互联网档案馆 ） 
+ 计算的美丽--图灵奖第一个40年 
+ 1998年得主詹姆斯·尼古拉·格雷介绍 （ 页面存档备份 ，存于 互联网档案馆 ） 
+ 參見 [ 编辑 ] 
+ 
+ 
+ 计算机科学主题 
+ 计算机科学 
+ 计算机协会 
+ 诺贝尔奖 
+ 菲尔兹奖 
+ 克劳德·E·香农奖 
+ 阿贝尔奖 
+ 各大学图灵奖得主列表 
+ 沃尔夫奖 
+ IEEE榮譽獎章 
+ 日本國際獎 
+ 高松宮殿下紀念世界文化獎 
+ 京都獎 
+ 邵逸夫獎 
+ 唐獎 
+ 一丹獎 
+ 
+ .mw-parser-ou pu .hlis dl,.mw-parser-ou pu .hlis ol,.mw-parser-ou pu .hlis ul{margin:0;padding:0}.mw-parser-ou pu .hlis dd,.mw-parser-ou pu .hlis d ,.mw-parser-ou pu .hlis li{margin:0;display:inline}.mw-parser-ou pu .hlis .inline,.mw-parser-ou pu .hlis .inline dl,.mw-parser-ou pu .hlis .inline ol,.mw-parser-ou pu .hlis .inline ul,.mw-parser-ou pu .hlis dl dl,.mw-parser-ou pu .hlis dl ol,.mw-parser-ou pu .hlis dl ul,.mw-parser-ou pu .hlis ol dl,.mw-parser-ou pu .hlis ol ol,.mw-parser-ou pu .hlis ol ul,.mw-parser-ou pu .hlis ul dl,.mw-parser-ou pu .hlis ul ol,.mw-parser-ou pu .hlis ul ul{display:inline}.mw-parser-ou pu .hlis .mw-emp y-li{display:none}.mw-parser-ou pu .hlis d ::a er{con en :" :"}.mw-parser-ou pu .hlis dd::a er,.mw-parser-ou pu .hlis li::a er{con en :" · "; on -weigh :bold}.mw-parser-ou pu .hlis -pipe dd::a er,.mw-parser-ou pu .hlis -pipe li::a er{con en :" | "; on -weigh :normal}.mw-parser-ou pu .hlis -hyphen dd::a er,.mw-parser-ou pu .hlis -hyphen li::a er{con en :" - "; on -weigh :normal}.mw-parser-ou pu .hlis -comma dd::a er,.mw-parser-ou pu .hlis -comma li::a er{con en :"、"; on -weigh :normal}.mw-parser-ou pu .hlis dd:las -child::a er,.mw-parser-ou pu .hlis d :las -child::a er,.mw-parser-ou pu .hlis li:las -child::a er{con en :none}.mw-parser-ou pu .hlis ol{coun er-rese :lis i em}.mw-parser-ou pu .hlis ol>li{coun er-incremen :lis i em}.mw-parser-ou pu .hlis ol>li::be ore{con en :" "coun er(lis i em)" a0 "}.mw-parser-ou pu .hlis dd ol>li: irs -child::be ore,.mw-parser-ou pu .hlis d ol>li: irs -child::be ore,.mw-parser-ou pu .hlis li ol>li: irs -child::be ore{con en :"（"coun er(lis i em)" a0 "}.mw-parser-ou pu ul.cslis ,.mw-parser-ou pu ul.sslis {margin:0;padding:0;display:inline-block;lis -s yle:none}.mw-parser-ou pu .cslis li,.mw-parser-ou pu .sslis li{margin:0;display:inline-block}.mw-parser-ou pu .cslis li::a er{con en :"，"}.mw-parser-ou pu .sslis li::a er{con en :"；"}.mw-parser-ou pu .cslis li:las -child::a er,.mw-parser-ou pu .sslis li:las -child::a er{con en :none} .mw-parser-ou pu .na box{box-sizing:border-box;border:1px solid #a2a9b1;wid h:100%;clear:bo h; on -size:88%; ex -align:cen er;padding:1px;margin:1em au o 0}.mw-parser-ou pu .na box .na box{margin- op:0}.mw-parser-ou pu .na box+.na box,.mw-parser-ou pu .na box+.na box-s yles+.na box{margin- op:-1px}.mw-parser-ou pu .na box-inner,.mw-parser-ou pu .na box-subgroup{wid h:100%}.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box- i le,.mw-parser-ou pu .na box-abo ebelow{ ex -align:cen er;padding-le :1em;padding-righ :1em}.mw-parser-ou pu .na box-group{whi e-space:nowrap; ex -align:righ }.mw-parser-ou pu .na box,.mw-parser-ou pu .na box-subgroup{background-color:# d d d;color:inheri }.mw-parser-ou pu .na box-lis {border-color:# d d d}.mw-parser-ou pu .na box-lis -wi h-group{ ex -align:le ;border-le -wid h:2px;border-le -s yle:solid}.mw-parser-ou pu r+ r>.na box-abo ebelow,.mw-parser-ou pu r+ r>.na box-group,.mw-parser-ou pu r+ r>.na box-image,.mw-parser-ou pu r+ r>.na box-lis {border- op:2px solid # d d d}.mw-parser-ou pu .na box- i le{background-color:#cc ;color:inheri ;posi ion:rela i e}.mw-parser-ou pu .na box-abo ebelow,.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box-subgroup .na box- i le{background-color:#dd ;color:inheri }.mw-parser-ou pu .na box-subgroup .na box-group,.mw-parser-ou pu .na box-subgroup .na box-abo ebelow{background-color:#e6e6 ;color:inheri }.mw-parser-ou pu .na box-e en{background-color:# 7 7 7;color:inheri }.mw-parser-ou pu .na box-odd{background-color: ransparen ;color:inheri }.mw-parser-ou pu .na box .hlis d dl,.mw-parser-ou pu .na box .hlis d ol,.mw-parser-ou pu .na box .hlis d ul,.mw-parser-ou pu .na box d.hlis dl,.mw-parser-ou pu .na box d.hlis ol,.mw-parser-ou pu .na box d.hlis ul{padding:0.125em 0}.mw-parser-ou pu .na box .na bar{display:block; on -size:100%}.mw-parser-ou pu .na box- i le .na bar{ loa :le ; ex -align:le ;margin-righ :0.5em;wid h:au o;padding-le :0.2em;padding-righ :0.2em;posi ion:absolu e;le :1em}.mw-parser-ou pu .na box .mw-collapsible- oggle{margin-le :0.5em;posi ion:absolu e;righ :1em}body.skin--responsi e .mw-parser-ou pu .na box-image img{max-wid h:none!impor an }@media prin {body.ns-0 .mw-parser-ou pu .na box{display:none!impor an }} .mw-parser-ou pu .na bar{display:inline; on -weigh :normal}.mw-parser-ou pu .na bar-collapse{ loa :le ; ex -align:le }.mw-parser-ou pu .na bar-box ex {word-spacing:0}.mw-parser-ou pu .na bar ul{display:inline-block;whi e-space:nowrap;line-heigh :inheri }.mw-parser-ou pu .na bar-bracke s::be ore{margin-righ :-0.125em;con en :"[ "}.mw-parser-ou pu .na bar-bracke s::a er{margin-le :-0.125em;con en :" ]"}.mw-parser-ou pu .na bar li{word-spacing:-0.125em}.mw-parser-ou pu .na bar a>span,.mw-parser-ou pu .na bar a>abbr{ ex -decora ion:inheri }.mw-parser-ou pu .na bar-mini abbr{ on - arian :small-caps;border-bo om:none; ex -decora ion:none;cursor:inheri }.mw-parser-ou pu .na bar-c - ull{ on -size:110%;margin:0 8em}.mw-parser-ou pu .na bar-c -mini{ on -size:110%;margin:0 5em}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }@media(pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }}@media prin {.mw-parser-ou pu .na bar{display:none!impor an }} 查 论 编 图灵奖 获得者 1960年代 
+ 1966年： 艾伦·佩利 
+ 1967年： 莫里斯·威尔克斯 
+ 1968年： 理查德·衛斯里·漢明 
+ 1969年： 马文·闵斯基 
+ 1970年代 
+ 1970年： 詹姆斯·哈迪·威尔金森 
+ 1971年： 約翰·麥卡錫 
+ 1972年： 艾兹赫尔·戴克斯特拉 
+ 1973年： 查尔斯·巴赫曼 
+ 1974年： 高德纳 
+ 1975年： 艾伦·纽厄尔 
+ 司马贺 
+ 1976年： 迈克尔·拉宾 
+ 达纳·斯科特 
+ 1977年： 約翰·巴科斯 
+ 1978年： 罗伯特·弗洛伊德 
+ 1979年： 肯尼斯·艾佛森 
+ 1980年代 
+ 1980年： 東尼·霍爾 
+ 1981年： 埃德加·科德 
+ 1982年： 史提芬·古克 
+ 1983年： 肯·汤普逊 
+ 丹尼斯·里奇 
+ 1984年： 尼克劳斯·维尔特 
+ 1985年： 理查德·卡普 
+ 1986年： 约翰·霍普克罗夫特 
+ 羅伯特·塔揚 
+ 1987年： 約翰·科克 
+ 1988年： 伊凡·蘇澤蘭 
+ 1989年： 威廉·卡韓 
+ 1990年代 
+ 1990年： 费尔南多·考巴托 
+ 1991年： 罗宾·米尔纳 
+ 1992年： 巴特勒·蘭普森 
+ 1993年： 尤里斯·哈特马尼斯 
+ 理查德·斯特恩斯 
+ 1994年： 愛德華·費根鮑姆 
+ 拉吉·瑞迪 
+ 1995年： 曼纽尔·布卢姆 
+ 1996年： 阿米尔·伯努利 
+ 1997年： 道格拉斯·恩格尔巴特 
+ 1998年： 詹姆斯·尼古拉·格雷 
+ 1999年： 弗雷德里克·布鲁克斯 
+ 2000年代 
+ 2000年： 姚期智 
+ 2001年： 奧利-約翰·達爾 
+ 克利斯登·奈加特 
+ 2002年： 罗纳德·李维斯特 
+ 阿迪·萨莫尔 
+ 伦纳德·阿德曼 
+ 2003年： 艾伦·凯 
+ 2004年： 文頓·瑟夫 
+ 罗伯特·卡恩 
+ 2005年： 彼得·諾爾 
+ 2006年： 法兰·艾伦 
+ 2007年： 爱德蒙·克拉克 
+ 艾伦·爱默生 
+ 约瑟夫·斯发基斯 
+ 2008年： 芭芭拉·利斯科夫 
+ 2009年： 查尔斯·萨克尔 
+ 2010年代 
+ 2010年： 莱斯利·瓦利安特 
+ 2011年： 朱迪亚·珀尔 
+ 2012年： 莎菲·戈德瓦塞尔 
+ 希爾維奧·米卡利 
+ 2013年： 莱斯利·兰波特 
+ 2014年： 迈克尔·斯通布雷克 
+ 2015年： 惠特菲爾德·迪菲 
+ 馬丁·赫爾曼 
+ 2016年： 蒂姆·伯纳斯-李 
+ 2017年： 約翰·軒尼詩 
+ 大衛·帕特森 
+ 2018年： 杰弗里·辛顿 
+ 杨立昆 
+ 约书亚·本希奥 
+ 2019年： 帕特里克·汉拉恩 
+ 艾德文·卡特姆 
+ 2020年代 
+ 2020年： 阿尔佛雷德·艾侯 
+ 杰弗瑞·乌尔曼 
+ 2021年： 杰克·唐加拉 
+ 2022年： 罗伯特·梅特卡夫 
+ 2023年： 阿维·威格德森 
+ 2024年： 安德魯·巴托 
+ 理查德·薩頓 
+ 2025年： 查尔斯·亨利·本内特 
+ 吉勒·布拉薩爾 （ 英语 ： Gilles Brassard ） 
+ Ca egory:图灵奖获得者 
+ 
+ 
+
+ 
+
+ 
+ 
+ 检索自“ h ps://zh.wikipedia.org/w/index.php? i le=图灵奖&amp;oldid=91962883 ” 
+					 分类 ：​ 图灵奖获得者 計算機科學獎項 學術榮譽 以人名命名的奖项 1966年建立的奖项 隐藏分类：​ CS1英语来源 (en) CS1英国英语来源 (en-gb) 含有英語的條目 
+				 
+			 
+			
+		 
+		 
+			
+ 
+	 
+	 本页面最后修订于2026年3月20日 (星期五) 07:57。 
+	 本站的全部文字在 知识共享 署名-相同方式共享 4.0协议 之条款下提供，附加条款亦可能应用。（请参阅 使用条款 ） 
+Wikipedia&#174;和维基百科标志是 维基媒体基金会 的注册商标；维基&#8482;是维基媒体基金会的商标。 
+维基媒体基金会是按美国国內稅收法501(c)(3)登记的 非营利慈善机构 。 
+ 
+
+	 
+	 隐私政策 
+	 关于维基百科 
+	 免责声明 
+	 法律与安全联系人 
+	 行为准则 
+	 开发者 
+	 统计 
+	 Cookie声明 
+	 移动版视图 
+ 
+
+	 
+	 
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+
+ 搜索 
+			 
+		 
+			
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+								 
+							 
+							 
+						 
+						 搜索 
+					 
+				 
+			 
+		 
+		 
+				 
+						
+					 
+						 
+						 
+
+ 开关目录 
+						 
+						 
+					
+						 
+						 
+					
+						 
+					 
+			 
+				 图灵奖 
+			 
+		 
+		 
+			 
+				 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+		 
+			 
+				 
+
+ 66种语言 
+			 
+			 
+
+ 添加话题 
+			 
+		 
+			 
+				 
+				 
+			 
+		 
+	 
+ 
+ 
+	 
+		
+	 
+ 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.con ig.se ({"wgHos name":"mw-web.cod w.main-848cdb4744-x6zjr","wgBackendResponseTime":104,"wgPageParseRepor ":{"limi repor ":{"cpu ime":"0.893","wall ime":"1.050","pp isi ednodes":{" alue":3499,"limi ":1000000},"re isionsize":{" alue":18216,"limi ":2097152},"pos expandincludesize":{" alue":333562,"limi ":2097152}," empla eargumen size":{" alue":2300,"limi ":2097152},"expansiondep h":{" alue":12,"limi ":100},"expensi e unc ioncoun ":{" alue":3,"limi ":500},"uns rip-dep h":{" alue":1,"limi ":20},"uns rip-size":{" alue":69308,"limi ":5000000},"en i yaccesscoun ":{" alue":0,"limi ":500}," imingpro ile":["100.00% 777.992 1 - o al"," 23.50% 182.833 1 Templa e:Re lis "," 20.18% 157.012 1 Templa e:In obox_award"," 17.14% 133.355 1 Templa e:In obox"," 16.76% 130.396 1 Templa e:Langx"," 13.93% 108.400 1 Templa e:No eTA"," 11.67% 90.822 1 Templa e:图灵奖"," 11.37% 88.460 1 Templa e:Na box"," 9.36% 72.855 12 Templa e:Ci e_web"," 9.34% 72.637 1 Templa e:Ci e_journal"]},"scribun o":{"limi repor - imeusage":{" alue":"0.522","limi ":"10.000"},"limi repor -memusage":{" alue":24684440,"limi ":52428800}},"cacherepor ":{"origin":"mw-web.cod w.canary-6554bb997c-kw g6"," imes amp":"20260425051401"," l":2592000," ransien con en ": alse,"expiry-source":"Module:Ci a ion/CS1 (os.da e(%Y))"}}});}); 
+ {"@con ex ":"h ps: / /schema.org","@ ype":"Ar icle","name":" u56 e u7075 u5956","url":"h ps: / /zh.wikipedia.org /wiki /%E5%9B%BE%E7%81%B5%E5%A5%96","sameAs":"h p: / /www.wikida a.org /en i y /Q185667","mainEn i y":"h p: / /www.wikida a.org /en i y /Q185667","au hor":{"@ ype":"Organiza ion","name":" u7e 4 u57 a u5a92 u4 53 u9879 u76ee u8d21 u732e u8005"},"publisher":{"@ ype":"Organiza ion","name":"Wikimedia Founda ion, Inc.","logo":{"@ ype":"ImageObjec ","url":"h ps: / /www.wikimedia.org /s a ic /images /wm -hor-googpub.png"}},"da ePublished":"2003-07-18T06:30:27Z","da eModi ied":"2026-03-20T07:57:57Z","image":"h ps: / /upload.wikimedia.org /wikipedia /commons /a /ad /Turing-s a ue-Ble chley_11.jpg","headline":" u8a08 u7b97 u6a5 u79d1 u5b78 u734e u9805"}

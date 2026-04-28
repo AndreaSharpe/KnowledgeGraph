@@ -1,0 +1,15 @@
+---
+title: 图灵奖的主办方与国家
+cite: 维基百科常识改写
+url: https://zh.wikipedia.org/zh-hans/%E5%9B%BE%E7%81%B5%E5%A5%96
+---
+图灵奖是一项计算机科学奖项。
+图灵奖由 ACM 颁发。
+图灵奖的拥有者是 ACM。
+图灵奖的运营方是 ACM。
+ACM 是国际计算机协会。
+ACM 是 Association for Computing Machinery。
+图灵奖的国家是美国。
+图灵奖的地点是纽约市。
+图灵奖以 Alan Turing 命名。
+Alan Turing 出生于英国伦敦。

@@ -386,4 +386,7 @@ def ingest_pattern_relations(
             citation_key=citation_key,
             snippet=f"{pr.snippet} | link={pr.score:.2f} method={pr.method}",
             source_url=source_url,
+            score=float(pr.score),
+            method=pr.method,
+            object_mention=pr.object_mention[:120],
         )

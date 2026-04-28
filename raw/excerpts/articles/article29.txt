@@ -1,0 +1,15 @@
+---
+title: 图灵奖纪念艾伦图灵
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Turing_Award
+---
+图灵奖以 Alan Turing 命名。
+Alan Turing 出生于英国伦敦。
+Alan Turing 的国籍是英国。
+Alan Turing 曾在曼彻斯特大学工作。
+曼彻斯特大学位于英国。
+图灵奖由 ACM 颁发。
+图灵奖的拥有者是 ACM。
+图灵奖的运营方是 ACM。
+图灵奖的国家是美国。
+图灵奖的地点是纽约市。

@@ -1,0 +1,15 @@
+---
+title: 图灵机作为计算模型
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Turing_machine
+---
+图灵机是一种计算模型。
+图灵机的实例类型可以表述为计算模型。
+图灵机的上位类可以表述为抽象机器。
+图灵机属于计算理论。
+图灵机是理论计算机科学的一部分。
+Alan Turing 提出图灵机概念。
+Alan Turing 出生于英国伦敦。
+Alan Turing 的国籍是英国。
+曼彻斯特大学与 Alan Turing 的雇主关系相关。
+曼彻斯特大学位于英国。

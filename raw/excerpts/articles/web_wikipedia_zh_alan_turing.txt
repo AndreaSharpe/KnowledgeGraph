@@ -1,0 +1,1317 @@
+---
+cite: wikipedia_zh_alan_turing
+url: https://zh.wikipedia.org/wiki/%E8%89%BE%E4%BC%A6%C2%B7%E5%9B%BE%E7%81%B5
+title: 艾伦·图灵（维基百科）
+---
+艾伦·图灵 - 维基百科，自由的百科全书 
+ ( unc ion(){ ar className="clien -js ec or- ea ure-language-in-header-enabled ec or- ea ure-language-in-main-menu-disabled ec or- ea ure-language-in-main-page-header-disabled ec or- ea ure-page- ools-pinned-disabled ec or- ea ure- oc-pinned-clien pre -1 ec or- ea ure-main-menu-pinned-disabled ec or- ea ure-limi ed-wid h-clien pre -1 ec or- ea ure-limi ed-wid h-con en -enabled ec or- ea ure-cus om- on -size-clien pre -1 ec or- ea ure-appearance-pinned-clien pre -1 skin- heme-clien pre -day ec or-s icky-header-enabled ec or- oc-a ailable skin- heme-clien pre - humb-s andard"; ar cookie=documen .cookie.ma ch(/(?:^|; )zhwikimwclien pre erences=([^;]+)/);i (cookie){cookie[1].spli ('%2C'). orEach( unc ion(pre ){className=className.replace(new RegExp('(^| )'+pre .replace(/-clien pre - w+$|[^ w-]+/g,'')+'-clien pre - w+( |$)'),'$1'+pre +'$2');});}documen .documen Elemen .className=className;}());RLCONF={"wgBreakFrames": alse,"wgSepara orTrans ormTable":["",""],"wgDigi Trans ormTable":["",""],"wgDe aul Da eForma ":"zh","wgMon hNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgReques Id":"c7ce48 0-2ee8-4646-8c21-e46a5b74bb2e","wgCanonicalNamespace":"","wgCanonicalSpecialPageName": alse,"wgNamespaceNumber":0,"wgPageName":"艾伦·图灵","wgTi le":"艾伦·图灵","wgCurRe isionId":92434601,"wgRe isionId":92434601,"wgAr icleId":3999,"wgIsAr icle": rue,"wgIsRedirec ": alse,"wgAc ion":" iew","wgUserName":null,"wgUserGroups":["*"],"wgCa egories":["CS1英语来源 (en)","CS1英国英语来源 (en-gb)","含有哈佛参考文献格式系列模板链接指向错误的页面","含有內容需登入查看的頁面","自2018年4月带有失效链接的条目","条目有永久失效的外部链接","使用带有标题参数的嵌入式信息框模板的条目","含有签名的传记作品","含有hCards的条目","本地相关图片与维基数据不同","含有英語的條目","Webarchi e模板其他存档站点","自2026年4月带有失效链接的条目","维基共享资源分类链接使用了维基数据上的匹配项","包含FAST标识符的维基百科条目","包含ISNI标识符的维基百科条目","包含VIAF标识符的维基百科条目","包含WorldCa 实体标识符的维基百科条目","包含BIBSYS标识符的维基百科条目","包含BNE标识符的维基百科条目","包含BNF标识符的维基百科条目","包含BNFda a标识符的维基百科条目","包含CANTICN标识符的维基百科条目","包含GND标识符的维基百科条目","包含ICCU标识符的维基百科条目","包含J9U标识符的维基百科条目","包含KBR标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含Libris标识符的维基百科条目","包含LNB标识符的维基百科条目","包含NDL标识符的维基百科条目","包含NKC标识符的维基百科条目","包含NLG标识符的维基百科条目","包含NLK标识符的维基百科条目","包含NTA标识符的维基百科条目","包含PLWABN标识符的维基百科条目","包含ACM-DL标识符的维基百科条目","包含CINII标识符的维基百科条目","包含DBLP标识符的维基百科条目","包含Google Scholar标识符的维基百科条目","包含MATHSN标识符的维基百科条目","包含MGP标识符的维基百科条目","包含Scopus标识符的维基百科条目","包含ZBMATH标识符的维基百科条目","包含DTBIO标识符的维基百科条目","包含CONOR标识符的维基百科条目","包含SNAC-ID标识符的维基百科条目","包含SUDOC标识符的维基百科条目","Ci e Q - 引用含勘误表的作品","1912年出生","1954年逝世","艾伦·图灵","麥達維爾人","威姆斯洛人","布莱奇利公園人","蘇格蘭裔英格蘭人","劍橋大學國王學院校友","普林斯顿大学校友","皇家學會院士","OBE勳銜","MBE勳銜","20世纪数学家","计算机领域先驱者","现代密码学家","理论计算机科学家","人工智慧史","人工智能研究者","英國密碼學家","英國邏輯學家","英格蘭計算機科學家","英格蘭數學家","英格蘭發明家","英格蘭哲學家","無神論哲學家","心灵哲学家","英國長跑運動員","英格蘭田徑運動員","英國第二次世界大戰人物","LGBT科學家","英格蘭LGBT人物","英格蘭無神論者","在英格蘭自殺者","氰化物服毒自杀者","自殺發明家","英國男同性戀者","自杀哲学家","贝叶斯统计学家","脫離新教者","男同性戀學者","LGBT数学家","歐洲紙幣上的人物","曼徹斯特科技大學教師","曼徹斯特大學教師","1954年自杀案"],"wgPageViewLanguage":"zh","wgPageCon en Language":"zh","wgPageCon en Model":"wiki ex ","wgRele an PageName":"艾伦·图灵","wgRele an Ar icleId":3999,"wgTempUserName":null,"wgUserVarian ":"zh","wgIsProbablyEdi able": rue,"wgRele an PageIsProbablyEdi able": rue,"wgRes ric ionEdi ":[],"wgRes ric ionMo e":[],"wgNo iceProjec ":"wikipedia","wgCi eRe erencePre iewsAc i e": rue,"wgCon irmEdi Cap chaNeededForGenericEdi ":"hcap cha","wgCon irmEdi HCap chaVisualEdi orOnLoadIn egra ionEnabled": alse,"wgCon irmEdi HCap chaSi eKey":"5d0c670e-a5 4-4258-ad16-1 42792c9c62","wgMediaViewerOnClick": rue,"wgMediaViewerEnabledByDe aul ": rue,"wgPopupsFlags":0,"wgVisualEdi or":{"pageLanguageCode":"zh","pageLanguageDir":"l r","pageVarian Fallbacks":["zh-hans","zh-han ","zh-cn","zh- w","zh-hk","zh-sg","zh-mo","zh-my"]},"wgMFDisplayWikibaseDescrip ions":{"search": rue,"wa chlis ": rue," agline": rue,"nearby": rue},"wgWMESchemaEdi A emp S epO ersample": alse,"wgWMEPageLeng h":50000,"wgEdi Submi Bu onLabelPublish": rue,"wgVisualEdi orPageIsDisambigua ion": alse,"wgULSPosi ion":"in erlanguage","wgULSisCompac LinksEnabled": alse,"wgVec or2022LanguageInHeader": rue,"wgULSisLanguageSelec orEmp y": alse,"wgWikibaseI emId":"Q7251","wgCheckUserClien Hin sHeadersJsApi":["brands","archi ec ure","bi ness"," ullVersionLis ","mobile","model","pla orm","pla ormVersion"],"GEHomepageSugges edEdi sEnableTopics": rue,"wgGESugges edEdi sTaskTypes":{" askTypes":["copyedi ","link-recommenda ion"],"una ailableTaskTypes":[]},"wgGETopicsMa chModeEnabled": alse,"wgGELe elingUpEnabledForUser": alse,"wgTes Ki chenUserExperimen s":{"o errides":[],"enrolled":["grow hexperimen s-edi a emp -anonwarning"],"assigned":{"grow hexperimen s-edi a emp -anonwarning":" rea men "},"subjec _ids":{"grow hexperimen s-edi a emp -anonwarning":"awai ing"}}};
+RLSTATE={"ex .gadge .ilhpp-ini ial-pages yles":"ready","ex .gadge .large- on ":"ready","ex .gadge . ex -spacing":"ready","ex .globalCssJs.user.s yles":"ready","si e.s yles":"ready","user.s yles":"ready","ex .globalCssJs.user":"ready","user":"ready","user.op ions":"loading","ex .ci e.s yles":"ready","ex .wikimediamessages.s yles":"ready","skins. ec or.search.codex.s yles":"ready","skins. ec or.s yles":"ready","skins. ec or.icons":"ready","jquery.makeCollapsible.s yles":"ready","ex . isualEdi or.desk opAr icleTarge .noscrip ":"ready","ex .uls.in erlanguage":"ready","wikibase.clien .ini ":"ready","ex .wikimediaBadges":"ready"};RLPAGEMODULES=["ex .ci e.ux-enhancemen s","mediawiki.page.media","ex .scribun o.logs","ex .parsermigra ion.sur ey","si e","mediawiki.page.ready","jquery.makeCollapsible","mediawiki. oc","skins. ec or.js","ex .cen ralNo ice.geoIP","ex .cen ralNo ice.s ar Up","ex .gadge .Di link","ex .gadge .Na Frame","ex .gadge .WikiMiniA las","ex .gadge .ilhpp","ex .gadge .no eTA","ex .gadge .warn-archi e- oday","ex .gadge .edi 0","ex .gadge .Ad ancedSi eNo ices","ex .gadge .SpecialWiki ex ","ex .gadge .Varian Ally","ex .gadge .hideCon ersionTab","ex .gadge .pseudonamespace-UI","ex .gadge .scrollUpBu on","ex .gadge .swi cher","ex .gadge .unihan-helper","ex .gadge .collapsibleTables","ex .urlShor ener. oolbar","ex .cen ralau h.cen ralau ologin","mm .boo s rap","ex .popups","ex . isualEdi or.desk opAr icleTarge .ini ","ex .echo.cen ralau h","ex .e en Logging","ex .wikimediaE en s","ex .na iga ionTiming","ex .uls.in er ace","ex .cx.e en logging.campaigns","ex .cx.uls.quick.ac ions","wikibase.clien . ec or-2022","wikibase.da abox. romWikida a","ex .checkUser.clien Hin s","ex .quicksur eys.ini ","ex .grow hExperimen s.Sugges edEdi Session","ex . es Ki chen"]; 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.loader.impl( unc ion(){re urn["user.op ions@12s5i", unc ion($,jQuery,require,module){mw.user. okens.se ({"pa rolToken":"+ ","wa chToken":"+ ","csr Token":"+ "});
+}];});}); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 跳转到内容 
+ 
+	 
+		 
+			 
+				
+ 
+	 
+	 
+
+ 主菜单 
+	 
+	 
+
+
+				 
+		
+ 
+	 
+	 主菜单 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		导航
+	 
+	 
+		
+		 
+			
+			 首页 分类索引 特色内容 新闻动态 随机条目 联络我们 关于维基百科 
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		贡献
+	 
+	 
+		
+		 
+			
+			 帮助 维基社群 编辑入门 互助客栈 IRC即时聊天 最近更改 特殊页面 
+		 
+		
+	 
+ 
+
+ 
+
+				 
+
+	 
+ 
+
+		 
+			
+ 
+	 
+	 
+		 
+		 
+	 
+ 
+
+		 
+		 
+			
+ 
+	 
+
+ 搜索 
+	 
+	 
+		 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+				 
+				 搜索 
+			 
+		 
+	 
+ 
+
+			 
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	 
+		
+ 
+	 
+	 
+
+ 外观 
+	 
+	 
+
+
+			 
+				
+			 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 创建账号 
+ 
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+	 
+
+ 个人工具 
+	 
+	 
+
+
+		
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 
+
+ 创建账号 
+ 
+ 
+
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+		 
+		 
+			 
+		 
+			 
+				 
+				
+				 
+		 
+		 
+	 
+	 
+				 
+					 
+					 
+	 
+	 目录 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+	 
+		 
+			 
+				 序言 
+			 
+		 
+		 
+		 
+			 
+				 1 
+				 生平 
+			 
+		 
+		
+			 
+				 
+				 开关生平子章节 
+			 
+		
+		 
+			 
+			 
+				 
+					 1.1 
+					 孩童和年轻时代 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.2 
+					 大学生涯 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.3 
+					 密码分析 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.4 
+					 早期的计算机研究：图灵测试 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.5 
+					 图案形成和数理生物学的研究 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.6 
+					 迫害和逝世 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 1.7 
+					 政府的道歉和平反 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 2 
+				 獎項、榮譽、表彰和敬意 
+			 
+		 
+		
+			 
+				 
+				 开关獎項、榮譽、表彰和敬意子章节 
+			 
+		
+		 
+			 
+			 
+				 
+					 2.1 
+					 蘋果公司的商標 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 2.2 
+					 顯示卡 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 3 
+				 流行文化 
+			 
+		 
+		
+			 
+				 
+				 开关流行文化子章节 
+			 
+		
+		 
+			 
+			 
+				 
+					 3.1 
+					 影視作品 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 4 
+				 参见 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 5 
+				 註釋 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 6 
+				 參考資料 
+			 
+		 
+		
+			 
+				 
+				 开关參考資料子章节 
+			 
+		
+		 
+			 
+			 
+				 
+					 6.1 
+					 书目 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 7 
+				 外部連結 
+			 
+		 
+		
+		 
+		 
+	 
+ 
+ 
+
+					 
+		 
+			 
+		 
+		 
+			 
+				 
+					 
+						
+ 
+	 
+	 
+
+ 开关目录 
+	 
+	 
+
+
+							 
+			 
+		
+	 
+ 
+
+					 
+					 艾伦·图灵 
+							
+ 
+	 
+	 
+
+ 161种语言 
+	 
+	 
+
+		 
+			
+			 
+				
+				 Адыгабзэ A rikaans Alemannisch Aragonés العربية مصرى অসমীয়া As urianu Azərbaycanca تۆرکجه Башҡортса Basa Bali Žemai ėška Bikol Cen ral Беларуская (тарашкевіца) Беларуская Български भोजपुरी বাংলা Brezhoneg Bosanski Ba ak Mandailing Буряад Ca alà Нохчийн کوردی Corsu Qırım a arca Češ ina Чӑвашла Cymraeg Dansk Deu sch Zazaki Ελληνικά English Esperan o Español Ees i Euskara فارسی Suomi Føroysk Français Nord riisk Furlan Frysk Gaeilge 贛語 Kriyòl gwiyannen Gàidhlig Galego A añe&#039;ẽ ગુજરાતી Hausa עברית हिन्दी Fiji Hindi Hr a ski Kreyòl ayisyen Magyar Հայերեն Արեւմտահայերէն In erlingua Jaku Iban Bahasa Indonesia Ilokano Ido Íslenska I aliano 日本語 Pa ois La .lojban. Jawa ქართული Qaraqalpaqsha Kabɩyɛ Қазақша ភាសាខ្មែរ ಕನ್ನಡ Yerwa Kanuri 한국어 Kurdî Kernowek Кыргызча La ina Lë zebuergesch Limburgs Ligure Lombard Lie u ių La iešu Madhurâ मैथिली Malagasy Македонски മലയാളം Монгол मराठी Bahasa Melayu Mal i Mirandés မြန်မာဘာသာ مازِرونی Pla düü sch नेपाल भाषा Nederlands Norsk nynorsk Norsk bokmål Occi an Li inkarjala ଓଡ଼ିଆ Ирон ਪੰਜਾਬੀ Kapampangan Polski Piemon èis پنجابی پښتو Por uguês Română Русский Русиньскый संस्कृतम् Саха тыла ᱥᱟᱱᱛᱟᱲᱤ Sardu Sicilianu Sco s سنڌي Srpskohr a ski / српскохрватски සිංහල Simple English Slo enčina Slo enščina Shqip Српски / srpski S enska Kiswahili தமிழ் తెలుగు Тоҷикӣ ไทย Tagalog Toki pona Türkçe Татарча / a arça Українська اردو Oʻzbekcha / ўзбекча Vepsän kel’ Tiếng Việ Volapük Winaray 吴语 მარგალური ייִדיש Yorùbá 文言 閩南語 / Bân-lâm-gí 粵語 
+			 
+			 编辑链接 
+		 
+
+	 
+ 
+ 
+				 
+					 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 条目 讨论 
+		 
+		
+	 
+ 
+
+								
+ 
+	 
+	 不转换 
+	 
+	 
+
+
+					
+ 
+	 
+		
+		 
+			
+			 不转换 简体 繁體 大陆简体 香港繁體 澳門繁體 大马简体 新加坡简体 臺灣正體 
+		 
+		
+	 
+ 
+
+				
+	 
+ 
+
+							 
+						 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+							 
+				
+							 
+								
+ 
+	 
+	 工具 
+	 
+	 
+
+
+									 
+						
+ 
+	 
+	 工具 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		操作
+	 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+ 
+	 
+		常规
+	 
+	 
+		
+		 
+			
+			 链入页面 相关更改 上传文件 固定链接 页面信息 引用此页 获取短链接 
+		 
+		
+	 
+ 
+
+ 
+	 
+		打印/导出
+	 
+	 
+		
+		 
+			
+			 下载为PDF 打印页面 
+		 
+		
+	 
+ 
+
+ 
+	 
+		在其他项目中
+	 
+	 
+		
+		 
+			
+			 Abs rac Wikipedia 维基共享资源 维基语录 维基数据项目 
+		 
+		
+	 
+ 
+
+ 
+
+									 
+				
+	 
+ 
+
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+						 
+							 
+				
+							 
+		 
+						 
+							 
+				 
+	 
+	 外观 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+ 
+
+							 
+		 
+					 
+				 
+				 
+					 
+							 
+		 
+		 
+
+						 维基百科，自由的百科全书 
+					 
+					 
+					
+					
+					 
+ .mw-parser-ou pu .in obox-subbox{padding:0;border:none;margin:-3px;wid h:au o;min-wid h:100%; on -size:100%;clear:none; loa :none;background-color: ransparen }.mw-parser-ou pu .in obox-3cols-child{margin:au o}.mw-parser-ou pu .in obox .na bar{ on -size:100%}body.skin-miner a .mw-parser-ou pu .in obox-header,body.skin-miner a .mw-parser-ou pu .in obox-subheader,body.skin-miner a .mw-parser-ou pu .in obox-abo e,body.skin-miner a .mw-parser-ou pu .in obox- i le,body.skin-miner a .mw-parser-ou pu .in obox-image,body.skin-miner a .mw-parser-ou pu .in obox- ull-da a,body.skin-miner a .mw-parser-ou pu .in obox-below{ ex -align:cen er}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox- ull-da a:no (.no heme)>di :no (.no heme)[s yle]{background:#1 1 23!impor an ;color:# 8 9 a}}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox d di :no (.no heme)[s yle]{background: ransparen !impor an ;color: ar(--color-base,#202122)}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox d di :no (.no heme)[s yle]{background: ransparen !impor an ;color: ar(--color-base,#202122)}}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .in obox d di .Na Head:no (.no heme)[s yle]{background: ransparen !impor an }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .in obox d di .Na Head:no (.no heme)[s yle]{background: ransparen !impor an }}@media(min-wid h:640px){body.skin--responsi e .mw-parser-ou pu .in obox- able{display: able!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able>cap ion{display: able-cap ion!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able> body{display: able-row-group}body.skin--responsi e .mw-parser-ou pu .in obox- able r{display: able-row!impor an }body.skin--responsi e .mw-parser-ou pu .in obox- able h,body.skin--responsi e .mw-parser-ou pu .in obox- able d{padding-le :inheri ;padding-righ :inheri }} 艾伦·图灵 Alan Turing 摄于1951年 出生 ( 1912-06-23 ) 1912年6月23日 &#160; 英國 伦敦 麥達維爾 逝世 1954年6月7日 ( 1954-06-07 ) （41歲） &#160; 英国 柴郡 威姆斯洛 死因 自殺 或 意外 墓地 骨灰撒在 沃金火葬场 （ 英语 ： Woking Crema orium ） &#91; 2 &#93; 附近 居住地 &#160; 英国 柴郡 威姆斯洛 国籍 &#160; 英国 母校 剑桥大学 普林斯顿大学 知名于 图灵机 、 图灵测试 （图灵试验） 科学生涯 研究领域 数学 、 密码分析 、 逻辑学 及 计算机科学 、 数理生物学 机构 剑桥大学 曼彻斯特大学 论文 Sys ems o Logic Based on Ordinals （1938） 博士導師 阿隆佐·邱奇 &#91; 1 &#93; 博士生 罗宾·甘迪 （ 英语 ： Robin Gandy ） &#91; 1 &#93; 
+ 运动生涯 运动 田徑 项目 長跑 .mw-parser-ou pu .plainlis ol,.mw-parser-ou pu .plainlis ul{line-heigh :inheri ;lis -s yle:none;margin:0;padding:0}.mw-parser-ou pu .plainlis ol li,.mw-parser-ou pu .plainlis ul li{margin-bo om:0} 馬拉松 ：2小時46分03秒（手動） （1947年） 运动成绩与头衔 全国性决赛 1947年英格蘭業餘田徑錦標賽 ：馬拉松第五名 
+ 签名 
+ 艾伦·麦席森·图灵 ， OBE ， FRS （英語： Alan Ma hison Turing ，又译 阿兰·图灵 ， Turing 也常翻譯成 涂林 或者 杜林 ，1912年6月23日—1954年6月7日）， 英国 電腦科學家 、 数学家 、 邏輯學家 、 密码分析学 家和 理论生物学家 ，他被誉为 计算机科学 與 人工智能 之父。
+ 二次世界大战 期间，「Hu 8」小组，负责 德国海军 密码分析。 期间他设计了一些加速破译德国密码的技术，包括改进波兰战前研制的机器 Bombe ，一种可以找到 恩尼格玛密码机 设置的 机电 机器。 图灵在破译截获的编码信息方面发挥了关键作用，使盟军能够在包括 大西洋战役 在内的许多重要交战中击败 軸心國 海軍，并因此帮助赢得了战争 &#91; 3 &#93; &#91; 4 &#93; 。
+ 图灵对于 人工智能 的发展有诸多贡献，例如图灵曾写过一篇名为《 計算機器和智能 （ 英语 ： Compu ing Machinery and In elligence ） 》的论文，提問「机器会思考吗？」（ Can Machines Think ? ），作為一种用于判定机器是否具有 智能 的测试方法，即 图灵测试 &#91; 5 &#93; 。至今，每年都有试验的比赛。此外，图灵提出的著名的 图灵机 模型为现代 计算机 的 逻辑 工作方式奠定了基础。
+ 图灵是 男同性恋 者，并因为其性倾向而遭到当时的英国政府迫害，职业生涯尽毁。他亦患有 花粉过敏症 。
+ 图灵还是一位 长跑 运动员。他的 马拉松 最好成绩是2小時46分03秒（手動計時），比1948年 奥林匹克运动会 金牌成绩慢11分钟。1948年的一次越野赛跑中，他跑赢了同年奥运会银牌得主 汤姆·理查兹 &#91; 6 &#93; 。
+ 
+ 
+ 生平 [ 编辑 ] 
+ 孩童和年轻时代 [ 编辑 ] 
+ 图灵的父亲朱利斯·麦席森·图灵（ Julius Ma hison Turing ）是一名 英属印度 的公务员。1911年，图灵的母亲 E hel Sara S oney （ 德语 ： E hel Sara Turing ） 在 英属印度 怀了孕。因为他们希望艾伦在 英国 出生，所以回到 伦敦 ，住在 帕丁顿 ，并在那里生下了艾伦。父亲的公务员委任使他在小时候经常来往于英伦和印度。由于担心印度的气候不利于儿童成长，他便把家庭留在英伦与朋友同住。图灵很小的时候就表现出他的天賦，后来越發明顯 &#91; 7 &#93; 。
+ 1927年，他的父母在 吉爾福德 購買了一所房子，圖靈在學校放假期間住在該處。該位置附近還標有藍色路牌。 &#91; 8 &#93; 
+ 六岁的时候，他的父母为他在一间叫圣迈克尔（ S . Michael's ）的日间学校註册。女校长很快就注意到他的才能，随后 马尔伯勒学院 的许多教育家也注意到这点。1926年，他十三岁的时候考入在 多塞特郡 的 舍伯恩學校 （ 英语 ： Sherborne School ） 。 &#91; 9 &#93; 开学的第一天，不幸遇上了大罢工。图灵堅決要上第一天的课，于是他独自从 南安普顿 骑了六十英哩的自行车去上学，途中还在一间旅社度过一宵。 &#91; 10 &#93; 
+ 图灵天生对科学的喜好并没有给他在謝爾本的老师留下好印象。他们对教育較爲着重于人文学科而不是科学。虽然如此，图灵继续在他喜欢的学科表现出惊人的能力，还没有学过基础 微积分 的他，就已经能够解答以他年纪来说算是很高深的难题。
+ 1928年，在图灵16岁的时候，開始閱讀 阿尔伯特·爱因斯坦 的著作。他不但能够理解，而且看出了愛因斯坦對 牛頓運動定律 存有質疑，即使愛因斯坦的著作中並沒有明白指出這點。 &#91; 11 &#93; 
+ 
+ 大学生涯 [ 编辑 ] 
+ 剑桥大学國王學院的電腦房現在以圖靈為名 
+ 1931年，图灵考入 剑桥大学国王学院 攻讀本科，並獲得了數學一等榮譽。
+ 1934年他以优异成绩毕业。
+ 1935年，22歲的他憑藉證明中心極限定理的論文被選為國王學院研究員 &#91; 12 &#93; &#91; 13 &#93; 。雖然說圖靈不知道，該定理已在1922年由 亞爾·瓦爾德馬·林德伯格 （ 英语 ： Jarl Waldemar Lindeberg ） 證明。儘管如此，委員會認為這項研究值得考慮提供研究金。
+ 图灵在他的重要论文《论 可计算数 及其在判定问题上的应用》（英語： On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem ）里 &#91; 14 &#93; ，对 哥德尔 1931年在证明和计算的限制的结果作了重新论述，他用现在叫做 图灵机 的简单形式的抽象裝置代替了哥德尔的以通用算术为基础的形式语言。雖然圖靈機過於緩慢的速度使其沒有實際用途，图灵还是证明了这样的机器有能力解决任何可想像的，並以數學式表達的数学难题。现今，图灵机还是 计算理论 研究的中心课题。他继续证明了 判定问题 是没有答案的。他的证明首先展示了图灵机的 停机问题 没有答案，这是说不可能用一个算法来决定一台指定的图灵机是否会停机。尽管他的证明比 阿隆佐·邱奇 在 λ演算 方面相等的证明晚发表了几个月，图灵的著作是更易于理解和直观。他的通用（图灵）机的概念也很新穎。这一通用机能够完成任何其他机器所能做的任务。这篇论文还介绍了可定义数的概念。 &#91; 15 &#93; 
+ 1936年9月到1938年7月間，圖靈大部分時間都在普林斯頓大學的教堂下學習，第二年被評選爲簡·伊麗莎·寶潔獎學金客座教授（Jane Eliza Proc er Visi ing Fellow）。除了他的純數學工作外，他亦研究密碼學，並建造了機電二進制乘法器的四個階段中的其中三個。 &#91; 16 &#93; 1938年6月，獲普林斯頓數學系博士學位； &#91; 17 &#93; 他的論文基於序數的邏輯系統 &#91; 18 &#93; &#91; 19 &#93; ,介紹了 序數 邏輯的概念和 相對計算 的概念，其中圖靈機增加了所謂的預言機，允許學者進一步研究圖靈機無法解決的問題。 馮·諾依曼 有意聘請圖靈做他的博士後助理，但他謝絕后又回到了英國。 &#91; 20 &#93; 
+ 1939年图灵回到剑桥，聆听了 维特根斯坦 关于 数学基本原理 （Founda ions o ma hema ics）的讲座。他们激烈地争论，图灵为 形式主义 辩护，而维特根斯坦則认为把数学抬得太高反而不能发现任何绝对真理。
+ 
+ 密码分析 [ 编辑 ] 
+ 在第二次世界大戰期間，圖靈是布萊切利莊園破解德國密碼的主要參與者。歷史學家和戰時密碼破譯員 Asa Briggs （ 英语 ： Asa Briggs ） 曾說過：“你需要非凡的天賦，你需要布萊切利的天才，而圖靈就是那個天才。” &#91; 21 &#93; 
+ 從1938年9月起，圖靈在英國密碼破譯組織 政府密碼和密碼學校 (GC&amp;CS)兼職工作。他與高級GC&amp;CS密碼破譯員第利溫·諾克斯一起專注於對 德国 使用的 恩尼格玛密码机 進行密碼分析。 &#91; 22 &#93; 
+ 1939年7月，波蘭密碼局在華沙附近的會議上向 英國 和 法國 提供了恩尼格玛密码机機器的詳細信息以及他們解密恩尼格玛密码机機器信息的方法。不久後，圖靈和諾克斯開發了一個更具廣泛性的解決方案。 &#91; 23 &#93; 波蘭 方法依賴於德國人的不嚴謹的程序。圖靈的方法更通用，使用基於恩尼格玛分析，他為此製作了炸彈的功能規範（對波蘭炸彈的改進）。 &#91; 24 &#93; 
+ 1939年图灵被 英国皇家海军 招聘，并在英国 軍情六處 监督下从事对 德国 机密军事密码的破译工作。两年后他的小组成功破译了德国的密码系统 恩尼格玛密码机 &#91; 註 1 &#93; ，从而使得军情六处对德国的军事指挥和计划瞭如指掌。但是军情六处以機密为由隐瞒了图灵小组的存在和成就，将其所得情报据为己有。
+ 通過使用統計技術來優化密碼破譯過程中不同可能性的試驗，圖靈為該課題做出了創新貢獻。他寫了兩篇有關數學計算方法的論文，題為 The Applica ions o Probabili y o Cryp ography &#91; 25 &#93; 和 Paper on S a is ics o Repe i ions &#91; 26 &#93; , 對 GC&amp;CS 及其繼任者GCHQ具有十分重要的價值，以至於它們直到2012年4月才被發布給英國國家檔案館，也就是他誕辰一百週年前不久。一位GCHQ數學家，“他只承認自己是理查德”，當時說，根據官方保密法，內容被封鎖了大約 70 年這一事實證明了它們的重要性，以及它們與戰後密碼分析的相關性： &#91; 27 &#93; 
+ 
+ .mw-parser-ou pu . empla equo e{margin- op:0;o er low:hidden}.mw-parser-ou pu . empla equo e . empla equo eci e{line-heigh :1em; ex -align:le ;padding-le :2em;margin- op:0}.mw-parser-ou pu . empla equo e . empla equo eci e ci e{ on -size:small} 說，內容受到限制的事實“表明它在我們學科的基礎中具有多麼巨大的重要性”。...論文詳細使用“數學分析來嘗試確定哪些是更有可能的設置，以便盡快嘗試它們。” ......理查德說，GCHQ 現在已經從這兩篇論文中“榨取了汁液”，並且“很高興將它們發佈到公共領域”。 
+ 圖靈在 布萊切利莊園 以其古怪的性格而聞名。他的同事稱他為“教授”（Pro ），而他關於恩尼格玛密码机的論文被也被稱為“教授之書”。 &#91; 28 &#93; &#91; 29 &#93; 根據歷史學家 Ronald Lewin （ 英语 ： Ronald Lewin ） 的說法，與圖靈一起工作的密碼分析家 I·J·古德 （ 英语 ： I. J. Good ） 談到他的同事時說：
+ 
+ 每年六月的第一周，他都會患上花粉熱，他會戴著防毒面具騎自行車去辦公室，以防花粉。他的自行車有毛病：鏈條會定期脫落。他沒有修理它，而是計算踏板轉動的次數，並及時下車手動調整鏈條。他的另一個怪癖是他把杯子拴在散熱器管上以防被偷。 &#91; 30 &#93; 
+ 彼得希爾頓在他的“美國數學世紀的回憶”中講述了他在小屋8中與圖靈合作的經歷： &#91; 31 &#93; 
+ 
+ 遇到真正的天才是一種難得的經歷。我們這些有幸居住在學術世界的人都熟悉才華橫溢的同事提供的智力刺激。我們可以欣賞他們與我們分享的想法，並且通常能夠理解它們的來源；我們甚至可能經常相信我們自己可以創造這樣的概念並產生這樣的想法。然而，分享天才的智力生活的體驗卻完全不同；一個人意識到自己是在一種智慧的面前，一種對如此深刻和獨創性的敏感性，以至於一個人充滿了驚奇和興奮。艾倫·圖靈就是這樣一個天才，而那些像我一樣，在第二次世界大戰的奇怪緊急情況下擁有驚人而意想不到的機會的人 
+ 希爾頓在 No a PBS紀錄片《解碼納粹秘密》中也表達了類似的想法。 &#91; 32 &#93; 
+ 在布萊奇利莊園工作期間，圖靈是也一位才華橫溢的長跑運動員，當需要開會時，他偶爾會跑 40 英里（64 公里）到倫敦， &#91; 33 &#93; 他有能力達到世界級的馬拉松標準。 &#91; 34 &#93; &#91; 35 &#93; 圖靈為 1948 年英國奧運代表隊進行了試訓，但他也被傷病的阻礙。他的馬拉松選拔時間僅比英國銀牌得主托馬斯·理查茲（Thomas Richards）的奧運會比賽時間（2小時35分鐘）慢了11分鐘。他是沃爾頓競技俱樂部最好的跑者，這一事實是在他獨自跑過小組時發現的。 &#91; 36 &#93; &#91; 37 &#93; &#91; 38 &#93; 當被問及為什麼他在訓練中跑得如此努力時，他回答說：
+ 
+ 我的工作壓力很大，要想擺脫它，唯一的辦法就是努力奔跑。這是我釋放壓力的唯一方法。 &#91; 39 &#93; 
+ 由於歷史反事實的問題，很難準確估計超智能對戰爭的影響。 &#91; 40 &#93; 然而，官方戰爭歷史學家 哈里·欣斯利 （ 英语 ： Harry Hinsley ） 估計，這項工作將歐洲的戰爭縮短了兩年多，挽救了超過 1400 萬人的生命。 &#91; 41 &#93; 
+ 戰爭結束時，所有在 布萊切利莊園 工作的人收到了一份備忘錄，提醒他們《官方保密法》規定的沉默守則不會隨著戰爭而結束，而是會無限期地繼續下去。 &#91; 42 &#93; 因此，儘管圖靈在 1946 年被喬治六世國王任命為大英帝國勳章(OBE)，以表彰他在戰時的服務，但他的工作多年來一直保密。 &#91; 43 &#93; &#91; 44 &#93; 
+ 
+ 早期的计算机研究：图灵测试 [ 编辑 ] 
+ 在 布萊切利莊園 的图灵石像 &#91; 45 &#93; 
+ .mw-parser-ou pu .ha no e{ on -size:small}.mw-parser-ou pu di .ha no e{padding-le :2em;margin-bo om:0.8em;margin- op:0.8em}.mw-parser-ou pu .ha no e-no ice-img::a er{con en :" 202 202 202 202 "}.mw-parser-ou pu .ha no e-no ice-img-small::a er{con en :" 202 202 "}.mw-parser-ou pu .ha no e+link+.ha no e{margin- op:-0.5em}body.skin-miner a .mw-parser-ou pu .ha no e-no ice-img,body.skin-miner a .mw-parser-ou pu .ha no e-no ice-img-small{display:none}@media prin {body.ns-0 .mw-parser-ou pu .ha no e{display:none!impor an }} 主条目： 图灵测试 
+ 1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ ACE ）的研究工作。1949年，他成为 曼彻斯特大学 计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。在这段时间，他继续作一些比较抽象的研究，如“计算机械和智能”。图灵在对人工智能的研究中，提出了一个叫做 图灵测试 的实验，尝试定出一个决定机器是否有感觉的标准。 &#91; 15 &#93; 
+ 1952年，图灵写了一个 国际象棋 程序。可是，当时没有一台计算机有足够的运算能力去执行这个程序，他就模仿计算机，每走一步要用半小时。他与一位同事下了一盘，结果程序输了。
+ 後來 美国 新墨西哥州 洛斯阿拉莫斯國家實驗室 的研究组根據圖靈的理論，在 ENIAC 上設計出世界上第一個電腦程序的西洋棋—— 洛斯阿拉莫斯象棋 。
+ 
+ 图案形成和数理生物学的研究 [ 编辑 ] 
+ 从1952年直到去世，图灵一直在 生物数学 方面做研究。他在1952年发表了一篇论文《形態發生的化学基础》（英語： The Chemical Basis o Morphogenesis ）。 &#91; 46 &#93; 他主要的兴趣是斐波那契葉序列，存在于植物结构的 斐波那契數 。他应用了反应-扩散公式，现在已经成为图案形成范畴的核心。他后期的论文都没有发表，一直等到1992年《艾伦·图灵选集》出版，这些文章才见天日。 &#91; 47 &#93; 2012年，《 自然 》杂志称赞他是有史以来最具科学思想的人物之一。 &#91; 48 &#93; 
+ 
+ 迫害和逝世 [ 编辑 ] 
+ 图灵在 東柴郡 威姆斯洛 的家，挂有 藍色牌匾 。 
+ 因为图灵的 同性恋 倾向而遭到的迫害使得他的职业生涯尽毁。1952年，他的同性伴侣协同一名同谋一起闯进图灵的房子行窃，但是英国警方的调查结果使得他被控以“明显的猥亵和性颠倒行为”罪（请参看 性悖軌法 ）。他没有申辩，並被定罪。在公審后，他被给予了两个選擇：坐牢或 女性荷尔蒙 注射“疗法”（即 化学阉割 ）。他最后选择了雌激素注射 &#91; 49 &#93; ，并持续一年。在这段时间里，药物产生了包括乳房不断發育的副作用，也使原本热爱体育运动的图灵在身心上受到极大伤害。1954年，图灵因食用浸过 氰化物 溶液的苹果而死亡。很多人相信他有意吃這蘋果，并判决他是自杀。但是他的母亲 E hel Sara S oney （ 德语 ： E hel Sara Turing ） 极力争辩他的死是意外，因為图灵工作室有很多化學品，而他不小心讓蘋果沾上 氰化物 溶液。
+ 
+ 政府的道歉和平反 [ 编辑 ] 
+ 在2009年9月10日，一份超过3萬人的請愿签名，使 英国首相 戈登·布朗 在《 每日電訊報 》撰文，因為 英國政府 當年以同性戀相關罪名起訴圖靈並定罪，讓他自殺身亡，正式向艾伦·图灵公開道歉。 &#91; 50 &#93; &#91; 51 &#93; &#91; 52 &#93; 
+ 至2012年，有2萬多人簽名請願，要求英国政府追授图灵 死后赦免状 ，但被當場拒绝。 英國上議院 的 麦克纳利勋爵 （ 英语 ： Lord McNally ） 解释说：“死后赦免状是不合理的，因为图灵是根据当时的法律被定罪。图灵应当知道他的所做所为会触犯法律，他也应当意识到他有可能会受到迫害。图灵在当时的判罪在今天看来既残酷又荒唐，这无疑是一个悲剧，尤其我们应当知道他对战争胜利做出了卓越的贡献。然而，我们不应当脱离历史背景看待这一事件，在那时的法律这的确是重刑。我们不应该在纠结于把不正确的事强行拨乱反正，我们所能做的是确保今日的社会再也不要回到过去及重复历史。” &#91; 53 &#93; 
+ 2013年12月24日， 英國司法部 宣布 英国女王 伊莉莎白二世 赦免 1952年因同性恋行为被定罪的艾倫·图灵，不過有抗議者指出應將此赦免令範圍擴大到所有和圖靈同時代且受到同樣待遇的同性戀者。 &#91; 54 &#93; &#91; 55 &#93; 
+ 2015年2月23日，圖靈的家人向英國首相府邸發出了一份超過50萬人簽名的請願書，要求英國政府赦免49,000個和圖靈一樣因同性戀而獲罪的人。2017年1月31日， 艾倫·圖靈法案 生效，約49,000位因同性戀定罪者被赦免 &#91; 56 &#93; 。
+ 
+ 獎項、榮譽、表彰和敬意 [ 编辑 ] 
+ 曼徹斯特大學的 艾倫圖靈大廈 （ 英语 ： Alan Turing Building ） 
+ 图灵纪念雕像，位于曼彻斯特的Sack ille公园。 
+ 圖靈被授予1946年 大英帝國勳章 。他在1951年還被選為 皇家學會 （FRS）的成員。有幾件事情以他的名字命名：
+ 
+ .mw-parser-ou pu .di -col{margin- op:0.3em;column-wid h:30em}.mw-parser-ou pu .di -col-small{ on -size:90%}.mw-parser-ou pu .di -col-rules{column-rule:1px solid #aaa}.mw-parser-ou pu .di -col dl,.mw-parser-ou pu .di -col ol,.mw-parser-ou pu .di -col ul{margin- op:0}.mw-parser-ou pu .di -col li,.mw-parser-ou pu .di -col dd{page-break-inside:a oid;break-inside:a oid-column}.mw-parser-ou pu .plainlis ol,.mw-parser-ou pu .plainlis ul{line-heigh :inheri ;lis -s yle:none;margin:0}.mw-parser-ou pu .plainlis ol li,.mw-parser-ou pu .plainlis ul li{margin-bo om:0} 
+ 艾倫圖靈研究所 （ 英语 ： Alan Turing Ins i u e ） 
+ 邱奇-图灵论题 
+ 图灵估计 
+ 圖靈完備性 
+ 不可解度 ，或图灵度 
+ 图灵不动点组合子 
+ 圖靈研究所 （ 英语 ： Turing Ins i u e ） 
+ 图灵机 
+ 圖靈歸約 
+ 图灵测试 
+ 
+ 自1966年以来， 图灵奖 每年由 计算机协会 颁发给计算机界，为其提供技术或理论贡献。 它被广泛认为是计算机科學世界的最高荣誉，相当于 诺贝尔奖 &#91; 57 &#93; 。
+ 2021年 英格兰银行 选择了图灵作为印刷在新版50英鎊纸币背面的人物 &#91; 58 &#93; 。
+ 
+ 蘋果公司的商標 [ 编辑 ] 
+ 蘋果公司 的商標有時會被誤認為是源於圖靈自殺时咬下的半個蘋果 &#91; 59 &#93; ，但該圖案的设计师 &#91; 60 &#93; 和蘋果公司都否認了這一說法 &#91; 61 &#93; 。而公司创办人 史蒂夫·賈伯斯 在接受 史蒂芬·弗莱 问到此事时说：“上帝啊，我们希望它（LOGO向圖靈致敬）是真的。但它只是巧合。”（ "God we wish i were. I 's jus a coincidence." ） &#91; 62 &#93; 
+ 
+ 顯示卡 [ 编辑 ] 
+ 圖靈的名字也被 英伟达 用來命名 NVIDIA GeForce 16系列 和 NVIDIA GeForce 20系列 顯示卡核心名稱。
+ 
+ 流行文化 [ 编辑 ] 
+ 影視作品 [ 编辑 ] 
+ 《 模仿游戏 》：2014年電影，由 本尼迪克特·康伯巴奇 飾演艾倫·圖靈。 
+ 参见 [ 编辑 ] 
+ 图灵奖 
+ 图灵机 
+ 图灵测试 
+ 不可解度 
+ 著名同性恋和双性恋者 
+ LGBT自杀人士列表 
+ 註釋 [ 编辑 ] 
+ 
+ ^ 原型解碼機「 炸彈 （ 英语 ： Bombe ） 」經數學家 戈登·魏齊曼 （ 英语 ： Gordon Welchman ） 改良。 &#91; 15 &#93; 
+ 
+ 
+ 參考資料 [ 编辑 ] 
+ 
+ 
+ ^ 1.0 1.1 艾伦·图灵 在 數學譜系計畫 的資料。 
+ 
+ ^ .mw-parser-ou pu ci e.ci a ion{ on -s yle:inheri ;word-wrap:break-word}.mw-parser-ou pu .ci a ion q{quo es:" """ """'""'"}.mw-parser-ou pu .ci a ion: arge {background-color:rgba(0,127,255,0.133)}.mw-parser-ou pu .id-lock- ree.id-lock- ree a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-limi ed.id-lock-limi ed a,.mw-parser-ou pu .id-lock-regis ra ion.id-lock-regis ra ion a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-subscrip ion.id-lock-subscrip ion a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.s g")righ 0.1em cen er/12px no-repea }body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock- ree a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-limi ed a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-regis ra ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-subscrip ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .cs1-ws-icon a{background-size:con ain;padding:0 1em 0 0}.mw-parser-ou pu .cs1-code{color:inheri ;background:inheri ;border:none;padding:inheri }.mw-parser-ou pu .cs1-hidden-error{display:none;color: ar(--color-error,#d33)}.mw-parser-ou pu .cs1- isible-error{color: ar(--color-error,#d33)}.mw-parser-ou pu .cs1-main {display:none;color:#085;margin-le :0.3em}.mw-parser-ou pu .cs1-kern-le {padding-le :0.2em}.mw-parser-ou pu .cs1-kern-righ {padding-righ :0.2em}.mw-parser-ou pu .ci a ion .mw-sel link{ on -weigh :inheri }@media screen{.mw-parser-ou pu .cs1- orma { on -size:95%}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .cs1-main {color:#18911 }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .cs1-main {color:#18911 }} Cooper, Pro S. Barry. The Imi a ion Game: how Benedic Cumberba ch brough Turing o li e . The Guardian. Guardian News and Media Limi ed. 2014-10-07 &#91; 2017-04-17 &#93; . （原始内容 存档 于2021-12-14）. &#160; 
+ 
+ ^ Copeland, Jack . Alan Turing: The codebreaker who sa ed 'millions o li es ' . BBC News Technology. 2012-06-18 &#91; 2014-10-26 &#93; . （原始内容 存档 于2018-06-26）. &#160; 
+ 
+ ^ A number o sources s a e ha Wins on Churchill said ha Turing made he single bigges con ribu ion o Allied ic ory in he war agains Nazi Germany. Howe er bo h The Churchill Cen re and Turing's biographer Andrew Hodges ha e said hey know o no documen ary e idence o suppor his claim nor o he da e or con ex in which Churchill supposedly said i , and he Churchill Cen re lis s i among heir Churchill 'My hs', see Schilling, Jona han. Churchill Said Turing Made he Single Bigges Con ribu ion o Allied Vic ory . The Churchill Cen re: My hs. &#91; 2015-01-09 &#93; . （原始内容 存档 于2019-03-05）. &#160; and Hodges, Andrew . Par 4: The Relay Race . Upda e o Alan Turing: The Enigma . &#91; 2015-01-09 &#93; . （原始内容 存档 于2019-05-17）. &#160; A BBC News pro ile piece ha repea ed he Churchill claim has subsequen ly been amended o say here is no e idence or i . See Spencer, Clare. Pro ile: Alan Turing . BBC News. 2009-09-11 &#91; 2018-05-26 &#93; . （原始内容 存档 于2014-04-20）. Upda e 13 February 2015 &#160; 
+ 
+ ^ A.M. Turing. Compu ing Machinery and In elligence (PDF) . 1950 &#91; 2016-04-26 &#93; . （原始内容 存档 (PDF) 于2022-03-07） （英语） . &#160; [1] （ 页面存档备份 ，存于 互联网档案馆 ） 
+ 
+ ^ A suburban runner （ 页面存档备份 ，存于 互联网档案馆 ），The Alan Turing In erne Scrapbook 
+ 
+ ^ Jones, G. James. Alan Turing&#160;– Towards a Digi al Mind: Par 1 . Sys em Toolbox. 11 December 2001 &#91; 27 July 2007&#93; . （ 原始内容 存档于3 Augus 2007）. &#160; 
+ 
+ ^ Guild ord Dragon NEWS . The Guild ord Dragon. 29 No ember 2012 &#91; 31 Oc ober 2013&#93; . （原始内容 存档 于19 Oc ober 2013）. &#160; 
+ 
+ ^ Alan Turing OBE, PhD, FRS (1912–1954) . The Old Shirburnian Socie y. 1 Sep ember 2016 &#91; 10 Oc ober 2020&#93; . （ 原始内容 存档于2020-11-04） （英国英语） . &#160; 
+ 
+ ^ Ho s ad er, Douglas R. Me amagical Themas: Ques ing or he Essence o Mind and Pa ern. Basic Books. 1985: 484 . ISBN &#160;978-0-465-04566-2 . OCLC&#160;230812136 . &#160; 
+ 
+ ^ Hodges 1992 ，第34頁 
+ 
+ ^ John Aldrich. England and Probabili y in he In er-War Years (PDF) . Elec ronic Journ@l or His ory o Probabili y and S a is ics. 2009-12, 5 (2): 11 &#91; 2025-06-07 &#93; . （ 原始内容 (PDF) 存档于2025-04-06） （英语） . In March 1935 he compe i ion or ellowships was s i – here were 25 candida es– bu Keynes’s mo ion ha Turing be elec ed was carried unanimously. &#160; 
+ 
+ ^ Turing, Dermo . Pro : Alan Turing Decoded . The His ory Press . 2015: 69 . ISBN &#160;9781841656434 . &#160; 
+ 
+ ^ 艾倫·圖靈 . On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem, On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem (PDF) . 伦敦数学会会报. 1936, s2–42 (1): 230–265. ISSN&#160;0024-6115 . OCLC&#160;4655179592 . Zbl&#160;0016.09701 . doi:10.1112/PLMS/S2-42.1.230 . Wikida a &#160; Q25864184 （英语） . &#160; (erra um) 
+ 
+ ^ 15.0 15.1 15.2 柯利弗德 2013 ，第190頁 har nb模板錯誤: 無指向目標: CITEREF柯利弗德2013 ( 幫助 ) 
+ 
+ ^ Hodges 1983 ，第138頁 har nb模板錯誤: 無指向目標: CITEREFHodges1983 ( 幫助 ) 
+ 
+ ^ Turing, A.M. Sys ems o Logic Based on Ordinals. Proceedings o he London Ma hema ical Socie y. 1939, s2–45 : 161–228. ISSN&#160;0024-6115 . doi:10.1112/plms/s2-45.1.161 . hdl:21.11116/0000-0001-91CE-3 &#8239; . &#160; 
+ 
+ ^ Turing, Alan . Sys ems o Logic Based on Ordinals (PhD论文). Prince on Uni ersi y. 1938. doi:10.1112/plms/s2-45.1.161 . hdl:21.11116/0000-0001-91CE-3 &#8239; . ProQues &#160; 301792588 . &#160; 
+ 
+ ^ Turing, A.M. Sys ems o Logic Based on Ordinals (PDF) . 1938 &#91; 4 February 2012&#93; . （ 原始内容 (PDF) 存档于23 Oc ober 2012）. &#160; 
+ 
+ ^ John Von Neumann: The Scien i ic Genius Who Pioneered he Modern Compu er, Game Theory, Nuclear De errence, and Much More , Norman MacRae, 1999, American Ma hema ical Socie y, Chap er 8 
+ 
+ ^ Briggs, Asa. Bri ain's Grea es Codebreaker (TV broadcas ). UK Channel 4 . 21 No ember 2011. &#160; 
+ 
+ ^ Copeland, Jack . Colossus and he Dawning o he Compu er Age. Smi h, Michael; Erskine, Ralph (编). Ac ion This Day. Ban am. 2001: 352. ISBN &#160;978-0-593-04910-5 . &#160; 
+ 
+ ^ Copeland 2004a ，第217頁 har nb模板錯誤: 無指向目標: CITEREFCopeland2004a ( 幫助 ) 
+ 
+ ^ Clark, Lia . Turing's achie emen s: codebreaking, AI and he bir h o compu er science (Wired UK) . Wired. 18 June 2012 &#91; 31 Oc ober 2013&#93; . （原始内容 存档 于2 No ember 2013）. &#160; 
+ 
+ ^ Turing, Alan. The Applica ions o Probabili y o Cryp ography . c. 1941 &#91; 25 March 2015&#93; . The Na ional Archi es (Uni ed Kingdom): HW 25/37. （原始内容 存档 于7 April 2015）. &#160; 
+ 
+ ^ Turing, Alan. Paper on S a is ics o Repe i ions . c. 1941 &#91; 25 March 2015&#93; . The Na ional Archi es (Uni ed Kingdom): HW 25/38. （原始内容 存档 于8 April 2015）. &#160; 
+ 
+ ^ Vallance, Chris. Alan Turing papers on code breaking released by GCHQ . BBC News. 19 April 2012 &#91; 20 April 2012&#93; . （原始内容 存档 于4 Oc ober 2012）. &#160; 
+ 
+ ^ Hodges 1983 ，第208頁 har nb模板錯誤: 無指向目標: CITEREFHodges1983 ( 幫助 ) 
+ 
+ ^ Turing, Alan M. The Pro 's Book: Turing's Trea ise on he Enigma . 1940. In la e 1940 Alan Turing wro e a repor describing he me hods he and his colleagues a Ble chley Park had used o break in o he German Enigma cipher sys ems. A Ble chley i was known as ' he Pro 's Book.' A copy o his handbook was a las released rom secrecy by he American Na ional Securi y Agency in April 1996, under he i le Turing's Trea ise on he Enigma . Subsequen ly, a much be er original copy was released by he (Bri ish) Na ional Archi es, box HW 25/3. This also re ealed a i le which had been los in he American copy: Ma hema ical heory o ENIGMA machine . (Though, oddly, he repor does no ac ually ha e any ma hema ical heory.) &#160; 含有內容需登入查看的頁面 ( link ) 
+ 
+ ^ Lewin 1978 ，第57頁 
+ 
+ ^ Hil on, Pe er. A Cen ury o Ma hema ics in America, Par 1, Reminiscences o Ble chley Park (PDF) . （原始内容 存档 (PDF) 于29 Augus 2019）. &#160; 
+ 
+ ^ Hil on, Pe er. NOVA | Transcrip s | Decoding Nazi Secre s | PBS . PBS . （原始内容 存档 于29 Augus 2019）. &#160; 
+ 
+ ^ Brown, An hony Ca e . Bodyguard o Lies: The Ex raordinary True S ory Behind D-Day. The Lyons Press. 1975. ISBN &#160;978-1-59921-383-5 . &#160; 
+ 
+ ^ Graham-Cumming, John. An Olympic honour or Alan Turing . The Guardian (London). 10 March 2010 &#91; 10 December 2016&#93; . （原始内容 存档 于1 December 2016）. &#160; 
+ 
+ ^ Bu cher, Pa . In Praise o Grea Men . Globe Runner. 14 Sep ember 2009 &#91; 23 June 2012&#93; . （原始内容 存档 于18 Augus 2013）. &#160; 
+ 
+ ^ Hodges, Andrew . Alan Turing: a shor biography . Alan Turing: The Enigma. &#91; 12 June 2014&#93; . （原始内容 存档 于14 Sep ember 2013）. &#160; 
+ 
+ ^ Graham-Cumming, John . Alan Turing: a shor biography . The Guardian. 10 March 2010 &#91; 12 June 2014&#93; . （原始内容 存档 于8 No ember 2014）. &#160; 
+ 
+ ^ Bu cher, Pa . Turing as a runner . The MacTu or His ory o Ma hema ics archi e. December 1999 &#91; 12 June 2014&#93; . （原始内容 存档 于13 No ember 2014）. &#160; 
+ 
+ ^ Ko ke, Jason. Turing was an excellen runner . ko ke.org. &#91; 2022-07-12 &#93; . （原始内容 存档 于2021-06-09）. &#160; 
+ 
+ ^ See or example Richelson, Je ery T. A Cen ury o Spies: In elligence in he Twen ie h Cen ury . New York: Ox ord Uni ersi y Press. 1997: 296 . &#160; and Har cup, Guy . The E ec o Science on he Second World War. Basings oke, Hampshire: Macmillan Press. 2000: 96–99. &#160; 
+ 
+ ^ Hinsley, Harry, The In luence o ULTRA in he Second World War , 1996 [1993] &#91; 2022-07-12 &#93; , （ 原始内容 存档于2015-04-06） &#160; Transcrip o a lec ure gi en on Tuesday 19 Oc ober 1993 a Cambridge Uni ersi y 
+ 
+ ^ Collins, Jeremy. Alan Turing and he Hidden Heroes o Ble chley Park: A Con ersa ion wi h Sir John Dermo Turing . na ionalww2museum.org. New Orleans: The Na ional WWII Museum. 24 June 2020 &#91; 24 Augus 2021&#93; . （ 原始内容 存档于2021-12-02）. &#160; 
+ 
+ ^ Alan Turing: Colleagues share heir memories . BBC News. 23 June 2012 &#91; 21 June 2018&#93; . （原始内容 存档 于7 July 2018）. &#160; 
+ 
+ ^ This mon h in his ory: Alan Turing and he Enigma code . hegaze e.co.uk. &#91; 6 February 2019&#93; . （原始内容 存档 于26 June 2019）. &#160; 
+ 
+ ^ Ble chley Park Un eils S a ue Commemora ing Alan Turing . &#91; 2007-06-30 &#93; . （原始内容 存档 于2007-06-30）. &#160; 
+ 
+ ^ "Con rol Mechanism For Biological Pa ern Forma ion Decoded" ScienceDaily , 30 No ember 2006 
+ 
+ ^ Turing's Las , Los work . &#91; 2011-11-28 &#93; . （ 原始内容 存档于2003-08-23）. &#160; 
+ 
+ ^ Turing a 100: Legacy o a uni ersal mind . Na ure. 2012-02-22 &#91; 2012-06-23 &#93; . （原始内容 存档 于2021-04-12）. &#160; 
+ 
+ ^ 電腦科學之父 慘遭去勢 (PDF) . 中國時報 (國立臺中教育大學). 2009-09-14 &#91; 2012-06-23 &#93; . （ 原始内容 (PDF) 存档于2016-03-04）. &#160; 
+ 
+ ^ Gordon Brown. Trea men o Alan Turing was “appalling” - PM . number10. 2009-09-10. （ 原始内容 存档于2011-07-03） （英语） . &#160; 
+ 
+ ^ ma rix. 英国首相布朗正式向艾伦图灵道歉 . Solido . 2009-09-10 &#91; 2022-03-26 &#93; . （原始内容 存档 于2021-08-15） （中文（简体）） . &#160; 
+ 
+ ^ 不堪同性戀罪名數學家服毒自殺英相道歉還杜林清白 . 中國時報 (財團法人台灣紅絲帶基金會). 2009-09-14 &#91; 2012-06-23 &#93; . &#160; &#91; 永久失效連結 &#93; 
+ 
+ ^ Widespread Celebra ions Bu No Pardon For Turing . I Programmer. 2012-02-06 &#91; 2012-06-23 &#93; . （原始内容 存档 于2013-07-25）. &#160; 
+ 
+ ^ 因同性戀獲罪 英國特赦刷汙名 （ 页面存档备份 ，存于 互联网档案馆 ），中央社，2013年12月24日 
+ 
+ ^ Je hro Mullen,"Alan Turing, Bri ish code-breaker cas ra ed or homosexuali y, recei es pardon" [2] （ 页面存档备份 ，存于 互联网档案馆 ）,CNN.com,December 24, 2013 -- Upda ed 1205 GMT (2005 HKT). 
+ 
+ ^ 《圖靈法案》生效英數萬名歷史罪人被赦免 . BBC新聞. 2017-01-31 &#91; 2017-02-03 &#93; . （原始内容 存档 于2017-02-02） （中文（繁體）） . &#160; 
+ 
+ ^ Geringer, S e en. ACM'S Turing Award Prize Raised To $250,000 . ACM press release. 2007-07-27 &#91; 2008-10-16 &#93; . （ 原始内容 存档于2008-12-30）. &#160; 
+ 
+ ^ 登上£50新英鎊的圖靈：從「電腦之父」到同性戀平反的鈔票意義 . &#91; 2019-07-16 &#93; . （原始内容 存档 于2021-08-15）. &#160; 
+ 
+ ^ Logos ha became legends: Icons rom he world o ad er ising . The Independen (London: www.independen .co.uk). 2008-01-04 &#91; 2009-09-14 &#93; . （原始内容 存档 于2009-10-03）. &#160; 
+ 
+ ^ In er iew wi h Rob Jano , designer o he Apple logo . crea i ebi s. &#91; 2009-09-14 &#93; . （ 原始内容 存档于2017-10-24）. &#160; 
+ 
+ ^ Lea i 2007 ，第280頁 
+ 
+ ^ " Science &amp; En ironmen - Alan Turing: Separa ing he man and he my h " . BBC . 2012-06-21 &#91; 2012-06-23 &#93; . （原始内容 存档 于2012-06-23）. &#160; 
+ 
+ 
+ 书目 [ 编辑 ] 
+ .mw-parser-ou pu .re begin{ on -size:90%;margin-bo om:0.5em}.mw-parser-ou pu .re begin-hanging-inden s>ul{margin-le :0}.mw-parser-ou pu .re begin-hanging-inden s>ul>li{margin-le :0;padding-le :3.2em; ex -inden :-3.2em}.mw-parser-ou pu .re begin-hanging-inden s ul,.mw-parser-ou pu .re begin-hanging-inden s ul li{lis -s yle:none}@media(max-wid h:720px){.mw-parser-ou pu .re begin-hanging-inden s>ul>li{padding-le :1.6em; ex -inden :-1.6em}}.mw-parser-ou pu .re begin-columns{margin- op:0.3em}.mw-parser-ou pu .re begin-columns ul{margin- op:0}.mw-parser-ou pu .re begin-columns li{page-break-inside:a oid;break-inside:a oid-column}.mw-parser-ou pu .re begin-100{ on -size:100%} 
+ Alexander, C. Hugh O'D., Cryp ographic His ory o Work on he German Na al Enigma , The Na ional Archi es, Kew, Re erence HW 25/1, 1945 &#91; 2012-06-22 &#93; , （原始内容 存档 于2022-02-17） （英语） &#160; 
+ Copeland, B. Jack, Colossus: I s Origins and Origina ors, IEEE Annals o he His ory o Compu ing]], 2004, 26 (4): 38–45, doi:10.1109/MAHC.2004.26 （英语） &#160; 
+ Copeland, B. Jack, Colossus: The secre s o Ble chley Park's code-breaking compu ers, Ox ord Uni ersi y Press, 2006, ISBN &#160;978-0-19-284055-4 （英语） &#160; 
+ Gannon, Paul, Colossus: Ble chley Park's Grea es Secre , London: A lan ic Books, 2006-01-10 [2006], ISBN &#160;978-184-354-330-5 （英语） &#160; 
+ Hodges, Andrew, Alan Turing: he enigma, London: Burne Books, 1992 [1983], ISBN &#160;0-04-510060-8 （英语） &#160; 
+ Lea i , Da id, The man who knew oo much: Alan Turing and he in en ion o he compu er, Phoenix, 2007, ISBN &#160;978-0-7538-2200-5 （英语） &#160; 
+ Lewin, Ronald, Ul ra Goes o War: The Secre S ory, Classic Mili ary His ory Classic Penguin, London, England: Hu chinson &amp; Co, 19782001, ISBN &#160;978-1-56649-231-7 （英语） &#160; 
+ Mahon, A.P., The His ory o Hu Eigh 1939–1945 , UK Na ional Archi es Re erence HW 25/2, 1945 &#91; 2009-12-10 &#93; , （原始内容 存档 于2022-02-09） （英语） &#160; 
+ Oakley, Brian (编), The Ble chley Park War Diaries: July 1939—Augus 1945 2.6, Wynne Press, 2006 （英语） &#160; 
+ O'Connell, H; Fi zgerald, M, Did Alan Turing ha e Asperger's syndrome?, Irish Journal o Psychological Medicine (Irish Ins i u e o Psychological Medicine), 2003, 20 : 28–31, ISSN&#160;0790-9667 （英语） &#160; 
+ Andrew Hodges; Douglas Ho s ad er. Alan Turing: The Enigma: The Book Tha Inspired he Film "The Imi a ion Game". Prince on Uni ersi y Press . 2014-11-10. ISBN &#160;978-069-116-472-4 （英语） . &#160; 
+ 柯利弗德·皮寇弗 ; 陳以禮（翻譯）. The Ma h Book:From Py hagoras o he 57 h Dimension, 250 Miles ones in he His ory o Ma hema ics &#91;數學之書&#93;. 時報文化 . 2013-04-16. ISBN &#160;978-957-135-699-0 （中文（繁體）） . &#160; 
+ 
+ 外部連結 [ 编辑 ] 
+ 2012艾伦·图灵年 （ 页面存档备份 ，存于 互联网档案馆 ） 
+ CiE 2012：图灵诞辰百年会议 （ 页面存档备份 ，存于 互联网档案馆 ） 
+ 图灵相册 （ 页面存档备份 ，存于 互联网档案馆 ） 
+ Alan Turing 美國國會圖書館 的 存檔 ，存档日期2011-08-27 
+ AlanTuring.ne – Turing Archi e or he His ory o Compu ing 
+ Jones, G. James. Alan Turing – Towards a Digi al Mind: Par 1 . Sys em Toolbox (The Binary Freedom Projec ). 2001-12-11. （ 原始内容 存档于2007-08-03）. &#160; 
+ 謎樣的計算機科學之父 （ 页面存档备份 ，存于 互联网档案馆 ） - 中央研究院數學所、台大數學系 
+ 艾伦·图灵在数学家族谱网站上的条目 （ 页面存档备份 ，存于 互联网档案馆 ） 
+ 艾伦·图灵文件数字化项目 &#91; 失效連結 &#93; 
+ .mw-parser-ou pu .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa; on -size:88%;line-heigh :1.25em;background-color:# 9 9 9;display: low-roo }.mw-parser-ou pu .side-box-abo ebelow,.mw-parser-ou pu .side-box- ex {padding:0.25em 0.9em}.mw-parser-ou pu .side-box-image{padding:2px 0 2px 0.9em; ex -align:cen er}.mw-parser-ou pu .side-box-imagerigh {padding:2px 0.9em 2px 0; ex -align:cen er}@media(min-wid h:500px){.mw-parser-ou pu .side-box- lex{display: lex;align-i ems:cen er}.mw-parser-ou pu .side-box- ex { lex:1}}@media(min-wid h:720px){.mw-parser-ou pu .side-box{wid h:238px}.mw-parser-ou pu .side-box-righ {clear:righ ; loa :righ ;margin-le :1em}.mw-parser-ou pu .side-box-le {margin-righ :1em}} @media prin {body.ns-0 .mw-parser-ou pu .sis ersi ebox{display:none!impor an }} 
+ 
+ 
+ 维基共享资源 上的相关多媒体资源： 艾伦·图灵 
+ 
+ 
+ 
+ 
+ 维基语录 上的 Alan Turing语录 
+ 
+ 
+ 
+ 
+ 维基语录 上的 艾伦·图灵语录 
+ 
+ .mw-parser-ou pu .hlis dl,.mw-parser-ou pu .hlis ol,.mw-parser-ou pu .hlis ul{margin:0;padding:0}.mw-parser-ou pu .hlis dd,.mw-parser-ou pu .hlis d ,.mw-parser-ou pu .hlis li{margin:0;display:inline}.mw-parser-ou pu .hlis .inline,.mw-parser-ou pu .hlis .inline dl,.mw-parser-ou pu .hlis .inline ol,.mw-parser-ou pu .hlis .inline ul,.mw-parser-ou pu .hlis dl dl,.mw-parser-ou pu .hlis dl ol,.mw-parser-ou pu .hlis dl ul,.mw-parser-ou pu .hlis ol dl,.mw-parser-ou pu .hlis ol ol,.mw-parser-ou pu .hlis ol ul,.mw-parser-ou pu .hlis ul dl,.mw-parser-ou pu .hlis ul ol,.mw-parser-ou pu .hlis ul ul{display:inline}.mw-parser-ou pu .hlis .mw-emp y-li{display:none}.mw-parser-ou pu .hlis d ::a er{con en :" :"}.mw-parser-ou pu .hlis dd::a er,.mw-parser-ou pu .hlis li::a er{con en :" · "; on -weigh :bold}.mw-parser-ou pu .hlis -pipe dd::a er,.mw-parser-ou pu .hlis -pipe li::a er{con en :" | "; on -weigh :normal}.mw-parser-ou pu .hlis -hyphen dd::a er,.mw-parser-ou pu .hlis -hyphen li::a er{con en :" - "; on -weigh :normal}.mw-parser-ou pu .hlis -comma dd::a er,.mw-parser-ou pu .hlis -comma li::a er{con en :"、"; on -weigh :normal}.mw-parser-ou pu .hlis dd:las -child::a er,.mw-parser-ou pu .hlis d :las -child::a er,.mw-parser-ou pu .hlis li:las -child::a er{con en :none}.mw-parser-ou pu .hlis ol{coun er-rese :lis i em}.mw-parser-ou pu .hlis ol>li{coun er-incremen :lis i em}.mw-parser-ou pu .hlis ol>li::be ore{con en :" "coun er(lis i em)" a0 "}.mw-parser-ou pu .hlis dd ol>li: irs -child::be ore,.mw-parser-ou pu .hlis d ol>li: irs -child::be ore,.mw-parser-ou pu .hlis li ol>li: irs -child::be ore{con en :"（"coun er(lis i em)" a0 "}.mw-parser-ou pu ul.cslis ,.mw-parser-ou pu ul.sslis {margin:0;padding:0;display:inline-block;lis -s yle:none}.mw-parser-ou pu .cslis li,.mw-parser-ou pu .sslis li{margin:0;display:inline-block}.mw-parser-ou pu .cslis li::a er{con en :"，"}.mw-parser-ou pu .sslis li::a er{con en :"；"}.mw-parser-ou pu .cslis li:las -child::a er,.mw-parser-ou pu .sslis li:las -child::a er{con en :none} .mw-parser-ou pu .na box{box-sizing:border-box;border:1px solid #a2a9b1;wid h:100%;clear:bo h; on -size:88%; ex -align:cen er;padding:1px;margin:1em au o 0}.mw-parser-ou pu .na box .na box{margin- op:0}.mw-parser-ou pu .na box+.na box,.mw-parser-ou pu .na box+.na box-s yles+.na box{margin- op:-1px}.mw-parser-ou pu .na box-inner,.mw-parser-ou pu .na box-subgroup{wid h:100%}.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box- i le,.mw-parser-ou pu .na box-abo ebelow{ ex -align:cen er;padding-le :1em;padding-righ :1em}.mw-parser-ou pu .na box-group{whi e-space:nowrap; ex -align:righ }.mw-parser-ou pu .na box,.mw-parser-ou pu .na box-subgroup{background-color:# d d d;color:inheri }.mw-parser-ou pu .na box-lis {border-color:# d d d}.mw-parser-ou pu .na box-lis -wi h-group{ ex -align:le ;border-le -wid h:2px;border-le -s yle:solid}.mw-parser-ou pu r+ r>.na box-abo ebelow,.mw-parser-ou pu r+ r>.na box-group,.mw-parser-ou pu r+ r>.na box-image,.mw-parser-ou pu r+ r>.na box-lis {border- op:2px solid # d d d}.mw-parser-ou pu .na box- i le{background-color:#cc ;color:inheri ;posi ion:rela i e}.mw-parser-ou pu .na box-abo ebelow,.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box-subgroup .na box- i le{background-color:#dd ;color:inheri }.mw-parser-ou pu .na box-subgroup .na box-group,.mw-parser-ou pu .na box-subgroup .na box-abo ebelow{background-color:#e6e6 ;color:inheri }.mw-parser-ou pu .na box-e en{background-color:# 7 7 7;color:inheri }.mw-parser-ou pu .na box-odd{background-color: ransparen ;color:inheri }.mw-parser-ou pu .na box .hlis d dl,.mw-parser-ou pu .na box .hlis d ol,.mw-parser-ou pu .na box .hlis d ul,.mw-parser-ou pu .na box d.hlis dl,.mw-parser-ou pu .na box d.hlis ol,.mw-parser-ou pu .na box d.hlis ul{padding:0.125em 0}.mw-parser-ou pu .na box .na bar{display:block; on -size:100%}.mw-parser-ou pu .na box- i le .na bar{ loa :le ; ex -align:le ;margin-righ :0.5em;wid h:au o;padding-le :0.2em;padding-righ :0.2em;posi ion:absolu e;le :1em}.mw-parser-ou pu .na box .mw-collapsible- oggle{margin-le :0.5em;posi ion:absolu e;righ :1em}body.skin--responsi e .mw-parser-ou pu .na box-image img{max-wid h:none!impor an }@media prin {body.ns-0 .mw-parser-ou pu .na box{display:none!impor an }} .mw-parser-ou pu .na bar{display:inline; on -weigh :normal}.mw-parser-ou pu .na bar-collapse{ loa :le ; ex -align:le }.mw-parser-ou pu .na bar-box ex {word-spacing:0}.mw-parser-ou pu .na bar ul{display:inline-block;whi e-space:nowrap;line-heigh :inheri }.mw-parser-ou pu .na bar-bracke s::be ore{margin-righ :-0.125em;con en :"[ "}.mw-parser-ou pu .na bar-bracke s::a er{margin-le :-0.125em;con en :" ]"}.mw-parser-ou pu .na bar li{word-spacing:-0.125em}.mw-parser-ou pu .na bar a>span,.mw-parser-ou pu .na bar a>abbr{ ex -decora ion:inheri }.mw-parser-ou pu .na bar-mini abbr{ on - arian :small-caps;border-bo om:none; ex -decora ion:none;cursor:inheri }.mw-parser-ou pu .na bar-c - ull{ on -size:110%;margin:0 8em}.mw-parser-ou pu .na bar-c -mini{ on -size:110%;margin:0 5em}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }@media(pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }}@media prin {.mw-parser-ou pu .na bar{display:none!impor an }} 查 论 编 时代100人：20世纪最重要的人物 领导人和革命者 
+ 大卫·本·古里安 
+ 邱吉尔 
+ 圣雄甘地 
+ 戈尔巴乔夫 
+ 阿道夫·希特勒 
+ 胡志明 
+ 教皇约翰·保罗二世 
+ 鲁霍拉·霍梅尼 
+ 小马丁·路德·金 
+ 弗拉基米尔·列宁 
+ 纳尔逊·曼德拉 
+ 毛泽东 
+ 罗纳德·里根 
+ 埃莉诺·罗斯福 
+ 富兰克林·罗斯福 
+ 西奥多·罗斯福 
+ 玛格丽特·桑格 
+ 撒切尔夫人 
+ 坦克人 
+ 莱赫·瓦文萨 
+ 艺术家和艺人 
+ 路易斯·阿姆斯特朗 
+ 露西尔·鲍尔 
+ 披头士 
+ 马龙·白兰度 
+ 可可·香奈儿 
+ 查理·卓别林 
+ 勒·柯布西耶 
+ 鲍勃·迪伦 
+ T·S·艾略特 
+ 艾瑞莎·弗蘭克林 
+ 瑪莎·葛蘭姆 
+ 吉姆·汉森 
+ 詹姆斯·乔伊斯 
+ 巴勃罗·毕加索 
+ 罗杰斯与汉默斯坦 
+ 巴特·辛普森 
+ 弗兰克·辛纳屈 
+ 斯蒂芬·斯皮尔伯格 
+ 伊戈尔·斯特拉文斯基 
+ 奥普拉·温弗瑞 
+ 建设者与巨头 
+ 威利斯·开利 
+ 沃尔特·迪斯尼 
+ 亨利·福特 
+ 比尔·盖茨 
+ 阿马迪奥·贾尼尼 
+ 雷·克洛克 
+ 雅诗·兰黛 
+ 威廉·李维特 
+ 查理·盧西安諾 
+ 路易·梅耶 
+ 查尔斯·美林 
+ 盛田昭夫 
+ 沃尔特·路则 
+ 皮特·罗泽尔 
+ 大衛·沙諾夫 
+ 胡安·特里普 
+ 山姆·沃尔顿 
+ 小托马斯·J·沃森 
+ 科学家与思想家 
+ 利奥·贝克兰 
+ 蒂姆·伯纳斯-李 
+ 雷切尔·卡森 
+ 阿尔伯特·爱因斯坦 
+ 費羅·法恩斯沃斯 
+ 恩里科·费米 
+ 亚历山大·弗莱明 
+ 西格蒙德·弗洛伊德 
+ 羅伯特·戈達德 
+ 库尔特·哥德尔 
+ 埃德温·哈勃 
+ 约翰·梅纳德·凯恩斯 
+ 路易斯·李奇 &amp; 瑪麗·李奇 
+ 皮亚杰 
+ 乔纳斯·索尔克 
+ 威廉·肖克利 
+ 艾伦·图灵 
+ 弗朗西斯·克里克 &amp; 詹姆斯·沃森 
+ 路德维希·维特根斯坦 
+ 莱特兄弟 
+ 英雄与偶像 
+ 穆罕默德·阿里 
+ The American G.I. （ 英语 ： G.I. ） 
+ 戴安娜王妃 
+ 安妮·弗兰克 
+ 葛培理 
+ 切·格瓦拉 
+ 艾德蒙·希拉里 &amp; 丹增诺盖 
+ 海伦·凯勒 
+ 肯尼迪家族 
+ 李小龙 
+ 查尔斯·林白 
+ 哈维·米尔克 
+ 玛丽莲·梦露 
+ 艾米琳·潘克斯特 
+ 罗莎·帕克斯 
+ 佩莱 
+ 傑基·羅賓森 
+ 安德烈·萨哈罗夫 
+ 德蕾莎修女 
+ Bill W. 
+ 
+ 查 论 编 心灵哲学 概念 心灵 - 感知 - 感覺 - 感官 - 意识 （ 意向性 - 現象的意識 - 感质 - 意識 - 意識相關神經區 ） - 心物問題 - 解释鸿沟 - 困难问题 - 為什麼我是我 - 随附性 - 类型和个例的区别 - 因果的封闭性 - 自由意志 - 笛卡爾劇院 - 我思故我在 - 範疇錯誤 - 心靈模塊性 - 心智理論 - 同一性 一元论 物理主义 （ 唯物主义 - 行为主义 - 同一理论 - 功能主义 - 計算主義 ）- 中立一元論 - 唯心主義 （ 唯我論 ） 二元論 自然主义二元论 （ 泛心论 、 原始意识 （ 日语 ： 原意識 ） ） - 新神秘主義 （ 认知的封闭 ） - 本体論（ 二元論 - 性質二元論 （ 日语 ： 性質二元論 ） - 記述二元論 （ 日语 ： 記述二元論 ） ） - 因果关係（ 互动二元论 （ 日语 ： 心身相互作用説 ） - 副现象主义 - 平行论 ） 思想實驗 图灵测试 - 中国脑 - 中文房间 - blockhead （ 日语 ： ブロックヘッド ） - 變成蝙蝠會怎樣？ - 哲學殭屍 - 知識論證 - 倒置光谱 （ 日语 ： 逆転クオリア ） - 缸中之脑 - 沼泽人 - 沃兹尼亚克实验 （ 日语 ： ウォズニアック・テスト ） 其他 
+ 量子心灵 
+ 人工智能哲學 
+ 心灵哲学家 内德·布洛克 - 泰勒·伯吉 - 戴维·查尔莫斯 - 保罗·丘奇兰德 （ 日语 ： ポール・チャーチランド ） - 帕特丽夏·丘奇兰德 - 唐纳德·戴维森 - 丹尼爾·丹尼特 - 杰瑞·福多 - 法蘭克·傑克森 - 金在权 - 柯林·麦金 （ 日语 ： コリン・マッギン ） - 露絲·密立根 - 湯瑪斯·內格爾 - 希拉里·怀特哈尔·普特南 - 吉尔伯特·赖尔 - 约翰·罗杰斯·希尔勒 - 威尔弗里德·塞拉斯 - 史蒂芬·史迪奇 （ 日语 ： スティーヴン・スティッチ ） - 弗雷德·德雷特斯基 （ 日语 ： フレッド・ドレツキ ） - 大森荘蔵 （ 日语 ： 大森荘蔵 ） - 岡潔 - 金杉武司 （ 日语 ： 金杉武司 ） - 河野哲也 （ 日语 ： 河野哲也 ） - 柴田正良 （ 日语 ： 柴田正良 ） - 永井均 （ 日语 ： 永井均 ） - 信原幸弘 （ 日语 ： 信原幸弘 ） - 山口尚 （ 日语 ： 山口尚 ） - ユウジン・ナガサワ （ 日语 ： ユウジン・ナガサワ ） 相关学科 神经科学 - 神经哲学 （ 日语 ： 神経哲学 ） - 认知科学 - 心理学 - 演化心理學 - 认识论 - 現象學 - 语言哲学 - 科学哲学 - 时空哲学 - 形上學 - 意識研究 
+ .mw-parser-ou pu .por al-bar{ on -size:88%; on -weigh :bold;display: lex;jus i y-con en :cen er;align-i ems:baseline}.mw-parser-ou pu .por al-bar-bordered{padding:0 2em;background-color:# d d d;border:1px solid #a2a9b1;clear:bo h;margin:1em au o 0}.mw-parser-ou pu .por al-bar-unbordered{padding:0 1.7em;margin-le :0}.mw-parser-ou pu .por al-bar-con en {display: lex; lex- low:row wrap; lex:0 1 au o;padding:0.15em 0;column-gap:1em;align-i ems:baseline;margin:0;lis -s yle:none}.mw-parser-ou pu .por al-bar-i em{display:inline-block;margin:0.15em 0.2em;min-heigh :24px;line-heigh :24px}@media screen and (max-wid h:768px){.mw-parser-ou pu .por al-bar{ on -size:88%; on -weigh :bold;display: lex; lex- low:column wrap;align-i ems:baseline}.mw-parser-ou pu .por al-bar-con en {display: lex; lex- low:row wrap;align-i ems:cen er; lex:0;column-gap:1em;border- op:1px solid #a2a9b1;margin:0 au o;lis -s yle:none}}.mw-parser-ou pu .na box+link+.por al-bar,.mw-parser-ou pu .na box+s yle+.por al-bar,.mw-parser-ou pu .na box+link+.por al-bar-bordered,.mw-parser-ou pu .na box+s yle+.por al-bar-bordered,.mw-parser-ou pu .sis er-bar+link+.por al-bar,.mw-parser-ou pu .sis er-bar+s yle+.por al-bar,.mw-parser-ou pu .por al-bar+.na box-s yles+.na box,.mw-parser-ou pu .por al-bar+.na box-s yles+.sis er-bar{margin- op:-1px} 人物主題 英國主題 密码学主題 資訊科技主題 数学主題 LGBT主題 
+ .mw-parser-ou pu . ool ip-do ed{border-bo om:1px do ed;cursor:help} 规范控制数据库 国际 
+ FAST 
+ ISNI 
+ VIAF 
+ WorldCa 
+ 各地 
+ 挪威 
+ 西班牙 
+ 法国 
+ BnF da a 
+ 加泰罗尼亚 
+ 德国 
+ 意大利 
+ 以色列 
+ 比利时 
+ 美国 
+ 瑞典 
+ 拉脱维亚 
+ 日本 
+ 捷克 
+ 希腊 
+ 韩国 
+ 荷兰 
+ 波兰 
+ 学术 
+ 计算机协会 
+ CiNii 
+ DBLP 
+ Google学术 
+ Ma hSciNe 
+ 数学谱系计划 
+ Scopus 
+ zbMATH 
+ 人物 
+ 德意志传记 
+ 其他 
+ CONOR 
+ SNAC 
+ IdRe 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 检索自“ h ps://zh.wikipedia.org/w/index.php? i le=艾伦·图灵&amp;oldid=92434601 ” 
+					 分类 ：​ Ci e Q - 引用含勘误表的作品 1912年出生 1954年逝世 艾伦·图灵 麥達維爾人 威姆斯洛人 布莱奇利公園人 蘇格蘭裔英格蘭人 劍橋大學國王學院校友 普林斯顿大学校友 皇家學會院士 OBE勳銜 MBE勳銜 20世纪数学家 计算机领域先驱者 现代密码学家 理论计算机科学家 人工智慧史 人工智能研究者 英國密碼學家 英國邏輯學家 英格蘭計算機科學家 英格蘭數學家 英格蘭發明家 英格蘭哲學家 無神論哲學家 心灵哲学家 英國長跑運動員 英格蘭田徑運動員 英國第二次世界大戰人物 LGBT科學家 英格蘭LGBT人物 英格蘭無神論者 在英格蘭自殺者 氰化物服毒自杀者 自殺發明家 英國男同性戀者 自杀哲学家 贝叶斯统计学家 脫離新教者 男同性戀學者 LGBT数学家 歐洲紙幣上的人物 曼徹斯特科技大學教師 曼徹斯特大學教師 1954年自杀案 隐藏分类：​ CS1英语来源 (en) CS1英国英语来源 (en-gb) 含有哈佛参考文献格式系列模板链接指向错误的页面 含有內容需登入查看的頁面 自2018年4月带有失效链接的条目 条目有永久失效的外部链接 使用带有标题参数的嵌入式信息框模板的条目 含有签名的传记作品 含有hCards的条目 本地相关图片与维基数据不同 含有英語的條目 Webarchi e模板其他存档站点 自2026年4月带有失效链接的条目 维基共享资源分类链接使用了维基数据上的匹配项 包含FAST标识符的维基百科条目 包含ISNI标识符的维基百科条目 包含VIAF标识符的维基百科条目 包含WorldCa 实体标识符的维基百科条目 包含BIBSYS标识符的维基百科条目 包含BNE标识符的维基百科条目 包含BNF标识符的维基百科条目 包含BNFda a标识符的维基百科条目 包含CANTICN标识符的维基百科条目 包含GND标识符的维基百科条目 包含ICCU标识符的维基百科条目 包含J9U标识符的维基百科条目 包含KBR标识符的维基百科条目 包含LCCN标识符的维基百科条目 包含Libris标识符的维基百科条目 包含LNB标识符的维基百科条目 包含NDL标识符的维基百科条目 包含NKC标识符的维基百科条目 包含NLG标识符的维基百科条目 包含NLK标识符的维基百科条目 包含NTA标识符的维基百科条目 包含PLWABN标识符的维基百科条目 包含ACM-DL标识符的维基百科条目 包含CINII标识符的维基百科条目 包含DBLP标识符的维基百科条目 包含Google Scholar标识符的维基百科条目 包含MATHSN标识符的维基百科条目 包含MGP标识符的维基百科条目 包含Scopus标识符的维基百科条目 包含ZBMATH标识符的维基百科条目 包含DTBIO标识符的维基百科条目 包含CONOR标识符的维基百科条目 包含SNAC-ID标识符的维基百科条目 包含SUDOC标识符的维基百科条目 
+				 
+			 
+			
+		 
+		 
+			
+ 
+	 
+	 本页面最后修订于2026年4月27日 (星期一) 07:54。 
+	 本站的全部文字在 知识共享 署名-相同方式共享 4.0协议 之条款下提供，附加条款亦可能应用。（请参阅 使用条款 ） 
+Wikipedia&#174;和维基百科标志是 维基媒体基金会 的注册商标；维基&#8482;是维基媒体基金会的商标。 
+维基媒体基金会是按美国国內稅收法501(c)(3)登记的 非营利慈善机构 。 
+ 
+
+	 
+	 隐私政策 
+	 关于维基百科 
+	 免责声明 
+	 法律与安全联系人 
+	 行为准则 
+	 开发者 
+	 统计 
+	 Cookie声明 
+	 移动版视图 
+ 
+
+	 
+	 
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+
+ 搜索 
+			 
+		 
+			
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+								 
+							 
+							 
+						 
+						 搜索 
+					 
+				 
+			 
+		 
+		 
+				 
+						
+					 
+						 
+						 
+
+ 开关目录 
+						 
+						 
+					
+						 
+						 
+					
+						 
+					 
+			 
+				 艾伦·图灵 
+			 
+		 
+		 
+			 
+				 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+		 
+			 
+				 
+
+ 161种语言 
+			 
+			 
+
+ 添加话题 
+			 
+		 
+			 
+				 
+				 
+			 
+		 
+	 
+ 
+ 
+	 
+		
+	 
+ 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.con ig.se ({"wgHos name":"mw-web.cod w.main-848cdb4744-s5kzl","wgBackendResponseTime":134,"wgPageParseRepor ":{"limi repor ":{"cpu ime":"1.932","wall ime":"2.644","pp isi ednodes":{" alue":11729,"limi ":1000000},"re isionsize":{" alue":49738,"limi ":2097152},"pos expandincludesize":{" alue":606298,"limi ":2097152}," empla eargumen size":{" alue":23927,"limi ":2097152},"expansiondep h":{" alue":21,"limi ":100},"expensi e unc ioncoun ":{" alue":47,"limi ":500},"uns rip-dep h":{" alue":1,"limi ":20},"uns rip-size":{" alue":269082,"limi ":5000000},"en i yaccesscoun ":{" alue":13,"limi ":500}," imingpro ile":["100.00% 2262.190 1 - o al"," 56.80% 1284.923 1 Templa e:Re lis "," 38.41% 868.877 1 Templa e:Ci e_Q"," 10.00% 226.148 1 Templa e:In obox_Scien is "," 7.16% 161.952 10 Templa e:維基數據鏈接"," 6.02% 136.111 17 Templa e:Ci e_news"," 4.89% 110.601 2 Templa e:Na box"," 4.88% 110.374 22 Templa e:Ci e_web"," 4.21% 95.266 3 Templa e:In obox"," 3.82% 86.352 3 Templa e:Langx"]},"scribun o":{"limi repor - imeusage":{" alue":"1.066","limi ":"10.000"},"limi repor -memusage":{" alue":26179317,"limi ":52428800},"limi repor -logs":"anchor_id_lis = able#1 { n [ "CITEREFA.M._Turing1950 "] = 1, n [ "CITEREFAlexander1945 "] = 1, n [ "CITEREFBriggs2011 "] = 1, n [ "CITEREFBrown1975 "] = 1, n [ "CITEREFBu cher1999 "] = 1, n [ "CITEREFBu cher2009 "] = 1, n [ "CITEREFClark2012 "] = 1, n [ "CITEREFCollins2020 "] = 1, n [ "CITEREFCopeland2001 "] = 1, n [ "CITEREFCopeland2004 "] = 1, n [ "CITEREFCopeland2006 "] = 1, n [ "CITEREFCopeland2012 "] = 1, n [ "CITEREFGannon2006 "] = 1, n [ "CITEREFGeringer,_S e en2007 "] = 1, n [ "CITEREFGordon_Brown2009 "] = 1, n [ "CITEREFGraham-Cumming,_John2010 "] = 1, n [ "CITEREFGraham-Cumming2010 "] = 1, n [ "CITEREFHar cup2000 "] = 1, n [ "CITEREFHil on "] = 2, n [ "CITEREFHinsley1996 "] = 1, n [ "CITEREFHodges "] = 2, n [ "CITEREFHodges1992 "] = 1, n [ "CITEREFHo s ad er1985 "] = 1, n [ "CITEREFJohn_Aldrich2009 "] = 1, n [ "CITEREFJones2001 "] = 2, n [ "CITEREFKo ke "] = 1, n [ "CITEREFLea i 2007 "] = 1, n [ "CITEREFLewin1978 "] = 1, n [ "CITEREFMahon1945 "] = 1, n [ "CITEREFO u0026#039;ConnellFi zgerald2003 "] = 1, n [ "CITEREFOakley2006 "] = 1, n [ "CITEREFRichelson1997 "] = 1, n [ "CITEREFSchilling "] = 1, n [ "CITEREFSpencer2009 "] = 1, n [ "CITEREFTuring1938 "] = 2, n [ "CITEREFTuring1939 "] = 1, n [ "CITEREFTuring1940 "] = 1, n [ "CITEREFTuring2015 "] = 1, n [ "CITEREFTuringc._1941 "] = 2, n [ "CITEREFVallance2012 "] = 1, n [ "CITEREFma rix2009 "] = 1, n [ "guardian "] = 1, n} n empla e_lis = able#1 { n [ "! "] = 3, n [ "Au hori y con rol "] = 1, n [ "Bd "] = 1, n [ "Bir h da e "] = 1, n [ "Blockquo e "] = 4, n [ "Ci a ion "] = 11, n [ "Ci e AV media "] = 1, n [ "Ci e Q "] = 1, n [ "Ci e book "] = 7, n [ "Ci e isbn "] = 2, n [ "Ci e journal "] = 3, n [ "Ci e news "] = 17, n [ "Ci e hesis "] = 1, n [ "Ci e web "] = 22, n [ "Clre "] = 1, n [ "Colend "] = 1, n [ "Commons ca egory "] = 1, n [ "DEFAULTSORT:Turing, Alan "] = 1, n [ "Dead link "] = 2, n [ "Dea h da e and age "] = 1, n [ "Di col "] = 1, n [ "Har nb "] = 7, n [ "In obox Scien is "] = 1, n [ "In obox spor sperson "] = 1, n [ "Lang "] = 5, n [ "Langx "] = 3, n [ "Le "] = 5, n [ "Link-en "] = 1, n [ "Main "] = 1, n [ "Ma hGenealogy "] = 1, n [ "No eFoo "] = 1, n [ "No eTA "] = 1, n [ "No e ag "] = 1, n [ "Por al bar "] = 1, n [ "ProQues "] = 1, n [ "R "] = 2, n [ "Re begin "] = 1, n [ "Re end "] = 1, n [ "Re lis "] = 1, n [ "Tsl "] = 2, n [ "UK "] = 3, n [ "UK-1801 "] = 1, n [ "Ubl "] = 2, n [ "Wayback "] = 9, n [ "Webarchi e "] = 1, n [ "Wikiquo e "] = 2, n [ "时代100人：20世纪最重要的人物 "] = 1, n [ "精神哲学 "] = 1, n [ "維基數據鏈接 "] = 9, n [ "维基数据链接 "] = 1, n} nar icle_whi elis = able#1 { n} n1 1 艾倫·圖靈 n"},"cacherepor ":{"origin":"mw-web.cod w.main-6b5c69bc8-w2b25"," imes amp":"20260427080645"," l":57600," ransien con en ": rue,"expiry-source":"Module:Wd (os.da e(!%Y-%m-%d))"}}});}); 
+ {"@con ex ":"h ps: / /schema.org","@ ype":"Ar icle","name":" u827e u4 26 u00b7 u56 e u7075","url":"h ps: / /zh.wikipedia.org /wiki /%E8%89%BE%E4%BC%A6%C2%B7%E5%9B%BE%E7%81%B5","sameAs":"h p: / /www.wikida a.org /en i y /Q7251","mainEn i y":"h p: / /www.wikida a.org /en i y /Q7251","au hor":{"@ ype":"Organiza ion","name":" u7e 4 u57 a u5a92 u4 53 u9879 u76ee u8d21 u732e u8005"},"publisher":{"@ ype":"Organiza ion","name":"Wikimedia Founda ion, Inc.","logo":{"@ ype":"ImageObjec ","url":"h ps: / /www.wikimedia.org /s a ic /images /wm -hor-googpub.png"}},"da ePublished":"2003-08-23T08:33:13Z","da eModi ied":"2026-04-27T07:54:06Z","image":"h ps: / /upload.wikimedia.org /wikipedia /commons /c /ce /Alan_ uring_header.jpg","headline":" u82 1 u570b u6578 u5b78 u5bb6 u3001 u8a08 u7b97 u6a5 u79d1 u5b78 u5bb6"}

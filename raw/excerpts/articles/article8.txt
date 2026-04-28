@@ -1,0 +1,15 @@
+---
+title: 艾伦图灵与剑桥大学
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Alan_Turing
+---
+Alan Turing 曾就读于剑桥大学。
+剑桥大学位于英国。
+Alan Turing 在剑桥大学获得学位。
+Alan Turing 的研究与图灵机有关。
+图灵机是理论计算的重要模型。
+Alan Turing 的出生地是英国伦敦。
+伦敦位于英国。
+Alan Turing 的国籍是英国。
+Alan Turing 曾在布莱切利公园参与工作。
+布莱切利公园位于英国。

@@ -1,0 +1,15 @@
+---
+title: 艾伦图灵在国家物理实验室
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/National_Physical_Laboratory_(United_Kingdom)
+---
+Alan Turing 曾在国家物理实验室工作。
+国家物理实验室位于英国。
+Alan Turing 的雇主包含国家物理实验室。
+Alan Turing 也与曼彻斯特大学有关。
+曼彻斯特大学位于英国。
+Alan Turing 出生于英国伦敦。
+Alan Turing 的国籍是英国。
+Alan Turing 的毕业院校包含剑桥大学。
+剑桥大学位于英国。
+图灵机常用于描述可计算性。

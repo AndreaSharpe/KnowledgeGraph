@@ -90,6 +90,41 @@ def _extract_numeric_mentions(sent: str) -> list[tuple[str, str]]:
     return uniq
 
 
+# spaCy 中文小模型对地名/国家（GPE/LOC）召回可能偏低；用极轻量规则兜底一批高价值地理 mention。
+# 这些 mention 对 DS 的 P19/P20/P27/P17 等关系至关重要。
+_EXTRA_GEO_MENTIONS_ZH: tuple[str, ...] = (
+    "英国",
+    "伦敦",
+    "英格兰",
+    "苏格兰",
+    "威尔士",
+    "爱尔兰",
+    "曼彻斯特",
+    "普林斯顿",
+    "剑桥",
+    "帕丁顿",
+    "布莱切利",
+)
+
+
+def _extract_geo_mentions_zh(sent: str) -> list[tuple[str, str]]:
+    """返回 (mention, label)；label 固定为 LOC。"""
+    out: list[tuple[str, str]] = []
+    s = sent or ""
+    for men in _EXTRA_GEO_MENTIONS_ZH:
+        if men and men in s:
+            out.append((men, "LOC"))
+    seen: set[str] = set()
+    uniq: list[tuple[str, str]] = []
+    for men, lab in out:
+        men2 = _normalize_mention(men)
+        if not men2 or men2 in seen:
+            continue
+        seen.add(men2)
+        uniq.append((men2, lab))
+    return uniq
+
+
 def load_ner_link_config(project_root: Path) -> dict[str, Any]:
     p = project_root / "sources" / "ner_link_config.json"
     if not p.is_file():
@@ -277,6 +312,34 @@ def extract_linked_spans(
                     context=ctx,
                 )
             )
+
+        # 规则兜底：补齐高价值 LOC（仅中文）；仍走 EL 获取 QID，便于 DS 匹配 Wikidata 正例。
+        if use_zh:
+            for men, lab in _extract_geo_mentions_zh(sent):
+                qid, sc = link_mention_to_qid(
+                    men,
+                    sent,
+                    languages=langs,
+                    min_score=min_link_score,
+                    entity_map_override=entity_map,
+                )
+                if not qid or qid == ROOT_ENTITY_QID:
+                    continue
+                key = (qid, men.lower())
+                if key in seen_pair:
+                    continue
+                seen_pair.add(key)
+                out.append(
+                    LinkedSpan(
+                        sentence_idx=si,
+                        object_qid=qid,
+                        mention=men,
+                        snippet=f"[{source_label}] {sent[:280]}",
+                        score=sc,
+                        ner_label=lab,
+                        context="geo_rule",
+                    )
+                )
     return out
 
 
@@ -408,20 +471,28 @@ def ingest_linked_spans(
     root_qid: str = ROOT_ENTITY_QID,
 ) -> None:
     pred = "cooccurrence_linked"
+    ner_kind = {"PER": "Person", "ORG": "Organization", "LOC": "Location"}
     for sp in spans:
         if not sp.object_qid:
             # 日期/货币等字面值不入 Wikidata 节点，仅在 triples 导出中保留
             continue
         g.ensure_node(root_qid)
-        g.ensure_node(sp.object_qid, sp.mention[:120])
+        # 不用 mention 覆盖节点 name（name 由结构化层 Wikidata label 提供）；mention 仅作为证据属性保留。
+        kind = ner_kind.get(str(sp.ner_label).upper().strip(), "")
+        g.ensure_node(sp.object_qid, labels=(kind,) if kind else ())
         g.add_edge(
             root_qid,
             sp.object_qid,
             f"EL_{sp.ner_label}",
-            pred,
+            f"EL_{sp.ner_label}",
             "OUT",
             provenance="ner_entity_linking",
             citation_key=citation_key,
             snippet=f"{sp.snippet} | ner={sp.ner_label} ctx={sp.context} score={sp.score:.2f}",
             source_url=source_url,
+            score=float(sp.score),
+            ner_label=sp.ner_label,
+            mention=sp.mention[:120],
+            mention_context=sp.context,
+            predicate=pred,
         )

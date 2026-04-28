@@ -14,11 +14,34 @@ King's College,Q2541958,Organization
 University of Cambridge,Q35794,Organization
 曼彻斯特大学,Q114103861,Organization
 University of Manchester,Q114103861,Organization
+英国,Q145,Location
+英格兰,Q21,Location
+
+普林斯顿,Q138518,Location
+剑桥,Q350,Location
 图灵测试,Q161404,Concept
 Turing test,Q161404,Concept
 图灵机,Q163310,Concept
 Turing machine,Q163310,Concept
+Turing machines,Q163310,Concept
+the Turing machine,Q163310,Concept
 恩尼格玛密码机,Q165297,Concept
 Enigma machine,Q165297,Concept
 图灵奖, Q185667, Award
 Turing Award, Q185667, Award
+ACM,Q127992,Organization
+Association for Computing Machinery,Q127992,Organization
+美国计算机协会,Q127992,Organization
+美國計算機協會,Q127992,Organization
+United States,Q30,Location
+USA,Q30,Location
+美国,Q30,Location
+紐約,Q60,Location
+纽约,Q60,Location
+纽约市,Q60,Location
+New York City,Q60,Location
+science award,Q11448906,Award
+computer science award,Q133272445,Award
+model of computation,Q2651576,Concept
+conceptual model,Q2623243,Concept
+non-finite-state machine,Q137172521,Concept

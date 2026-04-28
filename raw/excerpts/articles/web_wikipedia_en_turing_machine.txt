@@ -1,0 +1,2668 @@
+---
+cite: wikipedia_en_turing_machine
+url: https://en.wikipedia.org/wiki/Turing_machine
+title: Turing machine (Wikipedia EN)
+---
+Turing machine - Wikipedia 
+ ( unc ion(){ ar className="clien -js ec or- ea ure-language-in-header-enabled ec or- ea ure-language-in-main-menu-disabled ec or- ea ure-language-in-main-page-header-disabled ec or- ea ure-page- ools-pinned-disabled ec or- ea ure- oc-pinned-clien pre -1 ec or- ea ure-main-menu-pinned-disabled ec or- ea ure-limi ed-wid h-clien pre -1 ec or- ea ure-limi ed-wid h-con en -enabled ec or- ea ure-cus om- on -size-clien pre -1 ec or- ea ure-appearance-pinned-clien pre -1 skin- heme-clien pre -day ec or-s icky-header-enabled ec or- oc-a ailable skin- heme-clien pre - humb-s andard"; ar cookie=documen .cookie.ma ch(/(?:^|; )enwikimwclien pre erences=([^;]+)/);i (cookie){cookie[1].spli ('%2C'). orEach( unc ion(pre ){className=className.replace(new RegExp('(^| )'+pre .replace(/-clien pre - w+$|[^ w-]+/g,'')+'-clien pre - w+( |$)'),'$1'+pre +'$2');});}documen .documen Elemen .className=className;}());RLCONF={"wgBreakFrames": alse,"wgSepara orTrans ormTable":["",""],"wgDigi Trans ormTable":["",""],"wgDe aul Da eForma ":"dmy","wgMon hNames":["","January","February","March","April","May","June","July","Augus ","Sep ember","Oc ober","No ember","December"],"wgReques Id":"849327 2-2cc5-4275-8814-e35803ae7806","wgCanonicalNamespace":"","wgCanonicalSpecialPageName": alse,"wgNamespaceNumber":0,"wgPageName":"Turing_machine","wgTi le":"Turing machine","wgCurRe isionId":1341155475,"wgRe isionId":1341155475,"wgAr icleId":30403,"wgIsAr icle": rue,"wgIsRedirec ": alse,"wgAc ion":" iew","wgUserName":null,"wgUserGroups":["*"],"wgCa egories":["Har and S n no- arge errors","Ar icles wi h shor descrip ion","Shor descrip ion is di eren rom Wikida a","Use dmy da es rom December 2025","All ar icles wi h unsourced s a emen s","Ar icles wi h unsourced s a emen s rom December 2021","Wikipedia re erences cleanup rom No ember 2019","All ar icles needing re erences cleanup","Ar icles co ered by WikiProjec Wiki y rom No ember 2019","All ar icles co ered by WikiProjec Wiki y","CS1: long olume alue","CS1 Spanish-language sources (es)","CS1 French-language sources ( r)","Commons ca egory link is on Wikida a","Ar icles wi h S an ord Encyclopedia o Philosophy links","Turing machine","1936 in compu ing","1937 in compu ing","Educa ional abs rac machines","Theore ical compu er science","Alan Turing","Models o compu a ion","Formal me hods","Compu abili y heory","English in en ions","Au oma a (compu a ion)","Formal languages","Abs rac machines"],"wgPageViewLanguage":"en","wgPageCon en Language":"en","wgPageCon en Model":"wiki ex ","wgRele an PageName":"Turing_machine","wgRele an Ar icleId":30403,"wgTempUserName":null,"wgIsProbablyEdi able": rue,"wgRele an PageIsProbablyEdi able": rue,"wgRes ric ionEdi ":[],"wgRes ric ionMo e":[],"wgNo iceProjec ":"wikipedia","wgFlaggedRe sParams":{" ags":{"s a us":{"le els":1}}},"wgCon irmEdi Cap chaNeededForGenericEdi ":"hcap cha","wgCon irmEdi HCap chaVisualEdi orOnLoadIn egra ionEnabled": alse,"wgCon irmEdi HCap chaSi eKey":"5d0c670e-a5 4-4258-ad16-1 42792c9c62","wgMediaViewerOnClick": rue,"wgMediaViewerEnabledByDe aul ": rue,"wgPopupsFlags":0,"wgVisualEdi or":{"pageLanguageCode":"en","pageLanguageDir":"l r","pageVarian Fallbacks":"en"},"wgMFDisplayWikibaseDescrip ions":{"search": rue,"wa chlis ": rue," agline": alse,"nearby": rue},"wgWMESchemaEdi A emp S epO ersample": alse,"wgWMEPageLeng h":80000,"wgEdi Submi Bu onLabelPublish": rue,"wgVisualEdi orPageIsDisambigua ion": alse,"wgULSPosi ion":"in erlanguage","wgULSisCompac LinksEnabled": alse,"wgVec or2022LanguageInHeader": rue,"wgULSisLanguageSelec orEmp y": alse,"wgWikibaseI emId":"Q163310","wgCheckUserClien Hin sHeadersJsApi":["brands","archi ec ure","bi ness"," ullVersionLis ","mobile","model","pla orm","pla ormVersion"],"GEHomepageSugges edEdi sEnableTopics": rue,"wgGESugges edEdi sTaskTypes":{" askTypes":["copyedi ","link-recommenda ion"],"una ailableTaskTypes":[]},"wgGETopicsMa chModeEnabled": alse,"wgGELe elingUpEnabledForUser": alse,"wgTes Ki chenUserExperimen s":{"o errides":[],"enrolled":[],"assigned":[],"subjec _ids":[]}};
+RLSTATE={"ex .globalCssJs.user.s yles":"ready","si e.s yles":"ready","user.s yles":"ready","ex .globalCssJs.user":"ready","user":"ready","user.op ions":"loading","ex .wikimediamessages.s yles":"ready","ex .imagemap.s yles":"ready","ex .ci e.s yles":"ready","ex .ma h.s yles":"ready","skins. ec or.search.codex.s yles":"ready","skins. ec or.s yles":"ready","skins. ec or.icons":"ready","jquery.makeCollapsible.s yles":"ready","ex . isualEdi or.desk opAr icleTarge .noscrip ":"ready","ex .uls.in erlanguage":"ready","wikibase.clien .ini ":"ready"};RLPAGEMODULES=["ex .parsermigra ion.sur ey","ex .imagemap","ex .ci e.ux-enhancemen s","ex .ma h.poly ills","mediawiki.page.media","ex .scribun o.logs","si e","mediawiki.page.ready","jquery.makeCollapsible","mediawiki. oc","skins. ec or.js","ex .cen ralNo ice.geoIP","ex .cen ralNo ice.s ar Up","ex .gadge .Re erenceTool ips","ex .gadge .swi cher","ex .urlShor ener. oolbar","ex .cen ralau h.cen ralau ologin","mm .boo s rap","ex .popups","ex . isualEdi or.desk opAr icleTarge .ini ","ex .echo.cen ralau h","ex .e en Logging","ex .wikimediaE en s","ex .na iga ionTiming","ex .uls.in er ace","ex .cx.e en logging.campaigns","ex .cx.uls.quick.ac ions","wikibase.clien . ec or-2022","wikibase.da abox. romWikida a","ex .checkUser.clien Hin s","ex .quicksur eys.ini ","ex .grow hExperimen s.Sugges edEdi Session","ex . es Ki chen"]; 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.loader.impl( unc ion(){re urn["user.op ions@12s5i", unc ion($,jQuery,require,module){mw.user. okens.se ({"pa rolToken":"+ ","wa chToken":"+ ","csr Token":"+ "});
+}];});}); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jump o con en 
+ 
+	 
+		 
+			 
+				
+ 
+	 
+	 
+
+ Main menu 
+	 
+	 
+
+
+				 
+		
+ 
+	 
+	 Main menu 
+	 mo e o sidebar 
+	 hide 
+ 
+
+	
+ 
+	 
+		Na iga ion
+	 
+	 
+		
+		 
+			
+			 Main page Con en s Curren e en s Random ar icle Abou Wikipedia Con ac us 
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		Con ribu e
+	 
+	 
+		
+		 
+			
+			 Help Learn o edi Communi y por al Recen changes Upload ile Special pages 
+		 
+		
+	 
+ 
+
+ 
+
+				 
+
+	 
+ 
+
+		 
+			
+ 
+	 
+	 
+		 
+		 
+	 
+ 
+
+		 
+		 
+			
+ 
+	 
+
+ Search 
+	 
+	 
+		 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+				 
+				 Search 
+			 
+		 
+	 
+ 
+
+			 
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	 
+		
+ 
+	 
+	 
+
+ Appearance 
+	 
+	 
+
+
+			 
+				
+			 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			 
+
+ Dona e 
+ 
+ Crea e accoun 
+ 
+ Log in 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+	 
+
+ Personal ools 
+	 
+	 
+
+
+		
+ 
+	 
+		
+		 
+			 
+
+ Dona e 
+ 
+ 
+
+ Crea e accoun 
+ 
+ 
+
+ Log in 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+		 
+		 
+			 
+		 
+			 
+				 
+				
+				 
+		 
+		 
+	 
+	 
+				 
+					 
+					 
+	 
+	 Con en s 
+	 mo e o sidebar 
+	 hide 
+ 
+
+
+	 
+		 
+			 
+				 (Top) 
+			 
+		 
+		 
+		 
+			 
+				 1 
+				 O er iew 
+			 
+		 
+		
+			 
+				 
+				 Toggle O er iew subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 1.1 
+					 Physical descrip ion 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 2 
+				 Descrip ion 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 3 
+				 Formal de ini ion 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 4 
+				 Addi ional de ails required o isualise or implemen Turing machines 
+			 
+		 
+		
+			 
+				 
+				 Toggle Addi ional de ails required o isualise or implemen Turing machines subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 4.1 
+					 Al erna i e de ini ions 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 4.2 
+					 The "s a e" 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 4.3 
+					 "S a e" diagrams 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 5 
+				 Equi alen models 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 6 
+				 Choice c-machines, oracle o-machines 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 7 
+				 Uni ersal Turing machines 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 8 
+				 Comparison wi h real machines 
+			 
+		 
+		
+			 
+				 
+				 Toggle Comparison wi h real machines subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 8.1 
+					 Limi a ions 
+				 
+			 
+			
+			 
+				 
+			 
+				 
+					 8.1.1 
+					 Compu a ional complexi y heory 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 8.1.2 
+					 In erac ion 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+		 
+	 
+	 
+	 
+		 
+			 
+				 9 
+				 Comparison wi h he ari hme ic model o compu a ion 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 10 
+				 His ory 
+			 
+		 
+		
+			 
+				 
+				 Toggle His ory subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 10.1 
+					 His orical background: compu a ional machinery 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 10.2 
+					 The En scheidungsproblem ( he "decision problem"): Hilber 's en h ques ion o 1900 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 10.3 
+					 Alan Turing's a-machine 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 10.4 
+					 1937–1970: The "digi al compu er", he bir h o "compu er science" 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 10.5 
+					 1970–presen : as a model o compu a ion 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 11 
+				 See also 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 12 
+				 No es 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 13 
+				 Re erences 
+			 
+		 
+		
+			 
+				 
+				 Toggle Re erences subsec ion 
+			 
+		
+		 
+			 
+			 
+				 
+					 13.1 
+					 Primary li era ure, reprin s, and compila ions 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 13.2 
+					 Compu abili y heory 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 13.3 
+					 Church's hesis 
+				 
+			 
+			
+			 
+			 
+		 
+		 
+			 
+				 
+					 13.4 
+					 O her 
+				 
+			 
+			
+			 
+			 
+		 
+	 
+	 
+	 
+		 
+			 
+				 14 
+				 Ex ernal links 
+			 
+		 
+		
+		 
+		 
+	 
+ 
+ 
+
+					 
+		 
+			 
+		 
+		 
+			 
+				 
+					 
+						
+ 
+	 
+	 
+
+ Toggle he able o con en s 
+	 
+	 
+
+
+							 
+			 
+		
+	 
+ 
+
+					 
+					 Turing machine 
+							
+ 
+	 
+	 
+
+ 67 languages 
+	 
+	 
+
+		 
+			
+			 
+				
+				 A rikaans Alemannisch العربية Беларуская (тарашкевіца) Беларуская Български Bosanski Ca alà کوردی Češ ina Dansk Deu sch Ελληνικά Esperan o Español Ees i Euskara فارسی Suomi Français Furlan Gaeilge Galego עברית Hr a ski Magyar Հայերեն In erlingua Bahasa Indonesia Ido I aliano 日本語 ქართული Gĩkũyũ 한국어 La ina Lë zebuergesch Lombard Lie u ių La iešu Македонски മലയാളം Mirandés Nederlands Norsk nynorsk Norsk bokmål Occi an Polski Por uguês Română Русский Srpskohr a ski / српскохрватски Simple English Slo enčina Slo enščina Shqip Српски / srpski S enska ไทย Tagalog Türkçe Українська Tiếng Việ 吴语 閩南語 / Bân-lâm-gí 粵語 中文 
+			 
+			 Edi links 
+		 
+
+	 
+ 
+ 
+				 
+					 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 Ar icle Talk 
+		 
+		
+	 
+ 
+
+								
+ 
+	 
+	 English 
+	 
+	 
+
+
+					
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+				
+	 
+ 
+
+							 
+						 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 Read Edi View his ory 
+		 
+		
+	 
+ 
+
+							 
+				
+							 
+								
+ 
+	 
+	 Tools 
+	 
+	 
+
+
+									 
+						
+ 
+	 
+	 Tools 
+	 mo e o sidebar 
+	 hide 
+ 
+
+	
+ 
+	 
+		Ac ions
+	 
+	 
+		
+		 
+			
+			 Read Edi View his ory 
+		 
+		
+	 
+ 
+
+ 
+	 
+		General
+	 
+	 
+		
+		 
+			
+			 Wha links here Rela ed changes Upload ile Permanen link Page in orma ion Ci e his page Ge shor ened URL 
+		 
+		
+	 
+ 
+
+ 
+	 
+		Prin /expor 
+	 
+	 
+		
+		 
+			
+			 Download as PDF Prin able ersion 
+		 
+		
+	 
+ 
+
+ 
+	 
+		In o her projec s
+	 
+	 
+		
+		 
+			
+			 Wikimedia Commons Wikida a i em 
+		 
+		
+	 
+ 
+
+ 
+
+									 
+				
+	 
+ 
+
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+						 
+							 
+				
+							 
+		 
+						 
+							 
+				 
+	 
+	 Appearance 
+	 mo e o sidebar 
+	 hide 
+ 
+
+
+ 
+
+							 
+		 
+					 
+				 
+				 
+					 
+							 
+		 
+
+						 From Wikipedia, he ree encyclopedia 
+					 
+					 
+					
+					
+					 
+ Compu a ion model de ining an abs rac machine 
+ .mw-parser-ou pu .ha no e{ on -s yle:i alic}.mw-parser-ou pu di .ha no e{padding-le :1.6em;margin-bo om:0.5em}.mw-parser-ou pu .ha no e i{ on -s yle:normal}.mw-parser-ou pu .ha no e+link+.ha no e{margin- op:-0.5em}@media prin {body.ns-0 .mw-parser-ou pu .ha no e{display:none!impor an }} For o her uses, see Turing machine (disambigua ion) . 
+ 
+ 
+ A physical Turing machine model cons ruc ed by Mike Da ey. A rue Turing machine would need o be pro ided more memory ( ape) i and when required; physical models can only ha e a ini e amoun . 
+ .mw-parser-ou pu .hlis dl,.mw-parser-ou pu .hlis ol,.mw-parser-ou pu .hlis ul{margin:0;padding:0}.mw-parser-ou pu .hlis dd,.mw-parser-ou pu .hlis d ,.mw-parser-ou pu .hlis li{margin:0;display:inline}.mw-parser-ou pu .hlis .inline,.mw-parser-ou pu .hlis .inline dl,.mw-parser-ou pu .hlis .inline ol,.mw-parser-ou pu .hlis .inline ul,.mw-parser-ou pu .hlis dl dl,.mw-parser-ou pu .hlis dl ol,.mw-parser-ou pu .hlis dl ul,.mw-parser-ou pu .hlis ol dl,.mw-parser-ou pu .hlis ol ol,.mw-parser-ou pu .hlis ol ul,.mw-parser-ou pu .hlis ul dl,.mw-parser-ou pu .hlis ul ol,.mw-parser-ou pu .hlis ul ul{display:inline}.mw-parser-ou pu .hlis .mw-emp y-li{display:none}.mw-parser-ou pu .hlis d ::a er{con en :": "}.mw-parser-ou pu .hlis dd::a er,.mw-parser-ou pu .hlis li::a er{con en :" a0 · "; on -weigh :bold}.mw-parser-ou pu .hlis dd:las -child::a er,.mw-parser-ou pu .hlis d :las -child::a er,.mw-parser-ou pu .hlis li:las -child::a er{con en :none}.mw-parser-ou pu .hlis dd dd: irs -child::be ore,.mw-parser-ou pu .hlis dd d : irs -child::be ore,.mw-parser-ou pu .hlis dd li: irs -child::be ore,.mw-parser-ou pu .hlis d dd: irs -child::be ore,.mw-parser-ou pu .hlis d d : irs -child::be ore,.mw-parser-ou pu .hlis d li: irs -child::be ore,.mw-parser-ou pu .hlis li dd: irs -child::be ore,.mw-parser-ou pu .hlis li d : irs -child::be ore,.mw-parser-ou pu .hlis li li: irs -child::be ore{con en :" ("; on -weigh :normal}.mw-parser-ou pu .hlis dd dd:las -child::a er,.mw-parser-ou pu .hlis dd d :las -child::a er,.mw-parser-ou pu .hlis dd li:las -child::a er,.mw-parser-ou pu .hlis d dd:las -child::a er,.mw-parser-ou pu .hlis d d :las -child::a er,.mw-parser-ou pu .hlis d li:las -child::a er,.mw-parser-ou pu .hlis li dd:las -child::a er,.mw-parser-ou pu .hlis li d :las -child::a er,.mw-parser-ou pu .hlis li li:las -child::a er{con en :")"; on -weigh :normal}.mw-parser-ou pu .hlis ol{coun er-rese :lis i em}.mw-parser-ou pu .hlis ol>li{coun er-incremen :lis i em}.mw-parser-ou pu .hlis ol>li::be ore{con en :" "coun er(lis i em)" a0 "}.mw-parser-ou pu .hlis dd ol>li: irs -child::be ore,.mw-parser-ou pu .hlis d ol>li: irs -child::be ore,.mw-parser-ou pu .hlis li ol>li: irs -child::be ore{con en :" ("coun er(lis i em)" a0 "} .mw-parser-ou pu .plainlis ol,.mw-parser-ou pu .plainlis ul{line-heigh :inheri ;lis -s yle:none;margin:0;padding:0}.mw-parser-ou pu .plainlis ol li,.mw-parser-ou pu .plainlis ul li{margin-bo om:0} .mw-parser-ou pu .sidebar{wid h:22em; loa :righ ;clear:righ ;margin:0.5em 0 1em 1em;background: ar(--background-color-neu ral-sub le,# 8 9 a);border:1px solid ar(--border-color-base,#a2a9b1);padding:0.2em; ex -align:cen er;line-heigh :1.4em; on -size:88%;border-collapse:collapse;display: able}body.skin-miner a .mw-parser-ou pu .sidebar{display: able!impor an ; loa :righ !impor an ;margin:0.5em 0 1em 1em!impor an }.mw-parser-ou pu .sidebar-subgroup{wid h:100%;margin:0;border-spacing:0}.mw-parser-ou pu .sidebar-le { loa :le ;clear:le ;margin:0.5em 1em 1em 0}.mw-parser-ou pu .sidebar-none{ loa :none;clear:bo h;margin:0.5em 1em 1em 0}.mw-parser-ou pu .sidebar-ou er- i le{padding:0 0.4em 0.2em; on -size:125%;line-heigh :1.2em; on -weigh :bold}.mw-parser-ou pu .sidebar- op-image{padding:0.4em}.mw-parser-ou pu .sidebar- op-cap ion,.mw-parser-ou pu .sidebar-pre i le-wi h- op-image,.mw-parser-ou pu .sidebar-cap ion{padding:0.2em 0.4em 0;line-heigh :1.2em}.mw-parser-ou pu .sidebar-pre i le{padding:0.4em 0.4em 0;line-heigh :1.2em}.mw-parser-ou pu .sidebar- i le,.mw-parser-ou pu .sidebar- i le-wi h-pre i le{padding:0.2em 0.8em; on -size:145%;line-heigh :1.2em}.mw-parser-ou pu .sidebar- i le-wi h-pre i le{padding:0.1em 0.4em}.mw-parser-ou pu .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-ou pu .sidebar-heading{padding:0.1em 0.4em}.mw-parser-ou pu .sidebar-con en {padding:0 0.5em 0.4em}.mw-parser-ou pu .sidebar-con en -wi h-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-ou pu .sidebar-abo e,.mw-parser-ou pu .sidebar-below{padding:0.3em 0.8em; on -weigh :bold}.mw-parser-ou pu .sidebar-collapse .sidebar-abo e,.mw-parser-ou pu .sidebar-collapse .sidebar-below{border- op:1px solid #aaa;border-bo om:1px solid #aaa}.mw-parser-ou pu .sidebar-na bar{ ex -align:righ ; on -size:115%;padding:0 0.4em 0.4em}.mw-parser-ou pu .sidebar-lis - i le{padding:0 0.4em; ex -align:le ; on -weigh :bold;line-heigh :1.6em; on -size:105%}.mw-parser-ou pu .sidebar-lis - i le-c{padding:0 0.4em; ex -align:cen er;margin:0 3.3em}@media(max-wid h:640px){body.mediawiki .mw-parser-ou pu .sidebar{wid h:100%!impor an ;clear:bo h; loa :none!impor an ;margin-le :0!impor an ;margin-righ :0!impor an }}body.skin--responsi e .mw-parser-ou pu .sidebar a>img{max-wid h:none!impor an }@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .sidebar:no (.no heme) .sidebar-lis - i le,h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .sidebar:no (.no heme) .sidebar- i le-wi h-pre i le{background: ransparen !impor an }h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .sidebar:no (.no heme) .sidebar- i le-wi h-pre i le a{color: ar(--color-progressi e)!impor an }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .sidebar:no (.no heme) .sidebar-lis - i le,h ml.skin- heme-clien pre -os .mw-parser-ou pu .sidebar:no (.no heme) .sidebar- i le-wi h-pre i le{background: ransparen !impor an }h ml.skin- heme-clien pre -os .mw-parser-ou pu .sidebar:no (.no heme) .sidebar- i le-wi h-pre i le a{color: ar(--color-progressi e)!impor an }}@media prin {body.ns-0 .mw-parser-ou pu .sidebar{display:none!impor an }} Turing machines 
+Machine 
+ Turing machine equi alen s 
+ Turing machine examples 
+ 
+Varian s 
+ Al erna ing Turing machine 
+ Neural Turing machine 
+ Nonde erminis ic Turing machine 
+ Quan um Turing machine 
+ Pos –Turing machine 
+ Probabilis ic Turing machine 
+ Mul i ape Turing machine 
+ Mul i- rack Turing machine 
+ Symme ric Turing machine 
+ To al Turing machine 
+ Unambiguous Turing machine 
+ Uni ersal Turing machine 
+ Zeno machine 
+ 
+Science 
+ Alan Turing 
+ Ca egory:Turing machine 
+ .mw-parser-ou pu .na bar{display:inline; on -size:88%; on -weigh :normal}.mw-parser-ou pu .na bar-collapse{ loa :le ; ex -align:le }.mw-parser-ou pu .na bar-box ex {word-spacing:0}.mw-parser-ou pu .na bar ul{display:inline-block;whi e-space:nowrap;line-heigh :inheri }.mw-parser-ou pu .na bar-bracke s::be ore{margin-righ :-0.125em;con en :"[ "}.mw-parser-ou pu .na bar-bracke s::a er{margin-le :-0.125em;con en :" ]"}.mw-parser-ou pu .na bar li{word-spacing:-0.125em}.mw-parser-ou pu .na bar a>span,.mw-parser-ou pu .na bar a>abbr{ ex -decora ion:inheri }.mw-parser-ou pu .na bar-mini abbr{ on - arian :small-caps;border-bo om:none; ex -decora ion:none;cursor:inheri }.mw-parser-ou pu .na bar-c - ull{ on -size:114%;margin:0 7em}.mw-parser-ou pu .na bar-c -mini{ on -size:114%;margin:0 4em}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }@media(pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }}@media prin {.mw-parser-ou pu .na bar{display:none!impor an }} e 
+ 
+ Classes o au oma a (Clicking on each layer links o he ar icle on ha subjec .) 
+ A Turing machine is a ma hema ical model o compu a ion describing an abs rac machine &#91; 1 &#93; ha manipula es symbols on a s rip o ape according o a able o rules. &#91; 2 &#93; Despi e he model's simplici y, i is capable o implemen ing any compu er algori hm . &#91; 3 &#93; 
+ The machine opera es on an in ini e &#91; 4 &#93; memory ape di ided in o discre e cells, &#91; 5 &#93; each o which can hold a single symbol drawn rom a ini e se o symbols called he alphabe o he machine. I has a "head" ha , a any poin in he machine's opera ion, is posi ioned o er one o hese cells, and a "s a e" selec ed rom a ini e se o s a es. A each s ep o i s opera ion, he head reads he symbol in i s cell. Then, based on he symbol and he machine's own presen s a e, he machine wri es a symbol in o he same cell, and mo es he head one s ep o he le or he righ , &#91; 6 &#93; or hal s he compu a ion. The choice o which replacemen symbol o wri e, which direc ion o mo e he head, and whe her o hal is based on a ini e able ha speci ies wha o do or each combina ion o he curren s a e and he symbol ha is read. 
+As wi h a real compu er program, i is possible or a Turing machine o go in o an in ini e loop which will ne er hal .
+ The Turing machine was in en ed in 1936 by Alan Turing , &#91; 7 &#93; &#91; 11 &#93; who called i an "a-machine" (au oma ic machine). &#91; 12 &#93; I was Turing's doc oral ad isor, Alonzo Church , who la er coined he erm "Turing machine" in a re iew. &#91; 13 &#93; Wi h his model, Turing was able o answer wo ques ions in he nega i e:
+ 
+ Does a machine exis ha can de ermine whe her any arbi rary machine on i s ape is "circular" (e.g., reezes, or ails o con inue i s compu a ional ask)? 
+ Does a machine exis ha can de ermine whe her any arbi rary machine on i s ape e er prin s a gi en symbol? &#91; 14 &#93; &#91; 15 &#93; 
+ Thus by pro iding a ma hema ical descrip ion o a ery simple de ice capable o arbi rary compu a ions, he was able o pro e proper ies o compu a ion in general—and in par icular, he uncompu abili y o he En scheidungsproblem , or 'decision problem' (whe her e ery ma hema ical s a emen is pro able or dispro able). &#91; 16 &#93; 
+ Turing machines pro ed he exis ence o undamen al limi a ions on he power o mechanical compu a ion. &#91; 3 &#93; 
+ While hey can express arbi rary compu a ions, heir minimalis design makes hem oo slow or compu a ion in prac ice: real-world compu ers are based on di eren designs ha , unlike Turing machines, use random-access memory .
+ Turing comple eness is he abili y or a model o compu a ion or a sys em o ins ruc ions o simula e a Turing machine. A programming language ha is Turing comple e is heore ically capable o expressing all asks accomplishable by compu ers; nearly all programming languages are Turing comple e i he limi a ions o ini e memory are ignored.
+ 
+ 
+ O er iew [ edi ] 
+ A Turing machine is an idealised model o a cen ral processing uni (CPU) ha con rols all da a manipula ion done by a compu er, wi h he canonical machine using sequen ial memory o s ore da a. Typically, he sequen ial memory is represen ed as a ape o in ini e leng h on which he machine can per orm read and wri e opera ions.
+ In he con ex o ormal language heory, a Turing machine ( au oma on ) is capable o enumera ing some arbi rary subse o alid s rings o an alphabe . A se o s rings which can be enumera ed in his manner is called a recursi ely enumerable language . The Turing machine can equi alen ly be de ined as a model ha recognises alid inpu s rings, ra her han enumera ing ou pu s rings.
+ Gi en a Turing machine M and an arbi rary s ring s , i is generally no possible o decide whe her M will e en ually produce s . This is due o he ac ha he hal ing problem is unsol able, which has major implica ions or he heore ical limi s o compu ing.
+ A Turing machine ha is able o simula e any o her Turing machine is called a uni ersal Turing machine (UTM, or simply a uni ersal machine). Ano her ma hema ical ormalism, lambda calculus , wi h a similar "uni ersal" na ure was in roduced by Alonzo Church . Church's work in er wined wi h Turing's o orm he basis or he Church–Turing hesis . This hesis s a es ha Turing machines, lambda calculus, and o her similar ormalisms o compu a ion do indeed cap ure he in ormal no ion o e ec i e me hods in logic and ma hema ics and hus pro ide a model hrough which one can reason abou an algori hm or "mechanical procedure" in a ma hema ically precise way wi hou being ied o any par icular ormalism. S udying he abs rac proper ies o Turing machines has yielded many insigh s in o compu er science , compu abili y heory , and complexi y heory .
+ 
+ Physical descrip ion [ edi ] 
+ In his 1948 essay, "In elligen Machinery", Turing wro e ha his machine consis s o :
+ 
+ .mw-parser-ou pu . empla equo e{o er low:hidden;margin:1em 0;padding:0 32px}.mw-parser-ou pu . empla equo eci e{line-heigh :1.5em; ex -align:le ;margin- op:0}@media(min-wid h:500px){.mw-parser-ou pu . empla equo eci e{padding-le :1.6em}} ...an unlimi ed memory capaci y ob ained in he orm o an in ini e ape marked ou in o squares, on each o which a symbol could be prin ed. A any momen here is one symbol in he machine; i is called he scanned symbol. The machine can al er he scanned symbol, and i s beha ior is in par de ermined by ha symbol, bu he symbols on he ape elsewhere do no a ec he beha ior o he machine. Howe er, he ape can be mo ed back and or h hrough he machine, his being one o he elemen ary opera ions o he machine. Any symbol on he ape may here ore e en ually ha e an innings. &#91; 17 &#93; —&#8202;Turing 1948 &#91; 18 &#93; 
+ Descrip ion [ edi ] 
+ For examples o Turing machines, see Turing machine examples . 
+ The Turing machine ma hema ically models a machine ha mechanically opera es on a ape. On his ape are symbols, which he machine can read and wri e, one a a ime, using a ape head. Opera ion is ully de ermined by a ini e se o elemen ary ins ruc ions such as "in s a e 42, i he symbol seen is 0, wri e a 1; i he symbol seen is 1, change in o s a e 17; in s a e 17, i he symbol seen is 0, wri e a 1 and change o s a e 6;" e c. In he original ar icle (" On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem ", see also re erences below ), Turing imagines no a mechanism, bu a person whom he calls he "compu er", who execu es hese de erminis ic mechanical rules sla ishly (or as Turing pu s i , "in a desul ory manner").
+ 
+ The head is always o er a par icular square o he ape; only a ini e s re ch o squares is shown. The s a e o he machine (q 4 ) is shown o er he square o be processed. (Drawing a er Kleene (1952) p. 375.) 
+ Here, he in ernal s a e (q 1 ) is shown inside he head, and he illus ra ion describes he ape as being in ini e and pre- illed wi h "0", he symbol ser ing as blank. The sys em's ull s a e (i s "comple e con igura ion") consis s o he in ernal s a e, any non-blank symbols on he ape (in his illus ra ion "11B"), and he posi ion o he head rela i e o hose symbols including blanks, i.e. "011B". (Drawing a er Minsky (1967) p. 121.) 
+ More explici ly, a Turing machine consis s o :
+ 
+ A ape di ided in o cells, one nex o he o her. Each cell con ains a symbol rom some ini e alphabe . The alphabe con ains a special blank symbol (here wri en as '0') and one or more o her symbols. The ape is assumed o be arbi rarily ex endable o he le and o he righ , so ha he Turing machine is always supplied wi h as much ape as i needs or i s compu a ion. Cells ha ha e no been wri en be ore are assumed o be illed wi h he blank symbol. In some models he ape has a le end marked wi h a special symbol; he ape ex ends or is inde ini ely ex ensible o he righ . 
+ A head ha can read and wri e symbols on he ape and mo e he ape le and righ one (and only one) cell a a ime. In some models he head mo es and he ape is s a ionary. 
+ A s a e regis er ha s ores he s a e o he Turing machine, one o ini ely many. Among hese is he special s ar s a e wi h which he s a e regis er is ini ialised. These s a es, wri es Turing, replace he "s a e o mind" a person per orming compu a ions would ordinarily be in. 
+ A ini e able &#91; 19 &#93; o ins ruc ions &#91; 20 &#93; ha , gi en he s a e (q i ) he machine is curren ly in and he symbol (a j ) i is reading on he ape ( he symbol curren ly under he head), ells he machine o do he ollowing in sequence ( or he 5- uple models): 
+ Ei her erase or wri e a symbol (replacing a j wi h a j1 ). 
+ Mo e he head (which is described by d k and can ha e alues: 'L' or one s ep le or 'R' or one s ep righ or 'N' or s aying in he same place). 
+ Assume he same or a new s a e as prescribed (go o s a e q i1 ). 
+ In he 4- uple models, erasing or wri ing a symbol (a j1 ) and mo ing he head le or righ (d k ) are speci ied as separa e ins ruc ions. The able ells he machine o (ia) erase or wri e a symbol or (ib) mo e he head le or righ , and hen (ii) assume he same or a new s a e as prescribed, bu no bo h ac ions (ia) and (ib) in he same ins ruc ion. In some models, i here is no en ry in he able or he curren combina ion o symbol and s a e, hen he machine will hal ; o her models require all en ries o be illed.
+ E ery par o he machine (i.e. i s s a e, symbol-collec ions, and used ape a any gi en ime) and i s ac ions (such as prin ing, erasing and ape mo ion) is ini e , discre e and dis inguishable ; i is he unlimi ed amoun o ape and run ime ha gi es i an unbounded amoun o s orage space .
+ 
+ Formal de ini ion [ edi ] 
+ Following Hopcro &amp; Ullman (1979), &#91; 21 &#93; a (one- ape) Turing machine can be ormally de ined as a 7- uple 
+ 
+ 
+ 
+ M 
+ = 
+ &#x27E8; 
+ Q 
+ , 
+ &#x0393; 
+ , 
+ b 
+ , 
+ &#x03A3; 
+ , 
+ &#x03B4; 
+ , 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ , 
+ F 
+ &#x27E9; 
+ 
+ 
+ { displays yle M= langle Q, Gamma ,b, Sigma , del a ,q_{0},F rangle } 
+ 
+ where
+ 
+ 
+ 
+ 
+ 
+ &#x0393; 
+ 
+ 
+ { displays yle Gamma } 
+ 
+ is a ini e, non-emp y se o ape alphabe symbols ; 
+ 
+ 
+ 
+ 
+ b 
+ &#x2208; 
+ &#x0393; 
+ 
+ 
+ { displays yle b in Gamma } 
+ 
+ is he blank symbol ( he only symbol allowed o occur on he ape in ini ely o en a any s ep during he compu a ion); 
+ 
+ 
+ 
+ 
+ &#x03A3; 
+ &#x2286; 
+ &#x0393; 
+ &#x2216; 
+ { 
+ b 
+ } 
+ 
+ 
+ { displays yle Sigma subse eq Gamma se minus {b }} 
+ 
+ is he se o inpu symbols , ha is, he se o symbols allowed o appear in he ini ial ape con en s; 
+ 
+ 
+ 
+ 
+ Q 
+ 
+ 
+ { displays yle Q} 
+ 
+ is a ini e, non-emp y se o s a es ; 
+ 
+ 
+ 
+ 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ &#x2208; 
+ Q 
+ 
+ 
+ { displays yle q_{0} in Q} 
+ 
+ is he ini ial s a e ; 
+ 
+ 
+ 
+ 
+ F 
+ &#x2286; 
+ Q 
+ 
+ 
+ { displays yle F subse eq Q} 
+ 
+ is he se o inal s a es or accep ing s a es . The ini ial ape con en s is said o be accep ed by 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ i i e en ually hal s in a s a e rom 
+ 
+ 
+ 
+ F 
+ 
+ 
+ { displays yle F} 
+ 
+ . 
+ 
+ 
+ 
+ 
+ &#x03B4; 
+ : 
+ ( 
+ Q 
+ &#x2216; 
+ F 
+ ) 
+ &#x00D7; 
+ &#x0393; 
+ &#x21C0; 
+ Q 
+ &#x00D7; 
+ &#x0393; 
+ &#x00D7; 
+ { 
+ L 
+ , 
+ R 
+ } 
+ 
+ 
+ { displays yle del a :(Q se minus F) imes Gamma righ harpoonup Q imes Gamma imes {L,R }} 
+ 
+ is a par ial unc ion called he ransi ion unc ion , where L is le shi , R is righ shi . I 
+ 
+ 
+ 
+ &#x03B4; 
+ 
+ 
+ { displays yle del a } 
+ 
+ is no de ined on he curren s a e and he curren ape symbol, hen he machine hal s; &#91; 22 &#93; in ui i ely, he ransi ion unc ion speci ies he nex s a e ransi ed rom he curren s a e, which symbol o o erwri e he curren symbol poin ed by he head, and he nex head mo emen . 
+ 3-s a e Busy Bea er. Black icons represen loca ion and s a e o head; square colors represen 1s (orange) and 0s (whi e); ime progresses er ically rom he op un il he HALT s a e a he bo om. 
+ A arian allows "no shi ", say N, as a hird elemen o he se o direc ions 
+ 
+ 
+ 
+ { 
+ L 
+ , 
+ R 
+ } 
+ 
+ 
+ { displays yle {L,R }} 
+ 
+ .
+ The 7- uple or he 3-s a e busy bea er looks like his (see more abou his busy bea er a Turing machine examples ):
+ 
+ 
+ 
+ 
+ 
+ Q 
+ = 
+ { 
+ 
+ 
+ A 
+ 
+ 
+ , 
+ 
+ 
+ B 
+ 
+ 
+ , 
+ 
+ 
+ C 
+ 
+ 
+ , 
+ 
+ 
+ HALT 
+ 
+ 
+ } 
+ 
+ 
+ { displays yle Q= {{ mbox{A}},{ mbox{B}},{ mbox{C}},{ mbox{HALT}} }} 
+ 
+ (s a es); 
+ 
+ 
+ 
+ 
+ &#x0393; 
+ = 
+ { 
+ 0 
+ , 
+ 1 
+ } 
+ 
+ 
+ { displays yle Gamma = {0,1 }} 
+ 
+ ( ape alphabe symbols); 
+ 
+ 
+ 
+ 
+ b 
+ = 
+ 0 
+ 
+ 
+ { displays yle b=0} 
+ 
+ (blank symbol); 
+ 
+ 
+ 
+ 
+ &#x03A3; 
+ = 
+ { 
+ 1 
+ } 
+ 
+ 
+ { displays yle Sigma = {1 }} 
+ 
+ (inpu symbols); 
+ 
+ 
+ 
+ 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ = 
+ 
+ 
+ A 
+ 
+ 
+ 
+ 
+ { displays yle q_{0}={ mbox{A}}} 
+ 
+ (ini ial s a e); 
+ 
+ 
+ 
+ 
+ F 
+ = 
+ { 
+ 
+ 
+ HALT 
+ 
+ 
+ } 
+ 
+ 
+ { displays yle F= {{ mbox{HALT}} }} 
+ 
+ ( inal s a es); 
+ 
+ 
+ 
+ 
+ &#x03B4; 
+ = 
+ 
+ 
+ { displays yle del a =} 
+ 
+ see s a e- able below ( ransi ion unc ion). 
+ Ini ially all ape cells are marked wi h 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ { displays yle 0} 
+ 
+ .
+ 
+ 
+ S a e able or 3-s a e, 2-symbol busy bea er
+ 
+ 
+ Tape symbol
+ 
+ Curren s a e A
+ 
+ Curren s a e B
+ 
+ Curren s a e C
+ 
+ 
+ Wri e symbol
+ 
+ Mo e ape
+ 
+ Nex s a e
+ 
+ Wri e symbol
+ 
+ Mo e ape
+ 
+ Nex s a e
+ 
+ Wri e symbol
+ 
+ Mo e ape
+ 
+ Nex s a e
+ 
+ 
+ 0
+ 
+ 1
+ 
+ R
+ 
+ B 
+ 
+ 1
+ 
+ L
+ 
+ A 
+ 
+ 1
+ 
+ L
+ 
+ B 
+ 
+ 
+ 1
+ 
+ 1
+ 
+ L
+ 
+ C 
+ 
+ 1
+ 
+ R
+ 
+ B 
+ 
+ 1
+ 
+ R
+ 
+ HALT 
+ 
+ Addi ional de ails required o isualise or implemen Turing machines [ edi ] 
+ In he words o an Emde Boas (1990): "The se - heore ical objec [his ormal se en- uple descrip ion similar o he abo e] pro ides only par ial in orma ion on how he machine will beha e and wha i s compu a ions will look like." &#91; 23 &#93; 
+ For ins ance,
+ 
+ There will need o be many decisions on wha he symbols ac ually look like, and a ailproo way o reading and wri ing symbols inde ini ely. 
+ The shi le and shi righ opera ions may shi he ape head across he ape, bu when ac ually building a Turing machine i is more prac ical o make he ape slide back and or h under he head ins ead. 
+ The ape can be ini e, and au oma ically ex ended wi h blanks as needed (which is closes o he ma hema ical de ini ion), bu i is more common o hink o i as s re ching in ini ely a one or bo h ends and being pre- illed wi h blanks excep on he explici ly gi en ini e ragmen he ape head is on ( his is, o course, no implemen able in prac ice). The ape canno be ixed in leng h, since ha would no correspond o he gi en de ini ion and would seriously limi he range o compu a ions he machine can per orm o hose o a linear bounded au oma on i he ape was propor ional o he inpu size, or ini e-s a e machine i i was s ric ly ixed-leng h. 
+ Al erna i e de ini ions [ edi ] 
+ De ini ions in li era ure some imes di er sligh ly, o make argumen s or proo s easier or clearer, bu his is always done in such a way ha he resul ing machine has he same compu a ional power. For example, he se could be changed rom 
+ 
+ 
+ 
+ { 
+ L 
+ , 
+ R 
+ } 
+ 
+ 
+ { displays yle {L,R }} 
+ 
+ o 
+ 
+ 
+ 
+ { 
+ L 
+ , 
+ R 
+ , 
+ N 
+ } 
+ 
+ 
+ { displays yle {L,R,N }} 
+ 
+ , where N ("None" or "No-opera ion") would allow he machine o s ay on he same ape cell ins ead o mo ing le or righ . This would no increase he machine's compu a ional power.
+ The mos common con en ion represen s each "Turing ins ruc ion" in a "Turing able" by one o nine 5- uples, per he con en ion o Turing/Da is (Turing (1936) &#91; 24 &#93; and Da is (2000) &#91; 25 &#93; ):
+ 
+ (de ini ion 1): (q i , S j , S k /E/N, L/R/N, q m ) 
+ ( curren s a e q i , symbol scanned S j , prin symbol S k /erase E /none N , mo e_ ape_one_square le L /righ R /none N , new s a e q m ) 
+ O her au hors (Minsky (1967), &#91; 26 &#93; Hopcro and Ullman (1979), &#91; 27 &#93; S one (1972), &#91; 28 &#93; adop a di eren con en ion, wi h new s a e q m lis ed immedia ely a er he scanned symbol S j :
+ 
+ (de ini ion 2): (q i , S j , q m , S k /E/N, L/R/N) 
+ ( curren s a e q i , symbol scanned S j , new s a e q m , prin symbol S k /erase E /none N , mo e_ ape_one_square le L /righ R /none N ) 
+ For he remainder o his ar icle "de ini ion 1" ( he Turing/Da is con en ion) will be used.
+ 
+ 
+ Example: s a e able or he 3-s a e 2-symbol busy bea er reduced o 5- uples
+ 
+ 
+ Curren s a e
+ 
+ Scanned symbol
+ 
+ Prin symbol
+ 
+ Mo e ape
+ 
+ Final (i.e. nex ) s a e
+ 
+ 5- uples
+ 
+ 
+ A 
+ 
+ 0
+ 
+ 1
+ 
+ R
+ 
+ B 
+ 
+ ( A , 0, 1, R, B )
+ 
+ 
+ A 
+ 
+ 1
+ 
+ 1
+ 
+ L
+ 
+ C 
+ 
+ ( A , 1, 1, L, C )
+ 
+ 
+ B 
+ 
+ 0
+ 
+ 1
+ 
+ L
+ 
+ A 
+ 
+ ( B , 0, 1, L, A )
+ 
+ 
+ B 
+ 
+ 1
+ 
+ 1
+ 
+ R
+ 
+ B 
+ 
+ ( B , 1, 1, R, B )
+ 
+ 
+ C 
+ 
+ 0
+ 
+ 1
+ 
+ L
+ 
+ B 
+ 
+ ( C , 0, 1, L, B )
+ 
+ 
+ C 
+ 
+ 1
+ 
+ 1
+ 
+ N
+ 
+ H 
+ 
+ ( C , 1, 1, N, H )
+ 
+ In he ollowing able, Turing's original model allowed only he irs hree lines ha he called N1, N2, N3. &#91; 29 &#93; He allowed or erasure o he "scanned square" by naming a 0 h symbol S 0 = "erase" or "blank", e c. Howe er, he did no allow or non-prin ing, so e ery ins ruc ion-line includes "prin symbol S k " or "erase". &#91; 31 &#93; The abbre ia ions are Turing's. &#91; 32 &#93; Subsequen o Turing's original paper in 1936–1937, machine-models ha e allowed all nine possible ypes o i e- uples:
+ 
+ 
+
+ 
+ 
+ 
+ Curren m-con igura ion (Turing s a e)
+ 
+ Tape symbol
+ 
+ Prin -opera ion
+ 
+ Tape-mo ion
+ 
+ Final m-con igura ion (Turing s a e)
+ 
+ 5- uple
+ 
+ 5- uple commen s
+ 
+ 4- uple
+ 
+ 
+ N1
+ 
+ q i 
+ 
+ S j 
+ 
+ Prin (S k )
+ 
+ Le L
+ 
+ q m 
+ 
+ (q i , S j , S k , L, q m )
+ 
+ "blank" = S 0 , 1=S 1 , e c.
+ 
+ 
+ 
+ 
+ N2
+ 
+ q i 
+ 
+ S j 
+ 
+ Prin (S k )
+ 
+ Righ R
+ 
+ q m 
+ 
+ (q i , S j , S k , R, q m )
+ 
+ "blank" = S 0 , 1=S 1 , e c.
+ 
+ 
+ 
+ 
+ N3
+ 
+ q i 
+ 
+ S j 
+ 
+ Prin (S k )
+ 
+ None N
+ 
+ q m 
+ 
+ (q i , S j , S k , N, q m )
+ 
+ "blank" = S 0 , 1=S 1 , e c.
+ 
+ (q i , S j , S k , q m )
+ 
+ 
+ 4
+ 
+ q i 
+ 
+ S j 
+ 
+ None N
+ 
+ Le L
+ 
+ q m 
+ 
+ (q i , S j , N, L, q m )
+ 
+ 
+ 
+ (q i , S j , L, q m )
+ 
+ 
+ 5
+ 
+ q i 
+ 
+ S j 
+ 
+ None N
+ 
+ Righ R
+ 
+ q m 
+ 
+ (q i , S j , N, R, q m )
+ 
+ 
+ 
+ (q i , S j , R, q m )
+ 
+ 
+ 6
+ 
+ q i 
+ 
+ S j 
+ 
+ None N
+ 
+ None N
+ 
+ q m 
+ 
+ (q i , S j , N, N, q m )
+ 
+ Direc "jump"
+ 
+ (q i , S j , N, q m )
+ 
+ 
+ 7
+ 
+ q i 
+ 
+ S j 
+ 
+ Erase
+ 
+ Le L
+ 
+ q m 
+ 
+ (q i , S j , E, L, q m )
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ q i 
+ 
+ S j 
+ 
+ Erase
+ 
+ Righ R
+ 
+ q m 
+ 
+ (q i , S j , E, R, q m )
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ q i 
+ 
+ S j 
+ 
+ Erase
+ 
+ None N
+ 
+ q m 
+ 
+ (q i , S j , E, N, q m )
+ 
+ 
+ 
+ (q i , S j , E, q m )
+ 
+ Any Turing able (lis o ins ruc ions) can be cons ruc ed rom he abo e nine 5- uples. For echnical reasons, he hree non-prin ing or "N" ins ruc ions (4, 5, 6) can usually be dispensed wi h. For examples see Turing machine examples .
+ Less requen ly he use o 4- uples are encoun ered: hese represen a ur her a omiza ion o he Turing ins ruc ions. &#91; 33 &#93; 
+ 
+ The "s a e" [ edi ] 
+ The word "s a e" used in con ex o Turing machines can be a source o con usion, as i can mean wo hings. Mos commen a ors a er Turing ha e used "s a e" o mean he name/designa or o he curren ins ruc ion o be per ormed—i.e. he con en s o he s a e regis er. Bu Turing (1936) made a s rong dis inc ion be ween a record o wha he called he machine's "m-con igura ion", and he machine's (or person's) "s a e o progress" hrough he compu a ion— he curren s a e o he o al sys em. Wha Turing called " he s a e ormula" includes bo h he curren ins ruc ion and all he symbols on he ape:
+ 
+ Thus he s a e o progress o he compu a ion a any s age is comple ely de ermined by he no e o ins ruc ions and he symbols on he ape. Tha is, he s a e o he sys em may be described by a single expression (sequence o symbols) consis ing o he symbols on he ape ollowed by Δ (which is supposed o no o appear elsewhere) and hen by he no e o ins ruc ions. This expression is called he "s a e ormula". —&#8202; The Undecidable , pp. 139–140, &#91; 34 &#93; emphasis added 
+ Earlier in his paper Turing carried his e en ur her: he gi es an example where he placed a symbol o he curren "m-con igura ion" — he ins ruc ion's label— benea h he scanned square, oge her wi h all he symbols on he ape. &#91; 35 &#93; He calls i " he comple e con igura ion ". &#91; 36 &#93; To prin he "comple e con igura ion" on one line, he places he s a e-label/m-con igura ion o he le o he scanned symbol.
+ A arian o his is seen in Kleene (1952) where Kleene shows how o wri e he Gödel number o a machine's "si ua ion": he places he "m-con igura ion" symbol q 4 o er he scanned square in roughly he cen er o he 6 non-blank squares on he ape (see he Turing- ape igure in his ar icle) and pu s i o he righ o he scanned square. &#91; 37 &#93; Bu Kleene re ers o "q 4 " i sel as " he machine s a e". Hopcro and Ullman call his composi e he "ins an aneous descrip ion" and ollow he Turing con en ion o pu ing he "curren s a e" (ins ruc ion-label, m-con igura ion) o he le o he scanned symbol (p.&#160;149), ha is, he ins an aneous descrip ion is he composi e o non-blank symbols o he le , s a e o he machine, he curren symbol scanned by he head, and he non-blank symbols o he righ .
+ Example: o al s a e o 3-s a e 2-symbol busy bea er a er 3 "mo es" ( aken rom example "run" in he igure below):
+ 
+ 1 A 1 
+ This means: a er hree mo es he ape has ... 000110000 ... on i , he head is scanning he righ -mos 1, and he s a e is A . Blanks (in his case represen ed by "0"s) can be par o he o al s a e as shown here: B 01; he ape has a single 1 on i , bu he head is scanning he 0 ("blank") o i s le and he s a e is B .
+ "S a e" in he con ex o Turing machines should be clari ied as o which is being described: he curren ins ruc ion, or he lis o symbols on he ape oge her wi h he curren ins ruc ion, or he lis o symbols on he ape oge her wi h he curren ins ruc ion placed o he le o he scanned symbol or o he righ o he scanned symbol.
+ 
+ "S a e" diagrams [ edi ] 
+ 
+ The able or he 3-s a e busy bea er ("P" = prin /wri e a "1")
+ 
+ 
+ Tape symbol
+ 
+ Curren s a e A
+ 
+ Curren s a e B
+ 
+ Curren s a e C
+ 
+ 
+ 
+ 
+ Wri e symbol
+ 
+ Mo e ape
+ 
+ Nex s a e
+ 
+ Wri e symbol
+ 
+ Mo e ape
+ 
+ Nex s a e
+ 
+ Wri e symbol
+ 
+ Mo e ape
+ 
+ Nex s a e
+ 
+ 
+ 0 
+ 
+ P
+ 
+ R
+ 
+ B 
+ 
+ P
+ 
+ L
+ 
+ A 
+ 
+ P
+ 
+ L
+ 
+ B 
+ 
+ 
+ 1 
+ 
+ P
+ 
+ L
+ 
+ C 
+ 
+ P
+ 
+ R
+ 
+ B 
+ 
+ P
+ 
+ R
+ 
+ HALT 
+ 
+ The "3-s a e busy bea er" Turing machine in a ini e-s a e represen a ion . Each circle represen s a "s a e" o he able—an "m-con igura ion" or "ins ruc ion". "Direc ion" o a s a e ransi ion is shown by an arrow. The label (e.g. 0/P,R ) near he ou going s a e (a he " ail" o he arrow) speci ies he scanned symbol ha causes a par icular ransi ion (e.g. 0 ) ollowed by a slash / , ollowed by he subsequen "beha iors" o he machine, e.g. " P prin " hen mo e ape " R righ ". No general accep ed orma exis s. The con en ion shown is a er McClusky (1965), Boo h (1967), Hill, and Pe erson (1974). 
+ To he righ : he abo e able as expressed as a "s a e ransi ion" diagram.
+ Usually large ables are be er le as ables (Boo h, p.&#160;74). They are more readily simula ed by compu er in abular orm (Boo h, p.&#160;74). Howe er, cer ain concep s—e.g. machines wi h "rese " s a es and machines wi h repea ing pa erns (c . Hill and Pe erson p.&#160;244 )—can be more readily seen when iewed as a drawing.
+ Whe her a drawing represen s an impro emen on i s able mus be decided by he reader or he par icular con ex .
+ 
+ The e olu ion o he busy bea er's compu a ion s ar s a he op and proceeds o he bo om. 
+ The reader should again be cau ioned ha such diagrams represen a snapsho o heir able rozen in ime, no he course (" rajec ory") o a compu a ion hrough ime and space. While e ery ime he busy bea er machine "runs" i will always ollow he same s a e- rajec ory, his is no rue or he "copy" machine ha can be pro ided wi h ariable inpu "parame ers".
+ The diagram "progress o he compu a ion" shows he hree-s a e busy bea er's "s a e" (ins ruc ion) progress hrough i s compu a ion rom s ar o inish. On he ar righ is he Turing "comple e con igura ion" (Kleene "si ua ion", Hopcro –Ullman "ins an aneous descrip ion") a each s ep. I he machine were o be s opped and cleared o blank bo h he "s a e regis er" and en ire ape, hese "con igura ions" could be used o rekindle a compu a ion anywhere in i s progress. &#91; 38 &#93; 
+ 
+ Equi alen models [ edi ] 
+ See also: Turing machine equi alen s , Regis er machine , and Pos –Turing machine 
+ Many machines ha migh be hough o ha e more compu a ional capabili y han a simple uni ersal Turing machine can be shown o ha e no more power (Hopcro and Ullman p.&#160;159, c . Minsky (1967)). They migh compu e as er, perhaps, or use less memory, or heir ins ruc ion se migh be smaller, bu hey canno compu e more power ully (i.e. more ma hema ical unc ions). (The Church–Turing hesis hypo hesises his o be rue or any kind o machine: ha any hing ha can be "compu ed" can be compu ed by some Turing machine.)
+ A Turing machine is equi alen o a single-s ack pushdown au oma on (PDA) ha has been made more lexible and concise by relaxing he las -in- irs -ou (LIFO) requiremen o i s s ack. In addi ion, a Turing machine is also equi alen o a wo-s ack PDA wi h s andard LIFO seman ics, by using one s ack o model he ape le o he head and he o her s ack or he ape o he righ .
+ A he o her ex reme, some ery simple models urn ou o be Turing-equi alen , i.e. o ha e he same compu a ional power as he Turing machine model.
+ Common equi alen models are he mul i- ape Turing machine , mul i- rack Turing machine , machines wi h inpu and ou pu , and he non-de erminis ic Turing machine (NDTM) as opposed o he de erminis ic Turing machine (DTM) or which he ac ion able has a mos one en ry or each combina ion o symbol and s a e.
+ Read-only, righ -mo ing Turing machines are equi alen o DFAs (as well as NFAs by con ersion using he NFA o DFA con ersion algori hm).
+ For prac ical and didac ic in en ions, he equi alen regis er machine can be used as a usual assembly programming language .
+ A rele an ques ion is whe her or no he compu a ion model represen ed by concre e programming languages is Turing equi alen . While he compu a ion o a real compu er is based on ini e s a es and hus no capable o simula e a Turing machine, programming languages hemsel es do no necessarily ha e his limi a ion. Kirner e al., 2009 ha e shown ha among he general-purpose programming languages some are Turing comple e while o hers are no . For example, ANSI C is no Turing comple e, as all ins an ia ions o ANSI C (di eren ins an ia ions are possible as he s andard delibera ely lea es cer ain beha iour unde ined or legacy reasons) imply a ini e-space memory. This is because he size o memory re erence da a ypes, called poin ers , is accessible inside he language. Howe er, o her programming languages like Pascal do no ha e his ea ure, which allows hem o be Turing comple e in principle.
+I is jus Turing comple e in principle, as memory alloca ion in a programming language is allowed o ail, which means he programming language can be Turing comple e when ignoring ailed memory alloca ions, bu he compiled programs execu able on a real compu er canno .
+ 
+ Choice c-machines, oracle o-machines [ edi ] 
+ Early in his paper (1936) Turing makes a dis inc ion be ween an "au oma ic machine"—i s "mo ion ... comple ely de ermined by he con igura ion" and a "choice machine":
+ 
+ ...whose mo ion is only par ially de ermined by he con igura ion ... When such a machine reaches one o hese ambiguous con igura ions, i canno go on un il some arbi rary choice has been made by an ex ernal opera or. This would be he case i we were using machines o deal wi h axioma ic sys ems. —&#8202; The Undecidable , p. 118 &#91; 36 &#93; 
+ Turing (1936) does no elabora e ur her excep in a oo no e in which he describes how o use an a-machine o " ind all he pro able ormulae o he [Hilber ] calculus" ra her han use a choice machine. He "suppose[s] ha he choices are always be ween wo possibili ies 0 and 1. Each proo will hen be de ermined by a sequence o choices i 1 , i 2 , ..., i n (i 1 = 0 or 1, i 2 = 0 or 1, ..., i n = 0 or 1), and hence he number 2 n + i 1 2 n-1 + i 2 2 n-2 + ... +i n comple ely de ermines he proo . The au oma ic machine carries ou successi ely proo 1, proo 2, proo 3, ..." &#91; 39 &#93; 
+ This is indeed he echnique by which a de erminis ic (i.e., a-) Turing machine can be used o mimic he ac ion o a nonde erminis ic Turing machine ; Turing sol ed he ma er in a oo no e and appears o dismiss i rom ur her considera ion.
+ An oracle machine or o-machine is a Turing a-machine ha pauses i s compu a ion a s a e " o " while, o comple e i s calcula ion, i "awai s he decision" o " he oracle"—an en i y unspeci ied by Turing "apar rom saying ha i canno be a machine" (Turing (1939). &#91; 40 &#93; 
+ 
+ Uni ersal Turing machines [ edi ] 
+ Main ar icle: Uni ersal Turing machine 
+ An implemen a ion o a Turing machine 
+ As Turing wro e in The Undecidable , (i alics added) &#91; 41 &#93; :
+ 
+ I is possible o in en a single machine which can be used o compu e any compu able sequence. I his machine U is supplied wi h he ape on he beginning o which is wri en he s ring o quin uples separa ed by semicolons o some compu ing machine M , hen U will compu e he same sequence as M . 
+ This inding is now aken or gran ed, bu a he ime (1936) i was considered as onishing. &#91; ci a ion needed &#93; The model o compu a ion ha Turing called his "uni ersal machine"—" U " or shor —is considered by some &#91; 42 &#93; o ha e been he undamen al heore ical break hrough ha led o he no ion o he s ored-program compu er ..
+ 
+ Turing's paper ... con ains, in essence, he in en ion o he modern compu er and some o he programming echniques ha accompanied i . —&#8202;Minsky (1967) &#91; 43 &#93; 
+ In erms o compu a ional complexi y , a mul i- ape uni ersal Turing machine need only be slower by logari hmic ac or compared o he machines i simula es. This resul was ob ained in 1966 by F. C. Hennie and R. E. S earns . &#91; 44 &#93; &#91; 45 &#93; 
+ 
+ Comparison wi h real machines [ edi ] 
+ A Turing machine realiza ion using Lego pieces 
+ Turing machines are more power ul han some o her kinds o au oma a, such as ini e-s a e machines and pushdown au oma a . According o he Church–Turing hesis , hey are as power ul as real machines, and are able o execu e any opera ion ha a real program can. Wha is neglec ed in his s a emen is ha , because a real machine can only ha e a ini e number o con igura ions , i is no hing bu a ini e-s a e machine, whereas a Turing machine has an unlimi ed amoun o s orage space a ailable or i s compu a ions.
+ There are a number o ways o explain why Turing machines are use ul models o real compu ers:
+ 
+ Any hing a real compu er can compu e, a Turing machine can also compu e. For example: "A Turing machine can simula e any ype o subrou ine ound in programming languages, including recursi e procedures and any o he known parame er-passing mechanisms" (Hopcro and Ullman p.&#160;157). A large enough FSA can also model any real compu er, disregarding IO. Thus, a s a emen abou he limi a ions o Turing machines will also apply o real compu ers. 
+ The di erence lies only wi h he abili y o a Turing machine o manipula e an unbounded amoun o da a. Howe er, gi en a ini e amoun o ime, a Turing machine (like a real machine) can only manipula e a ini e amoun o da a. 
+ Like a Turing machine, a real machine can ha e i s s orage space enlarged as needed, by acquiring more disks or o her s orage media. 
+ Descrip ions o real machine programs using simpler abs rac models are o en much more complex han descrip ions using Turing machines. For example, a Turing machine describing an algori hm may ha e a ew hundred s a es, while he equi alen de erminis ic ini e au oma on (DFA) on a gi en real machine has quadrillions. This makes he DFA represen a ion in easible o analyze. 
+ Turing machines describe algori hms independen o how much memory hey use. There is a limi o he memory possessed by any curren machine, bu his limi can rise arbi rarily in ime. Turing machines allow us o make s a emen s abou algori hms which will ( heore ically) hold ore er, regardless o ad ances in con en ional compu ing machine archi ec ure. 
+ Algori hms running on Turing-equi alen abs rac machines can ha e arbi rary-precision da a ypes a ailable and ne er ha e o deal wi h unexpec ed condi ions (including, bu no limi ed o, running ou o memory ). 
+ Limi a ions [ edi ] 
+ Compu a ional complexi y heory [ edi ] 
+ Fur her in orma ion: Compu a ional complexi y heory 
+ A limi a ion o Turing machines is ha hey do no model he s reng hs o a par icular arrangemen well. For ins ance, modern s ored-program compu ers are ac ually ins ances o a more speci ic orm o abs rac machine known as he random-access s ored-program machine or RASP machine model. Like he uni ersal Turing machine, he RASP s ores i s "program" in "memory" ex ernal o i s ini e-s a e machine's "ins ruc ions". Unlike he uni ersal Turing machine, he RASP has an in ini e number o dis inguishable, numbered bu unbounded "regis ers"—memory "cells" ha can con ain any in eger (c . Elgo and Robinson (1964), Har manis (1971), and in par icular Cook-Rechow (1973); re erences a random-access machine ). The RASP's ini e-s a e machine is equipped wi h he capabili y or indirec addressing (e.g., he con en s o one regis er can be used as an address o speci y ano her regis er); hus he RASP's "program" can address any regis er in he regis er-sequence. The upsho o his dis inc ion is ha here are compu a ional op imiza ions ha can be per ormed based on he memory indices, which are no possible in a general Turing machine; hus when Turing machines are used as he basis or bounding running imes, a " alse lower bound" can be pro en on cer ain algori hms' running imes (due o he alse simpli ying assump ion o a Turing machine). An example o his is binary search , an algori hm ha can be shown o per orm more quickly when using he RASP model o compu a ion ra her han he Turing machine model.
+ 
+ In erac ion [ edi ] 
+ In he early days o compu ing, compu er use was ypically limi ed o ba ch processing , i.e., non-in erac i e asks, each producing ou pu da a rom gi en inpu da a. Compu abili y heory, which s udies compu abili y o unc ions rom inpu s o ou pu s, and or which Turing machines were in en ed, re lec s his prac ice.
+ Since he 1970s, in erac i e use o compu ers became much more common. In principle, i is possible o model his by ha ing an ex ernal agen read rom he ape and wri e o i a he same ime as a Turing machine, bu his rarely ma ches how in erac ion ac ually happens; here ore, when describing in erac i i y, al erna i es such as I/O au oma a are usually pre erred.
+ 
+ Comparison wi h he ari hme ic model o compu a ion [ edi ] 
+ The ari hme ic model o compu a ion di ers rom he Turing model in wo aspec s: &#91; 46 &#93; 
+ 
+ In he ari hme ic model, e ery real number requires a single memory cell, whereas in he Turing model he s orage size o a real number depends on he number o bi s required o represen i . 
+ In he ari hme ic model, e ery basic ari hme ic opera ion on real numbers (addi ion, sub rac ion, mul iplica ion and di ision) can be done in a single s ep, whereas in he Turing model he run- ime o each ari hme ic opera ion depends on he leng h o he operands. 
+ Some algori hms run in polynomial ime in one model bu no in he o her one. For example:
+ 
+ The Euclidean algori hm runs in polynomial ime in he Turing model, bu no in he ari hme ic model. 
+ The algori hm ha reads n numbers and hen compu es 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 2 
+ 
+ n 
+ 
+ 
+ 
+ 
+ 
+ 
+ { displays yle 2^{2^{n}}} 
+ 
+ by repea ed squaring runs in polynomial ime in he Ari hme ic model, bu no in he Turing model. This is because he number o bi s required o represen he ou come is exponen ial in he inpu size. 
+ Howe er, i an algori hm runs in polynomial ime in he ari hme ic model, and in addi ion, he binary leng h o all in ol ed numbers is polynomial in he leng h o he inpu , hen i is always polynomial- ime in he Turing model. Such an algori hm is said o run in s rongly polynomial ime .
+ 
+ His ory [ edi ] 
+ See also: Algori hm and Church–Turing hesis 
+ His orical background: compu a ional machinery [ edi ] 
+ Robin Gandy (1919–1995)—a s uden o Alan Turing (1912–1954), and his li elong riend— races he lineage o he no ion o "calcula ing machine" back o Charles Babbage (circa 1834) and ac ually proposes "Babbage's Thesis":
+ 
+ Tha he whole o de elopmen and opera ions o analysis are now capable o being execu ed by machinery . —&#8202;(i alics in Babbage as ci ed by Gandy) &#91; 47 &#93; 
+ Gandy's analysis o Babbage's analy ical engine describes he ollowing i e opera ions (c . p.&#160;52–53):
+ 
+ The ari hme ic unc ions +, −, ×, where − indica es "proper" sub rac ion: x − y = 0 i y ≥ x . 
+ Any sequence o opera ions is an opera ion. 
+ I era ion o an opera ion (repea ing n imes an opera ion P). 
+ Condi ional i era ion (repea ing n imes an opera ion P condi ional on he "success" o es T). 
+ Condi ional rans er (i.e., condi ional " go o "). 
+ Gandy s a es ha " he unc ions which can be calcula ed by (1), (2), and (4) are precisely hose which are Turing compu able ." &#91; 48 &#93; He ci es o her proposals or "uni ersal calcula ing machines" including hose o Percy Ludga e (1909), Leonardo Torres Que edo (1914), &#91; 49 &#93; &#91; 50 &#93; Maurice d'Ocagne (1922), Louis Cou ignal (1933), Vanne ar Bush (1936), Howard Aiken (1937). Howe er:
+ 
+ … he emphasis is on programming a ixed i erable sequence o ari hme ical opera ions. The undamen al impor ance o condi ional i era ion and condi ional rans er or a general heory o calcula ing machines is no recognized… —&#8202;Gandy &#91; 51 &#93; 
+ The En scheidungsproblem ( he "decision problem"): Hilber 's en h ques ion o 1900 [ edi ] 
+ Wi h regard o Hilber 's problems posed by he amous ma hema ician Da id Hilber in 1900, an aspec o problem #10 had been loa ing abou or almos 30 years be ore i was ramed precisely. Hilber 's original expression or No. 10 is as ollows:
+ 
+ 10. De ermina ion o he sol abili y o a Diophan ine equa ion . Gi en a Diophan ine equa ion wi h any number o unknown quan i ies and wi h ra ional in egral coe icien s: To de ise a process according o which i can be de ermined in a ini e number o opera ions whe her he equa ion is sol able in ra ional in egers.
+The En scheidungsproblem [decision problem or irs -order logic ] is sol ed when we know a procedure ha allows or any gi en logical expression o decide by ini ely many opera ions i s alidi y or sa is iabili y ... The En scheidungsproblem mus be considered he main problem o ma hema ical logic. —&#8202;quo ed, wi h his ransla ion and he original German, in Dershowi z and Gure ich, 2008 &#91; 52 &#93; 
+ By 1922, his no ion o " En scheidungsproblem " had de eloped a bi , and H. Behmann s a ed ha 
+ 
+ ...&#160;mos general orm o he En scheidungsproblem [is] as ollows:
+ A qui e de ini e generally applicable prescrip ion is required which will allow one o decide in a ini e number o s eps he ru h or alsi y o a gi en purely logical asser ion ... —&#8202;Gandy &#91; 53 &#93; quo ing Behmann 
+ Behmann remarks ha ... he general problem is equi alen o he problem o deciding which ma hema ical proposi ions are rue. —&#8202; ibid. 
+ I one were able o sol e he En scheidungsproblem hen one would ha e a "procedure or sol ing many (or e en all) ma hema ical problems". —&#8202; ibid. &#91; 54 &#93; 
+ By he 1928 in erna ional congress o ma hema icians, Hilber "made his ques ions qui e precise. Firs , was ma hema ics comple e ... Second, was ma hema ics consis en ... And hirdly, was ma hema ics decidable ?" &#91; 55 &#93; &#91; 56 &#93; The irs wo ques ions were answered in 1930 by Kur Gödel a he ery same mee ing where Hilber deli ered his re iremen speech (much o he chagrin o Hilber ); he hird— he En scheidungsproblem—had o wai un il he mid-1930s.
+ The problem was ha an answer irs required a precise de ini ion o "de ini e general applicable prescrip ion", which Prince on pro essor Alonzo Church would come o call " e ec i e calculabili y ", and in 1928 no such de ini ion exis ed. Bu o er he nex 6–7 years Emil Pos de eloped his de ini ion o a worker mo ing rom room o room wri ing and erasing marks per a lis o ins ruc ions, &#91; 57 &#93; as did Church and his wo s uden s S ephen Kleene and J. B. Rosser by use o Church's lambda-calculus and Gödel's recursion heory (1934). Church's paper (published 15 April 1936) showed ha he En scheidungsproblem was indeed "undecidable" &#91; 58 &#93; and bea Turing o he punch by almos a year (Turing's paper submi ed 28 May 1936, published January 1937). In he mean ime, Emil Pos submi ed a brie paper in he all o 1936, so Turing a leas had priori y o er Pos . While Church re ereed Turing's paper, Turing had ime o s udy Church's paper and add an Appendix where he ske ched a proo ha Church's lambda-calculus and his machines would compu e he same unc ions.
+ 
+ Bu wha Church had done was some hing ra her di eren , and in a cer ain sense weaker. ... he Turing cons ruc ion was more direc , and pro ided an argumen rom irs principles, closing he gap in Church's demons ra ion. —&#8202;Hodges &#91; 9 &#93; 
+ And Pos had only proposed a de ini ion o calculabili y and cri icised Church's "de ini ion", bu had pro ed no hing.
+ 
+ Alan Turing's a-machine [ edi ] 
+ In he spring o 1935, Turing as a young Mas er's s uden a King's College, Cambridge , ook on he challenge; he had been s imula ed by he lec ures o he logician M. H. A. Newman "and learned rom hem o Gödel's work and he En scheidungsproblem ... Newman used he word 'mechanical' ... In his obi uary o Turing 1955 Newman wri es:
+ 
+ To he ques ion 'wha is a "mechanical" process?' Turing re urned he charac eris ic answer 'Some hing ha can be done by a machine' and he embarked on he highly congenial ask o analysing he general no ion o a compu ing machine. —&#8202;Gandy &#91; 59 &#93; 
+ Gandy s a es ha :
+ 
+ I suppose, bu do no know, ha Turing, righ rom he s ar o his work, had as his goal a proo o he undecidabili y o he En scheidungsproblem. He old me ha he 'main idea' o he paper came o him when he was lying in Gran ches er meadows in he summer o 1935. The 'main idea' migh ha e ei her been his analysis o compu a ion or his realiza ion ha here was a uni ersal machine, and so a diagonal argumen o pro e unsol abili y. —&#8202; ibid. &#91; 60 &#93; 
+ While Gandy belie ed ha Newman's s a emen abo e is "misleading", his opinion is no shared by all. Turing had a li elong in eres in machines: "Alan had dream o in en ing ypewri ers as a boy; [his mo her] Mrs. Turing had a ypewri er; and he could well ha e begun by asking himsel wha was mean by calling a ypewri er 'mechanical'" (Hodges p.&#160;96). While a Prince on pursuing his PhD, Turing buil a Boolean-logic mul iplier (see below). His PhD hesis, i led " Sys ems o Logic Based on Ordinals ", con ains he ollowing de ini ion o "a compu able unc ion":
+ 
+ I was s a ed abo e ha 'a unc ion is e ec i ely calculable i i s alues can be ound by some purely mechanical process'. We may ake his s a emen li erally, unders anding by a purely mechanical process one which could be carried ou by a machine. I is possible o gi e a ma hema ical descrip ion, in a cer ain normal orm, o he s ruc ures o hese machines. The de elopmen o hese ideas leads o he au hor's de ini ion o a compu able unc ion, and o an iden i ica ion o compu abili y wi h e ec i e calculabili y. I is no di icul , hough somewha laborious, o pro e ha hese hree de ini ions [ he 3rd is he λ-calculus] are equi alen . —&#8202; Turing (1939 , p.&#160;166) &#91; 61 &#93; 
+ Alan Turing in en ed he "a-machine" (au oma ic machine) in 1936. &#91; 7 &#93; Turing submi ed his paper on 31 May 1936 o he London Ma hema ical Socie y or i s Proceedings , &#91; 62 &#93; bu i was published in early 1937 and o prin s were a ailable in February 1937. &#91; 63 &#93; I was Turing's doc oral ad isor, Alonzo Church , who la er coined he erm "Turing machine" in a re iew. &#91; 13 &#93; Wi h his model, Turing was able o answer wo ques ions in he nega i e:
+ 
+ Does a machine exis ha can de ermine whe her any arbi rary machine on i s ape is "circular" (e.g., reezes, or ails o con inue i s compu a ional ask)? 
+ Does a machine exis ha can de ermine whe her any arbi rary machine on i s ape e er prin s a gi en symbol? &#91; 14 &#93; &#91; 15 &#93; 
+ Thus by pro iding a ma hema ical descrip ion o a ery simple de ice capable o arbi rary compu a ions, he was able o pro e proper ies o compu a ion in general—and in par icular, he uncompu abili y o he En scheidungsproblem ('decision problem'). &#91; 16 &#93; 
+ When Turing re urned o he UK he ul ima ely became join ly responsible or breaking he German secre codes crea ed by encryp ion machines called "The Enigma"; he also became in ol ed in he design o he ACE ( Au oma ic Compu ing Engine ), "[Turing's] ACE proposal was e ec i ely sel -con ained, and i s roo s lay no in he EDVAC [ he USA's ini ia i e], bu in his own uni ersal machine" (Hodges p.&#160;318). Argumen s s ill con inue concerning he origin and na ure o wha has been named by Kleene (1952) Turing's Thesis . Bu wha Turing did pro e wi h his compu a ional-machine model appears in his paper " On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem " (1937):
+ 
+ [ ha ] he Hilber En scheidungsproblem can ha e no solu ion ... I propose, here ore o show ha here can be no general process or de ermining whe her a gi en ormula U o he unc ional calculus K is pro able, i.e. ha here can be no machine which, supplied wi h any one U o hese ormulae, will e en ually say whe her U is pro able. —&#8202; rom Turing's paper as reprin ed in The Undecidable , p. 145 &#91; 64 &#93; 
+ Turing's example (his second proo ): I one is o ask or a general procedure o ell us: "Does his machine e er prin 0", he ques ion is "undecidable".
+ 
+ 1937–1970: The "digi al compu er", he bir h o "compu er science" [ edi ] 
+ In 1937, while a Prince on working on his PhD hesis, Turing buil a digi al (Boolean-logic) mul iplier rom scra ch, making his own elec romechanical relays (Hodges p.&#160;138). "Alan's ask was o embody he logical design o a Turing machine in a ne work o relay-opera ed swi ches ..." (Hodges p.&#160;138). While Turing migh ha e been jus ini ially curious and experimen ing, qui e-earnes work in he same direc ion was going in Germany by Konrad Zuse (1938), and in he Uni ed S a es by Howard Aiken and George S ibi z (1937); he rui s o heir labors were used by bo h he Axis and Allied mili aries in World War II (c . Hodges p.&#160;298–299). In he early o mid-1950s Hao Wang and Mar in Minsky reduced he Turing machine o a simpler orm (a precursor o he Pos –Turing machine o Mar in Da is ); simul aneously European researchers were reducing he new- angled elec ronic compu er o a compu er-like heore ical objec equi alen o wha is now being called a "Turing machine". In he la e 1950s and early 1960s, he coinciden ally parallel de elopmen s o Melzak and Lambek (1961), Minsky (1961), and Shepherdson and S urgis (1961) carried he European work ur her and reduced he Turing machine o a more riendly, compu er-like abs rac model called he coun er machine ; Elgo and Robinson (1964), Har manis (1971), Cook and Reckhow (1973) carried his work e en ur her wi h he regis er machine and random-access machine models—bu basically all are jus mul i- ape Turing machines wi h an ari hme ic-like ins ruc ion se .
+ 
+ 1970–presen : as a model o compu a ion [ edi ] 
+ Today, he coun er, regis er and random-access machines and heir sire he Turing machine con inue o be he models o choice or heoris s in es iga ing ques ions in he heory o compu a ion . In par icular, compu a ional complexi y heory makes use o he Turing machine:
+ 
+ Depending on he objec s one likes o manipula e in he compu a ions (numbers like nonnega i e in egers or alphanumeric s rings), wo models ha e ob ained a dominan posi ion in machine-based complexi y heory:
+ he o -line mul i ape Turing machine ..., which represen s he s andard model or s ring-orien ed compu a ion, and
+ he random access machine (RAM) as in roduced by Cook and Reckhow ..., which models he idealised Von Neumann-s yle compu er. —&#8202;Van Emde Boas (1990) &#91; 65 &#93; 
+ Only in he rela ed area o analysis o algori hms his role is aken o er by he RAM model. —&#8202;Van Emde Boas (1990) &#91; 66 &#93; 
+ See also [ edi ] 
+ .mw-parser-ou pu .di -col{margin- op:0.3em;column-wid h:30em}.mw-parser-ou pu .di -col-small{ on -size:90%}.mw-parser-ou pu .di -col-rules{column-rule:1px solid #aaa}.mw-parser-ou pu .di -col dl,.mw-parser-ou pu .di -col ol,.mw-parser-ou pu .di -col ul{margin- op:0}.mw-parser-ou pu .di -col li,.mw-parser-ou pu .di -col dd{page-break-inside:a oid;break-inside:a oid-column} 
+ Ari hme ical hierarchy 
+ Bekens ein bound , showing he impossibili y o in ini e- ape Turing machines o ini e size and bounded energy 
+ BlooP and FlooP 
+ Chai in's cons an or Omega (compu er science) or in orma ion rela ing o he hal ing problem 
+ Calculus ra iocina or 
+ Chinese room 
+ Conway's Game o Li e , a Turing-comple e cellular au oma on 
+ Digi al in ini y 
+ The Emperor's New Mind 
+ Enumera or (compu er science) 
+ Gene ix 
+ Gödel, Escher, Bach: An E ernal Golden Braid , a amous book ha discusses, among o her opics, he Church–Turing hesis 
+ Hal ing problem , or more re erences 
+ Har ard archi ec ure 
+ Impera i e programming 
+ Lang on's an and Turmi es , simple wo-dimensional analogues o he Turing machine 
+ Lis o hings named a er Alan Turing 
+ Modi ied Har ard archi ec ure 
+ Quan um Turing machine 
+ Claude Shannon , ano her leading hinker in in orma ion heory 
+ Turing machine examples 
+ Turing arpi , any compu ing sys em or language ha , despi e being Turing comple e, is generally considered useless or prac ical compu ing 
+ Unorganised machine , or Turing's ery early ideas on neural ne works 
+ Von Neumann archi ec ure 
+ 
+ No es [ edi ] 
+ .mw-parser-ou pu .re lis -columns-2{column-wid h:30em}.mw-parser-ou pu .re lis -columns-3{column-wid h:25em}body.skin- ec or-2022 .mw-parser-ou pu .re lis -columns-2{column-wid h:27em}body.skin- ec or-2022 .mw-parser-ou pu .re lis -columns-3{column-wid h:22.5em}.mw-parser-ou pu .re erences[da a-mw-group=upper-alpha]{lis -s yle- ype:upper-alpha}.mw-parser-ou pu .re erences[da a-mw-group=upper-roman]{lis -s yle- ype:upper-roman}.mw-parser-ou pu .re erences[da a-mw-group=lower-alpha]{lis -s yle- ype:lower-alpha}.mw-parser-ou pu .re erences[da a-mw-group=lower-greek]{lis -s yle- ype:lower-greek}.mw-parser-ou pu .re erences[da a-mw-group=lower-roman]{lis -s yle- ype:lower-roman}.mw-parser-ou pu di .re lis -lis s yle-upper-alpha .re erences{lis -s yle- ype:upper-alpha}.mw-parser-ou pu di .re lis -lis s yle-upper-roman .re erences{lis -s yle- ype:upper-roman}.mw-parser-ou pu di .re lis -lis s yle-lower-alpha .re erences{lis -s yle- ype:lower-alpha}.mw-parser-ou pu di .re lis -lis s yle-lower-greek .re erences{lis -s yle- ype:lower-greek}.mw-parser-ou pu di .re lis -lis s yle-lower-roman .re erences{lis -s yle- ype:lower-roman} 
+ ^ Minsky (1967 , p.&#160;107) "In his 1936 paper, A. M. Turing de ined he class o abs rac machines ha now bear his name. A Turing machine is a ini e-s a e machine associa ed wi h a special kind o en ironmen —i s ape— in which i can s ore (and la er reco er) sequences o symbols," also S one (1972 , p.&#160;8) where he word "machine" is in quo a ion marks. 
+ 
+ ^ S one (1972 , p.&#160;8) s a es: "This "machine" is an abs rac ma hema ical model", also c . Sipser (2012 , p.&#160;165 ) ha describes he "Turing machine model". Rogers (1987 , p.&#160;13) re ers o "Turing's charac eriza ion", Boolos, Burgess &amp; Je rey (2002 , p.&#160;25) re ers o a "speci ic kind o idealized machine". 
+ 
+ ^ a b Sipser (2012 , p.&#160;165) obser es ha "[a] Turing machine can do e ery hing ha a real compu er can do. None heless, e en a Turing machine canno sol e cer ain problems. In a ery real sense, hese problems are beyond he heore ical limi s o compu a ion." 
+ 
+ ^ C . Sipser (2012 , p.&#160;165). Also, Rogers (1987 , p.&#160;13) describes "a paper ape o in ini e leng h in bo h direc ions". Minsky (1967 , p.&#160;118) s a es "The ape is regarded as in ini e in bo h direc ions". Boolos, Burgess &amp; Je rey (2002 , p.&#160;25) include he possibili y o " here is someone s a ioned a each end o add ex ra blank squares as needed". 
+ 
+ ^ C . Rogers (1987 , p.&#160;13). O her au hors use he word "square" e.g. Boolos, Burgess &amp; Je rey (2002 , p.&#160;35), Minsky (1967 , p.&#160;117), Penrose (1989 , p.&#160;37). 
+ 
+ ^ Boolos, Burgess &amp; Je rey (2002 , p.&#160;25) illus ra e he machine as mo ing along he ape. Penrose (1989 , pp.&#160;36–37) describes himsel as "uncom or able" wi h an in ini e ape obser ing ha i "migh be hard o shi !"; he "pre er[s] o hink o he ape as represen ing some ex ernal en ironmen hrough which our ini e de ice can mo e" and a er obser ing ha he " 'mo emen ' is a con enien way o pic uring hings" and hen sugges s ha " he de ice recei es all i s inpu rom his en ironmen . Some aria ions o he Turing machine model also allow he head o s ay in he same posi ion ins ead o mo ing or hal ing. 
+ 
+ ^ a b Hodges 2012 . 
+ 
+ ^ Hodges 1983 , p.&#160;93. 
+ 
+ ^ a b Hodges 1983 , p.&#160;112. 
+ 
+ ^ Hodges 1983 , p.&#160;129. 
+ 
+ ^ The idea came o him in mid-1935 (perhaps, see more in he His ory sec ion) a er a ques ion posed by M. H. A. Newman in his lec ures: "Was here a de ini e me hod, or as Newman pu i , a "mechanical process" which could be applied o a ma hema ical s a emen , and which would come up wi h he answer as o whe her i was pro able". &#91; 8 &#93; Turing submi ed his paper on 31 May 1936 o he London Ma hema ical Socie y or i s Proceedings , &#91; 9 &#93; bu i was published in early 1937 and o prin s were a ailable in February 1937. &#91; 10 &#93; 
+ 
+ ^ See oo no e in Da is (2000 , p.&#160;151) 
+ 
+ ^ a b See no e in orward Tyler &amp; Emder on (2019) har x error: no arge : CITEREFTylerEmder on2019 ( help ) 
+ 
+ ^ a b Turing 1936 in 
+ Da is (2004 , pp.&#160;132–134); Turing's de ini ion o "circular" is ound on page 119. 
+ 
+ ^ a b Turing 1936 , pp.&#160;230–265. 
+ 
+ ^ a b Turing 1936 in Da is (2004 , p.&#160;145) 
+ 
+ ^ See he de ini ion o " innings " on Wik ionary 
+ 
+ ^ Turing (1968 , pp.&#160;3–4) 
+ 
+ ^ Occasionally called an ac ion able or ransi ion unc ion . 
+ 
+ ^ Usually quin uples [5- uples]: q i a j →q i1 a j1 d k , bu some imes quadruples [4- uples]. 
+ 
+ ^ Hopcro &amp; Ullman 1979 , p.&#160;148. 
+ 
+ ^ p.149; in par icular, Hopcro and Ullman assume ha 
+ 
+ 
+ 
+ &#x03B4; 
+ 
+ 
+ { displays yle del a } 
+ 
+ is unde ined on all s a es rom 
+ 
+ 
+ 
+ F 
+ 
+ 
+ { displays yle F} 
+ 
+ 
+ 
+ ^ Van Emde Boas 1990 , p.&#160;6. 
+ 
+ ^ Da is 2004 , pp.&#160;126–127. 
+ 
+ ^ Da is 2000 , p.&#160;152. 
+ 
+ ^ Minsky 1967 , p.&#160;119. 
+ 
+ ^ Hopcro &amp; Ullman 1979 , p.&#160;158. 
+ 
+ ^ S one 1972 , p.&#160;9. 
+ 
+ ^ C . Turing in Da is (2004 , p.&#160;126) 
+ 
+ ^ Da is 2004 , p.&#160;300. 
+ 
+ ^ C . oo no e 12 in Pos (1947) &#91; 30 &#93; 
+ 
+ ^ Da is 2004 , p.&#160;119. 
+ 
+ ^ C . Pos (1947) , Boolos &amp; Je rey (1999) , Da is, Sigal &amp; Weyuker (1994) . Also see more a Pos –Turing machine . 
+ 
+ ^ a b Da is 2004 , pp.&#160;139–140. 
+ 
+ ^ Da is 2004 , p.&#160;121. 
+ 
+ ^ a b Da is 2004 , p.&#160;118. 
+ 
+ ^ Kleene 1952 , pp.&#160;374–375. 
+ 
+ ^ C . Turing (1936) &#91; 34 &#93; 
+ 
+ ^ Foo no e ‡ in Da is (2004 , p.&#160;138) 
+ 
+ ^ Da is 2004 , pp.&#160;166–168. 
+ 
+ ^ Da is 2004 , p.&#160;128. 
+ 
+ ^ Da is 2000 . 
+ 
+ ^ Minsky 1967 , p.&#160;104. 
+ 
+ ^ Hennie &amp; S earns 1966 . 
+ 
+ ^ Arora &amp; Barak 2009 , heorem 1.9. 
+ 
+ ^ Grö schel, Lo ász &amp; Schrij er 1993 , p.&#160;32. 
+ 
+ ^ Gandy 1995 , p.&#160;54. 
+ 
+ ^ Gandy 1995 , p.&#160;53. 
+ 
+ ^ Torres Que edo 1914 . 
+ 
+ ^ Torres Que edo 1915 . 
+ 
+ ^ Gandy 1995 , p.&#160;55. 
+ 
+ ^ Dershowi z &amp; Gure ich 2008 . 
+ 
+ ^ Gandy 1995 , p.&#160;57. 
+ 
+ ^ Gandy 1995 , p.&#160;92. 
+ 
+ ^ Hodges 1983 , p.&#160;91. 
+ 
+ ^ Hawking 2005 , p.&#160;1121. 
+ 
+ ^ Pos 1936 . 
+ 
+ ^ The narrower ques ion posed in Hilber 's en h problem , abou Diophan ine equa ions , remained unresol ed un il 1970, when he rela ionship be ween recursi ely enumerable se s and Diophan ine se s was inally laid bare. 
+ 
+ ^ Gandy 1995 , p.&#160;74. 
+ 
+ ^ Gandy 1995 , p.&#160;76. 
+ 
+ ^ Da is 2004 , p.&#160;160. 
+ 
+ ^ C . Hodges (1983 , p.&#160;112) 
+ 
+ ^ C . Hodges (1983 , p.&#160;129) 
+ 
+ ^ Da is 2004 , p.&#160;145. 
+ 
+ ^ Van Emde Boas 1990 , p.&#160;4. 
+ 
+ ^ Van Emde Boas 1990 , p.&#160;16. 
+ 
+ 
+ Re erences [ edi ] 
+ .mw-parser-ou pu .ambox{border:1px solid #a2a9b1;border-le :10px solid #36c;background-color:# b b b;box-sizing:border-box}.mw-parser-ou pu .ambox+link+.ambox,.mw-parser-ou pu .ambox+link+s yle+.ambox,.mw-parser-ou pu .ambox+link+link+.ambox,.mw-parser-ou pu .ambox+.mw-emp y-el +link+.ambox,.mw-parser-ou pu .ambox+.mw-emp y-el +link+s yle+.ambox,.mw-parser-ou pu .ambox+.mw-emp y-el +link+link+.ambox{margin- op:-1px}h ml body.mediawiki .mw-parser-ou pu .ambox.mbox-small-le {margin:4px 1em 4px 0;o er low:hidden;wid h:238px;border-collapse:collapse; on -size:88%;line-heigh :1.25em}.mw-parser-ou pu .ambox-speedy{border-le :10px solid #b32424;background-color:# ee7e6}.mw-parser-ou pu .ambox-dele e{border-le :10px solid #b32424}.mw-parser-ou pu .ambox-con en {border-le :10px solid # 28500}.mw-parser-ou pu .ambox-s yle{border-le :10px solid # c3}.mw-parser-ou pu .ambox-mo e{border-le :10px solid #9932cc}.mw-parser-ou pu .ambox-pro ec ion{border-le :10px solid #a2a9b1}.mw-parser-ou pu .ambox .mbox- ex {border:none;padding:0.25em 0.5em;wid h:100%}.mw-parser-ou pu .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em; ex -align:cen er}.mw-parser-ou pu .ambox .mbox-imagerigh {border:none;padding:2px 0.5em 2px 0; ex -align:cen er}.mw-parser-ou pu .ambox .mbox-emp y-cell{border:none;padding:0;wid h:1px}.mw-parser-ou pu .ambox .mbox-image-di {wid h:52px}@media(min-wid h:720px){.mw-parser-ou pu .ambox{margin:0 10%}}@media prin {body.ns-0 .mw-parser-ou pu .ambox{display:none!impor an }} This ar icle has an unclear ci a ion s yle . The re erences used may be made clearer wi h a di eren or consis en s yle o ci a ion and oo no ing . ( No ember 2019 ) ( Learn how and when o remo e his message ) 
+ Primary li era ure, reprin s, and compila ions [ edi ] 
+ .mw-parser-ou pu .re begin{margin-bo om:0.5em}.mw-parser-ou pu .re begin-hanging-inden s>ul{margin-le :0}.mw-parser-ou pu .re begin-hanging-inden s>ul>li{margin-le :0;padding-le :3.2em; ex -inden :-3.2em}.mw-parser-ou pu .re begin-hanging-inden s ul,.mw-parser-ou pu .re begin-hanging-inden s ul li{lis -s yle:none}@media(max-wid h:720px){.mw-parser-ou pu .re begin-hanging-inden s>ul>li{padding-le :1.6em; ex -inden :-1.6em}}.mw-parser-ou pu .re begin-columns{margin- op:0.3em}.mw-parser-ou pu .re begin-columns ul{margin- op:0}.mw-parser-ou pu .re begin-columns li{page-break-inside:a oid;break-inside:a oid-column}@media screen{.mw-parser-ou pu .re begin{ on -size:90%}} 
+ .mw-parser-ou pu ci e.ci a ion{ on -s yle:inheri ;word-wrap:break-word}.mw-parser-ou pu .ci a ion q{quo es:" """ """'""'"}.mw-parser-ou pu .ci a ion: arge {background-color:rgba(0,127,255,0.133)}.mw-parser-ou pu .id-lock- ree.id-lock- ree a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-limi ed.id-lock-limi ed a,.mw-parser-ou pu .id-lock-regis ra ion.id-lock-regis ra ion a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .id-lock-subscrip ion.id-lock-subscrip ion a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-al -2.s g")righ 0.1em cen er/9px no-repea }.mw-parser-ou pu .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.s g")righ 0.1em cen er/12px no-repea }body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock- ree a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-limi ed a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-regis ra ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .id-lock-subscrip ion a,body:no (.skin- imeless):no (.skin-miner a) .mw-parser-ou pu .cs1-ws-icon a{background-size:con ain;padding:0 1em 0 0}.mw-parser-ou pu .cs1-code{color:inheri ;background:inheri ;border:none;padding:inheri }.mw-parser-ou pu .cs1-hidden-error{display:none;color: ar(--color-error,#b 3c2c)}.mw-parser-ou pu .cs1- isible-error{color: ar(--color-error,#b 3c2c)}.mw-parser-ou pu .cs1-main {display:none;color:#085;margin-le :0.3em}.mw-parser-ou pu .cs1-kern-le {padding-le :0.2em}.mw-parser-ou pu .cs1-kern-righ {padding-righ :0.2em}.mw-parser-ou pu .ci a ion .mw-sel link{ on -weigh :inheri }@media screen{.mw-parser-ou pu .cs1- orma { on -size:95%}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .cs1-main {color:#18911 }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .cs1-main {color:#18911 }} Church, Alonzo (23 April 2019). Burge, Tyler; Ender on, Herber (eds.). The Collec ed Works o Alonzo Church . Cambridge, MA, US: MIT Press . ISBN &#160; 978-0-262-02564-5 . 
+ Copeland, Jack , ed. (2004). The Essen ial Turing: Seminal Wri ings in Compu ing, Logic, Philosophy, Ar i icial In elligence, and Ar i icial Li e plus The Secre s o Enigma . Ox ord, UK: Clarendon Press (Ox ord Uni ersi y Press). ISBN &#160; 0-19-825079-7 . Con ains Turing papers, a dra le er o Emil Pos on cri icism o "Turing's con en ion", and Donald W. Da ies' Correc ions o Turing's Uni ersal Compu ing Machine 
+ Da is, Mar in , ed. (2004) [1965]. The Undecidable: Basic Papers on Undecidable Proposi ions, Unsol able Problems and Compu able Func ions . Mineola, NY: Do er Publ. ISBN &#160; 978-0486432281 . 
+ Hennie, F. C.; S earns, R. E. (1966). "Two- ape simula ion o mul i ape Turing machines". Journal o he ACM . 13 (4): 533– 546. doi : 10.1145/321356.321362 . 
+ Pos , Emil (1936). "Fini e Combina ory Processes—Formula ion 1". Journal o Symbolic Logic . 1 : 103– 105. doi : 10.2307/2269031 . JSTOR &#160; 2269031 . Reprin ed in Da is (2004 , p.&#160;289 ) 
+ Pos , Emil (1947). "Recursi e Unsol abili y o a Problem o Thue". Journal o Symbolic Logic . 12 : 1– 11. doi : 10.2307/2267170 . JSTOR &#160; 2267170 . Reprin ed in Da is (2004 , p.&#160;293 ); appendix includes correc ions and commen ary on Turing's 1936–1937 paper. In par icular see he oo no es 11 wi h correc ions o he uni ersal compu ing machine coding and oo no e 14 wi h commen s on Turing's irs and second proo s . 
+ Turing, A. M. (1936). "On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem" (PDF) . Proceedings o he London Ma hema ical Socie y . 2. 42 (published 1937): 230– 265. doi : 10.1112/plms/s2-42.1.230 . S2CID &#160; 73712 . 
+ Turing, A. M. (1938). "On Compu able Numbers, wi h an Applica ion o he En scheidungsproblem: A correc ion". Proceedings o he London Ma hema ical Socie y . 2. 43 (6): 544– 546. doi : 10.1112/plms/s2-43.6.544 . Reprin ed in Da is (2004 , pp.&#160;115–154) 
+ Turing, A.M. (1939). "Sys ems o Logic Based on Ordinals". Proceedings o he London Ma hema ical Socie y . s2-45 (1): 161– 228. doi : 10.1112/plms/s2-45.1.161 . hdl : 21.11116/0000-0001-91CE-3 . 
+ Turing, Alan (1968) [1948]. "In elligen Machinery". In E ans, C. R.; Rober son, A. D. J. (eds.). Cyberne ics: Key Papers . Bal imore: Uni ersi y Park Press. p.&#160;31. Reprin : Turing, A. M. (1996). "In elligen Machinery, A Here ical Theory" . Philosophia Ma hema ica . 4 (3): 256– 260. doi : 10.1093/philma /4.3.256 . 
+ 
+ Compu abili y heory [ edi ] 
+ 
+ Boolos, George ; Je rey, Richard (1999) [1974]. Compu abili y and Logic (3rd&#160;ed.). Cambridge UK: Cambridge Uni ersi y Press. ISBN &#160; 0-521-20402-X . 
+ Boolos, George ; Burgess, John P. ; Je rey, Richard (2002) [1989]. Compu abili y and Logic (4 h&#160;ed.). Cambridge UK: Cambridge Uni ersi y Press. ISBN &#160; 0-521-00758-5 . Some par s ha e been signi ican ly rewri en by Burgess. Presen a ion o Turing machines in con ex o Lambek "abacus machines" (c . Regis er machine ) and recursi e unc ions , showing heir equi alence. 
+ Boo h, Taylor L. (1967). Sequen ial Machines and Au oma a Theory . New York: John Wiley and Sons, Inc. Gradua e-le el engineering ex ; ranges o er a wide arie y o opics. Chap er IX "Turing Machines" includes some recursion heory. 
+ Da is, Mar in (2000). The Uni ersal Compu er: The Road rom Leibniz o Turing . W. W. Nor on &amp; Company. ISBN &#160; 0-393-04785-7 . Reprin ed as Engines o Logic: Ma hema icians and he Origin o he Compu er . New York: Nor on. 2001. ISBN &#160; 9780393322293 . 
+ Da is, Mar in ; Sigal, Ron; Weyuker, Elaine J. (1994). Compu abili y, Complexi y, and Languages and Logic: Fundamen als o Theore ical Compu er Science (2nd&#160;ed.). San Diego: Academic Press, Harcour , Brace &amp; Company. ISBN &#160; 0-12-206382-1 . 
+ Grö schel, Mar in; Lo ász, László; Schrij er, Alexander (1993). Geome ric algori hms and combina orial op imiza ion . Algori hms and Combina orics. Vol.&#160;2 (2nd&#160;ed.). Berlin: Springer-Verlag. doi : 10.1007/978-3-642-78240-4 . ISBN &#160; 978-3-642-78242-8 . MR &#160; 1261419 . 
+ Hennie, Fredrick (1977). In roduc ion o Compu abili y . Reading, Mass.: Addison–Wesley. QA248.5H4 1977. On pages 90–103 Hennie discusses he UTM wi h examples and low-char s, bu no ac ual 'code'. 
+ Hopcro , John ; Ullman, Je rey D. (1979). In roduc ion o Au oma a Theory, Languages, and Compu a ion (1s &#160;ed.). Reading, Mass.: Addison–Wesley. ISBN &#160; 0-201-02988-X . Cen ered around he issues o machine-in erpre a ion o "languages", NP-comple eness, e c. 
+ Hopcro , John E. ; Mo wani, Rajee ; Ullman, Je rey D. (2001). In roduc ion o Au oma a Theory, Languages, and Compu a ion (2nd&#160;ed.). Reading, Mass.: Addison–Wesley. ISBN &#160; 0-201-44124-1 . 
+ Kleene, S ephen (1952). In roduc ion o Me ama hema ics (10 h impression (wi h correc ions o 6 h reprin 1971)&#160;ed.). Ams erdam, Ne herlands: Nor h–Holland Publishing Company. Gradua e le el ex ; mos o Chap er XIII "Compu able unc ions" is on Turing machine proo s o compu abili y o recursi e unc ions, e c. 
+ Knu h, Donald E. (1973). The Ar o Compu er Programming, Vol. 1: Fundamen al Algori hms (2nd&#160;ed.). Reading, Mass.: Addison–Wesley Publishing Company. Wi h re erence o he role o Turing machines in he de elopmen o compu a ion see 1.4.5 "His ory and Bibliography" pp. 225 and 2.6 "His ory and Bibliography" pp. 456 . 
+ Manna, Zohar (1974). Ma hema ical Theory o Compu a ion (Reprin ed, Do er, 2003&#160;ed.). McGraw–Hill. ISBN &#160; 978-0-486-43238-0 . 
+ Minsky, Mar in (1967). Compu a ion: Fini e and In ini e Machines . N.J.: Pren ice–Hall, Inc. See Chap er 8, Sec ion 8.2 "Unsol abili y o he Hal ing Problem." 
+ Papadimi riou, Chris os (1993). Compu a ional Complexi y (1s &#160;ed.). Addison Wesley. ISBN &#160; 0-201-53082-1 . Chap er 2: Turing machines, pp. 19–56. 
+ Torres Que edo, Leonardo (1914). "Ensayos sobre Au omá ica – Su de inición. Ex ensión eórica de sus aplicaciones". Re is a de la Academia de Ciencias Exac as (in Spanish). 12 : 391– 418. 
+ Torres Que edo, Leonardo (1915). "Essais sur l'Au oma ique – Sa dé ini ion. É endue héorique de ses applica ions" . Re ue Générale des Sciences Pures e Appliquées (in French). 2 : 601– 611. 
+ Rogers, Har ley (1987) [1967]. Theory o Recursi e Func ions and E ec i e Compu abili y (Paperback (original 1967 McGraw–Hill)&#160;ed.). Cambridge, MA: The MIT Press. ISBN &#160; 0-262-68052-1 . 
+ Sipser, Michael (2012) [1997]. "Chap er 3: The Church–Turing Thesis". In roduc ion o he Theory o Compu a ion (Third&#160;ed.). Cengage Learning. pp.&#160; 165– 192. ISBN &#160; 978-1-133-18779-0 . 
+ S one, Harold S. (1972). In roduc ion o Compu er Organiza ion and Da a S ruc ures (1s &#160;ed.). New York: McGraw–Hill Book Company. ISBN &#160; 0-07-061726-0 . 
+ Van Emde Boas, Pe er (1990). "Machine Models and Simula ions". In Jan an Leeuwen (ed.). Handbook o Theore ical Compu er Science, Volume A: Algori hms and Complexi y . The MIT Press / Else ier. pp.&#160; 3– 66. ISBN &#160; 0-444-88071-2 . Library o Congress call number: QA76.H279 1990 
+ 
+ Church's hesis [ edi ] 
+ 
+ Dershowi z, Nachum; Gure ich, Yuri (Sep ember 2008). "A na ural axioma iza ion o compu abili y and proo o Church's Thesis" (PDF) . Bulle in o Symbolic Logic . 14 (3): 299– 350. doi : 10.2178/bsl/1231081370 . Re rie ed 12 December 2025 . 
+ 
+ O her [ edi ] 
+ 
+ Arora, Sanjee ; Barak, Boaz (2009). "Sec ions 1.4 and 1.7". Complexi y Theory: A Modern Approach . Cambridge Uni ersi y Press. ISBN &#160; 978-0-521-42426-4 . 
+ Gandy, Robin (1995). "The Con luence o Ideas in 1936". In Herken, Rol (ed.). The Uni ersal Turing Machine—A Hal -Cen ury Sur ey . Springer Verlag. pp.&#160; 51– 102. ISBN &#160; 978-3-211-82637-9 . 
+ Hawking, S ephen , ed. (2005). God Crea ed he In egers: The Ma hema ical Break hroughs ha Changed His ory . Philadelphia: Running Press. ISBN &#160; 978-0-7624-1922-7 . Includes Turing's 1936–1937 paper wi h commen ary and biography by Hawking 
+ Hodges, Andrew (1983). "The Spiri o Tru h". Alan Turing: The Enigma . New York: Simon and Schus er . C . Chap er "The Spiri o Tru h" or a his ory leading o, and a discussion o , his proo . 
+ Hodges, Andrew (2012). Alan Turing: The Enigma (The Cen enary&#160;ed.). Prince on Uni ersi y Press . ISBN &#160; 978-0-691-15564-7 . 
+ Kan oro i z, Isaiah Pinchas (1 December 2005). "A no e on Turing machine compu abili y o rule dri en sys ems". SIGACT News . 36 (4): 109– 110. doi : 10.1145/1107523.1107525 . S2CID &#160; 31117713 . 
+ Kirner, Raimund; Zimmermann, Wol ; Rich er, Dirk (Oc ober 2009). "On Undecidabili y Resul s o Real Programming Languages" . 15. Kolloquium Programmiersprachen und Grundlagen der Programmierung (KPS'09) . Maria Ta erl, Aus ria. 
+ Penrose, Roger (1989). The Emperor's New Mind: Concerning Compu ers, Minds, and he Laws o Physics . Ox ord and New York: Ox ord Uni ersi y Press . ISBN &#160; 0-19-851973-7 . 1990 correc ions 
+ Pe zold, Charles (2008). The Anno a ed Turing . John Wiley &amp; Sons, Inc. ISBN &#160; 978-0-470-22905-7 . 
+ Wang, Hao (1957). "A arian o Turing's heory o compu ing machines". Journal o he Associa ion or Compu ing Machinery (KACM) . 4 : 63– 92. doi : 10.1145/320856.320867 . 
+ 
+ Ex ernal links [ edi ] 
+ .mw-parser-ou pu .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa; on -size:88%;line-heigh :1.25em;background-color: ar(--background-color-in erac i e-sub le,# 8 9 a);color:inheri ;display: low-roo }.mw-parser-ou pu .in obox .side-box{ on -size:100%}.mw-parser-ou pu .side-box-abo ebelow,.mw-parser-ou pu .side-box- ex {padding:0.25em 0.9em}.mw-parser-ou pu .side-box-image{padding:2px 0 2px 0.9em; ex -align:cen er}.mw-parser-ou pu .side-box-imagerigh {padding:2px 0.9em 2px 0; ex -align:cen er}@media(min-wid h:500px){.mw-parser-ou pu .side-box- lex{display: lex;align-i ems:cen er}.mw-parser-ou pu .side-box- ex { lex:1;min-wid h:0}}@media(min-wid h:640px){.mw-parser-ou pu .side-box{wid h:238px}.mw-parser-ou pu .side-box-righ {clear:righ ; loa :righ ;margin-le :1em}.mw-parser-ou pu .side-box-le {margin-righ :1em}} @media prin {body.ns-0 .mw-parser-ou pu .sis ersi ebox{display:none!impor an }}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .sis ersi ebox img[src*="Wik ionary-logo-en- 2.s g"]{ il er:in er (1)brigh ness(55%)con ras (250%)hue-ro a e(180deg)}}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .sis ersi ebox img[src*="Wik ionary-logo-en- 2.s g"]{ il er:in er (1)brigh ness(55%)con ras (250%)hue-ro a e(180deg)}} 
+ 
+ 
+ Wikimedia Commons has media rela ed o Turing machines . 
+ 
+ 
+ "Turing machine" , Encyclopedia o Ma hema ics , EMS Press , 2001 [1994] 
+ "Turing Machines" en ry by De Mol, Liesbe h in he S an ord Encyclopedia o Philosophy , Summer 2025 
+ 
+ .mw-parser-ou pu .na box{box-sizing:border-box;border:1px solid #a2a9b1;wid h:100%;clear:bo h; on -size:88%; ex -align:cen er;padding:1px;margin:1em au o 0}.mw-parser-ou pu .na box .na box{margin- op:0}.mw-parser-ou pu .na box+.na box,.mw-parser-ou pu .na box+.na box-s yles+.na box{margin- op:-1px}.mw-parser-ou pu .na box-inner,.mw-parser-ou pu .na box-subgroup{wid h:100%}.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box- i le,.mw-parser-ou pu .na box-abo ebelow{padding:0.25em 1em;line-heigh :1.5em; ex -align:cen er}.mw-parser-ou pu .na box-group{whi e-space:nowrap; ex -align:righ }.mw-parser-ou pu .na box,.mw-parser-ou pu .na box-subgroup{background-color:# d d d;color:inheri }.mw-parser-ou pu .na box-lis {line-heigh :1.5em;border-color:# d d d}.mw-parser-ou pu .na box-lis -wi h-group{ ex -align:le ;border-le -wid h:2px;border-le -s yle:solid}.mw-parser-ou pu r+ r>.na box-abo ebelow,.mw-parser-ou pu r+ r>.na box-group,.mw-parser-ou pu r+ r>.na box-image,.mw-parser-ou pu r+ r>.na box-lis {border- op:2px solid # d d d}.mw-parser-ou pu .na box- i le{background-color:#cc ;color:inheri }.mw-parser-ou pu .na box-abo ebelow,.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box-subgroup .na box- i le{background-color:#dd ;color:inheri }.mw-parser-ou pu .na box-subgroup .na box-group,.mw-parser-ou pu .na box-subgroup .na box-abo ebelow{background-color:#e6e6 ;color:inheri }.mw-parser-ou pu .na box-e en{background-color:# 7 7 7;color:inheri }.mw-parser-ou pu .na box-odd{background-color: ransparen ;color:inheri }.mw-parser-ou pu .na box .hlis d dl,.mw-parser-ou pu .na box .hlis d ol,.mw-parser-ou pu .na box .hlis d ul,.mw-parser-ou pu .na box d.hlis dl,.mw-parser-ou pu .na box d.hlis ol,.mw-parser-ou pu .na box d.hlis ul{padding:0.125em 0}.mw-parser-ou pu .na box .na bar{display:block; on -size:100%}.mw-parser-ou pu .na box- i le .na bar{ loa :le ; ex -align:le ;margin-righ :0.5em}body.skin--responsi e .mw-parser-ou pu .na box-image img{max-wid h:none!impor an }@media prin {body.ns-0 .mw-parser-ou pu .na box{display:none!impor an }} e Au oma a heory : ormal languages and ormal grammars Chomsky hierarchy Grammars Languages Abs rac machines 
+ Type-0 
+ — 
+ Type-1 
+ — 
+ — 
+ — 
+ — 
+ — 
+ Type-2 
+ — 
+ — 
+ Type-3 
+ — 
+ — 
+ 
+ Unres ric ed 
+ (no common name) 
+ Con ex -sensi i e 
+ Posi i e range conca ena ion 
+ Indexed 
+ — 
+ Linear con ex - ree rewri ing sys ems 
+ Tree-adjoining 
+ Con ex - ree 
+ De erminis ic con ex - ree 
+ Visibly pushdown 
+ Regular 
+ — 
+ Non-recursi e 
+ 
+ Recursi ely enumerable 
+ Decidable 
+ Con ex -sensi i e 
+ Posi i e range conca ena ion * 
+ Indexed * 
+ — 
+ Linear con ex - ree rewri ing language 
+ Tree-adjoining 
+ Con ex - ree 
+ De erminis ic con ex - ree 
+ Visibly pushdown 
+ Regular 
+ S ar- ree 
+ Fini e 
+ 
+ Turing machine 
+ Decider 
+ Linear-bounded 
+ PTIME Turing Machine 
+ Nes ed s ack 
+ Thread au oma on 
+ res ric ed Tree s ack au oma on 
+ Embedded pushdown 
+ Nonde erminis ic pushdown 
+ De erminis ic pushdown 
+ Visibly pushdown 
+ Fini e 
+ Coun er- ree (wi h aperiodic ini e monoid) 
+ Acyclic ini e 
+ Each ca egory o languages, excep hose marked by a * , is a proper subse o he ca egory direc ly abo e i . Any language in each ca egory is genera ed by a grammar and by an au oma on in he ca egory in he same line. 
+ e Ma hema ical logic General 
+ Axiom 
+ lis 
+ Cardinali y 
+ Firs -order logic 
+ Formal proo 
+ Formal seman ics 
+ Founda ions o ma hema ics 
+ In orma ion heory 
+ Lemma 
+ Logical consequence 
+ Model 
+ Theorem 
+ Theory 
+ Type heory 
+ Theorems ( lis ), paradoxes 
+ Gödel's comple eness – incomple eness heorems 
+ Tarski's unde inabili y 
+ Banach–Tarski paradox 
+ Can or's heorem – paradox – diagonal argumen 
+ Compac ness 
+ Hal ing problem 
+ Linds röm's 
+ Löwenheim–Skolem 
+ Russell's paradox 
+ Logics Tradi ional 
+ Classical logic 
+ Logical ru h 
+ Tau ology 
+ Proposi ion 
+ In erence 
+ Logical equi alence 
+ Consis ency 
+ Equiconsis ency 
+ Argumen 
+ Soundness 
+ Validi y 
+ Syllogism 
+ Square o opposi ion 
+ Venn diagram 
+ Proposi ional 
+ Boolean algebra 
+ Boolean unc ions 
+ Logical connec i es 
+ Proposi ional calculus 
+ Proposi ional ormula 
+ Tru h ables 
+ Many- alued logic 
+ 3 
+ ini e 
+ ∞ 
+ Predica e 
+ Firs -order 
+ lis 
+ Second-order 
+ Monadic 
+ Higher-order 
+ Fixed-poin 
+ Free 
+ Quan i iers 
+ Predica e 
+ Monadic predica e calculus 
+ Se heory 
+ Se 
+ heredi ary 
+ Class 
+ ( Ur- ) Elemen 
+ Ordinal number 
+ Ex ensionali y 
+ Forcing 
+ Rela ion 
+ equi alence 
+ par i ion 
+ Se opera ions:
+ in ersec ion 
+ union 
+ complemen 
+ Car esian produc 
+ power se 
+ iden i ies 
+ Types o se s 
+ Coun able 
+ Uncoun able 
+ Emp y 
+ Inhabi ed 
+ Single on 
+ Fini e 
+ In ini e 
+ Transi i e 
+ Ul ra il er 
+ Recursi e 
+ Fuzzy 
+ Uni ersal 
+ Uni erse 
+ cons ruc ible 
+ Gro hendieck 
+ Von Neumann 
+ Maps , cardinali y 
+ Func ion / Map 
+ domain 
+ codomain 
+ image 
+ In / Sur / Bi -jec ion 
+ Schröder–Berns ein heorem 
+ Isomorphism 
+ Gödel numbering 
+ Enumera ion 
+ Large cardinal 
+ inaccessible 
+ Aleph number 
+ Opera ion 
+ binary 
+ Theories 
+ Zermelo–Fraenkel 
+ axiom o choice 
+ con inuum hypo hesis 
+ General 
+ Kripke–Pla ek 
+ Morse–Kelley 
+ Nai e 
+ New Founda ions 
+ Tarski–Gro hendieck 
+ Von Neumann–Bernays–Gödel 
+ Ackermann 
+ Cons ruc i e 
+ Formal sys ems ( lis ), language , syn ax 
+ Alphabe 
+ Ari y 
+ Au oma a 
+ Axiom schema 
+ Expression 
+ ground 
+ Ex ension 
+ by de ini ion 
+ conser a i e 
+ Rela ion 
+ Forma ion rule 
+ Grammar 
+ Formula 
+ a omic 
+ closed 
+ ground 
+ open 
+ Free/bound ariable 
+ Language 
+ Me alanguage 
+ Logical connec i e 
+ ¬ 
+ ∨ 
+ ∧ 
+ → 
+ ↔ 
+ = 
+ Predica e 
+ unc ional 
+ ariable 
+ proposi ional ariable 
+ Proo 
+ Quan i ier 
+ ∃ 
+ ! 
+ ∀ 
+ rank 
+ Sen ence 
+ a omic 
+ spec rum 
+ Signa ure 
+ S ring 
+ Subs i u ion 
+ Symbol 
+ unc ion 
+ logical/cons an 
+ non-logical 
+ ariable 
+ Term 
+ Theory 
+ lis 
+ Example axioma ic sys ems ( lis ) 
+ o rue ari hme ic 
+ Peano 
+ second-order 
+ elemen ary unc ion 
+ primi i e recursi e 
+ Robinson 
+ Skolem 
+ o he real numbers 
+ Tarski's axioma iza ion 
+ o Boolean algebras 
+ canonical 
+ minimal axioms 
+ o geome ry 
+ Euclidean 
+ Elemen s 
+ Hilber 's 
+ Tarski's 
+ non-Euclidean 
+ Principia Ma hema ica 
+ Proo heory 
+ Formal proo 
+ Na ural deduc ion 
+ Logical consequence 
+ Rule o in erence 
+ Sequen calculus 
+ Theorem 
+ Sys ems 
+ axioma ic 
+ deduc i e 
+ Hilber 
+ lis 
+ Comple e heory 
+ Independence ( rom ZFC ) 
+ Proo o impossibili y 
+ Ordinal analysis 
+ Re erse ma hema ics 
+ Sel - eri ying heories 
+ Model heory 
+ In erpre a ion 
+ unc ion 
+ o models 
+ Model 
+ a omic 
+ equi alence 
+ ini e 
+ prime 
+ sa ura ed 
+ spec rum 
+ submodel 
+ Non-s andard model 
+ o non-s andard ari hme ic 
+ Diagram 
+ elemen ary 
+ Ca egorical heory 
+ Model comple e heory 
+ Sa is iabili y 
+ Seman ics o logic 
+ S reng h 
+ Theories o ru h 
+ seman ic 
+ Tarski's 
+ Kripke's 
+ T-schema 
+ Trans er principle 
+ Tru h predica e 
+ Tru h alue 
+ Type 
+ Ul raproduc 
+ Validi y 
+ Compu abili y heory 
+ Church encoding 
+ Church–Turing hesis 
+ Compu ably enumerable 
+ Compu able unc ion 
+ Compu able se 
+ Decision problem 
+ decidable 
+ undecidable 
+ P 
+ NP 
+ P ersus NP problem 
+ Kolmogoro complexi y 
+ Lambda calculus 
+ Primi i e recursi e unc ion 
+ Recursion 
+ Recursi e se 
+ Turing machine 
+ Type heory 
+ Rela ed 
+ Abs rac logic 
+ Algebraic logic 
+ Au oma ed heorem pro ing 
+ Ca egory heory 
+ Concre e / Abs rac ca egory 
+ Ca egory o se s 
+ His ory o logic 
+ His ory o ma hema ical logic 
+ imeline 
+ Logicism 
+ Ma hema ical objec 
+ Philosophy o ma hema ics 
+ Super ask 
+ Ma hema ics&#32;por al 
+ e Alan Turing 
+ Turing comple eness 
+ Turing degree 
+ Turing machine 
+ Turing pa ern 
+ Turing's proo 
+ Turing reduc ion 
+ Turing es 
+ Publica ions 
+ " On Compu able Numbers " (1936) 
+ " Sys ems o Logic Based on Ordinals " (1939) 
+ " In elligen Machinery " (1948) 
+ Turochamp (1948) 
+ " Compu ing Machinery and In elligence " (1950) 
+ " The Chemical Basis o Morphogenesis " (1952) 
+ Rela ed 
+ Legacy o Alan Turing 
+ namesakes 
+ 
+ .mw-parser-ou pu . ool ip-do ed{border-bo om:1px do ed;cursor:help} Au hori y con rol da abases In erna ional GND FAST Na ional Uni ed S a es France BnF da a Japan Spain Israel O her IdRe Yale LUX 
+ 
+ 
+
+ 
+
+ 
+ 
+ Re rie ed rom " h ps://en.wikipedia.org/w/index.php? i le=Turing_machine&amp;oldid=1341155475 " 
+					 Ca egories : Turing machine 1936 in compu ing 1937 in compu ing Educa ional abs rac machines Theore ical compu er science Alan Turing Models o compu a ion Formal me hods Compu abili y heory English in en ions Au oma a (compu a ion) Formal languages Abs rac machines Hidden ca egories: Har and S n no- arge errors Ar icles wi h shor descrip ion Shor descrip ion is di eren rom Wikida a Use dmy da es rom December 2025 All ar icles wi h unsourced s a emen s Ar icles wi h unsourced s a emen s rom December 2021 Wikipedia re erences cleanup rom No ember 2019 All ar icles needing re erences cleanup Ar icles co ered by WikiProjec Wiki y rom No ember 2019 All ar icles co ered by WikiProjec Wiki y CS1: long olume alue CS1 Spanish-language sources (es) CS1 French-language sources ( r) Commons ca egory link is on Wikida a Ar icles wi h S an ord Encyclopedia o Philosophy links 
+				 
+			 
+			
+		 
+		 
+			
+ 
+	 
+	 This page was las edi ed on 1 March 2026, a 19:35 &#160;(UTC) . 
+	 Tex is a ailable under he Crea i e Commons A ribu ion-ShareAlike 4.0 License ;
+addi ional erms may apply. By using his si e, you agree o he Terms o Use and Pri acy Policy . Wikipedia® is a regis ered rademark o he Wikimedia Founda ion, Inc. , a non-pro i organiza ion. 
+ 
+
+	 
+	 Pri acy policy 
+	 Abou Wikipedia 
+	 Disclaimers 
+	 Con ac Wikipedia 
+	 Legal &amp; sa e y con ac s 
+	 Code o Conduc 
+	 De elopers 
+	 S a is ics 
+	 Cookie s a emen 
+	 Mobile iew 
+ 
+
+	 
+	 
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+
+ Search 
+			 
+		 
+			
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+								 
+							 
+							 
+						 
+						 Search 
+					 
+				 
+			 
+		 
+		 
+				 
+						
+					 
+						 
+						 
+
+ Toggle he able o con en s 
+						 
+						 
+					
+						 
+						 
+					
+						 
+					 
+			 
+				 Turing machine 
+			 
+		 
+		 
+			 
+				 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+		 
+			 
+				 
+
+ 67 languages 
+			 
+			 
+
+ Add opic 
+			 
+		 
+			 
+				 
+				 
+			 
+		 
+	 
+ 
+ 
+	 
+		
+	 
+ 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.con ig.se ({"wgHos name":"mw-web.cod w.main-648 759785-g ss6","wgBackendResponseTime":155,"wgPageParseRepor ":{"limi repor ":{"cpu ime":"0.605","wall ime":"0.843","pp isi ednodes":{" alue":9905,"limi ":1000000},"re isionsize":{" alue":75854,"limi ":2097152},"pos expandincludesize":{" alue":226587,"limi ":2097152}," empla eargumen size":{" alue":16991,"limi ":2097152},"expansiondep h":{" alue":18,"limi ":100},"expensi e unc ioncoun ":{" alue":15,"limi ":500},"uns rip-dep h":{" alue":1,"limi ":20},"uns rip-size":{" alue":192057,"limi ":5000000},"en i yaccesscoun ":{" alue":1,"limi ":500}," imingpro ile":["100.00% 630.379 1 - o al"," 16.51% 104.065 30 Templa e:Ci e_book"," 12.84% 80.952 47 Templa e:S n"," 10.18% 64.191 18 Templa e:Blockquo e"," 7.85% 49.489 1 Templa e:Shor _descrip ion"," 7.08% 44.659 1 Templa e:Turing"," 6.89% 43.446 1 Templa e:Sidebar"," 5.68% 35.807 1 Templa e:Commons_ca egory"," 5.48% 34.562 1 Templa e:Sis er_projec "," 5.35% 33.721 1 Templa e:Side_box"]},"scribun o":{"limi repor - imeusage":{" alue":"0.339","limi ":"10.000"},"limi repor -memusage":{" alue":9173711,"limi ":52428800},"limi repor -logs":"anchor_id_lis = able#1 { n [ "CITEREF "] = 1, n [ "CITEREFAroraBarak2009 "] = 1, n [ "CITEREFBoolosBurgessJe rey2002 "] = 1, n [ "CITEREFBoolosJe rey1999 "] = 1, n [ "CITEREFBoo h1967 "] = 1, n [ "CITEREFChurch2019 "] = 1, n [ "CITEREFCopeland2004 "] = 1, n [ "CITEREFDa is2000 "] = 1, n [ "CITEREFDa is2004 "] = 1, n [ "CITEREFDa isSigalWeyuker1994 "] = 1, n [ "CITEREFDershowi zGure ich2008 "] = 1, n [ "CITEREFGandy1995 "] = 1, n [ "CITEREFGrö schelLo ászSchrij er1993 "] = 1, n [ "CITEREFHawking2005 "] = 1, n [ "CITEREFHennie1977 "] = 1, n [ "CITEREFHennieS earns1966 "] = 1, n [ "CITEREFHodges1983 "] = 1, n [ "CITEREFHodges2012 "] = 1, n [ "CITEREFHopcro Mo waniUllman2001 "] = 1, n [ "CITEREFHopcro Ullman1979 "] = 1, n [ "CITEREFKan oro i z2005 "] = 1, n [ "CITEREFKirnerZimmermannRich er2009 "] = 1, n [ "CITEREFKleene1952 "] = 1, n [ "CITEREFKnu h1973 "] = 1, n [ "CITEREFManna1974 "] = 1, n [ "CITEREFMinsky1967 "] = 1, n [ "CITEREFPapadimi riou1993 "] = 1, n [ "CITEREFPenrose1989 "] = 1, n [ "CITEREFPe zold2008 "] = 1, n [ "CITEREFPos 1936 "] = 1, n [ "CITEREFPos 1947 "] = 1, n [ "CITEREFRogers1987 "] = 1, n [ "CITEREFSipser2012 "] = 1, n [ "CITEREFS one1972 "] = 1, n [ "CITEREFTorres_Que edo1914 "] = 1, n [ "CITEREFTorres_Que edo1915 "] = 1, n [ "CITEREFTuring1936 "] = 1, n [ "CITEREFTuring1938 "] = 1, n [ "CITEREFTuring1939 "] = 1, n [ "CITEREFTuring1968 "] = 1, n [ "CITEREFTuring1996 "] = 1, n [ "CITEREFVan_Emde_Boas1990 "] = 1, n [ "CITEREFWang1957 "] = 1, n} n empla e_lis = able#1 { n [ "= "] = 1, n [ "Alan Turing "] = 1, n [ "Au hori y con rol "] = 1, n [ "Au oma a heory "] = 1, n [ "Blockquo e "] = 18, n [ "CEmp y "] = 3, n [ "CNone "] = 6, n [ "Ci a ion needed "] = 1, n [ "Ci a ion s yle "] = 1, n [ "Ci e book "] = 30, n [ "Ci e con erence "] = 1, n [ "Ci e journal "] = 12, n [ "Commons ca egory "] = 1, n [ "DEFAULTSORT:Turing machine "] = 1, n [ "Di col "] = 1, n [ "Di col-end "] = 1, n [ "For "] = 1, n [ "Formal languages and grammars "] = 1, n [ "Fur her "] = 1, n [ "Har x "] = 33, n [ "Main "] = 1, n [ "Ma hema ical logic "] = 1, n [ "Mdash "] = 2, n [ "Nowrap "] = 2, n [ "O her uses "] = 1, n [ "Re begin "] = 5, n [ "Re end "] = 5, n [ "Re lis "] = 1, n [ "Re n "] = 6, n [ "SEP "] = 1, n [ "See also "] = 2, n [ "S n "] = 47, n [ "Shor descrip ion "] = 1, n [ "Springer "] = 1, n [ "Turing "] = 1, n [ "Use dmy da es "] = 1, n} nar icle_whi elis = able#1 { n} nci ere _pa erns = able#1 { n} nno arge : CITEREFTylerEmder on2019 n"},"cacherepor ":{"origin":"mw-web.cod w.main-6 7 9565cb-br56d"," imes amp":"20260420135212"," l":2592000," ransien con en ": alse,"expiry-source":"Module:Ci a ion/CS1 (os.da e(%Y))"}}});}); 
+ {"@con ex ":"h ps: / /schema.org","@ ype":"Ar icle","name":"Turing machine","url":"h ps: / /en.wikipedia.org /wiki /Turing_machine","sameAs":"h p: / /www.wikida a.org /en i y /Q163310","mainEn i y":"h p: / /www.wikida a.org /en i y /Q163310","au hor":{"@ ype":"Organiza ion","name":"Con ribu ors o Wikimedia projec s"},"publisher":{"@ ype":"Organiza ion","name":"Wikimedia Founda ion, Inc.","logo":{"@ ype":"ImageObjec ","url":"h ps: / /www.wikimedia.org /s a ic /images /wm -hor-googpub.png"}},"da ePublished":"2001-08-20T17:13:46Z","da eModi ied":"2026-03-01T19:35:28Z","image":"h ps: / /upload.wikimedia.org /wikipedia /commons /0 /03 /Turing_Machine_Model_Da ey_2012.jpg","headline":"abs rac compu a ion model; ma hema ical model o compu a ion ha de ines an abs rac machine which manipula es symbols on a s rip o ape according o a able o rules"}

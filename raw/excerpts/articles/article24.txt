@@ -1,0 +1,15 @@
+---
+title: 图灵机与可判定性
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Decision_problem
+---
+图灵机用于研究可判定性。
+可判定性属于计算理论。
+计算理论包含图灵机模型。
+图灵机是一种计算模型。
+图灵机是一种抽象机器。
+图灵机的上位类可以表述为计算模型。
+图灵机属于理论计算机科学。
+Alan Turing 与图灵机概念紧密相关。
+Alan Turing 出生于英国伦敦。
+Alan Turing 的国籍是英国。

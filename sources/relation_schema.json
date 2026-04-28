@@ -9,6 +9,7 @@
     {
       "prop_id": "P19",
       "label": "place_of_birth",
+      "label_zh": "出生地",
       "description": "出生地（人物 -> 地点）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -23,6 +24,7 @@
     {
       "prop_id": "P20",
       "label": "place_of_death",
+      "label_zh": "逝世地",
       "description": "逝世地（人物 -> 地点）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -37,6 +39,7 @@
     {
       "prop_id": "P69",
       "label": "educated_at",
+      "label_zh": "就读/毕业院校",
       "description": "毕业/就读院校（人物 -> 学校/机构）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -51,6 +54,7 @@
     {
       "prop_id": "P108",
       "label": "employer",
+      "label_zh": "工作单位",
       "description": "雇主/工作单位（人物 -> 组织）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -65,6 +69,7 @@
     {
       "prop_id": "P1416",
       "label": "affiliation",
+      "label_zh": "隶属机构",
       "description": "隶属机构/从属（人物 -> 组织）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -79,6 +84,7 @@
     {
       "prop_id": "P166",
       "label": "award_received",
+      "label_zh": "获奖",
       "description": "所获奖项（人物 -> 奖项）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -93,6 +99,7 @@
     {
       "prop_id": "P27",
       "label": "country_of_citizenship",
+      "label_zh": "国籍",
       "description": "国籍（人物 -> 国家）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -107,6 +114,7 @@
     {
       "prop_id": "P106",
       "label": "occupation",
+      "label_zh": "职业",
       "description": "职业（人物 -> 职业/角色概念）",
       "phase": "A",
       "subject_types": ["Person"],
@@ -163,6 +171,7 @@
     {
       "prop_id": "P361",
       "label": "part_of",
+      "label_zh": "隶属于",
       "description": "所属整体/组成部分（概念/奖项 -> 更大整体/体系）",
       "phase": "A",
       "subject_types": ["Concept", "Award"],
@@ -177,6 +186,7 @@
     {
       "prop_id": "P31",
       "label": "instance_of",
+      "label_zh": "实例",
       "description": "实例类型（概念/奖项 -> 类型）",
       "phase": "A",
       "subject_types": ["Concept", "Award"],
@@ -191,6 +201,7 @@
     {
       "prop_id": "P127",
       "label": "owned_by",
+      "label_zh": "所有者",
       "description": "拥有者（奖项 -> 组织）",
       "phase": "A",
       "subject_types": ["Award"],
@@ -205,6 +216,7 @@
     {
       "prop_id": "P137",
       "label": "operator",
+      "label_zh": "运营方",
       "description": "运营方/管理方（奖项 -> 组织）",
       "phase": "A",
       "subject_types": ["Award"],
@@ -219,6 +231,7 @@
     {
       "prop_id": "P17",
       "label": "country",
+      "label_zh": "国家",
       "description": "所属国家（奖项 -> 国家）",
       "phase": "A",
       "subject_types": ["Award"],
@@ -228,11 +241,12 @@
         "wikidata_instance_of_allow": [],
         "wikidata_instance_of_deny": []
       },
-      "aliases_zh": ["国家", "位于…国"]
+      "aliases_zh": ["国家", "国家是", "位于…国", "位于…国家", "在…", "来自…"]
     },
     {
       "prop_id": "P276",
       "label": "location",
+      "label_zh": "地点",
       "description": "地点（奖项 -> 地点）",
       "phase": "A",
       "subject_types": ["Award"],
@@ -242,7 +256,7 @@
         "wikidata_instance_of_allow": [],
         "wikidata_instance_of_deny": []
       },
-      "aliases_zh": ["地点", "位于"]
+      "aliases_zh": ["地点", "地点是", "位于", "在…", "举办于", "颁发于"]
     }
   ]
 }

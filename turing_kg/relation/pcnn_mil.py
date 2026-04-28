@@ -1,4 +1,9 @@
-"""PCNN（字级）+ 分段 max pooling；句向量经 MIL-Attention（Lin et al. 风格）聚合为 bag 表示再分类。"""
+"""PCNN（字级）+ piecewise pooling + 经典 DS selective attention（Lin et al., 2016）。
+
+本文件同时保留：
+- 旧版：共享 attention + 多标签 BCE（PCNNMILAttention）
+- 新版（经典路线）：逐关系 selective attention + 多分类 softmax（PCNNSelectiveAttention）
+"""
 
 from __future__ import annotations
 
@@ -165,3 +170,66 @@ def bce_loss_bag(logits_bag: torch.Tensor, target: torch.Tensor, pos_weight: tor
     if pos_weight is not None:
         return F.binary_cross_entropy_with_logits(logits_bag, target, pos_weight=pos_weight)
     return F.binary_cross_entropy_with_logits(logits_bag, target)
+
+
+class PCNNSelectiveAttention(nn.Module):
+    """
+    经典 DS bag-level 多分类：逐关系 selective attention。
+
+    记句向量 H=(n_inst, hidden_dim)。对每个 class r：
+      alpha_{i,r} = softmax_i( u_r^T tanh(W h_i) )
+      h_{bag,r} = sum_i alpha_{i,r} h_i
+      logit_r = w_r^T h_{bag,r} + b_r
+    """
+
+    def __init__(
+        self,
+        vocab_size: int,
+        num_classes: int,
+        *,
+        emb_dim: int = 128,
+        num_filters: int = 128,
+        kernel_size: int = 3,
+        dropout: float = 0.5,
+        pad_id: int = 0,
+        att_dim: int = 128,
+    ) -> None:
+        super().__init__()
+        self.num_classes = num_classes
+        self.pcnn = PCNN(
+            vocab_size,
+            num_classes=1,  # 逐句分类头不使用；句向量由 forward_pooled 产出
+            emb_dim=emb_dim,
+            num_filters=num_filters,
+            kernel_size=kernel_size,
+            dropout=dropout,
+            pad_id=pad_id,
+        )
+        hidden_dim = self.pcnn.hidden_dim
+        self.W = nn.Linear(hidden_dim, att_dim, bias=True)
+        # 每个 class 一条 attention 向量 u_r
+        self.u = nn.Parameter(torch.empty(num_classes, att_dim))
+        nn.init.xavier_uniform_(self.u)
+        # 每个 class 一套分类参数（等价于对 h_{bag,r} 做线性层）
+        self.classifier = nn.Linear(hidden_dim, num_classes)
+
+    def forward_bag(
+        self, char_ids: torch.Tensor, pos_e1: torch.Tensor, pos_e2: torch.Tensor
+    ) -> tuple[torch.Tensor, torch.Tensor]:
+        """
+        返回：
+        - logits: (num_classes,)
+        - attn: (num_classes, n_inst)  每个 class 在实例维度 softmax
+        """
+        H = self.pcnn.forward_pooled(char_ids, pos_e1, pos_e2)  # (n, hidden)
+        E = torch.tanh(self.W(H))  # (n, att_dim)
+        # scores: (n, C) = E @ u^T
+        scores = E @ self.u.t()
+        # 对实例维度做 softmax，得到每个 class 的 attention 分布
+        attn = F.softmax(scores.transpose(0, 1), dim=1)  # (C, n)
+        # 每个 class 的 bag 表示
+        H_bag = attn @ H  # (C, hidden)
+        logits = self.classifier(H_bag)  # (C, C)
+        # 取对角：每个 class r 只取自己的 logit_r
+        logits = torch.diagonal(logits, 0)  # (C,)
+        return logits, attn

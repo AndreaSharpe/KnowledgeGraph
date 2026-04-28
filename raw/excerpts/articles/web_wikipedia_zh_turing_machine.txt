@@ -1,0 +1,3349 @@
+---
+cite: wikipedia_zh_turing_machine
+url: https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%9C%BA
+title: 图灵机（维基百科）
+---
+图灵机 - 维基百科，自由的百科全书 
+ ( unc ion(){ ar className="clien -js ec or- ea ure-language-in-header-enabled ec or- ea ure-language-in-main-menu-disabled ec or- ea ure-language-in-main-page-header-disabled ec or- ea ure-page- ools-pinned-disabled ec or- ea ure- oc-pinned-clien pre -1 ec or- ea ure-main-menu-pinned-disabled ec or- ea ure-limi ed-wid h-clien pre -1 ec or- ea ure-limi ed-wid h-con en -enabled ec or- ea ure-cus om- on -size-clien pre -1 ec or- ea ure-appearance-pinned-clien pre -1 skin- heme-clien pre -day ec or-s icky-header-enabled ec or- oc-a ailable skin- heme-clien pre - humb-s andard"; ar cookie=documen .cookie.ma ch(/(?:^|; )zhwikimwclien pre erences=([^;]+)/);i (cookie){cookie[1].spli ('%2C'). orEach( unc ion(pre ){className=className.replace(new RegExp('(^| )'+pre .replace(/-clien pre - w+$|[^ w-]+/g,'')+'-clien pre - w+( |$)'),'$1'+pre +'$2');});}documen .documen Elemen .className=className;}());RLCONF={"wgBreakFrames": alse,"wgSepara orTrans ormTable":["",""],"wgDigi Trans ormTable":["",""],"wgDe aul Da eForma ":"zh","wgMon hNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgReques Id":"1c254601-639b-4a00-acdd-3d2e8 616142","wgCanonicalNamespace":"","wgCanonicalSpecialPageName": alse,"wgNamespaceNumber":0,"wgPageName":"图灵机","wgTi le":"图灵机","wgCurRe isionId":89736155,"wgRe isionId":89736155,"wgAr icleId":21920,"wgIsAr icle": rue,"wgIsRedirec ": alse,"wgAc ion":" iew","wgUserName":null,"wgUserGroups":["*"],"wgCa egories":["自2019年6月缺少注脚的条目","自2019年1月需补充来源的条目","拒绝当选首页新条目推荐栏目的条目","含有英語的條目","包含FAST标识符的维基百科条目","包含BNE标识符的维基百科条目","包含BNF标识符的维基百科条目","包含BNFda a标识符的维基百科条目","包含GND标识符的维基百科条目","包含J9U标识符的维基百科条目","包含LCCN标识符的维基百科条目","包含NDL标识符的维基百科条目","包含SUDOC标识符的维基百科条目","使用ISBN魔术链接的页面","计算模型","图灵机","自动机","递归论"],"wgPageViewLanguage":"zh","wgPageCon en Language":"zh","wgPageCon en Model":"wiki ex ","wgRele an PageName":"图灵机","wgRele an Ar icleId":21920,"wgTempUserName":null,"wgUserVarian ":"zh","wgIsProbablyEdi able": rue,"wgRele an PageIsProbablyEdi able": rue,"wgRes ric ionEdi ":[],"wgRes ric ionMo e":[],"wgNo iceProjec ":"wikipedia","wgCi eRe erencePre iewsAc i e": rue,"wgCon irmEdi Cap chaNeededForGenericEdi ":"hcap cha","wgCon irmEdi HCap chaVisualEdi orOnLoadIn egra ionEnabled": alse,"wgCon irmEdi HCap chaSi eKey":"5d0c670e-a5 4-4258-ad16-1 42792c9c62","wgMediaViewerOnClick": rue,"wgMediaViewerEnabledByDe aul ": rue,"wgPopupsFlags":0,"wgVisualEdi or":{"pageLanguageCode":"zh","pageLanguageDir":"l r","pageVarian Fallbacks":["zh-hans","zh-han ","zh-cn","zh- w","zh-hk","zh-sg","zh-mo","zh-my"]},"wgMFDisplayWikibaseDescrip ions":{"search": rue,"wa chlis ": rue," agline": rue,"nearby": rue},"wgWMESchemaEdi A emp S epO ersample": alse,"wgWMEPageLeng h":10000,"wgEdi Submi Bu onLabelPublish": rue,"wgVisualEdi orPageIsDisambigua ion": alse,"wgULSPosi ion":"in erlanguage","wgULSisCompac LinksEnabled": alse,"wgVec or2022LanguageInHeader": rue,"wgULSisLanguageSelec orEmp y": alse,"wgWikibaseI emId":"Q163310","wgCheckUserClien Hin sHeadersJsApi":["brands","archi ec ure","bi ness"," ullVersionLis ","mobile","model","pla orm","pla ormVersion"],"GEHomepageSugges edEdi sEnableTopics": rue,"wgGESugges edEdi sTaskTypes":{" askTypes":["copyedi ","link-recommenda ion"],"una ailableTaskTypes":[]},"wgGETopicsMa chModeEnabled": alse,"wgGELe elingUpEnabledForUser": alse,"wgTes Ki chenUserExperimen s":{"o errides":[],"enrolled":[],"assigned":[],"subjec _ids":[]}};
+RLSTATE={"ex .gadge .ilhpp-ini ial-pages yles":"ready","ex .gadge .large- on ":"ready","ex .gadge . ex -spacing":"ready","ex .globalCssJs.user.s yles":"ready","si e.s yles":"ready","user.s yles":"ready","ex .globalCssJs.user":"ready","user":"ready","user.op ions":"loading","ex .ma h.s yles":"ready","ex .wikimediamessages.s yles":"ready","skins. ec or.search.codex.s yles":"ready","skins. ec or.s yles":"ready","skins. ec or.icons":"ready","jquery.makeCollapsible.s yles":"ready","ex . isualEdi or.desk opAr icleTarge .noscrip ":"ready","ex .uls.in erlanguage":"ready","wikibase.clien .ini ":"ready"};RLPAGEMODULES=["ex .ma h.poly ills","mediawiki.page.media","ex .parsermigra ion.sur ey","si e","mediawiki.page.ready","jquery.makeCollapsible","mediawiki. oc","skins. ec or.js","ex .cen ralNo ice.geoIP","ex .cen ralNo ice.s ar Up","ex .gadge .Di link","ex .gadge .Na Frame","ex .gadge .WikiMiniA las","ex .gadge .ilhpp","ex .gadge .no eTA","ex .gadge .warn-archi e- oday","ex .gadge .edi 0","ex .gadge .Ad ancedSi eNo ices","ex .gadge .SpecialWiki ex ","ex .gadge .Varian Ally","ex .gadge .hideCon ersionTab","ex .gadge .pseudonamespace-UI","ex .gadge .scrollUpBu on","ex .gadge .swi cher","ex .gadge .unihan-helper","ex .gadge .collapsibleTables","ex .urlShor ener. oolbar","ex .cen ralau h.cen ralau ologin","mm .boo s rap","ex .popups","ex . isualEdi or.desk opAr icleTarge .ini ","ex .echo.cen ralau h","ex .e en Logging","ex .wikimediaE en s","ex .na iga ionTiming","ex .uls.in er ace","ex .cx.e en logging.campaigns","ex .cx.uls.quick.ac ions","wikibase.clien . ec or-2022","wikibase.da abox. romWikida a","ex .checkUser.clien Hin s","ex .quicksur eys.ini ","ex .grow hExperimen s.Sugges edEdi Session","ex . es Ki chen"]; 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.loader.impl( unc ion(){re urn["user.op ions@12s5i", unc ion($,jQuery,require,module){mw.user. okens.se ({"pa rolToken":"+ ","wa chToken":"+ ","csr Token":"+ "});
+}];});}); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 跳转到内容 
+ 
+	 
+		 
+			 
+				
+ 
+	 
+	 
+
+ 主菜单 
+	 
+	 
+
+
+				 
+		
+ 
+	 
+	 主菜单 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		导航
+	 
+	 
+		
+		 
+			
+			 首页 分类索引 特色内容 新闻动态 随机条目 联络我们 关于维基百科 
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		贡献
+	 
+	 
+		
+		 
+			
+			 帮助 维基社群 编辑入门 互助客栈 IRC即时聊天 最近更改 特殊页面 
+		 
+		
+	 
+ 
+
+ 
+
+				 
+
+	 
+ 
+
+		 
+			
+ 
+	 
+	 
+		 
+		 
+	 
+ 
+
+		 
+		 
+			
+ 
+	 
+
+ 搜索 
+	 
+	 
+		 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+				 
+				 搜索 
+			 
+		 
+	 
+ 
+
+			 
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	 
+		
+ 
+	 
+	 
+
+ 外观 
+	 
+	 
+
+
+			 
+				
+			 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+		
+		 
+			
+			
+		 
+		
+	 
+ 
+
+	
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 创建账号 
+ 
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	 
+	
+ 
+	 
+	 
+
+ 个人工具 
+	 
+	 
+
+
+		
+ 
+	 
+		
+		 
+			 
+
+ 资助维基百科 
+ 
+ 
+
+ 创建账号 
+ 
+ 
+
+ 登录 
+ 
+
+			
+		 
+		
+	 
+ 
+
+	
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+		 
+		 
+			 
+		 
+			 
+				 
+				
+				 
+		 
+		 
+	 
+	 
+				 
+					 
+					 
+	 
+	 目录 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+	 
+		 
+			 
+				 序言 
+			 
+		 
+		 
+		 
+			 
+				 1 
+				 图灵的基本思想 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 2 
+				 图灵机的形式定义 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 3 
+				 图灵机的基本术语 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 4 
+				 图灵机的例子 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 5 
+				 通用图灵机 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 6 
+				 图灵机的变体 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 7 
+				 图灵可计算性 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 8 
+				 其它等价的计算模型 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 9 
+				 定理 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 10 
+				 参考文献 
+			 
+		 
+		
+		 
+		 
+	 
+	 
+		 
+			 
+				 11 
+				 外部链接 
+			 
+		 
+		
+		 
+		 
+	 
+ 
+ 
+
+					 
+		 
+			 
+		 
+		 
+			 
+				 
+					 
+						
+ 
+	 
+	 
+
+ 开关目录 
+	 
+	 
+
+
+							 
+			 
+		
+	 
+ 
+
+					 
+					 图灵机 
+							
+ 
+	 
+	 
+
+ 67种语言 
+	 
+	 
+
+		 
+			
+			 
+				
+				 A rikaans Alemannisch العربية Беларуская (тарашкевіца) Беларуская Български Bosanski Ca alà کوردی Češ ina Dansk Deu sch Ελληνικά English Esperan o Español Ees i Euskara فارسی Suomi Français Furlan Gaeilge Galego עברית Hr a ski Magyar Հայերեն In erlingua Bahasa Indonesia Ido I aliano 日本語 ქართული Gĩkũyũ 한국어 La ina Lë zebuergesch Lombard Lie u ių La iešu Македонски മലയാളം Mirandés Nederlands Norsk nynorsk Norsk bokmål Occi an Polski Por uguês Română Русский Srpskohr a ski / српскохрватски Simple English Slo enčina Slo enščina Shqip Српски / srpski S enska ไทย Tagalog Türkçe Українська Tiếng Việ 吴语 閩南語 / Bân-lâm-gí 粵語 
+			 
+			 编辑链接 
+		 
+
+	 
+ 
+ 
+				 
+					 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 条目 讨论 
+		 
+		
+	 
+ 
+
+								
+ 
+	 
+	 不转换 
+	 
+	 
+
+
+					
+ 
+	 
+		
+		 
+			
+			 不转换 简体 繁體 大陆简体 香港繁體 澳門繁體 大马简体 新加坡简体 臺灣正體 
+		 
+		
+	 
+ 
+
+				
+	 
+ 
+
+							 
+						 
+						 
+							 
+								
+ 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+							 
+				
+							 
+								
+ 
+	 
+	 工具 
+	 
+	 
+
+
+									 
+						
+ 
+	 
+	 工具 
+	 移至侧栏 
+	 隐藏 
+ 
+
+	
+ 
+	 
+		操作
+	 
+	 
+		
+		 
+			
+			 阅读 编辑 查看历史 
+		 
+		
+	 
+ 
+
+ 
+	 
+		常规
+	 
+	 
+		
+		 
+			
+			 链入页面 相关更改 上传文件 固定链接 页面信息 引用此页 获取短链接 
+		 
+		
+	 
+ 
+
+ 
+	 
+		打印/导出
+	 
+	 
+		
+		 
+			
+			 下载为PDF 打印页面 
+		 
+		
+	 
+ 
+
+ 
+	 
+		在其他项目中
+	 
+	 
+		
+		 
+			
+			 维基共享资源 维基数据项目 
+		 
+		
+	 
+ 
+
+ 
+
+									 
+				
+	 
+ 
+
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+						 
+							 
+				
+							 
+		 
+						 
+							 
+				 
+	 
+	 外观 
+	 移至侧栏 
+	 隐藏 
+ 
+
+
+ 
+
+							 
+		 
+					 
+				 
+				 
+					 
+							 
+		 
+		 
+
+						 维基百科，自由的百科全书 
+					 
+					 
+					
+					
+					 .mw-parser-ou pu .mbox- ex ,.mw-parser-ou pu .mbox- ex {border:none;padding:0.25em 0.9em;wid h:100%}.mw-parser-ou pu .mbox-image{border:none;padding:2px 0 2px 0.9em; ex -align:cen er}.mw-parser-ou pu .mbox-imagerigh {border:none;padding:2px 0.9em 2px 0; ex -align:cen er}.mw-parser-ou pu .mbox-emp y-cell{border:none;padding:0;wid h:1px} .mw-parser-ou pu .ambox{border:1px solid #a2a9b1;border-le :10px solid #36c;background-color:# b b b;box-sizing:border-box}.mw-parser-ou pu .ambox+link+.ambox,.mw-parser-ou pu .ambox+link+s yle+.ambox,.mw-parser-ou pu .ambox+link+link+.ambox,.mw-parser-ou pu .ambox+.mw-emp y-el +link+.ambox,.mw-parser-ou pu .ambox+.mw-emp y-el +link+s yle+.ambox,.mw-parser-ou pu .ambox+.mw-emp y-el +link+link+.ambox{margin- op:-1px}h ml body.mediawiki .mw-parser-ou pu .ambox.mbox-small-le {margin:4px 1em 4px 0;o er low:hidden;wid h:238px;border-collapse:collapse; on -size:88%;line-heigh :1.25em}.mw-parser-ou pu .ambox-speedy{border-le :10px solid #b32424;background-color:# ee7e6}.mw-parser-ou pu .ambox-dele e{border-le :10px solid #b32424}.mw-parser-ou pu .ambox-con en {border-le :10px solid # 28500}.mw-parser-ou pu .ambox-s yle{border-le :10px solid # c3}.mw-parser-ou pu .ambox-mo e{border-le :10px solid #9932cc}.mw-parser-ou pu .ambox-pro ec ion{border-le :10px solid #a2a9b1}.mw-parser-ou pu .ambox .mbox- ex {border:none;padding:0.25em 0.5em;wid h:100%}.mw-parser-ou pu .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em; ex -align:cen er}.mw-parser-ou pu .ambox .mbox-imagerigh {border:none;padding:2px 0.5em 2px 0; ex -align:cen er}.mw-parser-ou pu .ambox .mbox-emp y-cell{border:none;padding:0;wid h:1px}.mw-parser-ou pu .ambox .mbox-image-di {wid h:52px}h ml.clien -js body.skin-miner a .mw-parser-ou pu .mbox- ex -span{margin-le :23px!impor an }@media(min-wid h:720px){.mw-parser-ou pu .ambox{margin:0 10%}}@media screen{h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox{border-le -color:#36c!impor an }h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox-speedy,h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox-dele e{border-le -color:#b32424!impor an }h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox-speedy{background-color:#300!impor an }h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox-con en {border-le -color:# 28500!impor an }h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox-s yle{border-le -color:# c3!impor an }h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox-mo e{border-le -color:#9932cc!impor an }h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .ambox-pro ec ion{border-le -color:#a2a9b1!impor an }}@media screen and (pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox{border-le -color:#36c!impor an }h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox-speedy,h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox-dele e{border-le -color:#b32424!impor an }h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox-speedy{background-color:#300!impor an }h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox-con en {border-le -color:# 28500!impor an }h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox-s yle{border-le -color:# c3!impor an }h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox-mo e{border-le -color:#9932cc!impor an }h ml.skin- heme-clien pre -os .mw-parser-ou pu .ambox-pro ec ion{border-le -color:#a2a9b1!impor an }} 此條目已 列出參考文獻 ，但 因為沒有 文內引註 而使來源仍然不明 。 ( 2019年6月25日 ) 请加上合适的文內引註来 改善这篇条目 。 
+ 此條目 需要补充更多 来源 。 ( 2019年1月4日 ) 请协助補充多方面 可靠来源 以 改善这篇条目 ， 无法查证 的内容可能會因為 异议提出 而被移除。 致使用者：请搜索一下条目的标题（来源搜索： "图灵机" &#8212; 网页 、 新闻 、 书籍 、 学术 、 图像 ），以检查网络上是否存在该主题的更多可靠来源（ 判定指引 ）。 
+ 
+ 图灵机的艺术表示 
+ 图灵机 （英語： Turing machine ），又称 确定型图灵机 ，是 英国 数学家 艾倫·图灵 于1936年提出的一种將人的計算行為抽象化的 数理逻辑 机，其更抽象的意义为一种 计算模型 ，可以看作等价于任何有限逻辑，数学过程的强大可计算机器。
+ 
+ 
+ 图灵的基本思想 [ 编辑 ] 
+ 图灵的基本思想是用机器来模拟人们用纸笔进行 数学 运算的过程，他把这样的过程看作下列两种简单的动作：
+ 
+ 在纸上写上或擦除某个 符号 ； 
+ 把注意力从纸的一处移动到另一处； 
+ 而在每个阶段，人要决定下一步的动作，依赖于（a）此人当前所关注的纸上某个位置的符号和（b）此人当前思维的状态。
+ 
+ 在某些模型中，纸带移动，而未用到的纸带真正是“空白”的。要进行的指令（ q4 ）展示在扫描到方格之上（由Kleene（1952）p.375绘制）。 
+ 在某些模型中，读写头沿着固定的纸带移动。要进行的指令（ q1 ）展示在读写头内。在这种模型中“空白”的纸带是全部为0的。有阴影的方格，包括读写头扫描到的空白，标记了1,1,B的那些方格，和读写头符号，构成了系统状态。（由Minsky（1967）p.121绘制） 
+ 为了模拟人的这种运算过程，图灵构造出一台假想的机器，该机器由以下几个部分组成：
+ 
+ 一条无限长的纸带 TAPE 。纸带被划分为一个接一个的小格子，每个格子上包含一个来自有限字母表的符号，字母表中有一个特殊的符号 
+ 
+ 
+ 
+ &#x25FB; 
+ 
+ 
+ { displays yle square } 
+ 
+ 表示空白。纸带上的格子从左到右依次被编号为0, 1, 2, ...，纸带的右端可以无限伸展。 
+ 一个读写头 HEAD 。它可以在纸带上左右移动，能读出当前所指的格子上的符号，并能改变它。 
+ 一套控制规则數量有限的 TABLE （A ini e able o ins ruc ions）。它根据当前机器所处的状态以及当前读写头所指的格子上的符号来确定读写头下一步的动作，并改变状态寄存器的值，令机器进入一个新的状态。 按照以下顺序告知图灵机命令：
+ 1. 写入（替换）或擦除当前符号； 
+ 2. 移动 HEAD ， 'L'向左， 'R'向右或者'N'不移动； 
+ 3. 保持当前状态或者转到另一状态。 
+ 一个 状态寄存器 。它用来保存图灵机当前所处的状态。图灵机的所有可能状态的数目是有限的，并且有一个特殊的状态，称为 停机状态 。参见 停机问题 。 
+ 注意这个机器的每一部分都是有限的，但它有一个潜在的无限长的纸带，因此这种机器只是一个理想的设备。图灵认为这样的一台机器就能模拟人类所能进行的任何计算过程。
+ 
+ 图灵机的形式定义 [ 编辑 ] 
+ 一台 图灵机 是一个七元有序组 
+ 
+ 
+ 
+ ( 
+ Q 
+ , 
+ &#x03A3; 
+ , 
+ &#x0393; 
+ , 
+ &#x03B4; 
+ , 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ a 
+ c 
+ c 
+ e 
+ p 
+ 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ r 
+ e 
+ j 
+ e 
+ c 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ { displays yle (Q, Sigma , Gamma , del a ,q_{0},q_{accep },q_{rejec })} 
+ 
+ ，其中 
+ 
+ 
+ 
+ Q 
+ , 
+ &#x03A3; 
+ , 
+ &#x0393; 
+ 
+ 
+ { displays yle Q, Sigma , Gamma } 
+ 
+ 都是 有限集合 ，且满足：
+ 
+ 
+ 
+ 
+ 
+ Q 
+ 
+ 
+ { displays yle Q} 
+ 
+ 是非空有穷状态集合； 
+ 
+ 
+ 
+ 
+ &#x03A3; 
+ 
+ 
+ { displays yle Sigma } 
+ 
+ 是非空有穷输入字母表，其中不包含特殊的空白符 
+ 
+ 
+ 
+ &#x25FB; 
+ 
+ 
+ { displays yle square } 
+ 
+ ； 
+ 
+ 
+ 
+ 
+ &#x0393; 
+ 
+ 
+ { displays yle Gamma } 
+ 
+ 是非空有穷带字母表且 
+ 
+ 
+ 
+ &#x03A3; 
+ &#x2282; 
+ &#x0393; 
+ 
+ 
+ { displays yle Sigma subse Gamma } 
+ 
+ ； 
+ 
+ 
+ 
+ &#x25FB; 
+ &#x2208; 
+ &#x0393; 
+ &#x2212; 
+ &#x03A3; 
+ 
+ 
+ { displays yle square in Gamma - Sigma } 
+ 
+ 为 空白符 ，也是唯一允许出现无限次的字符； 
+ 
+ 
+ 
+ 
+ &#x03B4; 
+ : 
+ Q 
+ &#x00D7; 
+ &#x0393; 
+ &#x2192; 
+ Q 
+ &#x00D7; 
+ &#x0393; 
+ &#x00D7; 
+ { 
+ L 
+ , 
+ R 
+ , 
+ &#x2212; 
+ } 
+ 
+ 
+ { displays yle del a :Q imes Gamma o Q imes Gamma imes {L,R,- }} 
+ 
+ 是转移函数，其中 
+ 
+ 
+ 
+ L 
+ , 
+ R 
+ 
+ 
+ { displays yle L,R} 
+ 
+ 表示读写头是向左移还是向右移, - 表示不移动； 
+ 
+ 
+ 
+ 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ &#x2208; 
+ Q 
+ 
+ 
+ { displays yle q_{0} in Q} 
+ 
+ 是起始状态； 
+ 
+ 
+ 
+ 
+ 
+ q 
+ 
+ a 
+ c 
+ c 
+ e 
+ p 
+ 
+ 
+ 
+ &#x2208; 
+ Q 
+ 
+ 
+ { displays yle q_{accep } in Q} 
+ 
+ 是接受状态。 
+ 
+ 
+ 
+ 
+ 
+ q 
+ 
+ r 
+ e 
+ j 
+ e 
+ c 
+ 
+ 
+ 
+ &#x2208; 
+ Q 
+ 
+ 
+ { displays yle q_{rejec } in Q} 
+ 
+ 是拒绝状态，且 
+ 
+ 
+ 
+ 
+ q 
+ 
+ r 
+ e 
+ j 
+ e 
+ c 
+ 
+ 
+ 
+ &#x2260; 
+ 
+ q 
+ 
+ a 
+ c 
+ c 
+ e 
+ p 
+ 
+ 
+ 
+ 
+ 
+ { displays yle q_{rejec } neq q_{accep }} 
+ 
+ 。 
+ 图灵机 
+ 
+ 
+ 
+ M 
+ = 
+ ( 
+ Q 
+ , 
+ &#x03A3; 
+ , 
+ &#x0393; 
+ , 
+ &#x03B4; 
+ , 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ a 
+ c 
+ c 
+ e 
+ p 
+ 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ r 
+ e 
+ j 
+ e 
+ c 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ { displays yle M=(Q, Sigma , Gamma , del a ,q_{0},q_{accep },q_{rejec })} 
+ 
+ 将以如下方式运作：
+ 开始的时候将输入符号串
+ 
+ 
+ 
+ 
+ &#x03C9; 
+ = 
+ 
+ &#x03C9; 
+ 
+ 0 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ 1 
+ 
+ 
+ &#x2026; 
+ 
+ &#x03C9; 
+ 
+ n 
+ &#x2212; 
+ 1 
+ 
+ 
+ &#x2208; 
+ 
+ &#x03A3; 
+ 
+ &#x2217; 
+ 
+ 
+ 
+ 
+ { displays yle omega = omega _{0} omega _{1} ldo s omega _{n-1} in Sigma ^{*}} 
+ 
+ 
+从左到右依此填在纸带的第 
+ 
+ 
+ 
+ 0 
+ , 
+ 1 
+ , 
+ &#x2026; 
+ , 
+ n 
+ &#x2212; 
+ 1 
+ 
+ 
+ { displays yle 0,1, ldo s ,n-1} 
+ 
+ 号格子上，其他格子保持空白（即填以空白符 
+ 
+ 
+ 
+ &#x25FB; 
+ 
+ 
+ { displays yle square } 
+ 
+ )。
+ 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的读写头指向第0号格子，
+ 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 处于状态 
+ 
+ 
+ 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ { displays yle q_{0}} 
+ 
+ 。机器开始运行后，按照转移函数 
+ 
+ 
+ 
+ &#x03B4; 
+ 
+ 
+ { displays yle del a } 
+ 
+ 所描述的规则进行计算。例如，若当前机器的状态为 
+ 
+ 
+ 
+ q 
+ 
+ 
+ { displays yle q} 
+ 
+ ，读写头所指的格子中的符号为 
+ 
+ 
+ 
+ x 
+ 
+ 
+ { displays yle x} 
+ 
+ ，设 
+ 
+ 
+ 
+ &#x03B4; 
+ ( 
+ q 
+ , 
+ x 
+ ) 
+ = 
+ ( 
+ 
+ q 
+ &#x2032; 
+ 
+ , 
+ 
+ x 
+ &#x2032; 
+ 
+ , 
+ L 
+ ) 
+ 
+ 
+ { displays yle del a (q,x)=(q',x',L)} 
+ 
+ ，则机器进入新状态 
+ 
+ 
+ 
+ 
+ q 
+ &#x2032; 
+ 
+ 
+ 
+ { displays yle q'} 
+ 
+ ，将读写头所指的格子中的符号改为 
+ 
+ 
+ 
+ 
+ x 
+ &#x2032; 
+ 
+ 
+ 
+ { displays yle x'} 
+ 
+ ，然后将读写头向左移动一个格子。若在某一时刻，读写头所指的是第0号格子，但根据转移函数它下一步将继续向左移，这时它停在原地不动。换句话说，读写头始终不移出纸带的左边界。若在某个时刻 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 根据转移函数进入了状态 
+ 
+ 
+ 
+ 
+ q 
+ 
+ a 
+ c 
+ c 
+ e 
+ p 
+ 
+ 
+ 
+ 
+ 
+ { displays yle q_{accep }} 
+ 
+ ，则它立刻停机并接受输入的字符串；
+若在某个时刻 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 根据转移函数进入了状态 
+ 
+ 
+ 
+ 
+ q 
+ 
+ r 
+ e 
+ j 
+ e 
+ c 
+ 
+ 
+ 
+ 
+ 
+ { displays yle q_{rejec }} 
+ 
+ ，则它立刻停机并拒绝输入的字符串。
+ 注意，转移函数 
+ 
+ 
+ 
+ &#x03B4; 
+ 
+ 
+ { displays yle del a } 
+ 
+ 是一个部分函数，换句话说对于某些 
+ 
+ 
+ 
+ q 
+ 
+ 
+ { displays yle q} 
+ 
+ , 
+ 
+ 
+ 
+ x 
+ 
+ 
+ { displays yle x} 
+ 
+ ， 
+ 
+ 
+ 
+ &#x03B4; 
+ ( 
+ q 
+ , 
+ x 
+ ) 
+ 
+ 
+ { displays yle del a (q,x)} 
+ 
+ 可能没有定义，如果在运行中遇到下一个操作没有定义的情况，机器将立刻停机。
+ 
+ 图灵机的基本术语 [ 编辑 ] 
+ 设 
+ 
+ 
+ 
+ M 
+ = 
+ ( 
+ Q 
+ , 
+ &#x03A3; 
+ , 
+ &#x0393; 
+ , 
+ &#x03B4; 
+ , 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ a 
+ c 
+ c 
+ e 
+ p 
+ 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ r 
+ e 
+ j 
+ e 
+ c 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ { displays yle M=(Q, Sigma , Gamma , del a ,q_{0},q_{accep },q_{rejec })} 
+ 
+ 是一台图灵机，
+ 
+ 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的 带描述（ ape descrip ion） 是一个函数 
+ 
+ 
+ 
+ F 
+ : 
+ 
+ N 
+ 
+ &#x2192; 
+ &#x0393; 
+ 
+ 
+ { displays yle F: ma hbb {N} o Gamma } 
+ 
+ ，其中 
+ 
+ 
+ 
+ F 
+ ( 
+ i 
+ ) 
+ 
+ 
+ { displays yle F(i)} 
+ 
+ 表示 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的带上第 
+ 
+ 
+ 
+ i 
+ 
+ 
+ { displays yle i} 
+ 
+ 个格子中的符号； 
+ 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的 格局（con igura ion） 是一个三元组 
+ 
+ 
+ 
+ ( 
+ F 
+ , 
+ q 
+ , 
+ e 
+ ) 
+ 
+ 
+ { displays yle (F,q,e)} 
+ 
+ ，其中 
+ 
+ 
+ 
+ F 
+ : 
+ 
+ N 
+ 
+ &#x2192; 
+ &#x0393; 
+ 
+ 
+ { displays yle F: ma hbb {N} o Gamma } 
+ 
+ 是当前的带描述， 
+ 
+ 
+ 
+ q 
+ &#x2208; 
+ Q 
+ 
+ 
+ { displays yle q in Q} 
+ 
+ 是当前的状态， 
+ 
+ 
+ 
+ e 
+ &#x2208; 
+ 
+ N 
+ 
+ 
+ 
+ { displays yle e in ma hbb {N} } 
+ 
+ 是当前读写头所处的位置； 
+ 设 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ = 
+ ( 
+ 
+ F 
+ 
+ 1 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ 1 
+ 
+ 
+ , 
+ 
+ e 
+ 
+ 1 
+ 
+ 
+ ) 
+ 
+ 
+ { displays yle C_{1}=(F_{1},q_{1},e_{1})} 
+ 
+ , 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 2 
+ 
+ 
+ = 
+ ( 
+ 
+ F 
+ 
+ 2 
+ 
+ 
+ , 
+ 
+ q 
+ 
+ 2 
+ 
+ 
+ , 
+ 
+ e 
+ 
+ 2 
+ 
+ 
+ ) 
+ 
+ 
+ { displays yle C_{2}=(F_{2},q_{2},e_{2})} 
+ 
+ 是 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的格局，设 
+ 
+ 
+ 
+ &#x03B4; 
+ ( 
+ 
+ q 
+ 
+ 1 
+ 
+ 
+ , 
+ 
+ F 
+ 
+ 1 
+ 
+ 
+ ( 
+ 
+ e 
+ 
+ 1 
+ 
+ 
+ ) 
+ ) 
+ = 
+ ( 
+ q 
+ , 
+ x 
+ , 
+ d 
+ ) 
+ 
+ 
+ { displays yle del a (q_{1},F_{1}(e_{1}))=(q,x,d)} 
+ 
+ ，若满足 
+ 
+ 
+ 
+ 
+ q 
+ 
+ 2 
+ 
+ 
+ = 
+ q 
+ 
+ 
+ { displays yle q_{2}=q} 
+ 
+ ， 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 2 
+ 
+ 
+ = 
+ 
+ 
+ { 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 1 
+ 
+ 
+ &#x2212; 
+ 1 
+ 
+ 
+ d 
+ = 
+ L 
+ 
+ 
+ 
+ 
+ 
+ e 
+ 
+ 1 
+ 
+ 
+ + 
+ 1 
+ 
+ 
+ d 
+ = 
+ R 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ { displays yle e_{2}={ begin{cases}e_{1}-1&amp;d=L e_{1}+1&amp;d=R end{cases}}} 
+ 
+ 以及 
+ 
+ 
+ 
+ 
+ F 
+ 
+ 2 
+ 
+ 
+ ( 
+ i 
+ ) 
+ = 
+ 
+ 
+ { 
+ 
+ 
+ 
+ 
+ F 
+ 
+ 1 
+ 
+ 
+ ( 
+ i 
+ ) 
+ 
+ 
+ i 
+ &#x2260; 
+ 
+ e 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ x 
+ 
+ 
+ i 
+ = 
+ 
+ e 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ { displays yle F_{2}(i)={ begin{cases}F_{1}(i)&amp;i neq e_{1} x&amp;i=e_{1} end{cases}}} 
+ 
+ 则称 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 从格局 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ { displays yle C_{1}} 
+ 
+ 产生 格局 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ { displays yle C_{2}} 
+ 
+ ，记作 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ 
+ &#x2192; 
+ 
+ M 
+ 
+ 
+ 
+ C 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ { displays yle C_{1} o _{M}C_{2}} 
+ 
+ 。 
+ 设 
+ 
+ 
+ 
+ C 
+ = 
+ ( 
+ F 
+ , 
+ q 
+ , 
+ e 
+ ) 
+ 
+ 
+ { displays yle C=(F,q,e)} 
+ 
+ 为 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的格局，若 
+ 
+ 
+ 
+ q 
+ = 
+ 
+ q 
+ 
+ a 
+ c 
+ c 
+ e 
+ p 
+ 
+ 
+ 
+ 
+ 
+ { displays yle q=q_{accep }} 
+ 
+ 则称 
+ 
+ 
+ 
+ C 
+ 
+ 
+ { displays yle C} 
+ 
+ 为 接受格局 ；若 
+ 
+ 
+ 
+ q 
+ = 
+ 
+ q 
+ 
+ r 
+ e 
+ j 
+ e 
+ c 
+ 
+ 
+ 
+ 
+ 
+ { displays yle q=q_{rejec }} 
+ 
+ 则称 
+ 
+ 
+ 
+ C 
+ 
+ 
+ { displays yle C} 
+ 
+ 为 拒绝格局 ；接受格局和拒绝格局统称为 停机格局 。 
+ 设 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 是一台图灵机，将字符串
+ 
+ 
+ 
+ 
+ &#x03C9; 
+ = 
+ 
+ &#x03C9; 
+ 
+ 0 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ 1 
+ 
+ 
+ &#x2026; 
+ 
+ &#x03C9; 
+ 
+ n 
+ &#x2212; 
+ 1 
+ 
+ 
+ 
+ 
+ { displays yle omega = omega _{0} omega _{1} ldo s omega _{n-1}} 
+ 
+ 
+作为其输入，若存在格局序列 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ , 
+ 
+ C 
+ 
+ 2 
+ 
+ 
+ , 
+ &#x2026; 
+ , 
+ 
+ C 
+ 
+ k 
+ 
+ 
+ 
+ 
+ { displays yle C_{1},C_{2}, ldo s ,C_{k}} 
+ 
+ ，使得
+ 
+ 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ { displays yle C_{1}} 
+ 
+ 是 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 在输入 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ 
+ { displays yle omega } 
+ 
+ 上的起始格局，即 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ = 
+ ( 
+ F 
+ , 
+ 
+ q 
+ 
+ 0 
+ 
+ 
+ , 
+ 0 
+ ) 
+ 
+ 
+ { displays yle C_{1}=(F,q_{0},0)} 
+ 
+ ，其中 
+ 
+ 
+ 
+ 
+ F 
+ 
+ 1 
+ 
+ 
+ ( 
+ i 
+ ) 
+ = 
+ 
+ 
+ { 
+ 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ i 
+ 
+ 
+ 
+ 
+ 0 
+ &#x2264; 
+ i 
+ &#x2264; 
+ n 
+ &#x2212; 
+ 1 
+ 
+ 
+ 
+ 
+ &#x25FB; 
+ 
+ 
+ 
+ 
+ o herwise 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ { displays yle F_{1}(i)={ begin{cases} omega _{i}&amp;0 leq i leq n-1 square &amp;{ mbox{o herwise}} end{cases}}} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ C 
+ 
+ i 
+ 
+ 
+ 
+ &#x2192; 
+ 
+ M 
+ 
+ 
+ 
+ C 
+ 
+ i 
+ + 
+ 1 
+ 
+ 
+ 
+ 
+ { displays yle C_{i} o _{M}C_{i+1}} 
+ 
+ ，其中 
+ 
+ 
+ 
+ i 
+ = 
+ 1 
+ , 
+ 2 
+ , 
+ &#x2026; 
+ , 
+ k 
+ &#x2212; 
+ 1 
+ 
+ 
+ { displays yle i=1,2, ldo s ,k-1} 
+ 
+ ； 
+ 
+ 
+ 
+ 
+ 
+ C 
+ 
+ k 
+ 
+ 
+ 
+ 
+ { displays yle C_{k}} 
+ 
+ 是接受格局。 
+ 则称 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 接受 字符串 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ 
+ { displays yle omega } 
+ 
+ ，且 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ , 
+ 
+ C 
+ 
+ 2 
+ 
+ 
+ , 
+ &#x2026; 
+ , 
+ 
+ C 
+ 
+ k 
+ 
+ 
+ 
+ 
+ { displays yle C_{1},C_{2}, ldo s ,C_{k}} 
+ 
+ 称为图灵机 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 在输入 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ 
+ { displays yle omega } 
+ 
+ 上的 接受计算历史 。同理，若 
+ 
+ 
+ 
+ 
+ C 
+ 
+ k 
+ 
+ 
+ 
+ 
+ { displays yle C_{k}} 
+ 
+ 是拒绝格局，则称 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 拒绝 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ 
+ { displays yle omega } 
+ 
+ ，且 
+ 
+ 
+ 
+ 
+ C 
+ 
+ 1 
+ 
+ 
+ , 
+ 
+ C 
+ 
+ 2 
+ 
+ 
+ , 
+ &#x2026; 
+ , 
+ 
+ C 
+ 
+ k 
+ 
+ 
+ 
+ 
+ { displays yle C_{1},C_{2}, ldo s ,C_{k}} 
+ 
+ 称为图灵机 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 在输入 
+ 
+ 
+ 
+ &#x03C9; 
+ 
+ 
+ { displays yle omega } 
+ 
+ 上的 拒绝计算历史 。 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 所接受的所有字符串的集合称为 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的 语言 ，记作 
+ 
+ 
+ 
+ L 
+ ( 
+ M 
+ ) 
+ 
+ 
+ { displays yle L(M)} 
+ 
+ 。
+ 
+ 图灵机的例子 [ 编辑 ] 
+ 設 
+ 
+ 
+ 
+ M 
+ = 
+ ( 
+ { 
+ 0 
+ , 
+ 1 
+ , 
+ 10 
+ , 
+ 11 
+ } 
+ , 
+ { 
+ 0 
+ , 
+ 1 
+ } 
+ , 
+ { 
+ 0 
+ , 
+ 1 
+ , 
+ &#x25FB; 
+ } 
+ , 
+ &#x03B4; 
+ , 
+ 0 
+ , 
+ , 
+ ) 
+ 
+ 
+ { displays yle M=( {0,1,10,11 }, {0,1 }, {0,1, square }, del a ,0,,)} 
+ 
+ 和 
+ 
+ 
+ 
+ &#x03B4; 
+ : 
+ { 
+ 0 
+ , 
+ 1 
+ , 
+ 10 
+ , 
+ 11 
+ } 
+ &#x00D7; 
+ { 
+ 0 
+ , 
+ 1 
+ } 
+ &#x2192; 
+ { 
+ 0 
+ , 
+ 1 
+ , 
+ 10 
+ , 
+ 11 
+ } 
+ &#x00D7; 
+ { 
+ 0 
+ , 
+ 1 
+ } 
+ &#x00D7; 
+ { 
+ R 
+ , 
+ L 
+ , 
+ E 
+ , 
+ S 
+ } 
+ 
+ 
+ { displays yle del a : {0,1,10,11 } imes {0,1 } o {0,1,10,11 } imes {0,1 } imes {R,L,E,S }} 
+ 
+ .
+比如做一個以1的個數表示數值的加法運算，在磁带上的数据是0000001110110000，就是3+2的意思。程序 
+ 
+ 
+ 
+ &#x03B4; 
+ 
+ 
+ { displays yle del a } 
+ 
+ 如下：
+ 
+ 0,0 -&g ; 0,0R 
+ 0,1 -&g ; 1,1R 
+ 1,0 -&g ; 10,1R 
+ 1,1 -&g ; 1,1R 
+ 10,0 -&g ; 11,0L 
+ 10,1 -&g ; 10,1R 
+ 11,0 -&g ; E 
+ 11,1 -&g ; 0,0S 
+ 第一行程序0,0-&g ;0,0R意思就是如果機器讀到0，就將其變成0，狀態變為0，讀寫頭向右移動一格. R就是向右移動一格，L就是向左移一格，E是錯誤，S是停機. xx,y -&g ; aa,b中xx是當前狀態, y是當前格子的值, aa是程序下一步的狀態, b是當前格的修改值。
+ 雖然這裡給出與上面不同形式的定義，但兩者是等價的，這裡的定義能完成的工作並不比上面的定義多。
+ 
+ 
+ 
+ 步数
+ 
+ 状态（执行前） 
+ 状态（执行后） 
+ 磁带（执行前）
+ 
+ 磁带（执行后）
+ 
+ 
+ 1
+ 
+ 0 
+ 0 
+ 0 000001110110000
+ 
+ 0 0 00001110110000
+ 
+ 
+ 2
+ 
+ 0 
+ 0 
+ 0 0 00001110110000
+ 
+ 00 0 0001110110000
+ 
+ 
+ 3
+ 
+ 0 
+ 0 
+ 00 0 0001110110000
+ 
+ 000 0 001110110000
+ 
+ 
+ 4
+ 
+ 0 
+ 0 
+ 000 0 001110110000
+ 
+ 0000 0 01110110000
+ 
+ 
+ 5
+ 
+ 0 
+ 0 
+ 0000 0 01110110000
+ 
+ 00000 0 1110110000
+ 
+ 
+ 6
+ 
+ 0 
+ 0 
+ 00000 0 1110110000
+ 
+ 000000 1 110110000
+ 
+ 
+ 7
+ 
+ 0 
+ 1 
+ 000000 1 110110000
+ 
+ 0000001 1 10110000
+ 
+ 
+ 8
+ 
+ 1 
+ 1 
+ 0000001 1 10110000
+ 
+ 00000011 1 0110000
+ 
+ 
+ 9
+ 
+ 1
+ 
+ 1
+ 
+ 00000011 1 0110000
+ 
+ 000000111 0 110000
+ 
+ 
+ 10
+ 
+ 1
+ 
+ 10
+ 
+ 000000111 0 110000
+ 
+ 0000001111 1 10000
+ 
+ 
+ 11
+ 
+ 10
+ 
+ 10
+ 
+ 0000001111 1 10000
+ 
+ 00000011111 1 0000
+ 
+ 
+ 12
+ 
+ 10
+ 
+ 10
+ 
+ 00000011111 1 0000
+ 
+ 000000111111 0 000
+ 
+ 
+ 13
+ 
+ 10
+ 
+ 11
+ 
+ 000000111111 0 000
+ 
+ 00000011111 1 0000
+ 
+ 
+ 14
+ 
+ 11
+ 
+ 0
+ 
+ 00000011111 1 0000
+ 
+ 00000011111 0 0000
+ 
+ 通用图灵机 [ 编辑 ] 
+ .mw-parser-ou pu .ha no e{ on -size:small}.mw-parser-ou pu di .ha no e{padding-le :2em;margin-bo om:0.8em;margin- op:0.8em}.mw-parser-ou pu .ha no e-no ice-img::a er{con en :" 202 202 202 202 "}.mw-parser-ou pu .ha no e-no ice-img-small::a er{con en :" 202 202 "}.mw-parser-ou pu .ha no e+link+.ha no e{margin- op:-0.5em}body.skin-miner a .mw-parser-ou pu .ha no e-no ice-img,body.skin-miner a .mw-parser-ou pu .ha no e-no ice-img-small{display:none}@media prin {body.ns-0 .mw-parser-ou pu .ha no e{display:none!impor an }} 主条目： 通用图灵机 
+ 对于任意一个图灵机，因为它的描述是有限的，因此我们总可以用某种方式将其编码为字符串。我们用 
+ 
+ 
+ 
+ &#x27E8; 
+ M 
+ &#x27E9; 
+ 
+ 
+ { displays yle langle M rangle } 
+ 
+ 表示图灵机 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的编码。
+ 我们可以构造出一个特殊的图灵机，它接受任意一个图灵机 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的编码 
+ 
+ 
+ 
+ &#x27E8; 
+ M 
+ &#x27E9; 
+ 
+ 
+ { displays yle langle M rangle } 
+ 
+ ，然后模拟圖靈機 
+ 
+ 
+ 
+ M 
+ 
+ 
+ { displays yle M} 
+ 
+ 的运作，这样的图灵机称为 通用图灵机 （Uni ersal Turing Machine）。现代电子计算机的计算模型其实就是这样一种通用图灵机，它先接受一段描述另一图灵机，例如圖靈機 
+ 
+ 
+ 
+ X 
+ 
+ 
+ { displays yle X} 
+ 
+ 的ac ion able的字串，然後运行寫給圖靈機 
+ 
+ 
+ 
+ X 
+ 
+ 
+ { displays yle X} 
+ 
+ 的程序 
+ 
+ 
+ 
+ Y 
+ 
+ 
+ { displays yle Y} 
+ 
+ ，這樣通用圖靈機執行程序 
+ 
+ 
+ 
+ Y 
+ 
+ 
+ { displays yle Y} 
+ 
+ 就像圖靈機 
+ 
+ 
+ 
+ X 
+ 
+ 
+ { displays yle X} 
+ 
+ 一樣，能正確執行並实现程序 
+ 
+ 
+ 
+ Y 
+ 
+ 
+ { displays yle Y} 
+ 
+ 所描述的算法。
+ 
+ 图灵机的变体 [ 编辑 ] 
+ 图灵机有很多变种，但可以证明这些变种的计算能力都是等价的，即它们识别同样的语言类。证明两个计算模型 
+ 
+ 
+ 
+ A 
+ 
+ 
+ { displays yle A} 
+ 
+ 和 
+ 
+ 
+ 
+ B 
+ 
+ 
+ { displays yle B} 
+ 
+ 的计算能力等价的基本思想是：用 
+ 
+ 
+ 
+ A 
+ 
+ 
+ { displays yle A} 
+ 
+ 和 
+ 
+ 
+ 
+ B 
+ 
+ 
+ { displays yle B} 
+ 
+ 相互模拟，若 
+ 
+ 
+ 
+ A 
+ 
+ 
+ { displays yle A} 
+ 
+ 可模拟 
+ 
+ 
+ 
+ B 
+ 
+ 
+ { displays yle B} 
+ 
+ 且 
+ 
+ 
+ 
+ B 
+ 
+ 
+ { displays yle B} 
+ 
+ 可模拟 
+ 
+ 
+ 
+ A 
+ 
+ 
+ { displays yle A} 
+ 
+ ，显然他们的计算能力等价。注意这里我们暂时不考虑计算的效率，只考虑计算的理论上“可行性”。
+ 首先我们可以发现，改变图灵机的带字母表并不会改变其计算能力。例如我们可以限制图灵机的带字母表为 
+ 
+ 
+ 
+ { 
+ 0 
+ , 
+ 1 
+ } 
+ 
+ 
+ { displays yle {0,1 }} 
+ 
+ ，这并不会改变图灵机的计算能力，因为我们显然可以用带字母表为 
+ 
+ 
+ 
+ { 
+ 0 
+ , 
+ 1 
+ } 
+ 
+ 
+ { displays yle {0,1 }} 
+ 
+ 的图灵机模拟带字母表为任意有限集合 
+ 
+ 
+ 
+ &#x0393; 
+ 
+ 
+ { displays yle Gamma } 
+ 
+ 的图灵机。
+ 另一个要注意的是，如果我们允许图灵机的纸带两端都可以无限伸展，这并不能增加图灵机的计算能力，因为我们显然可以用只有纸带一端能无限伸展的图灵机来模拟这种纸带两端都可以无限伸展的图灵机。
+ 如果我们允许图灵机的读写头在某一步保持原地不动，那也不会增加其计算能力，因为我们可以用向左移动一次再向右移动一次来代替在原地不动。
+ 其它的常见图灵机变种包括：
+ 
+ 多带图灵机 
+ 非确定型图灵机 
+ 交替式图灵机 
+ 枚举器 
+ 图灵可计算性 [ 编辑 ] 
+ 图灵可识别语言 
+ 图灵可判定语言 
+ 递归可枚举语言 
+ 可计算函数 
+ 递归函数 
+ 停机问题 
+ 可判定性 
+ 不可判定性 
+ 不可解度 
+ 其它等价的计算模型 [ 编辑 ] 
+ 除了图灵机以外，人们还发明了很多其它的 计算模型 。包括：
+ 
+ 寄存器机 
+ 递归函数 
+ λ演算 
+ 生命游戏 
+ 马尔可夫算法 
+ 然而这些模型无一例外地都和图灵机的计算能力等价，因此 邱奇 ， 图灵 和 哥德尔 
+提出了著名的 邱奇-图灵论题 ：一切 直觉上能计算 的函数都可用图灵机计算，反之亦然。
+ 
+ 定理 [ 编辑 ] 
+ 克莱尼–波斯特定理 
+ 弗里德堡–穆奇尼克定理 
+ 波斯纳–罗宾逊定理 
+ 跳躍逆轉定理 
+ 参考文献 [ 编辑 ] 
+ Turing, A., On Compu able Numbers, Wi h an Applica ion o he En scheidungsproblem （ 页面存档备份 ，存于 互联网档案馆 ）, Proceedings o he London Ma hema ical Socie y, Series 2, Volume 42, 1936; reprin ed in M. Da id（ed.）, The Undecidable, Hewle , NY: Ra en Press, 1965; 
+ Michael Sipser, In roduc ion o he Theory o Compu a ion, PWS Publishing, 1997. ISBN 0-534-94728-X 
+ 外部链接 [ 编辑 ] 
+ Visual Turing, a Turing machine in erac i e simula or/IDE （ 页面存档备份 ，存于 互联网档案馆 ）（ ree so ware or Windows）。 
+ Suzanne Bri ons Turing Machine Simula or （ja a apple ）。 
+ C++ Simula or o a Nonde erminis ic and De erminis ic Turing Machine （ 页面存档备份 ，存于 互联网档案馆 ）（ ree so ware）。 
+ Ci a ions rom Ci eSeer （ 页面存档备份 ，存于 互联网档案馆 ） 
+ 
+ 
+ .mw-parser-ou pu .hlis dl,.mw-parser-ou pu .hlis ol,.mw-parser-ou pu .hlis ul{margin:0;padding:0}.mw-parser-ou pu .hlis dd,.mw-parser-ou pu .hlis d ,.mw-parser-ou pu .hlis li{margin:0;display:inline}.mw-parser-ou pu .hlis .inline,.mw-parser-ou pu .hlis .inline dl,.mw-parser-ou pu .hlis .inline ol,.mw-parser-ou pu .hlis .inline ul,.mw-parser-ou pu .hlis dl dl,.mw-parser-ou pu .hlis dl ol,.mw-parser-ou pu .hlis dl ul,.mw-parser-ou pu .hlis ol dl,.mw-parser-ou pu .hlis ol ol,.mw-parser-ou pu .hlis ol ul,.mw-parser-ou pu .hlis ul dl,.mw-parser-ou pu .hlis ul ol,.mw-parser-ou pu .hlis ul ul{display:inline}.mw-parser-ou pu .hlis .mw-emp y-li{display:none}.mw-parser-ou pu .hlis d ::a er{con en :" :"}.mw-parser-ou pu .hlis dd::a er,.mw-parser-ou pu .hlis li::a er{con en :" · "; on -weigh :bold}.mw-parser-ou pu .hlis -pipe dd::a er,.mw-parser-ou pu .hlis -pipe li::a er{con en :" | "; on -weigh :normal}.mw-parser-ou pu .hlis -hyphen dd::a er,.mw-parser-ou pu .hlis -hyphen li::a er{con en :" - "; on -weigh :normal}.mw-parser-ou pu .hlis -comma dd::a er,.mw-parser-ou pu .hlis -comma li::a er{con en :"、"; on -weigh :normal}.mw-parser-ou pu .hlis dd:las -child::a er,.mw-parser-ou pu .hlis d :las -child::a er,.mw-parser-ou pu .hlis li:las -child::a er{con en :none}.mw-parser-ou pu .hlis ol{coun er-rese :lis i em}.mw-parser-ou pu .hlis ol>li{coun er-incremen :lis i em}.mw-parser-ou pu .hlis ol>li::be ore{con en :" "coun er(lis i em)" a0 "}.mw-parser-ou pu .hlis dd ol>li: irs -child::be ore,.mw-parser-ou pu .hlis d ol>li: irs -child::be ore,.mw-parser-ou pu .hlis li ol>li: irs -child::be ore{con en :"（"coun er(lis i em)" a0 "}.mw-parser-ou pu ul.cslis ,.mw-parser-ou pu ul.sslis {margin:0;padding:0;display:inline-block;lis -s yle:none}.mw-parser-ou pu .cslis li,.mw-parser-ou pu .sslis li{margin:0;display:inline-block}.mw-parser-ou pu .cslis li::a er{con en :"，"}.mw-parser-ou pu .sslis li::a er{con en :"；"}.mw-parser-ou pu .cslis li:las -child::a er,.mw-parser-ou pu .sslis li:las -child::a er{con en :none} .mw-parser-ou pu .na box{box-sizing:border-box;border:1px solid #a2a9b1;wid h:100%;clear:bo h; on -size:88%; ex -align:cen er;padding:1px;margin:1em au o 0}.mw-parser-ou pu .na box .na box{margin- op:0}.mw-parser-ou pu .na box+.na box,.mw-parser-ou pu .na box+.na box-s yles+.na box{margin- op:-1px}.mw-parser-ou pu .na box-inner,.mw-parser-ou pu .na box-subgroup{wid h:100%}.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box- i le,.mw-parser-ou pu .na box-abo ebelow{ ex -align:cen er;padding-le :1em;padding-righ :1em}.mw-parser-ou pu .na box-group{whi e-space:nowrap; ex -align:righ }.mw-parser-ou pu .na box,.mw-parser-ou pu .na box-subgroup{background-color:# d d d;color:inheri }.mw-parser-ou pu .na box-lis {border-color:# d d d}.mw-parser-ou pu .na box-lis -wi h-group{ ex -align:le ;border-le -wid h:2px;border-le -s yle:solid}.mw-parser-ou pu r+ r>.na box-abo ebelow,.mw-parser-ou pu r+ r>.na box-group,.mw-parser-ou pu r+ r>.na box-image,.mw-parser-ou pu r+ r>.na box-lis {border- op:2px solid # d d d}.mw-parser-ou pu .na box- i le{background-color:#cc ;color:inheri ;posi ion:rela i e}.mw-parser-ou pu .na box-abo ebelow,.mw-parser-ou pu .na box-group,.mw-parser-ou pu .na box-subgroup .na box- i le{background-color:#dd ;color:inheri }.mw-parser-ou pu .na box-subgroup .na box-group,.mw-parser-ou pu .na box-subgroup .na box-abo ebelow{background-color:#e6e6 ;color:inheri }.mw-parser-ou pu .na box-e en{background-color:# 7 7 7;color:inheri }.mw-parser-ou pu .na box-odd{background-color: ransparen ;color:inheri }.mw-parser-ou pu .na box .hlis d dl,.mw-parser-ou pu .na box .hlis d ol,.mw-parser-ou pu .na box .hlis d ul,.mw-parser-ou pu .na box d.hlis dl,.mw-parser-ou pu .na box d.hlis ol,.mw-parser-ou pu .na box d.hlis ul{padding:0.125em 0}.mw-parser-ou pu .na box .na bar{display:block; on -size:100%}.mw-parser-ou pu .na box- i le .na bar{ loa :le ; ex -align:le ;margin-righ :0.5em;wid h:au o;padding-le :0.2em;padding-righ :0.2em;posi ion:absolu e;le :1em}.mw-parser-ou pu .na box .mw-collapsible- oggle{margin-le :0.5em;posi ion:absolu e;righ :1em}body.skin--responsi e .mw-parser-ou pu .na box-image img{max-wid h:none!impor an }@media prin {body.ns-0 .mw-parser-ou pu .na box{display:none!impor an }} .mw-parser-ou pu .na bar{display:inline; on -weigh :normal}.mw-parser-ou pu .na bar-collapse{ loa :le ; ex -align:le }.mw-parser-ou pu .na bar-box ex {word-spacing:0}.mw-parser-ou pu .na bar ul{display:inline-block;whi e-space:nowrap;line-heigh :inheri }.mw-parser-ou pu .na bar-bracke s::be ore{margin-righ :-0.125em;con en :"[ "}.mw-parser-ou pu .na bar-bracke s::a er{margin-le :-0.125em;con en :" ]"}.mw-parser-ou pu .na bar li{word-spacing:-0.125em}.mw-parser-ou pu .na bar a>span,.mw-parser-ou pu .na bar a>abbr{ ex -decora ion:inheri }.mw-parser-ou pu .na bar-mini abbr{ on - arian :small-caps;border-bo om:none; ex -decora ion:none;cursor:inheri }.mw-parser-ou pu .na bar-c - ull{ on -size:110%;margin:0 8em}.mw-parser-ou pu .na bar-c -mini{ on -size:110%;margin:0 5em}h ml.skin- heme-clien pre -nigh .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }@media(pre ers-color-scheme:dark){h ml.skin- heme-clien pre -os .mw-parser-ou pu .na bar li a abbr{color: ar(--color-base)!impor an }}@media prin {.mw-parser-ou pu .na bar{display:none!impor an }} 查 论 编 处理器技术 模型 顺序模型 
+ 图灵机 
+ 通用 
+ 波斯特-图灵机 
+ 量子 
+ 传动带机器 （ 英语 ： Bel machine ） 
+ 堆疊結構機器 
+ 有限状态机 
+ 具数据通路 （ 英语 ： Fini e s a e machine wi h da apa h ） 
+ 分层 （ 英语 ： Hierarchical s a e machine ） 
+ 队列 （ 英语 ： Queue au oma on ） 
+ 寄存器机 
+ 计数器 
+ 指针 （ 英语 ： Poin er machine ） 
+ 隨機存取機 
+ 隨機存取儲存程式機 
+ 函数式模型 
+ 递归函数 
+ Λ演算 
+ 组合子逻辑 
+ 細胞自動機 
+ 架構 
+ 微架構 
+ 冯·诺伊曼结构 
+ 哈佛架構 
+ 修正哈佛架構 （ 英语 ： Modi ied Har ard archi ec ure ） 
+ 資料流架構 （ 英语 ： Da a low archi ec ure ） 
+ 传输触发 
+ 元胞 （ 英语 ： Cellular archi ec ure ） 
+ 字节序 
+ 异构 （ 英语 ： He erogeneous Sys em Archi ec ure ） 
+ Fabric （ 英语 ： Fabric compu ing ） 
+ 多元處理 
+ 認知計算 
+ 神经形态 （ 英语 ： Neuromorphic engineering ） 
+ 内存访问 
+ 非均匀访存模型 (NUMA) 
+ 均匀访存模型 (UMA) 
+ 载入/存储 （ 英语 ： Load/s ore archi ec ure ） 
+ 寄存器/存储器 （ 英语 ： Regis er memory archi ec ure ） 
+ 缓存层级 （ 英语 ： Cache hierarchy ） 
+ 缓存层级 （ 英语 ： Cache hierarchy ） 
+ 記憶體階層 
+ 虚拟内存 
+ 第二级存储器 
+ 
+ 指令集架構 类型 
+ 复杂指令集 (CISC) 
+ 精简指令集 (RISC) 
+ 专用指令集处理器 
+ 显式数据图像并行 （ 英语 ： Explici _da a_graph_execu ion ） (EDGE)
+ TRIPS （ 英语 ： TRIPS archi ec ure ） 
+ 超長指令集 (VLIW) 
+ 顯式並行指令運算 (EPIC) 
+ 最小指令集 （ 英语 ： Minimal_ins ruc ion_se _compu er ） (MISC) 
+ 單一指令集 (OISC) 
+ 無指令集 （ 英语 ： No ins ruc ion se compu ing ） (NISC)
+ 零指令集 (ZISC) 
+ 比較 （ 英语 ： Comparison o CPU archi ec ures ） 
+ 指令集 
+ x86 
+ ARM 
+ MIPS 
+ LoongArch 
+ PowerPC 
+ SPARC 
+ IA-64 
+ Unicore （ 英语 ： Unicore ） 
+ MicroBlaze （ 英语 ： MicroBlaze ） 
+ RISC-V 
+ LMC （ 英语 ： Li le man compu er ） 
+ 其他 （ 英语 ： Lis o ins ruc ion se s ） 
+ 执行 指令流水线 
+ 流水线停顿 
+ 操作数转发 （ 英语 ： Operand orwarding ） 
+ 经典 RISC 流水线 （ 英语 ： Classic RISC pipeline ） 
+ 危障 
+ 数据依赖 
+ 數據危障 
+ 結構危障 
+ 控制危障 
+ 伪共享 
+ 乱序执行 
+ 托马苏洛算法 
+ 保留站 
+ 重排序缓冲区 
+ 寄存器重命名 
+ 推测执行 
+ 分支預測 
+ 存储相关性预测 （ 英语 ： Memory dependence predic ion ） 
+ 并行计算 并行层次 
+ 位级并行 
+ 位序列 （ 英语 ： Bi -serial archi ec ure ） 
+ 字 
+ 指令级并行 
+ 流水线 
+ 标量 
+ 超純量 
+ 任務并行 
+ 线程 
+ 进程 
+ 数据并行 
+ 向量 
+ 記憶體 
+ 分布式 
+ 執行緒 
+ 多執行緒 
+ 同时多线程 
+ 超執行緒 
+ 超執行緒 
+ 超級線程 （ 英语 ： Super- hreading ） 
+ 预测多线程 （ 英语 ： Specula i e mul i hreading ） 
+ 抢占式 
+ 协作式 
+ 費林分類法 
+ 單指令流單數據流 (SISD) 
+ 單指令流多數據流 (SIMD)
+ 寄存器内 （ 英语 ： SIMD wi hin a regis er ） 
+ 单指令多线程 （ 英语 ： Single ins ruc ion, mul iple hreads ） (SIMT) 
+ 多指令流單數據流 (MISD) 
+ 多指令流多數據流 (MIMD)
+ 单程序多数据 （ 英语 ： SPMD ） 
+ 電腦性能 
+ 晶體管數量 
+ 每周期指令 (IPC)
+ 每指令周期 (CPI) 
+ 每秒指令 (IPS) 
+ 每秒浮點運算次數 (FLOPS) 
+ 每秒事务处理量 (TPS) 
+ 效能功耗比 (PPW) 
+ 類別 （ 維基數據 ： Q124996351 ） 
+ 加速处理单元 (APU) 
+ 中央处理器 (CPU) 
+ 圖形處理器 (GPU)
+ 图形处理器通用计算 (GPGPU) 
+ 向量处理器 
+ 桶状 （ 英语 ： Barrel processor ） 
+ 串流處理 
+ 輔助處理器 
+ 特定應用積體電路 (ASIC) 
+ 现场可编程逻辑门阵列 (FPGA) 
+ 複雜可程式化邏輯裝置 (CPLD) 
+ 多晶片模組 (MCM) 
+ 封裝體系 (SiP) 
+ 按应用 
+ 微处理器 
+ 单片机 (MCU) 
+ 移动处理器 （ 英语 ： Mobile processor ） 
+ 笔记本电脑处理器 （ 英语 ： No ebook processor ） 
+ 超低电压 （ 英语 ： Ul ra-low- ol age processor ） 
+ 专用指令集处理器 (ASIP) 
+ 片上系统 
+ 片上系统 (SoC) 
+ 多处理器片上系统 （ 英语 ： Mul i-processor sys em-on-chip ） (MPSoC) 
+ 可编程片上系统 (PSoC) 
+ 片上网络 (NoC) 
+ 硬件加速 
+ 人工智能加速器 
+ 视觉处理单元 (VPU) 
+ 物理處理器 (PPU) 
+ 數位訊號處理器 (DSP) 
+ 张量处理器 (TPU) 
+ 安全加密協處理器 
+ 网络处理器 
+ 基頻處理器 
+ 
+ 字长 
+ 1位 
+ 4位元 
+ 8位元 
+ 12位元 
+ 15位 
+ 16位元 
+ 24位元 （ 英语 ： 24-bi compu ing ） 
+ 32位元 
+ 48位元 （ 英语 ： 48-bi compu ing ） 
+ 64位元 
+ 128位元 
+ 256位 
+ 位元分割 （ 英语 ： bi slicing ） 
+ 其他 
+ 可变字长 
+ 核心数量 
+ 单核 
+ 多核 
+ 众核 （ 英语 ： Manycore processor ） 
+ 异构 
+ 組件 
+ 核心 
+ 缓存 
+ CPU缓存 
+ 置換機制 
+ 一致性 
+ 总线 
+ 时钟频率 
+ 定時器訊號 
+ 先進先出演算法 (FIFO) 
+ 功能单元 
+ 算術邏輯單元 (ALU) 
+ 地址生成单元 (AGU) 
+ 浮點運算器 (FPU) 
+ 內存管理單元 (MMU)
+ 载入-存储单元 （ 英语 ： Load–s ore uni ） 
+ 轉譯後備緩衝區 (TLB) 
+ 内存控制器 
+ 邏輯閘 
+ 组合逻辑电路 
+ 时序逻辑电路 
+ Glue （ 英语 ： Glue logic ） 
+ 邏輯閘 
+ 量子閘 
+ 逻辑门阵列 （ 英语 ： Ga e array ） 
+ 寄存器 
+ 寄存器 
+ 狀態暫存器 
+ 栈寄存器 
+ 寄存器堆 
+ 記憶體缓冲区 
+ 程式計數器 
+ 总线 
+ 位址匯流排 
+ 控制匯流排 
+ 后端总线 
+ 控制单元 
+ 指令单元 （ 英语 ： Ins ruc ion uni ） 
+ 緩衝器 
+ 写入缓冲区 （ 英语 ： Wri e bu er ） 
+ 微程序 ROM 
+ 计数器 
+ 数据通路 
+ 数据选择器 
+ 数据分配器 
+ 加法器 
+ 乘法器 
+ CPU倍频器 
+ 译码器 
+ 地址解码器 （ 英语 ： Address decoder ） 
+ 加和寻址解码器 （ 英语 ： Sum addressed decoder ） 
+ 桶式移位器 
+ 電路 
+ 集成电路 
+ 3D 
+ 混合訊號 
+ 電源管理 
+ 布尔 （ 英语 ： Boolean circui ） 
+ 数字 
+ 模拟 
+ 量子 
+ 开关 
+ 
+ 电源管理 
+ 电源管理单元 (PMU) 
+ 高级电源管理 
+ 高级配置与电源接口 (ACPI) 
+ 动态时钟频率调整 
+ 动态电压调节 
+ 时钟门控 
+ 效能功耗比 (PPW) 
+ 相关内容 
+ 通用CPU历史 （ 英语 ： His ory o general-purpose CPUs ） 
+ 微处理器年代表 （ 英语 ： Microprocessor chronology ） 
+ 处理器设计 
+ 数字电路 
+ 硬件安全模块 
+ 半导体制造 
+ Tick-Tock 
+ 推測執行漏洞集合 
+ 
+ 查 论 编 自動機理論 ： 形式语言 和 形式文法 
+ 
+ 
+ 乔姆斯基层级 
+ 
+ 文法 
+ 
+ 语言 
+ 
+ 极小 自动机 
+ 
+ 
+ 类型 0
+ 
+ 无限制 
+ 
+ 递归可枚举 
+ 
+ 图灵机 
+ 
+ 
+ —
+ 
+ (无公用名)
+ 
+ 可判定 
+ 
+ 判定器 
+ 
+ 
+ 类型 1
+ 
+ 上下文有关 
+ 
+ 上下文有关 
+ 
+ 线性有界 
+ 
+ 
+ —
+ 
+ 附标 
+ 
+ 附标 
+ 
+ 嵌套堆栈 
+ 
+ 
+ —
+ 
+ Linear con ex - ree rewri ing sys ems e c.
+ 
+ 上下文有关文法 
+ 
+ Thread au oma a 
+ 
+ 
+ —
+ 
+ 树-邻接 
+ 
+ 适度上下文有关 
+ 
+ 嵌入下推 
+ 
+ 
+ 类型 2
+ 
+ 上下文无关 
+ 
+ 上下文无关 
+ 
+ 非确定下推 
+ 
+ 
+ —
+ 
+ 确定上下文无关 
+ 
+ 确定上下文无关 
+ 
+ 确定下推 
+ 
+ 
+ —
+ 
+ Visibly pushdown 
+ 
+ Visibly pushdown 
+ 
+ Visibly pushdown 
+ 
+ 
+ 类型 3
+ 
+ 正则 
+ 
+ 正则 
+ 
+ 有限 
+ 
+ 
+ —
+ 
+ —
+ 
+ S ar- ree 
+ 
+ Coun er- ree (wi h aperiodic ini e monoid) 
+ 
+ 每个语言范畴都是其直接上面的范畴的 真子集 每个语言范畴内的语言都可以用同一行的文法和自动机表示 
+ .mw-parser-ou pu . ool ip-do ed{border-bo om:1px do ed;cursor:help} 规范控制数据库 国际 
+ FAST 
+ 各地 
+ 西班牙 
+ 法国 
+ BnF da a 
+ 德国 
+ 以色列 
+ 美国 
+ 日本 
+ 其他 
+ IdRe 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 检索自“ h ps://zh.wikipedia.org/w/index.php? i le=图灵机&amp;oldid=89736155 ” 
+					 分类 ：​ 计算模型 图灵机 自动机 递归论 隐藏分类：​ 自2019年6月缺少注脚的条目 自2019年1月需补充来源的条目 拒绝当选首页新条目推荐栏目的条目 含有英語的條目 包含FAST标识符的维基百科条目 包含BNE标识符的维基百科条目 包含BNF标识符的维基百科条目 包含BNFda a标识符的维基百科条目 包含GND标识符的维基百科条目 包含J9U标识符的维基百科条目 包含LCCN标识符的维基百科条目 包含NDL标识符的维基百科条目 包含SUDOC标识符的维基百科条目 使用ISBN魔术链接的页面 
+				 
+			 
+			
+		 
+		 
+			
+ 
+	 
+	 本页面最后修订于2025年10月30日 (星期四) 03:40。 
+	 本站的全部文字在 知识共享 署名-相同方式共享 4.0协议 之条款下提供，附加条款亦可能应用。（请参阅 使用条款 ） 
+Wikipedia&#174;和维基百科标志是 维基媒体基金会 的注册商标；维基&#8482;是维基媒体基金会的商标。 
+维基媒体基金会是按美国国內稅收法501(c)(3)登记的 非营利慈善机构 。 
+ 
+
+	 
+	 隐私政策 
+	 关于维基百科 
+	 免责声明 
+	 法律与安全联系人 
+	 行为准则 
+	 开发者 
+	 统计 
+	 Cookie声明 
+	 移动版视图 
+ 
+
+	 
+	 
+	 
+ 
+
+ 
+
+		 
+	 
+ 
+ 
+	 
+		 
+			 
+				 
+
+ 搜索 
+			 
+		 
+			
+		 
+			 
+				 
+					 
+						 
+							 
+								 
+								 
+							 
+							 
+						 
+						 搜索 
+					 
+				 
+			 
+		 
+		 
+				 
+						
+					 
+						 
+						 
+
+ 开关目录 
+						 
+						 
+					
+						 
+						 
+					
+						 
+					 
+			 
+				 图灵机 
+			 
+		 
+		 
+			 
+				 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+			 
+
+ 
+			 
+		 
+			 
+				 
+
+ 67种语言 
+			 
+			 
+
+ 添加话题 
+			 
+		 
+			 
+				 
+				 
+			 
+		 
+	 
+ 
+ 
+	 
+		
+	 
+ 
+ (RLQ=window.RLQ||[]).push( unc ion(){mw.con ig.se ({"wgHos name":"mw-web.cod w.main-848cdb4744-dbbnk","wgBackendResponseTime":860,"wgPageParseRepor ":{"limi repor ":{"cpu ime":"0.489","wall ime":"0.746","pp isi ednodes":{" alue":2712,"limi ":1000000},"re isionsize":{" alue":14802,"limi ":2097152},"pos expandincludesize":{" alue":753069,"limi ":2097152}," empla eargumen size":{" alue":3057,"limi ":2097152},"expansiondep h":{" alue":13,"limi ":100},"expensi e unc ioncoun ":{" alue":17,"limi ":500},"uns rip-dep h":{" alue":0,"limi ":20},"uns rip-size":{" alue":32995,"limi ":5000000},"en i yaccesscoun ":{" alue":2,"limi ":500}," imingpro ile":["100.00% 426.077 1 - o al"," 63.11% 268.895 6 Templa e:Na box"," 46.87% 199.712 1 Templa e:CPU_ echnologies"," 21.24% 90.501 42 Templa e:Link-en"," 12.74% 54.290 1 Templa e:Langx"," 12.42% 52.919 1 Templa e:No eTA"," 11.21% 47.768 1 Templa e:No_ oo no es"," 11.10% 47.287 2 Templa e:Ambox"," 10.29% 43.863 1 Templa e:Au hori y_con rol"," 6.94% 29.578 3 Templa e:Na box_subgroup"]},"scribun o":{"limi repor - imeusage":{" alue":"0.227","limi ":"10.000"},"limi repor -memusage":{" alue":19753765,"limi ":52428800}},"cacherepor ":{"origin":"mw-web.cod w.main-848cdb4744-dbbnk"," imes amp":"20260427151552"," l":2592000," ransien con en ": alse}}});}); 
+ {"@con ex ":"h ps: / /schema.org","@ ype":"Ar icle","name":" u56 e u7075 u673a","url":"h ps: / /zh.wikipedia.org /wiki /%E5%9B%BE%E7%81%B5%E6%9C%BA","sameAs":"h p: / /www.wikida a.org /en i y /Q163310","mainEn i y":"h p: / /www.wikida a.org /en i y /Q163310","au hor":{"@ ype":"Organiza ion","name":" u7e 4 u57 a u5a92 u4 53 u9879 u76ee u8d21 u732e u8005"},"publisher":{"@ ype":"Organiza ion","name":"Wikimedia Founda ion, Inc.","logo":{"@ ype":"ImageObjec ","url":"h ps: / /www.wikimedia.org /s a ic /images /wm -hor-googpub.png"}},"da ePublished":"2004-04-12T11:29:47Z","da eModi ied":"2025-10-30T03:40:24Z","image":"h ps: / /upload.wikimedia.org /wikipedia /commons /3 /3d /Maquina.png","headline":" u62bd u8c61 u8a08 u7b97 u6a21 u578b"}

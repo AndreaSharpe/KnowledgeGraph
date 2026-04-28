@@ -1,0 +1,15 @@
+---
+title: 图灵奖与高价值实体共现
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Turing_Award
+---
+图灵奖由 ACM 颁发。
+ACM 是国际计算机协会。
+图灵奖的拥有者是 ACM。
+图灵奖的运营方是 ACM。
+图灵奖的国家是美国。
+图灵奖的地点是纽约市。
+图灵奖以 Alan Turing 命名。
+Alan Turing 出生于英国伦敦。
+布莱切利公园位于英国。
+国家物理实验室位于英国。

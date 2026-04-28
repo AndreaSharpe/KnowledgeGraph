@@ -1,0 +1,15 @@
+---
+title: 图灵机与上位类概念
+cite: 维基百科常识改写
+url: https://en.wikipedia.org/wiki/Turing_machine
+---
+图灵机是一种抽象计算模型。
+抽象计算模型属于抽象机器范畴。
+图灵机的上位类可以表述为抽象机器。
+图灵机用于描述可计算函数。
+图灵机用于定义可判定问题。
+图灵机属于计算理论。
+计算理论与图灵测试常一起出现。
+Alan Turing 的代表作 On Computable Numbers 提到图灵机。
+Alan Turing 曾就读剑桥大学。
+剑桥大学位于英国。

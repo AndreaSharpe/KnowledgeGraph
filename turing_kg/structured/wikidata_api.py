@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import hashlib
 import json
+import re
 import time
 from typing import Any
 
@@ -10,6 +12,9 @@ from ..config import USER_AGENT
 
 
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
+WDQS_URL = "https://query.wikidata.org/sparql"
+
+_URI_TAIL_Q_P = re.compile(r"(Q\d+|P\d+)\s*$")
 
 
 def _sleep_seconds_from_retry_after(resp: requests.Response) -> float | None:
@@ -38,7 +43,7 @@ def wbgetentities(
     ids: list[str],
     *,
     props: str = "labels|claims",
-    languages: str = "zh|en",
+    languages: str = "zh-hans|zh|en",
     timeout: tuple[float, float] = (45.0, 180.0),
     retries: int = 5,
 ) -> dict[str, dict]:
@@ -123,7 +128,8 @@ def wbgetentities(
 
 def pick_label(ent: dict[str, Any]) -> str:
     labels = ent.get("labels") or {}
-    for lang in ("zh", "en"):
+    # 经典中文展示：优先简体（zh-hans/zh-cn），再退回 zh（可能是繁体），最后 en
+    for lang in ("zh-hans", "zh-cn", "zh", "en"):
         cell = labels.get(lang)
         if isinstance(cell, dict) and cell.get("value"):
             return str(cell["value"])
@@ -214,4 +220,115 @@ def load_root_neighborhood(root_qid: str) -> dict[str, Any]:
         else:
             raise
     entities = {**base, **extra}
+
+    # 类型推断需要 P31 等 claim。为了让图里节点能显示 Person/Location/...，
+    # 这里“尽力”为邻域里的 Q 节点补取 claims（若限流/断网则跳过，不影响主流程）。
+    # 注意：prop 节点（Pxxx）不需要 claims，只需 label。
+    try:
+        if q_ids:
+            extra_claims = wbgetentities(sorted(q_ids), props="labels|claims")
+            entities.update(extra_claims or {})
+    except Exception:
+        pass
     return {"root_qid": root_qid, "entities": entities, "item_edges": edges, "claims": claims}
+
+
+def _entity_uri_to_q_or_p(uri: str) -> str:
+    m = _URI_TAIL_Q_P.search((uri or "").rstrip("/"))
+    return m.group(1) if m else ""
+
+
+def sparql_select_json(query: str, *, timeout: tuple[float, float] = (30.0, 120.0)) -> list[dict[str, Any]]:
+    """
+    在 Wikidata Query Service 上执行 SPARQL，返回 bindings 列表（失败时返回空列表）。
+    使用轻量文件缓存，避免构建时反复打满 WDQS 配额。
+    """
+    q = (query or "").strip()
+    if not q:
+        return []
+    h = hashlib.sha1(q.encode("utf-8")).hexdigest()[:20]
+    try:
+        from pathlib import Path
+
+        cpath = Path(_cache_dir()) / f"wdqs_{h}.json"
+        if cpath.is_file():
+            data = json.loads(cpath.read_text(encoding="utf-8"))
+            if isinstance(data, list):
+                return data
+    except Exception:
+        pass
+    for attempt in range(3):
+        try:
+            time.sleep(0.35 * (attempt + 1))
+            resp = requests.get(
+                WDQS_URL,
+                params={"query": q, "format": "json"},
+                headers={
+                    "User-Agent": USER_AGENT,
+                    "Accept": "application/sparql-results+json",
+                },
+                timeout=timeout,
+            )
+            if resp.status_code == 429:
+                time.sleep(min(15.0, 3.0 * (attempt + 1)))
+                continue
+            resp.raise_for_status()
+            j = resp.json() or {}
+            out = j.get("results", {}).get("bindings") or []
+            if not isinstance(out, list):
+                out = []
+            try:
+                from pathlib import Path
+
+                cpath = Path(_cache_dir()) / f"wdqs_{h}.json"
+                cpath.parent.mkdir(parents=True, exist_ok=True)
+                cpath.write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8")
+            except Exception:
+                pass
+            return out
+        except Exception:
+            time.sleep(1.2 * (attempt + 1))
+    return []
+
+
+def fetch_incoming_item_edges(
+    object_qid: str,
+    allowed_props: tuple[str, ...],
+    *,
+    limit: int = 40,
+) -> list[tuple[str, str, str]]:
+    """
+    查询「其它 Wikidata 条目作为主体、值为 object_qid 的**直接陈述**（wdt: 真值）」
+    返回 (subject_qid, prop_id, object_qid)，按 LIMIT 截断。用于为概念/奖项补充入向关联。
+    """
+    oq = (object_qid or "").strip()
+    if not oq.startswith("Q") or not allowed_props:
+        return []
+    n = max(1, min(int(limit), 500))
+    pvals = " ".join(f"wdt:{p}" for p in allowed_props)
+    # DISTINCT 避免同一条在部分属性下被重复（极少见）
+    q = f"""
+SELECT DISTINCT ?s ?p WHERE {{
+  VALUES ?p {{ {pvals} }}
+  ?s ?p wd:{oq} .
+  FILTER( STRSTARTS( STR( ?s ), "http://www.wikidata.org/entity/Q" ) )
+}}
+ORDER BY ?s ?p
+LIMIT {n}
+"""
+    rows: list[dict[str, Any]] = sparql_select_json(q)
+    out: list[tuple[str, str, str]] = []
+    seen: set[tuple[str, str, str]] = set()
+    for b in rows:
+        s_uri = (b.get("s") or {}).get("value") or ""
+        p_uri = (b.get("p") or {}).get("value") or ""
+        s_id = _entity_uri_to_q_or_p(s_uri)
+        p_id = _entity_uri_to_q_or_p(p_uri)
+        if not s_id.startswith("Q") or not p_id.startswith("P"):
+            continue
+        key = (s_id, p_id, oq)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append((s_id, p_id, oq))
+    return out

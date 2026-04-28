@@ -1,4 +1,4 @@
-"""PCNN + MIL-Attention 训练：读 bags.jsonl + ds_labels.jsonl，按 seed_type 过滤。"""
+"""经典 DS 训练：PCNN + selective attention（Lin et al.）+ bag-level 多分类（含 NA）。"""
 
 from __future__ import annotations
 
@@ -8,12 +8,12 @@ from pathlib import Path
 from typing import Any
 
 import torch
+import torch.nn.functional as F
 import torch.optim as optim
 
 from ..attribution.seed_config import load_seed_entities
-from .config_loaders import labels_space_for_seed, load_relation_allowlist
 from .ds_labels import read_jsonl
-from .pcnn_mil import PCNNMILAttention, bce_loss_bag, multihot_from_labels
+from .pcnn_mil import PCNNSelectiveAttention
 
 
 PAD_CHAR = "<pad>"
@@ -115,74 +115,55 @@ def _encode(s: str, char2id: dict[str, int], max_len: int) -> list[int]:
     return ids[:max_len]
 
 
-def prepare_bag_tensors(
+def prepare_dataset_tensors(
     project_root: Path,
     *,
     seed_type: str,
     max_len: int = 256,
     min_freq: int = 1,
 ) -> tuple[
-    list[tuple[list[torch.Tensor], torch.Tensor, torch.Tensor, torch.Tensor]],
-    list[str],
+    list[tuple[torch.Tensor, torch.Tensor, torch.Tensor, int]],
+    list[str],  # label_space（含 NA）
     dict[str, int],
     dict[str, Any],
 ]:
-    """
-    返回：
-    - bags_data: 每个元素为 (list of (char_ids_long_tensor), pos_e1, pos_e2, y_multihot)
-      实际训练时每个 bag 一个 tensor (n, L), pos (n,), y (C,)
-    - labels_space
-    - char2id
-    - meta dict (anchors_by_seed, etc.)
-    """
-    bags_path = project_root / "data" / "curated" / "bags.jsonl"
-    ds_path = project_root / "data" / "curated" / "ds_labels.jsonl"
-    allowlist = load_relation_allowlist(project_root)
+    """读 data/curated/re_ds_dataset_{seed_type}.jsonl 并转成训练张量（仅 split=train）。"""
+    ds_path = project_root / "data" / "curated" / f"re_ds_dataset_{seed_type}.jsonl"
     seeds = load_seed_entities(project_root)
     anchors_by_seed: dict[str, tuple[str, ...]] = {
         s.seed_id: tuple(s.anchors_zh) + tuple(s.anchors_en) for s in seeds
     }
+    rows = read_jsonl(ds_path)
+    if not rows:
+        return [], [], {PAD_CHAR: PAD_ID, UNK_CHAR: UNK_ID}, {"anchors_by_seed": anchors_by_seed, "dataset_path": str(ds_path)}
 
-    ds_map = _load_ds_map(ds_path)
-    all_bags = _load_bags(bags_path)
+    # vocab from all splits
+    sents: list[str] = []
+    for r in rows:
+        for ins in r.get("instances") or []:
+            sents.append(str(ins.get("sentence") or ""))
+    char2id = _build_vocab(sents, min_freq=min_freq)
 
-    filtered: list[dict[str, Any]] = [b for b in all_bags if str(b.get("seed_type")) == seed_type]
-    sentences_for_vocab: list[str] = []
-    for b in filtered:
-        for ins in b.get("instances") or []:
-            sentences_for_vocab.append(str(ins.get("sentence") or ""))
+    label_space = list(rows[0].get("label_space") or [])
+    if not label_space or label_space[0] != "NA":
+        raise RuntimeError(f"dataset 缺少 label_space 或未包含 NA：{ds_path}")
+    label2idx = {str(lb): i for i, lb in enumerate(label_space)}
 
-    char2id = _build_vocab(sentences_for_vocab, min_freq=min_freq)
-    canonical_space = labels_space_for_seed(allowlist, seed_type=seed_type, seed_id="")
-
-    if not canonical_space:
-        return [], [], char2id, {"anchors_by_seed": anchors_by_seed}
-
-    if not filtered:
-        return [], canonical_space, char2id, {"anchors_by_seed": anchors_by_seed}
-
-    bags_tensors: list[tuple[torch.Tensor, torch.Tensor, torch.Tensor, torch.Tensor]] = []
-
-    for bag in filtered:
-        bid = str(bag.get("bag_id") or "")
-        ds = ds_map.get(bid)
-        if not ds:
+    data: list[tuple[torch.Tensor, torch.Tensor, torch.Tensor, int]] = []
+    for r in rows:
+        if str(r.get("split") or "") != "train":
             continue
-        seed_id = str(bag.get("seed_id") or "")
-        labels_pos = list(ds.get("labels_pos") or [])
+        seed_id = str(r.get("seed_id") or "")
         anchors = anchors_by_seed.get(seed_id, ())
-
-        batch = bag_to_model_batch(bag, char2id, max_len, anchors)
+        batch = bag_to_model_batch(r, char2id, max_len, anchors)
         if batch is None:
             continue
-        x_batch, p1, p2 = batch
+        y = str(r.get("label") or "NA")
+        if y not in label2idx:
+            continue
+        data.append((batch[0], batch[1], batch[2], int(label2idx[y])))
 
-        device_cpu = torch.device("cpu")
-        y = multihot_from_labels(labels_pos, canonical_space, device_cpu)
-
-        bags_tensors.append((x_batch, p1, p2, y))
-
-    return bags_tensors, canonical_space, char2id, {"anchors_by_seed": anchors_by_seed}
+    return data, label_space, char2id, {"anchors_by_seed": anchors_by_seed, "dataset_path": str(ds_path)}
 
 
 def train_pcnn_mil(
@@ -201,34 +182,37 @@ def train_pcnn_mil(
     random.seed(seed)
     torch.manual_seed(seed)
 
-    bags_data, space, char2id, _meta = prepare_bag_tensors(project_root, seed_type=seed_type, max_len=max_len)
-    if not bags_data or not space:
-        raise RuntimeError(f"无训练样本或关系空间为空：seed_type={seed_type}，请先运行 build_relation_bags / build_ds_labels。")
+    train_data, label_space, char2id, meta = prepare_dataset_tensors(project_root, seed_type=seed_type, max_len=max_len)
+    if not train_data or not label_space:
+        raise RuntimeError(
+            f"无训练样本或 label_space 为空：seed_type={seed_type}。请先运行 scripts/build_re_ds_dataset.py --seed-type {seed_type}。"
+        )
 
-    num_classes = len(space)
+    num_classes = len(label_space)
     vocab_size = max(char2id.values()) + 1
-    model = PCNNMILAttention(vocab_size, num_classes, pad_id=PAD_ID, att_dim=att_dim).to(dev)
+    model = PCNNSelectiveAttention(vocab_size, num_classes, pad_id=PAD_ID, att_dim=att_dim).to(dev)
 
-    ys = torch.stack([b[3] for b in bags_data]).to(dev)
-    pos_c = ys.sum(dim=0)
-    n_bags = float(len(bags_data))
-    pos_weight = (n_bags - pos_c) / (pos_c + 1e-6)
-    pos_weight = torch.clamp(pos_weight, 0.5, 20.0)
+    # class weights
+    y_counts = torch.zeros(num_classes, dtype=torch.float)
+    for _xb, _p1, _p2, yi in train_data:
+        y_counts[int(yi)] += 1.0
+    w = (y_counts.sum() - y_counts) / (y_counts + 1e-6)
+    w = torch.clamp(w, 0.5, 20.0).to(dev)
 
     opt = optim.Adam(model.parameters(), lr=lr)
 
     for ep in range(epochs):
-        random.shuffle(bags_data)
+        random.shuffle(train_data)
         total_loss = 0.0
         n_b = 0
-        for xb, p1, p2, y in bags_data:
+        for xb, p1, p2, yi in train_data:
             xb = xb.to(dev)
             p1 = p1.to(dev)
             p2 = p2.to(dev)
-            y = y.to(dev)
+            y = torch.tensor(int(yi), dtype=torch.long, device=dev)
             opt.zero_grad()
             logits_b, _attn = model.forward_bag(xb, p1, p2)
-            loss = bce_loss_bag(logits_b, y, pos_weight=pos_weight)
+            loss = F.cross_entropy(logits_b.unsqueeze(0), y.unsqueeze(0), weight=w)
             loss.backward()
             opt.step()
             total_loss += float(loss.item())
@@ -244,14 +228,15 @@ def train_pcnn_mil(
     torch.save(
         {
             "model_state": model.state_dict(),
-            "aggregation": "mil_attention",
+            "setting": "ds_multiclass_selective_attention",
             "att_dim": att_dim,
             "vocab_size": vocab_size,
             "num_classes": num_classes,
             "max_len": max_len,
             "char2id": char2id,
-            "labels_space": space,
+            "label_space": label_space,
             "seed_type": seed_type,
+            "meta": meta,
         },
         ckpt_path,
     )
@@ -259,7 +244,7 @@ def train_pcnn_mil(
         json.dumps(
             {
                 "seed_type": seed_type,
-                "labels_space": space,
+                "label_space": label_space,
                 "max_len": max_len,
                 "vocab_size": vocab_size,
                 "checkpoint": str(ckpt_path),
