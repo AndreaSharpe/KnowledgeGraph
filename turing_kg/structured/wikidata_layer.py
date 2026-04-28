@@ -65,28 +65,210 @@ def _claim_entity_ids(ent: dict[str, Any], prop_id: str) -> list[str]:
     return out
 
 
-def _infer_kind_from_instance_of(p31_qids: list[str]) -> str:
+def _infer_labels_from_types(type_qids: list[str]) -> tuple[str, ...]:
     """
-    从 P31(instance of) 做粗类型推断（最小可行，用于 Neo4j :LABEL）。
-    只要命中即返回；否则返回空字符串。
+    从 Wikidata 的类型系统（P31 instance of / P279 subclass of）推断节点 labels（可多标签）。
+
+    约束：
+    - 只用于 Neo4j :LABEL（不新增属性字段）；
+    - 规则保持可解释：命中某些“类型QID”就打对应细分 label；
+    - 若能取到类型但未命中任何规则，则给出最小可用的 Concept 兜底（避免只剩 Entity）。
     """
-    s = set(p31_qids)
-    # human
+    s = {q for q in (type_qids or []) if isinstance(q, str) and q.startswith("Q")}
+    if not s:
+        return ()
+
+    labels: set[str] = set()
+
+    def add(*lbs: str) -> None:
+        for lb in lbs:
+            if lb:
+                labels.add(lb)
+
+    # --- Person / Award ---
     if "Q5" in s:
-        return "Person"
-    # award / prize
-    if s & {"Q618779", "Q11448906", "Q19020"}:  # award / science award / prize
-        return "Award"
-    # organization-ish
-    if s & {"Q43229", "Q79913", "Q484652"}:  # organization / educational institution / international organization
-        return "Organization"
-    # location-ish
-    if s & {"Q17334923", "Q2221906", "Q515", "Q6256", "Q82794"}:  # location / geographic region / city / country / geographic region
-        return "Location"
-    # concept-ish (fallback for abstract types)
-    if s & {"Q151885", "Q7184903", "Q33104279"}:  # concept / abstract object / scientific concept
-        return "Concept"
-    return ""
+        add("Person")
+
+    if s & {"Q618779", "Q11448906", "Q19020", "Q20006438"}:
+        add("Award")
+        if "Q20006438" in s:
+            add("Fellowship")
+        if "Q19020" in s:
+            add("Prize")
+
+    # --- Organization (+细分) ---
+    if s & {"Q43229", "Q484652", "Q79913", "Q327333", "Q96888669", "Q1194970", "Q891723", "Q1589009", "Q129492653"}:
+        add("Organization")
+    if "Q327333" in s:
+        add("GovernmentAgency")
+    if s & {"Q1194970", "Q891723"}:
+        add("Company")
+    if "Q1589009" in s:
+        add("MediaCompany")
+    if "Q96888669" in s:
+        add("Publisher")
+    if "Q129492653" in s:
+        add("MilitaryOrganization")
+
+    # education orgs
+    if s & {"Q3918", "Q902104", "Q15936437"}:
+        add("Organization", "University")
+    if s & {"Q2418495", "Q269770", "Q1713379", "Q5155053", "Q9842"}:
+        add("Organization", "School")
+
+    # archives / libraries
+    if "Q27032435" in s:  # academic archive
+        add("Organization", "Archive")
+    if "Q1574516" in s:  # photo library
+        add("Organization", "Library")
+
+    # --- Location (+细分) ---
+    if s & {
+        "Q17334923",
+        "Q2221906",
+        "Q515",
+        "Q6256",
+        "Q82794",
+        "Q33742",
+        "Q1288568",
+        "Q34770",
+        "Q3957",
+        "Q2755753",
+        "Q4919932",
+        "Q157570",
+        "Q7265244",
+    }:
+        add("Location")
+    if "Q6256" in s or "Q1288568" in s:
+        add("Country")
+    if "Q515" in s or "Q3957" in s or "Q2755753" in s:
+        add("City")
+    if s & {"Q4919932", "Q7265244", "Q157570"}:
+        add("Facility")
+
+    # --- Work / Concept 细分 ---
+    # Work（文献/作品）优先：scholarly article、report、edition/version 等
+    if s & {"Q13442814", "Q10383930", "Q3331189", "Q10870555", "Q21114848", "Q41298"}:
+        add("Work")
+    if "Q13442814" in s:
+        add("ScholarlyArticle", "Paper")
+    if "Q10383930" in s:  # academic journal
+        add("Journal")
+    if "Q21114848" in s or "Q41298" in s:  # magazine / journal (periodical)
+        add("Periodical")
+    if "Q3331189" in s:  # edition/version of a work
+        add("WorkVersion")
+    if "Q10870555" in s:  # report
+        add("Report")
+
+    # Concept（抽象概念/类型/学科/名称等）
+    if s & {"Q151885", "Q7184903", "Q33104279", "Q28640", "Q12737077", "Q11862829", "Q1047113", "Q483394"}:
+        add("Concept")
+    # profession / occupation / discipline family
+    if "Q28640" in s:
+        add("Profession")
+    if "Q12737077" in s:
+        add("Occupation")
+    if s & {"Q11862829", "Q4671286"}:  # academic discipline / academic major
+        add("Discipline")
+    if "Q1047113" in s:  # specialty / field of study
+        add("Field")
+
+    # STEM / logic / math / CS (coarse domain tags)
+    if s & {"Q7991"}:  # natural science
+        add("Science")
+    if s & {"Q901"}:  # mathematics
+        add("Mathematics", "Science")
+    if s & {"Q1936384"}:
+        add("Mathematics")
+    if s & {"Q123370638"}:
+        add("ComputerScience")
+    if s & {"Q816264"}:  # formal logic
+        add("Logic")
+    if "Q24034552" in s:
+        add("Concept", "MathematicalConcept")
+    if "Q1936384" in s:
+        add("Concept", "Field", "MathematicsBranch")
+    if "Q123370638" in s:
+        add("Concept", "Field", "ComputerScienceBranch")
+    if "Q112193867" in s:
+        add("Concept", "DiseaseClass")
+    if "Q31629" in s:
+        add("Concept", "SportType")
+    if "Q4830453" in s:
+        add("Concept", "Business")
+
+    # machines / automata / formal systems
+    if s & {"Q137172521"}:  # non-finite-state machine
+        add("Concept", "Machine", "Automaton")
+
+    # names
+    if "Q101352" in s:
+        add("Concept", "Name", "FamilyName")
+    if "Q12308941" in s:
+        add("Concept", "Name", "GivenName")
+
+    # Wikimedia / WikiProject navigation-ish（仍归为 Concept，避免混进 Organization/Work）
+    if s & {"Q14204246", "Q16695773", "Q51539995", "Q10823887", "Q14827288", "Q33120876", "Q136375263"}:
+        add("Concept", "Wikimedia")
+    if "Q16695773" in s or "Q51539995" in s:
+        add("WikiProject")
+
+    # 兜底：有类型但没命中任何规则 → Concept
+    if not labels:
+        add("Concept")
+
+    # 规范：子类 label 命中时补齐父类 label
+    if labels & {"University", "School", "Company", "Publisher", "GovernmentAgency", "Archive", "Library", "MediaCompany", "MilitaryOrganization"}:
+        add("Organization")
+    if labels & {"Country", "City", "Facility"}:
+        add("Location")
+    if labels & {"ScholarlyArticle", "Paper", "Journal", "Periodical", "WorkVersion", "Report"}:
+        add("Work")
+
+    return tuple(sorted(labels))
+
+
+_TOP_KIND_LABELS: tuple[str, ...] = ("Person", "Award", "Concept", "Organization", "Location", "Work")
+
+
+def enrich_kind_labels_for_graph(g: GraphBuild, *, batch_size: int = 50) -> None:
+    """
+    为图中缺少细粒度类型标签的 Q 节点补齐 :Person/:Award/:Concept/:Organization/:Location。
+
+    规则：
+    - 仅处理 id 以 Q 开头的节点；
+    - 若节点已有上述任一 kind label，则跳过；
+    - 否则尝试从 Wikidata 取该 Q 的 claims(P31) 推断 kind，并补标签；
+    - 不影响 Event/Literal 等非 Q 节点。
+    """
+    qids: list[str] = []
+    for nid, n in g.nodes.items():
+        if not isinstance(nid, str) or not nid.startswith("Q"):
+            continue
+        labs = list((n or {}).get("labels") or [])
+        if any(lb in _TOP_KIND_LABELS for lb in labs):
+            continue
+        qids.append(nid)
+    if not qids:
+        return
+
+    # 分批取 claims，避免一次请求过大/触发限流
+    for i in range(0, len(qids), max(1, int(batch_size))):
+        chunk = qids[i : i + max(1, int(batch_size))]
+        try:
+            ents = wbgetentities(chunk, props="claims", languages="zh-hans|zh|en")
+        except Exception:
+            continue
+        for qid in chunk:
+            ent = ents.get(qid) if isinstance(ents, dict) else None
+            if not isinstance(ent, dict):
+                continue
+            p31 = _claim_entity_ids(ent, "P31")
+            p279 = _claim_entity_ids(ent, "P279")
+            lbs = _infer_labels_from_types(p31 + p279)
+            if lbs:
+                g.ensure_node(qid, labels=lbs)
 
 
 def ingest_wikidata_bundle(g: GraphBuild, bundle: dict) -> None:
@@ -97,8 +279,9 @@ def ingest_wikidata_bundle(g: GraphBuild, bundle: dict) -> None:
 
     root_label = pick_label(entities.get(root_qid, {"id": root_qid}))
     root_ent = entities.get(root_qid, {"id": root_qid})
-    root_kind = _infer_kind_from_instance_of(_claim_entity_ids(root_ent, "P31")) if isinstance(root_ent, dict) else ""
-    g.ensure_node(root_qid, root_label or "seed", labels=(root_kind,) if root_kind else ())
+    root_types = _claim_entity_ids(root_ent, "P31") + _claim_entity_ids(root_ent, "P279") if isinstance(root_ent, dict) else []
+    root_labels = _infer_labels_from_types(root_types)
+    g.ensure_node(root_qid, root_label or "seed", labels=root_labels)
 
     # 仅抽取少量字面值属性作为节点 extra（可扩展）
     literal_props = {"P569", "P570"}  # birth/death
@@ -107,7 +290,7 @@ def ingest_wikidata_bundle(g: GraphBuild, bundle: dict) -> None:
         plab = pick_label(entities.get(pid, {"id": pid}))
         parts.append(f"{plab}: {text}")
     if parts:
-        g.ensure_node(root_qid, root_label, extra=" | ".join(sorted(set(parts))), labels=(root_kind,) if root_kind else ())
+        g.ensure_node(root_qid, root_label, extra=" | ".join(sorted(set(parts))), labels=root_labels)
 
     for prop_id, target_q in edges:
         if prop_id in _DROP_PROPS:
@@ -117,8 +300,9 @@ def ingest_wikidata_bundle(g: GraphBuild, bundle: dict) -> None:
         plabel = _PROP_LABEL_OVERRIDES_ZH.get(prop_id) or pick_label(prop_ent)
         tlabel = pick_label(tgt_ent)
         g.ensure_node(root_qid, root_label)
-        kind = _infer_kind_from_instance_of(_claim_entity_ids(tgt_ent, "P31")) if isinstance(tgt_ent, dict) else ""
-        g.ensure_node(target_q, tlabel or target_q, labels=(kind,) if kind else ())
+        tgt_types = _claim_entity_ids(tgt_ent, "P31") + _claim_entity_ids(tgt_ent, "P279") if isinstance(tgt_ent, dict) else []
+        tgt_labels = _infer_labels_from_types(tgt_types)
+        g.ensure_node(target_q, tlabel or target_q, labels=tgt_labels)
         g.add_edge(root_qid, target_q, prop_id, plabel or prop_id, "OUT")
 
 
@@ -149,8 +333,9 @@ def _ingest_incoming_wikidata_edges(
 
     focal_label = pick_label(ents.get(object_qid, {"id": object_qid}))
     focal_ent = ents.get(object_qid, {"id": object_qid})
-    fkind = _infer_kind_from_instance_of(_claim_entity_ids(focal_ent, "P31")) if isinstance(focal_ent, dict) else ""
-    g.ensure_node(object_qid, focal_label or object_qid, labels=(fkind,) if fkind else ())
+    ftypes = _claim_entity_ids(focal_ent, "P31") + _claim_entity_ids(focal_ent, "P279") if isinstance(focal_ent, dict) else []
+    flabels = _infer_labels_from_types(ftypes)
+    g.ensure_node(object_qid, focal_label or object_qid, labels=flabels)
 
     for src, prop_id, dst in triples:
         if prop_id in _DROP_PROPS:
@@ -161,8 +346,9 @@ def _ingest_incoming_wikidata_edges(
         pe = ents.get(prop_id, {"id": prop_id})
         slabel = pick_label(se) if isinstance(se, dict) else src
         plab = _PROP_LABEL_OVERRIDES_ZH.get(prop_id) or (pick_label(pe) if isinstance(pe, dict) else prop_id)
-        skind = _infer_kind_from_instance_of(_claim_entity_ids(se, "P31")) if isinstance(se, dict) else ""
-        g.ensure_node(src, slabel or src, labels=(skind,) if skind else ())
+        stypes = _claim_entity_ids(se, "P31") + _claim_entity_ids(se, "P279") if isinstance(se, dict) else []
+        slabels = _infer_labels_from_types(stypes)
+        g.ensure_node(src, slabel or src, labels=slabels)
         g.ensure_node(dst, focal_label or dst)
         g.add_edge(
             src,

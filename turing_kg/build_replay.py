@@ -20,7 +20,6 @@ from .extraction.relation_patterns import (
 )
 from .extraction.event_patterns import extract_events_from_sentences, ingest_events
 from .graph_model import GraphBuild
-from .curation.ner_type_aggregate import bulk_update_from_resolved_rows
 from .io.sources_io import load_entity_kind_by_qid, load_entity_map
 from .structured.wikidata_layer import load_structured_graph_for_seeds
 from .structured.wikidata_api import pick_label, wbgetentities
@@ -71,13 +70,6 @@ def build_knowledge_graph_from_curated_stages(project_root: Path) -> tuple[Graph
             "from_curated 模式需要非空的 data/processed/sentences.jsonl 与 data/curated/resolved.jsonl。"
             "请先运行一次 full 构建并保留这些文件，或检查路径。"
         )
-
-    # --- 节点弱类型（NER）聚合：从 resolved 写入 ner_label_votes/top ---
-    # 注意：这是弱证据，不影响 Wikidata/P31 推断的 :LABEL。
-    try:
-        bulk_update_from_resolved_rows(g, resolved_rows)
-    except Exception:
-        pass
 
     by_src_idx: dict[str, dict[int, str]] = defaultdict(dict)
     meta_by_source: dict[str, dict[str, str]] = {}
@@ -298,6 +290,14 @@ def build_knowledge_graph_from_curated_stages(project_root: Path) -> tuple[Graph
                     lab = pick_label(ent)
                     if lab and lab != qid:
                         g.ensure_node(qid, name=lab)
+    except Exception:
+        pass
+
+    # --- 结构化类型补齐：为缺少细粒度类型的 Q 节点补 Person/Award/... ---
+    try:
+        from .structured.wikidata_layer import enrich_kind_labels_for_graph
+
+        enrich_kind_labels_for_graph(g)
     except Exception:
         pass
     return g, triple_rows

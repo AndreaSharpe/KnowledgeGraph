@@ -5,6 +5,7 @@ from __future__ import annotations
 import os
 import re
 import sys
+import json
 from pathlib import Path
 from typing import Any
 
@@ -59,6 +60,22 @@ def load_via_driver(g: GraphBuild, uri: str, user: str, password: str) -> None:
         with driver.session() as session:
             session.run("MATCH (n) DETACH DELETE n")
             _create_constraints_and_indexes(session)
+
+            def _neo4j_safe_props(d: dict[str, Any]) -> dict[str, Any]:
+                """
+                Neo4j property values must be primitive or arrays thereof.
+                Dict/list are serialized to JSON strings to keep information.
+                """
+                out: dict[str, Any] = {}
+                for k, v in (d or {}).items():
+                    if v is None:
+                        continue
+                    if isinstance(v, (dict, list)):
+                        out[k] = json.dumps(v, ensure_ascii=False)[:4000]
+                    else:
+                        out[k] = v
+                return out
+
             for n in g.nodes.values():
                 labels = list(n.get("labels") or [])
                 # 不依赖 APOC：先 MERGE :Entity，再逐个 SET 标签
@@ -90,7 +107,7 @@ def load_via_driver(g: GraphBuild, uri: str, user: str, password: str) -> None:
                         SET x += $props
                         """,
                         id=n["id"],
-                        props=extra_props,
+                        props=_neo4j_safe_props(extra_props),
                     )
             for e in g.edges:
                 rt = e["rel_type"]
@@ -124,7 +141,7 @@ def load_via_driver(g: GraphBuild, uri: str, user: str, password: str) -> None:
                         "source_url",
                     )
                 }
-                base_props.update(extra_props)
+                base_props.update(_neo4j_safe_props(extra_props))
                 session.run(
                     f"""
                     MATCH (a:Entity {{id: $sid}}), (b:Entity {{id: $eid}})

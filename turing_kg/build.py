@@ -37,7 +37,6 @@ from .extraction.relation_patterns import (
     ingest_pattern_relations,
 )
 from .extraction.event_patterns import extract_events_from_sentences, ingest_events
-from .curation.ner_type_aggregate import update_node_ner_votes
 from .graph_model import GraphBuild
 from .io.export_io import write_graph_csv_json, write_triples_csv
 from .relation.mil_ingest import apply_mil_to_export_if_present
@@ -304,14 +303,6 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
                 spans = []
 
             spans = [sp for sp in spans if sp.object_qid != root_qid]
-
-            # --- 节点弱类型（NER）聚合：从 spans 写入 ner_label_votes/top ---
-            try:
-                for sp in spans:
-                    if sp.object_qid and str(sp.object_qid).startswith("Q") and sp.ner_label:
-                        update_node_ner_votes(g, str(sp.object_qid), str(sp.ner_label))
-            except Exception:
-                pass
 
             # --- 事件抽取（Trigger→Arguments；仅在 routed seed_items 上运行）---
             try:
@@ -639,6 +630,14 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
                     lab = pick_label(ent)
                     if lab and lab != qid:
                         g.ensure_node(qid, name=lab)
+    except Exception:
+        pass
+
+    # --- 结构化类型补齐：为缺少细粒度类型的 Q 节点补 Person/Award/... ---
+    try:
+        from .structured.wikidata_layer import enrich_kind_labels_for_graph
+
+        enrich_kind_labels_for_graph(g)
     except Exception:
         pass
     return g, triple_rows
