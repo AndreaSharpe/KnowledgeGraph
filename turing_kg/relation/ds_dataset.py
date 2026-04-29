@@ -24,6 +24,7 @@ from .ds_labels import read_jsonl
 
 
 def _split_assign(bag_ids: list[str], *, seed: int, p_train: float, p_dev: float) -> dict[str, str]:
+    """按 bag_id 做可复现的 train/dev/test 切分映射。"""
     rnd = random.Random(seed)
     ids = list(bag_ids)
     rnd.shuffle(ids)
@@ -53,6 +54,7 @@ def build_multiclass_dataset_rows(
     drop_multi_pos: bool = True,
     keep_fields: Iterable[str] = ("bag_id", "seed_type", "seed_id", "subject_qid", "object_qid", "instances"),
 ) -> list[dict[str, Any]]:
+    """将 bags+ds_labels 转成 DS 多分类 bag 数据（含 NA），返回行列表。"""
     curated = project_root / "data" / "curated"
     bags = read_jsonl(curated / "bags.jsonl")
     ds = read_jsonl(curated / "ds_labels.jsonl")
@@ -116,6 +118,7 @@ def build_multiclass_dataset_rows(
 
 
 def write_multiclass_dataset_jsonl(project_root: Path, *, seed_type: str, rows: list[dict[str, Any]]) -> Path:
+    """写入 data/curated/re_ds_dataset_{seed_type}.jsonl（每行一个 bag）。"""
     out = project_root / "data" / "curated" / f"re_ds_dataset_{seed_type}.jsonl"
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", encoding="utf-8", newline="\n") as f:
@@ -135,6 +138,7 @@ def build_and_write_multiclass_dataset(
     p_dev: float = 0.1,
     drop_multi_pos: bool = True,
 ) -> tuple[Path, int]:
+    """一键构建并落盘 DS 多分类数据集，返回 (路径, 行数)。"""
     rows = build_multiclass_dataset_rows(
         project_root,
         seed_type=seed_type,

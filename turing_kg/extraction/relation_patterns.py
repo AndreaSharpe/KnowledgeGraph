@@ -18,6 +18,7 @@ from ..linking.entity_linking import link_mention_to_qid
 
 @dataclass
 class PatternRelation:
+    """规则/依存抽取到的单句关系（证据级），用于后续入图或写入 triples 导出。"""
     sentence_idx: int
     object_qid: str
     object_mention: str
@@ -29,6 +30,7 @@ class PatternRelation:
 
 
 def _zh_ratio(text: str) -> float:
+    """粗略估计文本中文占比（用于选择中/英抽取分支）。"""
     if not text:
         return 0.0
     zh = len(re.findall(r"[\u4e00-\u9fff]", text))
@@ -36,6 +38,7 @@ def _zh_ratio(text: str) -> float:
 
 
 def _split_sentences(text: str, use_zh: bool) -> list[str]:
+    """按中/英文标点切句，返回长度足够的句子列表。"""
     text = text.replace("\r", "\n")
     if use_zh:
         parts = re.split(r"(?<=[。！？；\n])", text)
@@ -45,10 +48,12 @@ def _split_sentences(text: str, use_zh: bool) -> list[str]:
 
 
 def _sentence_has_anchor(s: str, anchors: list[str]) -> bool:
+    """判断句子是否包含任一 anchor（用于限制抽取范围以提高精度）。"""
     return any(a in s.strip() for a in anchors if a)
 
 
 def _clean_zh_slot(s: str) -> str:
+    """清洗中文槽位短语（去掉尾随连词/列举等），便于实体链接。"""
     s = s.strip().strip("，,、")
     s = re.sub(r"[等及其].*$", "", s)
     return s.strip()[:80]
@@ -74,6 +79,7 @@ def _extract_zh_patterns(
     min_link_score: float,
     source_label: str,
 ) -> list[PatternRelation]:
+    """中文规则关系抽取：正则命中槽位后对槽位做实体链接，产出 PatternRelation。"""
     out: list[PatternRelation] = []
     seen: set[tuple[str, str]] = set()
     for pat, pred_label, pid, method in _ZH_REGEX:
@@ -110,7 +116,7 @@ def _extract_zh_patterns(
 
 
 def _turing_head_token(doc: Any, anchors_en: list[str]) -> Any | None:
-    """在英文句中找到指称图灵的 PERSON 或 'Turing' 词根。"""
+    """英文依存抽取的主语定位：在句中找指称 seed 的 PERSON 实体或 'Turing' token。"""
     al = [a for a in anchors_en if len(a) >= 4]
     for ent in doc.ents:
         if ent.label_ != "PERSON":
@@ -125,6 +131,7 @@ def _turing_head_token(doc: Any, anchors_en: list[str]) -> Any | None:
 
 
 def _pobj_entities(prep_token: Any) -> list[Any]:
+    """从介词 token 中取其 pobj（介词宾语）子节点。"""
     out = []
     for c in prep_token.children:
         if c.dep_ == "pobj":
@@ -143,6 +150,7 @@ def _extract_en_dep(
     min_link_score: float,
     source_label: str,
 ) -> list[PatternRelation]:
+    """英文依存关系抽取：用 spaCy 依存从含 anchor 的句子抽取 (谓词, 介词宾语) 槽位并链接。"""
     if not any(a in sentence for a in anchors_en):
         return []
     doc = nlp(sentence[:500_000])
@@ -306,10 +314,13 @@ def extract_pattern_relations_from_sentences(
     source_label: str,
 ) -> list[PatternRelation]:
     """
-    从「外部已选句子集合」直接抽取关系模式（不再要求句子含 anchor）。
+    对外主入口（build.py 使用）：在“已挑选的句子集合（seed_items）”上执行中/英规则关系抽取。
 
-    用途：配合 sentence routing，把“触发词归因句”也纳入关系抽取输入。
-    仍复用现有中文模板 / 英文依存抽取与实体链接逻辑。
+    特点：
+    - 不再要求句子本身包含 anchor（因为 routing/窗口扩展可能挑到不含 anchor 的句子）；
+    - 中文走模板正则 + 槽位链接；英文走 spaCy 依存 + 槽位链接。
+
+    返回证据级 `PatternRelation` 列表；调用方可选择写入图或转换成 triples 行导出。
     """
     text = "\n".join([s.strip() for _i, s in sentences if s and s.strip()])
     if not text.strip():
@@ -373,6 +384,7 @@ def ingest_pattern_relations(
     source_url: str,
     root_qid: str = ROOT_ENTITY_QID,
 ) -> None:
+    """将 PatternRelation 写入 GraphBuild（边 provenance=pattern_relation_extraction）。"""
     for pr in rels:
         g.ensure_node(root_qid)
         g.ensure_node(pr.object_qid, pr.object_mention[:120])

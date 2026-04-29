@@ -23,10 +23,12 @@ UNK_ID = 1
 
 
 def _load_bags(path: Path) -> list[dict[str, Any]]:
+    """读取 bags/dataset JSONL（复用 read_jsonl）。"""
     return read_jsonl(path)
 
 
 def _load_ds_map(path: Path) -> dict[str, dict[str, Any]]:
+    """读取 ds_labels.jsonl 并构造 bag_id -> label 行映射。"""
     m: dict[str, dict[str, Any]] = {}
     for row in read_jsonl(path):
         bid = str(row.get("bag_id") or "")
@@ -36,6 +38,7 @@ def _load_ds_map(path: Path) -> dict[str, dict[str, Any]]:
 
 
 def _anchor_start(sentence: str, anchors: tuple[str, ...]) -> int:
+    """返回 seed anchor 在句中的最早位置（找不到则 0）。"""
     best = len(sentence)
     ok = False
     for a in anchors:
@@ -50,6 +53,7 @@ def _anchor_start(sentence: str, anchors: tuple[str, ...]) -> int:
 
 
 def _mention_start(sentence: str, mention: str) -> int:
+    """返回 object mention 在句中的位置（找不到则取句尾附近的保守值）。"""
     m = (mention or "").strip()
     if not m:
         return min(1, max(0, len(sentence) - 1))
@@ -58,6 +62,7 @@ def _mention_start(sentence: str, mention: str) -> int:
 
 
 def _build_vocab(sentences: list[str], min_freq: int = 1) -> dict[str, int]:
+    """从训练语料构造字级词表 char2id（含 PAD/UNK）。"""
     freq: dict[str, int] = {}
     for s in sentences:
         for ch in s:
@@ -107,6 +112,7 @@ def bag_to_model_batch(
 
 
 def _encode(s: str, char2id: dict[str, int], max_len: int) -> list[int]:
+    """句子按字编码为定长 id 序列（截断/补 PAD）。"""
     unk = char2id.get(UNK_CHAR, UNK_ID)
     pad = char2id.get(PAD_CHAR, PAD_ID)
     ids = [char2id.get(ch, unk) for ch in s[:max_len]]
@@ -178,6 +184,7 @@ def train_pcnn_mil(
     out_dir: Path | None = None,
     seed: int = 42,
 ) -> dict[str, Any]:
+    """训练 PCNNSelectiveAttention（bag-level 多分类）并写入 models/relation_pcnn checkpoint。"""
     dev = torch.device(device or ("cuda" if torch.cuda.is_available() else "cpu"))
     random.seed(seed)
     torch.manual_seed(seed)
@@ -258,4 +265,5 @@ def train_pcnn_mil(
 
 
 def run_train_from_cli(project_root: Path, **kwargs: Any) -> dict[str, Any]:
+    """CLI 适配层：保留统一入口，便于脚本调用。"""
     return train_pcnn_mil(project_root, **kwargs)

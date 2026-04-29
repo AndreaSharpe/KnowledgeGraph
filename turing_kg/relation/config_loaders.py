@@ -8,6 +8,7 @@ from typing import Any
 
 
 def load_relation_allowlist(project_root: Path) -> dict[str, Any]:
+    """读取 sources/relation_allowlist.json（按 seed_type/seed_id 限制可预测关系空间）。"""
     p = project_root / "sources" / "relation_allowlist.json"
     if not p.is_file():
         return {"by_seed_type": {}, "by_seed_id_override": {}}
@@ -15,6 +16,7 @@ def load_relation_allowlist(project_root: Path) -> dict[str, Any]:
 
 
 def load_relation_schema(project_root: Path) -> dict[str, Any]:
+    """读取 sources/relation_schema.json（prop_id 的标签、触发词 aliases 等）。"""
     p = project_root / "sources" / "relation_schema.json"
     if not p.is_file():
         return {"relations": []}
@@ -22,6 +24,7 @@ def load_relation_schema(project_root: Path) -> dict[str, Any]:
 
 
 def prop_label_for(project_root: Path, prop_id: str) -> str:
+    """prop_id -> 可展示关系名（优先中文 label_zh）。"""
     data = load_relation_schema(project_root)
     for r in data.get("relations") or []:
         if str(r.get("prop_id")) == prop_id:
@@ -34,6 +37,7 @@ def prop_label_for(project_root: Path, prop_id: str) -> str:
 
 
 def load_relation_thresholds(project_root: Path) -> dict[str, Any]:
+    """读取 sources/relation_thresholds.json（MIL 导出/入图阈值）。"""
     p = project_root / "sources" / "relation_thresholds.json"
     if not p.is_file():
         return {"default_threshold": 0.75, "by_prop_id": {}}
@@ -41,6 +45,7 @@ def load_relation_thresholds(project_root: Path) -> dict[str, Any]:
 
 
 def threshold_for_prop(thresholds: dict[str, Any], prop_id: str) -> float:
+    """旧版 v1 多标签输出：按 prop_id 取阈值（无则用 default_threshold）。"""
     by = thresholds.get("by_prop_id") or {}
     if prop_id in by:
         return float(by[prop_id])

@@ -21,6 +21,7 @@ from .lang import zh_ratio
 
 
 def _iter_jsonl(path: Path) -> list[dict[str, Any]]:
+    """读取 JSONL（每行一个 dict）；文件不存在或坏行将被跳过。"""
     if not path.is_file():
         return []
     out: list[dict[str, Any]] = []
@@ -37,10 +38,12 @@ def _iter_jsonl(path: Path) -> list[dict[str, Any]]:
 
 
 def _seed_type_map(seeds: list[SeedSpec]) -> dict[str, str]:
+    """seed_id -> seed_type（Person/Concept/Award/...），用于 bag 元信息。"""
     return {s.seed_id: (s.type or "").strip() or "Unknown" for s in seeds}
 
 
 def _routing_for_seed(routing_row: dict[str, Any] | None, seed_id: str) -> dict[str, Any] | None:
+    """从 routing.jsonl 的单句记录中，抽取指定 seed_id 的 (score, reasons)。"""
     if not routing_row:
         return None
     assigned = routing_row.get("assigned") or []
@@ -191,6 +194,7 @@ def build_bags(
 
 
 def write_bags_jsonl(project_root: Path, rows: list[dict[str, Any]]) -> Path:
+    """写入 data/curated/bags.jsonl（每行一个 bag）。"""
     out = project_root / "data" / "curated" / "bags.jsonl"
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", encoding="utf-8", newline="\n") as f:
@@ -200,6 +204,7 @@ def write_bags_jsonl(project_root: Path, rows: list[dict[str, Any]]) -> Path:
 
 
 def build_and_write_bags(project_root: Path, *, min_zh_ratio: float = 0.3) -> tuple[Path, int]:
+    """一键构造并落盘 bags.jsonl，返回 (路径, bag 数量)。"""
     rows = build_bags(project_root, min_zh_ratio=min_zh_ratio)
     path = write_bags_jsonl(project_root, rows)
     return path, len(rows)

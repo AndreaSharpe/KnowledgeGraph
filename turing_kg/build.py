@@ -535,12 +535,12 @@ def build_knowledge_graph(project_root: Path, *, mode: str | None = None) -> tup
             except Exception:
                 pass
 
-            # 经典 KG 最终图：不将 NER/EL 共现证据边写入 GraphBuild（避免图变成毛线团）。
+            # 不将 NER/EL 共现证据边写入 GraphBuild。
             # spans/mentions/candidates/resolved 仍用于后续 DS/RE 与审计。
             # ingest_linked_spans(g, spans, citation_key=cite_key, source_url=url, root_qid=root_qid)
 
             for sp in spans:
-                # 100% 确定性绑定：直接使用 sentence_idx 从派生归因表取 score/reasons
+                # 直接使用 sentence_idx 从派生归因表取 score/reasons
                 ev = sp.snippet.split("] ", 1)[-1].strip() if sp.snippet else ""
                 si = sp.sentence_idx
                 sc, rs = derived_attr.get((sd.seed_id, si), (0.0, {"unattributed": True}))

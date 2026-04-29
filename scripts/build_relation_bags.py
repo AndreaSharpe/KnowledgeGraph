@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """从 sentences / routing / resolved 生成 data/curated/bags.jsonl（关系抽取 MIL 第一步）。"""
 
 from __future__ import annotations
@@ -11,7 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from turing_kg.relation.bags import build_and_write_bags  # noqa: E402
+from turing_kg.relation.bags import build_and_write_bags  
 
 
 def main() -> None:

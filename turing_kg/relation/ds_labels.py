@@ -118,6 +118,7 @@ def build_ds_label_rows(
 
 
 def write_ds_labels_jsonl(project_root: Path, rows: list[dict[str, Any]]) -> Path:
+    """写入 data/curated/ds_labels.jsonl（每行一个 bag 的 DS 标签）。"""
     out = project_root / "data" / "curated" / "ds_labels.jsonl"
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", encoding="utf-8", newline="\n") as f:
@@ -127,6 +128,7 @@ def write_ds_labels_jsonl(project_root: Path, rows: list[dict[str, Any]]) -> Pat
 
 
 def build_and_write_ds_labels(project_root: Path) -> tuple[Path, int]:
+    """一键生成并落盘 ds_labels.jsonl，返回 (路径, 行数)。"""
     rows = build_ds_label_rows(project_root)
     path = write_ds_labels_jsonl(project_root, rows)
     return path, len(rows)

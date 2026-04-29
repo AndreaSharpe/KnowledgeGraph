@@ -16,6 +16,7 @@ from .pcnn_train import PAD_ID, bag_to_model_batch
 
 
 def load_checkpoint(project_root: Path, seed_type: str, ckpt_path: Path | None = None) -> dict[str, Any]:
+    """加载训练好的 checkpoint（默认 models/relation_pcnn/pcnn_{seed_type}.pt）。"""
     ckpt_path = ckpt_path or (project_root / "models" / "relation_pcnn" / f"pcnn_{seed_type}.pt")
     if not ckpt_path.is_file():
         raise FileNotFoundError(f"未找到 checkpoint：{ckpt_path}")
@@ -23,6 +24,7 @@ def load_checkpoint(project_root: Path, seed_type: str, ckpt_path: Path | None =
 
 
 def build_model_from_ckpt(ckpt: dict[str, Any], device: torch.device) -> PCNNSelectiveAttention:
+    """从 checkpoint 构造并加载 PCNNSelectiveAttention（推理模式）。"""
     char2id: dict[str, int] = ckpt["char2id"]
     vocab_size = int(ckpt["vocab_size"])
     num_classes = int(ckpt["num_classes"])
@@ -42,6 +44,7 @@ def infer_bags(
     ckpt_path: Path | None = None,
     device: str | None = None,
 ) -> list[dict[str, Any]]:
+    """对指定 seed_type 的 bags.jsonl 做推理，返回 re_predictions 行列表（尚未写盘）。"""
     dev = torch.device(device or ("cuda" if torch.cuda.is_available() else "cpu"))
     ckpt = load_checkpoint(project_root, seed_type, ckpt_path)
     char2id: dict[str, int] = ckpt["char2id"]
@@ -180,6 +183,7 @@ def infer_and_write(
     ckpt_path: Path | None = None,
     device: str | None = None,
 ) -> tuple[Path, int]:
+    """对单个 seed_type 推理并写入 re_predictions_pcnn_{seed_type}.jsonl。"""
     rows = infer_bags(
         project_root,
         seed_type=seed_type,

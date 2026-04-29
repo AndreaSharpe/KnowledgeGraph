@@ -1,9 +1,14 @@
-"""事件抽取：基于 routed 句子集合的经典 Trigger→Arguments 规则抽取。
+"""事件抽取：基于规则的 Trigger → Arguments（事件类型识别 + 论元填充）。
 
-设计目标：
-- 只在“已路由到某个 seed 的句子集合”上运行（由调用方传入 seed_items）。
-- 产出可审计的 EventRecord（可落盘到 data/curated/events.jsonl），并可写入 GraphBuild。
-- 先做高精度最小可行：不做跨句共指（coreference），不做复杂依存解析。
+本模块在“已路由到某个 seed 的句子集合”上运行，对每个句子：
+- 先命中触发词（trigger）；
+- 再从已链接实体（`linked_by_sentence`）或句内槽位中取论元（arguments）；
+- 产出 `EventRecord`。
+
+I/O（落盘位置由调用方决定）：
+- 输入：`seed_items: list[(sentence_idx, sentence)]`，可选 `linked_by_sentence: {idx: [(qid, mention, ner_label)]}`
+- 输出：`list[EventRecord]`；或通过 `ingest_events()` 写入图（Event 节点 + EVENT_ARG 边）
+
 """
 
 from __future__ import annotations
@@ -20,6 +25,7 @@ from ..linking.entity_linking import link_mention_to_qid
 
 @dataclass(frozen=True)
 class Arg:
+    """事件论元。`qid` 为空表示字面值（例如年份）。"""
     role: str
     qid: str  # Q… or "" for literal
     mention: str
@@ -28,6 +34,7 @@ class Arg:
 
 @dataclass(frozen=True)
 class EventRecord:
+    """单句级事件记录（证据级）。后续可在 `ingest_events()` 中聚合为 canonical 事件。"""
     event_id: str
     event_type: str
     seed_id: str
@@ -44,6 +51,7 @@ class EventRecord:
     method: str = "rule_trigger_args_v1"
 
     def to_json(self) -> dict[str, Any]:
+        """序列化为可落盘 JSON（JSONL 每行一条）。"""
         return {
             "event_id": self.event_id,
             "event_type": self.event_type,
@@ -67,8 +75,7 @@ class EventRecord:
 
 _RE_YEAR = re.compile(r"\b((?:19|20)\d{2})\b")
 
-# Award list pattern example:
-# "Frances Allen (in 2006), Barbara Liskov (in 2008), and Shafi Goldwasser (in 2012)"
+# Award 列表句模式：Name (in YEAR)
 _RE_AWARDEE_PAREN_YEAR = re.compile(
     r"(?P<name>[A-Z][A-Za-z.'-]+(?:\s+[A-Z][A-Za-z.'-]+)+)\s*\(\s*in\s*(?P<year>(?:19|20)\d{2})\s*\)",
     flags=re.IGNORECASE,
@@ -76,12 +83,13 @@ _RE_AWARDEE_PAREN_YEAR = re.compile(
 
 
 def _stable_event_id(parts: Iterable[str]) -> str:
+    """用若干字段生成稳定短 ID（用于证据级 event_id）。"""
     basis = "|".join([p.strip() for p in parts if p is not None])
     return "EVT_" + sha1(basis.encode("utf-8")).hexdigest()[:12]
 
 
 def _is_probably_en(s: str) -> bool:
-    # 极轻量：若中文字符比例很低，视为英文；避免引入额外依赖。
+    """极轻量语言判别：中文字符比例很低则视为英文。"""
     if not s:
         return True
     zh = len(re.findall(r"[\u4e00-\u9fff]", s))
@@ -89,6 +97,7 @@ def _is_probably_en(s: str) -> bool:
 
 
 def _trigger_hit(sentence: str, triggers: tuple[str, ...]) -> tuple[str, tuple[int, int]] | None:
+    """在句中命中任意 trigger，返回 (trigger, span)；未命中返回 None。"""
     low = sentence.lower()
     for t in triggers:
         tt = (t or "").strip().lower()
@@ -101,6 +110,7 @@ def _trigger_hit(sentence: str, triggers: tuple[str, ...]) -> tuple[str, tuple[i
 
 
 def _dedup_args(args: list[Arg]) -> tuple[Arg, ...]:
+    """按 (role, qid, mention) 去重并保持顺序。"""
     seen: set[tuple[str, str, str]] = set()
     out: list[Arg] = []
     for a in args:
@@ -112,13 +122,8 @@ def _dedup_args(args: list[Arg]) -> tuple[Arg, ...]:
     return tuple(out)
 
 
-def _qid_kind_from_entity_map(entity_map: dict[str, dict], qid: str) -> str:
-    # entity_map 是 alias-> {wikidata_id, kind}，这里反查 kind 不可靠；调用方可不依赖。
-    _ = entity_map
-    return ""
-
-
 def _link_person_name(name: str, sentence: str, *, entity_map: dict[str, dict], min_link_score: float) -> tuple[str, float]:
+    """将英文人名链接到 Wikidata QID（必要时用 entity_map 作为优先覆盖）。"""
     return link_mention_to_qid(
         name,
         sentence,
@@ -142,11 +147,7 @@ def extract_award_events_from_sentence(
     linked_entities: list[tuple[str, str, str]],  # (qid, mention, ner_label)
     min_link_score: float = 0.14,
 ) -> list[EventRecord]:
-    """
-    AwardEvent：高精度规则
-    - 对 turing_award 场景支持“Name (in YEAR)”列表句
-    - recipient 优先用列表解析；否则回退到 linked_entities 中的 PER（若存在）
-    """
+    """抽取 AwardEvent：优先匹配“Name (in YEAR)”列表句，其次从已链接 PER + 年份回退。"""
     triggers_en = ("have been awarded", "was awarded", "were awarded", "won", "recipient", "awarded", "honor", "prize")
     triggers_zh = ("获奖", "得主", "授予", "颁发")
     triggers = triggers_en if _is_probably_en(sentence) else triggers_zh
@@ -248,11 +249,7 @@ def extract_employment_or_education_events_from_sentence(
     citation_key: str,
     linked_entities: list[tuple[str, str, str]],  # (qid, mention, ner_label)
 ) -> list[EventRecord]:
-    """
-    Employment/Education：最小可行规则
-    - 触发词检测（英/中）
-    - 论元：Person（优先 seed_qid 或 PER 实体）、Organization（从 ORG 实体取 1 个）、Time（年份）
-    """
+    """抽取 Employment/Education：触发词命中后从已链接实体中填充 Person/Organization/Time。"""
     s = sentence.strip()
     if not s:
         return []
@@ -336,12 +333,7 @@ def extract_publication_or_proposal_events_from_sentence(
     linked_entities: list[tuple[str, str, str]],
     min_link_score: float,
 ) -> list[EventRecord]:
-    """
-    Publication/Proposal：最小可行规则
-    - 触发词检测（英/中）\n
-    - 论元：Person（PER 或 turing_person seed）、WorkOrConcept（优先链接到 Q；否则 literal）、Time（年份）\n
-    注意：本项目 NER 标签较粗，WORK/CONCEPT 往往不会被标出；因此这里提供“从句法槽位提取短语→再链接”的兜底。
-    """
+    """抽取 PublicationEvent：触发词命中后填充 Person + WorkOrConcept（链接优先，否则字面值）+ Time。"""
     s = sentence.strip()
     if not s:
         return []
@@ -369,12 +361,12 @@ def extract_publication_or_proposal_events_from_sentence(
     # work/concept
     obj_qid = ""
     obj_men = ""
-    # If seed itself is a concept (e.g., turing_machine), allow seed_qid as target when trigger hits.
+    # 若 seed 自身是概念（如 turing_machine），允许将 seed_qid 作为 WorkOrConcept。
     if seed_id == "turing_machine" and seed_qid.startswith("Q"):
         obj_qid = seed_qid
         obj_men = seed_qid
     else:
-        # Try to capture object phrase following trigger (English)
+        # 优先：从触发词后的槽位抓取短语并尝试链接（英文/中文）。
         m = None
         if is_en:
             m = re.search(
@@ -396,7 +388,7 @@ def extract_publication_or_proposal_events_from_sentence(
                 )
                 if qid and qid.startswith("Q"):
                     obj_qid = qid
-        # fallback: pick first linked entity that is not the person (often ORG/Concept-like)
+        # 回退：从已链接实体里挑一个非 person 的 ORG/LOC 充当对象。
         if not obj_qid:
             for qid, men, lab in linked_entities:
                 if not qid.startswith("Q"):
@@ -453,6 +445,7 @@ def extract_events_from_sentences(
     linked_by_sentence: dict[int, list[tuple[str, str, str]]] | None = None,
     min_link_score: float = 0.14,
 ) -> list[EventRecord]:
+    """对 routed 句子集合做事件抽取，返回证据级 `EventRecord` 列表。"""
     out: list[EventRecord] = []
     linked_by_sentence = linked_by_sentence or {}
     for si, sent in seed_items:
@@ -510,24 +503,27 @@ def extract_events_from_sentences(
 def ingest_events(g: GraphBuild, events: list[EventRecord]) -> None:
     """
     将事件写入 GraphBuild：Event 节点 + 论元边（EVENT_ARG）。
-    - 先做“事实层合并”（canonical event）：同一事实合并为一个事件节点，证据在节点属性中保留（截断）。
-    - Event 节点 id 使用 canonical id（EVT_CAN_…）
-    - literal 值（例如年份）建成 LIT_* 节点，label=Literal
-    - provenance=event_extraction（evidence 层）
+
+    处理步骤：
+    - 证据级事件 -> canonical 合并：按 (event_type + 关键论元 + time) 聚合为“同一事实”；
+    - canonical Event 节点：`EVT_CAN_*`，`extra` 中保存（截断后的）证据列表；
+    - 论元边：Event -> QID 或 Event -> Literal（LIT_*）。
     """
     def _norm_literal(s: str) -> str:
+        """规范化字面值，用于 canonical key 与 Literal 节点 ID。"""
         t = (s or "").strip().lower()
         t = re.sub(r"\s+", " ", t)
-        # strip common wrappers
         t = t.strip("\"'“”‘’()（）[]【】《》")
         return t
 
     def _arg_value_for_key(a: Arg) -> str:
+        """canonical key 使用：QID 直接用 QID，字面值用规范化 mention。"""
         if a.qid and a.qid.startswith("Q"):
             return a.qid
         return _norm_literal(a.mention)
 
     def _first_time(ev: EventRecord) -> str:
+        """取事件中的第一个 Time 论元（若有）。"""
         for a in ev.args:
             if (a.role or "").strip().lower() == "time":
                 v = _norm_literal(a.mention)
@@ -536,8 +532,8 @@ def ingest_events(g: GraphBuild, events: list[EventRecord]) -> None:
         return ""
 
     def _canonical_key(ev: EventRecord) -> tuple[str, str, str, str, str]:
+        """将证据级事件映射为 canonical 合并 key（同一事实应得到同一 key）。"""
         et = (ev.event_type or "").strip() or "Event"
-        # pull key args by role
         def pick(role: str) -> str:
             for a in ev.args:
                 if (a.role or "").strip().lower() == role.lower():
@@ -552,13 +548,13 @@ def ingest_events(g: GraphBuild, events: list[EventRecord]) -> None:
             return (et, pick("Person"), pick("Organization"), _first_time(ev), "")
         if et == "PublicationEvent":
             return (et, pick("Person"), pick("WorkOrConcept"), _first_time(ev), "")
-        # fallback: use first two args
+        # 回退：取前两个论元值作为 key（尽量合并，但不追求覆盖所有类型）。
         av = [_arg_value_for_key(a) for a in ev.args if _arg_value_for_key(a)]
         a1 = av[0] if len(av) > 0 else ""
         a2 = av[1] if len(av) > 1 else ""
         return (et, a1, a2, _first_time(ev), "")
 
-    # group evidence events -> canonical
+    # 分组：证据级事件 -> canonical 事件
     by_key: dict[tuple[str, str, str, str, str], list[EventRecord]] = {}
     for ev in events:
         if not ev or not ev.event_type:
@@ -572,7 +568,7 @@ def ingest_events(g: GraphBuild, events: list[EventRecord]) -> None:
     for k, evs in by_key.items():
         et, a1, a2, tval, _x = k
         can_id = "EVT_CAN_" + sha1("|".join([et, a1, a2, tval]).encode("utf-8")).hexdigest()[:12]
-        # collect union of args
+        # 合并论元（同 role + value 去重）
         args_seen: set[tuple[str, str, str]] = set()
         args_union: list[Arg] = []
         for ev in evs:
@@ -585,7 +581,7 @@ def ingest_events(g: GraphBuild, events: list[EventRecord]) -> None:
                 args_seen.add(key2)
                 args_union.append(a)
 
-        # evidence list (cap)
+        # 证据列表（上限 10 条，避免节点属性过大）
         evid: list[dict[str, Any]] = []
         for ev in evs[:10]:
             evid.append(
@@ -607,7 +603,7 @@ def ingest_events(g: GraphBuild, events: list[EventRecord]) -> None:
         g.ensure_node(can_id, name=ev_name, extra=extra, labels=("Event", et))
         g.ensure_node(can_id, props={"event_type": et, "evidence_count": len(evs)})
 
-        # add argument edges
+        # 写入论元边：QID 直接连；字面值建 Literal 节点再连
         for a in _dedup_args(args_union):
             role = (a.role or "Arg").strip() or "Arg"
             if a.qid and a.qid.startswith("Q"):

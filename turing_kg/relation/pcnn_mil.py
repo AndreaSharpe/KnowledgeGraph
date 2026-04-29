@@ -158,6 +158,7 @@ class PCNNMILAttention(nn.Module):
 
 
 def multihot_from_labels(labels_pos: list[str], space: list[str], device: torch.device) -> torch.Tensor:
+    """将 labels_pos 映射为与 space 对齐的 multi-hot 向量（旧版多标签训练用）。"""
     y = torch.zeros(len(space), device=device)
     idx = {p: i for i, p in enumerate(space)}
     for p in labels_pos:
@@ -167,6 +168,7 @@ def multihot_from_labels(labels_pos: list[str], space: list[str], device: torch.
 
 
 def bce_loss_bag(logits_bag: torch.Tensor, target: torch.Tensor, pos_weight: torch.Tensor | None = None) -> torch.Tensor:
+    """旧版多标签训练的 bag-level BCE loss 包装。"""
     if pos_weight is not None:
         return F.binary_cross_entropy_with_logits(logits_bag, target, pos_weight=pos_weight)
     return F.binary_cross_entropy_with_logits(logits_bag, target)

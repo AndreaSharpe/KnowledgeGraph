@@ -17,16 +17,19 @@ from ..structured.wikidata_api import wbgetentities
 
 
 def _graph_has_edge(g: GraphBuild, src: str, dst: str, prop_id: str, *, provenance: str | None = None) -> bool:
+    """判定图中是否已有同 (src,dst,prop_id[,provenance]) 的边。"""
     return g.has_edge(src, dst, prop_id, provenance=provenance)
 
 
 def _node_kinds(g: GraphBuild, qid: str) -> set[str]:
+    """取节点的 labels 集合作为粗类型（过滤掉通用 Entity）。"""
     n = g.nodes.get(qid) or {}
     labs = n.get("labels") or []
     return {str(x) for x in labs if x and x != "Entity"}
 
 
 def _allowlist_ok(project_root: Path, *, seed_type: str, prop_id: str) -> bool:
+    """检查 prop_id 是否在该 seed_type 的 allowlist 空间内。"""
     allow = load_relation_allowlist(project_root)
     by_type = allow.get("by_seed_type") or {}
     space = set(str(x) for x in (by_type.get(seed_type) or []))
@@ -104,6 +107,7 @@ def _text_trigger_ok(project_root: Path, *, prop_id: str, evidence_sentence: str
 
 
 def _claim_entity_ids(ent: dict[str, Any], prop_id: str) -> list[str]:
+    """从实体 claims 中抽取某属性的目标 QID 列表（仅 wikibase-entityid）。"""
     claims = ent.get("claims") or {}
     statements = claims.get(prop_id) or []
     out: list[str] = []
@@ -123,6 +127,7 @@ def _claim_entity_ids(ent: dict[str, Any], prop_id: str) -> list[str]:
 
 
 def _infer_kind_from_instance_of(p31_qids: list[str]) -> str:
+    """用 P31(instance of) 的 QID 近似推断粗类型（Person/Org/Location/...）。"""
     s = set(p31_qids)
     if "Q5" in s:
         return "Person"
@@ -256,6 +261,7 @@ def triple_rows_from_re_predictions(
 
 
 def write_triples_mil_csv(project_root: Path, rows: list[dict[str, str]]) -> Path:
+    """写入 data/triples_mil_extracted.csv（字段与 triples_extracted.csv 对齐）。"""
     path = project_root / "data" / "triples_mil_extracted.csv"
     path.parent.mkdir(parents=True, exist_ok=True)
     if not rows:
@@ -455,6 +461,7 @@ def ingest_mil_edges_to_graph(
 
 
 def load_re_predictions(project_root: Path) -> list[dict[str, Any]]:
+    """读取 re_predictions.jsonl 或 re_predictions_pcnn_*.jsonl（兼容两种落盘方式）。"""
     curated = project_root / "data" / "curated"
     main = curated / "re_predictions.jsonl"
     rows: list[dict[str, Any]] = []
@@ -467,6 +474,7 @@ def load_re_predictions(project_root: Path) -> list[dict[str, Any]]:
 
 
 def export_mil_triples_from_file(project_root: Path) -> tuple[Path, int]:
+    """从 re_predictions*.jsonl 生成 triples_mil_extracted.csv，返回 (路径, 行数)。"""
     preds = load_re_predictions(project_root)
     rows = triple_rows_from_re_predictions(project_root, preds)
     p = write_triples_mil_csv(project_root, rows)
